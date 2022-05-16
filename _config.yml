@@ -1,6 +1,6 @@
 title: COMEDIG
 email: vedph@unive.it
-baseurl: /comedig
+baseurl: /
 
 markdown: kramdown
 permalink: pretty
