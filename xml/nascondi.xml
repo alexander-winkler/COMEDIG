@@ -1,1014 +1,852 @@
 <teiCorpus xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Il munifico marchese di Guascogna</title>
-            <respStmt>
-               <resp>Transcription by</resp>
-               <name>Tatiana Korneeva</name>
-            </respStmt>
-            <respStmt>
-               <resp>Translation by</resp>
-               <name>Alice Pieroni</name>
-            </respStmt>
-            <respStmt>
-               <resp>Encoding of the Russian and German versions by</resp>
-               <name>Vittorio Tonini</name>
-            </respStmt>
-            <respStmt>
-               <resp>Encoding of the Italian translation by</resp>
-               <name>Tatiana Korneeva</name>
-            </respStmt>
-            <respStmt>
-               <resp>Revisions of the translation by</resp>
-               <name>Tatiana Korneeva</name>
-            </respStmt>
-            <respStmt>
-               <resp>Technical coordination, metadata curation, programming by</resp>
-               <name>Tiziana Mancinelli</name>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>Università Ca' Foscari di Venezia - VeDPH</publisher>
-            <date>December 2021</date>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported
-                  License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Il munifico marchese di Guascogna. Stando alla data indicata sul frontespizio, lo
-               scenario fu allestito alla corte di Anna Ioannovna nel 1734. Il rendiconto
-               amministrativo di Giuseppe Avolio registra le spese per «la commedia del marchese» il
-               4 settembre del 1735. Presumibilmente lo scenario venne allestito dalla seconda
-               compagnia di attori italiani e anche dalla terza. Le traduzioni de titolo della
-               stampa in russo e quella in tedesco non coincidono, la traduzione dal tedesco è Il
-               marchese ridicolo e prezioso. Ad oggi non è ancora stata trovata una commedia analoga
-               in nessuna raccolta conosciuta. È quindi possibile ipotizzare che la pièce facesse
-               parte del repertorio originale della compagnia. Il carattere stereotipato
-               dell’innamorato viene stravolto nell’intreccio dello scenario. La caratterizzazione
-               peculiare e insolita forse era costruita sulle abilità di Gerolamo Ferrari, l’attore
-               era solito interpretare il ruolo di Silvio nella seconda troupe di comici italiani.
-               Il marchese truffatore, pur rimanendo in secondo piano rispetto alle trovate
-               dell’astuto Brighella, scardina tutti i cliché tipici dell’innamorato, l’attore che
-               lo portava in scena si esibiva in numerosi lazzi ginnici, ostentava fasulli modi
-               ricercati per mostrare la finta nobiltà e mutava spesso abbigliamento sulla scena
-               (Pieroni, 209).</p>
-            <p>I documenti delle versioni russa e tedesca sono preservate in diversi archivi. Per
-               questa edizione rimandiamo alla descrizione dei facsimili per ogni documento</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <TEI>
-      <teiHeader>
-         <fileDesc>
+    <teiHeader>
+        <fileDesc>
             <titleStmt>
-               <title>МАРКI ГАСКОНЕЦЪ ВЕЛИЧАВЫИ</title>
-               <respStmt>
-                  <resp>Digitization of facsimile</resp>
-                  <name>The Göttingen State and University Library</name>
-               </respStmt>
+                <title>Il nascondiglio</title>
+                <respStmt>
+                    <resp>Transcription and encoding by</resp>
+                    <name>Tatiana Korneeva</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Translation by</resp>
+                    <name>Alice Pieroni</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revisions of translation by</resp>
+                    <name>Tatiana Korneeva</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Technical coordination, metadata curation, programming by</resp>
+                    <name>Tiziana Mancinelli</name>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
-               <p/>
+                <publisher>Università Ca' Foscari di Venezia - VeDPH</publisher>
+                <date>December 2021</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported
+                        License</licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
-               <msDesc>
-                  <msIdentifier>
-                     <settlement>Göttingen</settlement>
-                     <repository>The Göttingen State and University Library</repository>
-                     <idno type="shelfmark">SUB Göttingen, 8 P DRAM IV, 8250 (21b) RARA</idno>
-                     <idno type="URI">http://resolver.sub.uni-goettingen.de/purl?PPN1756126992</idno>
-                  </msIdentifier>
-                  <physDesc>
-                     <objectDesc>
-                        <supportDesc>
-                           <extent>
-                              <measure unit="pages" quantity="11">11 pages of source
-                                 material</measure>
-                              <height unit="cm">18,9</height>
-                              <width unit="cm">14,6</width>
-                              <depth unit="cm">0,1</depth>
-                           </extent>
-                        </supportDesc>
-                     </objectDesc>
-                  </physDesc>
-               </msDesc>
+                <p>In base alla data indicata sul frontespizio dello scenario a stampa è possibile stabilire che la commedia fosse stata allestita a San Pietroburgo dalla terza compagnia italiana nel 1735. Lo scenario ci è pervenuto soltanto nella versione russa, attualmente conservata presso la Biblioteca dell’Accademia delle Scienze di San Pietroburgo. Per quanto ci è dato a sapere, per questa commedia non si sono trovati paralleli nelle altre raccolte di scenari del teatro all’improvviso. L’argomento della commedia concerne i consueti amori di Celio per Eularia e di Odoardo per Isabella.</p>
+<p>Un dettaglio interessante sulle competenze sia del traduttore russo sia del pubblico dell’epoca si trova nella scena dell’ultimo atto della commedia, in cui Odoardo va a prendere le acque profumate per rianimare Isabella che gli sembra svenuta. La fragranza adoperata dal personaggio a tale scopo è <em>l’eau de la</em> <em>Reine [d’Hongrie]</em>, ovvero l’acqua della regina, il primo profumo nella storia occidentale a base di distillato di rosmarino, rimedio contro tutte le malattie ed elisir di bellezza, nonché precursore dell’acqua di Colonia. Il nome di quest’acqua aromatica non viene tradotto in russo, ma semplicemente traslitterato in cirillico, un dato insolito, considerando che il traduttore russo fornisce sempre una spiegazione nelle parentesi aggiunte a commento dei vocaboli o dei concetti che potessero essere sconosciuti agli spettatori-lettori. A partire da questo dato si possono avanzare alcune ipotesi: in primo luogo, forse la flagranza era conosciuta in Russia con il nome francese e quindi non necessitava traduzione. Quello che sembra smentire quest’ipotesi è che anche la parola utilizzata dal traduttore per “fragranza” non è propriamente “il profumo” ma “onda”, il che sembrerebbe indicare che nel lessico russo non esisteva, a quell’altezza cronologica, la parola specifica per descrivere il profumo. Quello che però sembra certo è che la traduzione in russo venisse eseguita passando da una traduzione intermedia dello scenario in francese.</p>
             </sourceDesc>
-         </fileDesc>
-         <profileDesc>
-            <langUsage>
-               <language ident="ru">Russian</language>
-            </langUsage>
-         </profileDesc>
-      </teiHeader>
-      <facsimile>
-         <surface type="ru">
-            <graphic xml:id="nascondi_ru_001" url="/img/nascondi_ru_001.jpg"/>
-            <graphic xml:id="nascondi_ru_002" url="/img/nascondi_ru_002.jpg"/>
-            <graphic xml:id="nascondi_ru_003" url="/img/nascondi_ru_003.jpg"/>
-            <graphic xml:id="nascondi_ru_004" url="/img/nascondi_ru_004.jpg"/>
-            <graphic xml:id="nascondi_ru_005" url="/img/nascondi_ru_005.jpg"/>
-            <graphic xml:id="nascondi_ru_006" url="/img/nascondi_ru_006.jpg"/>
-            <graphic xml:id="nascondi_ru_007" url="/img/nascondi_ru_007.jpg"/>
-            <graphic xml:id="nascondi_ru_008" url="/img/nascondi_ru_008.jpg"/>
-            <graphic xml:id="nascondi_ru_009" url="/img/nascondi_ru_009.jpg"/>
-            <graphic xml:id="nascondi_ru_010" url="/img/nascondi_ru_010.jpg"/>
-            <graphic xml:id="nascondi_ru_011" url="/img/nascondi_ru_011.jpg"/>
-         </surface>
-      </facsimile>
-      <text>
-         <front>
-            <pb facs="#nascondi_ru_001" n="1"/>
-            <head type="main">МАРКI ГАСКОНЕЦЪ ВЕЛИЧАВЫИ</head>
-            <head type="sub">КОМЕДIЯ IТАЛIЯНСКАЯ.<lb/>ВЪ САНКТПЕТЕРБУРГѢ.<lb/>
-               <date when="1734">1734 года.</date></head>
-            <pb facs="#nascondi_ru_002" n="2"/>
-            <fw type="pageNum">2</fw>
-            <div type="preface">
-               <head>ПЕРЕЧЕНЬ ВСЕЯ КОМЕДIИ.</head>
-               <p rend="indent">Сїлвïи Маркї дальтаполвере такои есть господинъ,<lb/> которои чрезъ
-                  свою тщивость, и чрезъ посту-<lb/> пки величавые старается имѣть себѣ
-                  почтенїе<lb/> отъ народа, а подъ внѣшнимъ своимъ великолѣпїемъ<lb/> укрывалъ
-                  весьма худую низкость духа. Панталонъ<lb/> хотя выдать за мужъ своихъ дочереи,
-                  прибѣгъ<lb/> подъ его покровительство; но тотъ влюбившися<lb/> въ болшую его дочь,
-                  и прїятствуя желанїю Одоар-<lb/> дову къ меньшои; употребилъ въ свою пользу
-                  до-<lb/> брымъ мнѣнїемъ о себѣ стариковымъ; что и чинитъ<lb/> завязку всея
-                  комедїи.</p>
-            </div>
-            <castList>
-               <head>ДѢИСТВУЮЩIЯ ЛИЦА.</head>
-               <castItem>
-                  <role xml:id="pantalone_ru">ПАНТАЛОНЪ,</role>
-                  <roleDesc>отецъ Дïаннинъ и Аурелïинъ.</roleDesc>
-               </castItem>
-               <castGroup>
-                  <castItem>
-                     <role xml:id="diana_ru">ДIАНА и</role>
-                  </castItem>
-                  <castItem>
-                     <role xml:id="aurelia_ru">Аурелїя,</role>
-                  </castItem>
-                  <roleDesc>дочери его.</roleDesc>
-               </castGroup>
-               <castItem>
-                  <role xml:id="smeraldina_ru">СМЕРАЛДІНА,</role>
-                  <roleDesc>служащая.</roleDesc>
-               </castItem>
-               <castItem>
-                  <role xml:id="silvio_ru">СIЛВIИ МАРКI дальтаполвере.</role>
-               </castItem>
-               <castGroup>
-                  <castItem>
-                     <role xml:id="brighella_ru">БРIГЕЛЛЪ и</role>
-                  </castItem>
-                  <castItem>
-                     <role xml:id="arlecchino_ru">АРЛЕКИН</role>
-                  </castItem>
-                  <roleDesc>служащїе.</roleDesc>
-               </castGroup>
-               <castItem>
-                  <role xml:id="lacchè_ru">ЛАКЕИ.</role>
-               </castItem>
-               <castItem>
-                  <role xml:id="odoardo_ru">ОДОАРДЪ,</role>
-                  <roleDesc>влюбившїися въ Аурелїю.</roleDesc>
-               </castItem>
-               <castItem>
-                  <role xml:id="dottore_ru">ДОКТОРЪ,</role>
-                  <roleDesc>другъ Панталоновъ.</roleDesc>
-               </castItem>
-               <castItem>
-                  <role xml:id="altri_ru">Еще многїя лица.</role>
-               </castItem>
-            </castList>
-            <set>
-               <p>Дѣиствїе то въ Венецïи.</p>
-            </set>
-            <fw type="catch" place="bottom">ДѢИ-</fw>
-         </front>
-         <pb facs="#nascondi_ru_003" n="3"/>
-         <fw type="pageNum">3</fw>
-         <body>
-            <div type="act" n="1">
-               <head>ДѢИСТВІЕ ПЕРВОЕ.</head>
-               <stage>ТЕАТРЪ ПОКАЗЫВАЕТЪ КАМЕРУ.</stage>
-               <p rend="indent">БРIГЕЛЛЪ бранитъ Арлекїна за то, что все въ<lb/> безпорядкѣ
-                  находится въ камерѣ; а господинъ ихъ<lb/> скоро имѣетъ встать. Арлекїнъ ему
-                  отвѣчаетъ,<lb/> что это до него не касается, понеже онъ самъ<lb/> бѣднои
-                  дворянинъ, и служитъ по своеи охотѣ его<lb/> Превосходительству; но что долженъ
-                  онъ Брїгеллъ<lb/> окрикъ за то дать на лакеевъ, изъ которыхъ одинъ<lb/> говоритъ,
-                  что онъ свое все приготовилъ; Арлекїнъ<lb/> ему сказалъ, что онъ лжотъ. Начали они
-                  за то<lb/> драться. Брїгеллъ ихъ рознялъ, и сталъ оправли-<lb/> вать перюкъ. Тутъ
-                  Маркї не знаю ково кличетъ.<lb/> Тѣ всѣ изпужавшись начали всякъ свою
-                  должность<lb/> изправлять. Лакеи побѣжалъ отворить дверь. Арле-<lb/> кїнъ всегда
-                  ему будучи противникъ, не допускаетъ<lb/> его до того; изъ того произходятъ
-                  нѣкоторыя<lb/> игрушки своиственныя театру. Маркї выходитъ,<lb/> и спрашиваетъ,
-                  которыи часъ; по томъ стал ихъ<lb/> бранить, что они ево поздно разбудили, по
-                  тому<lb/> что къ нему люди придутъ. Изъ того произходитъ<lb/> игрушка смѣшная
-                  причиненная чрезъ чванство того<lb/> Маркї, и чрезъ торопливую ревность
-                  арекїнову<lb/> и лакееву, чтобъ ему служить. Между тѣмъ Пан-<lb/> талонъ стучится,
-                  лакеи пошолъ смотрѣть, кто<lb/> бы то былъ, и возвращается говоря, что то
-                  Пан-<lb/> талонъ. Маркї велѣлъ ево пустить, и дать ему<lb/> стулъ; а самъ уже
-                  докучилъ ему чрезъ непрестан-<lb/> ные комплїменты. По томъ приказалъ ему
-                  подно-<lb/> сить чаи, кафе, и шоколадъ. Арлекїнъ побѣжалъ,<lb/> и возващается съ
-                  приборомъ смѣшнымъ. Это при-<lb/> нудило того Маркї, чтобъ ево бранить; а
-                  Брïгелла<lb/> поити взять съ лакеемъ то, что господинъ при-<lb/>
-                  <fw place="bottom" type="sig">B 2</fw>
-                  <fw type="catch" place="bottom">казалъ.</fw>
-                  <pb facs="#nascondi_ru_004" n="4"/>
-                  <fw type="pageNum">4</fw> казалъ. Панталонъ сталъ пить чаи, а Маркї чешетъ<lb/>
-                  голову, убирается, и прочая; что причиняетъ<lb/> игрушку смѣшную. На послѣдокъ
-                  Панталонъ гово-<lb/> ритъ тому Маркї, что и дочь ево тутъ въ перед-<lb/> неи,
-                  которая желаетъ ему отдать свои поклонъ.<lb/> Маркї сталъ торопиться, и побѣжалъ
-                  на встрѣчу<lb/> еи съ Арлекїномъ, да и возвращается за руку ведя<lb/> Дïану; а
-                  Арлекїнъ тожъ чинитъ съ Смеральдїною,<lb/> хотя тому какъ ни противился старикъ,
-                  которои<lb/> любя свою служащую, не хотѣлъ бы Арлекїна до-<lb/> пустить до того.
-                  По комплїментахъ Панталонъ<lb/> говоритъ оному Маркї, что причина ево
-                  посѣщенїя<lb/> есть та, понеже Докторъ желаетъ имѣть Дїану<lb/> себѣ въ жену; а
-                  онъ не хочетъ ему ту отдать<lb/> безъ позволенїя его превосходительства, у
-                  кото-<lb/> раго онъ требуетъ защиты и покрова. Маркї ему<lb/> отвѣтствуетъ, что
-                  прежде нежели заключится<lb/> бракъ, надобно, чтобъ онъ поговорилъ съ Дїаною,<lb/>
-                  дабы ему извѣстну быть о ея намѣренїи, да и повелъ<lb/> по мноихъ игрушкахъ
-                  своиственныхъ театру по<lb/> оную въ другую Камеру. Арлекїнъ и Панталонъ, по<lb/>
-                  причинѣ Смералдїны, за нимъ же слѣдуютъ.</p>
-               <stage>ТЕАТРЪ ПОКАЗЫВАЕТЪ ГОРОДЪ.</stage>
-               <p rend="indent">СМЕРАЛДIНА выходитъ говоря, что ея госпожа<lb/> очюнь рада быть съ
-                  тѣмъ Маркї, котораго она<lb/> любитъ. А что она сама въ великои печали, для<lb/>
-                  того что Панталонъ ея господинъ привязался къ<lb/> неи, и которои своею любовїю
-                  помѣшательство<lb/> чинитъ Арлекїну, котораго она любитъ. На то<lb/> приходитъ
-                  Арлекїнъ. Смералдїна увидѣвши его<lb/> стала къ нему всячески ласкаться. Между
-                  тѣмъ<lb/> Панталонъ выходитъ тишкомъ, и сталъ по средѣ<lb/> ихъ; изъ того
-                  произходитъ игрушка нѣмая. Сме-<lb/>
-                  <fw type="catch" place="bottom">ралдїна</fw>
-                  <pb facs="#nascondi_ru_005" n="5"/><fw type="pageNum">5</fw>ралдїна пошла прочь.
-                  Панталонъ пошолъ запереть<lb/> ворота. Арлекїнъ чрезъ многїя игрушки
-                  приличныя<lb/> театру противится ему въ томъ, да и уронилъ<lb/> Панталона, а самъ
-                  уходитъ. Старикъ проклиная<lb/> ево пошолъ же. Маркї выходитъ съ Одоардомъ,
-                  ко-<lb/> торои лаская ему притворною покорностїю, а самъ<lb/> тому смѣяся, проситъ
-                  себѣ у него покровитель-<lb/> ства, дабы ему чрезъ то получить Аурелїю дочь<lb/>
-                  Панталона, надъ которымъ, знаетъ онъ, что тотъ<lb/> имѣетъ великую власть. Маркї
-                  обѣщается о томъ<lb/> предложить отцу его любимыя, только чтобъ онъ<lb/> былъ
-                  доброи человѣкъ; обѣщаетъ такъ же и защи-<lb/> щать его; да и приказываетъ лакею
-                  кликнуть<lb/> Панталона съ его дочерями и съ Смеральдїною. По<lb/> томъ говоритъ
-                  старику, что въ своемъ домѣ<lb/> имѣетъ онъ съ нимъ о важномъ дѣлѣ
-                  поговорить.<lb/> А игрушкою приличною театру, и смѣшнымъ тѣ-<lb/> лодвиженїемъ
-                  служитъ рукою своею дамамъ; да и<lb/> пошли всѣ.</p>
-               <stage>ТЕАТРЪ ПОКАЗЫВАЕТЪ КАМЕРУ.</stage>
-               <p rend="indent">БРIГЕЛЛЪ, и Арлекїнъ, перерываючись другъ<lb/> предъ другомъ,
-                  приготовляютъ что надобно къ<lb/> прїнятїю гостеи господина ихъ, а все между
-                  собою<lb/> браняся. Тутъ стала быть слышима музыка; да<lb/> и приходитъ Маркї,
-                  ведучи дочереи панталоновыхъ,<lb/> съ старикомъ, Одоардомъ, и лакеемъ. Послѣ
-                  мно-<lb/> гихъ игрушекъ приличныхъ театру, посадилъ онъ<lb/> женьщинъ; изъ того
-                  произходитъ игрушка смѣш-<lb/> ная. Стали они кушать, и пить за здоровья. На<lb/>
-                  конецъ Арлекїнъ всегда будучи не потребнымъ, ук-<lb/> ралъ одну бутылку вїна.
-                  Лакеи хочетъ оною у<lb/> него отнять; Арлекїнъ за то сердится; стали они<lb/>
-                  <fw type="catch" place="bottom">оба</fw>
-                  <pb facs="#nascondi_ru_006" n="6"/><fw type="pageNum">6</fw> оба шумѣть, что принудило
-                  музыку перестать.<lb/> Арлекїнъ чтобъ ему наѣсться, подложно говоритъ,<lb/> что
-                  одно судно панталоново за арестовано на<lb/> самомъ прїѣздѣ, которое нагружено
-                  заповѣдными<lb/> товарами. Старикъ приходитъ въ печаль, и реко-<lb/> мендуетъ себя
-                  тому Маркї, которои обѣщается<lb/> ево защитить, да и пошолъ. Всѣ за нимъ же
-                  пошли<lb/> кромѣ Арлекїна и Брїгелла, которые чрезъ игрушку<lb/> смѣшную
-                  окончеваютъ дѣиствїе первое.</p>
-            </div>
-            <div type="act" n="2">
-               <head>ДѢИСТВІЕ ВТОРОЕ.</head>
-               <stage>ТЕАТРЪ ПОКАЗЫВАЕТЪ КАМЕРУ, СЪ УбОР-<lb/> НЫМЪ СТОЛОМЪ.</stage>
-               <p rend="indent">БРIГЕЛЛЪ и Арлекїнъ приказываютъ слугамъ<lb/> припасти все, что
-                  надлежитъ, по тому что го-<lb/> сподинъ ихъ одѣвшися хочетъ съ двора итьти.<lb/>
-                  Маркї приходитъ въ колпакѣ, и читаетъ писмо по-<lb/> двигая тотъ уборнои столъ; да
-                  и приказалъ всѣмъ<lb/> вытьти вонъ, кромѣ Арлекїна, которому велѣлъ<lb/> кликнуть
-                  лакея; а самъ сталъ убираться, какъ<lb/> щоголю надлежитъ. По томъ началъ писать.
-                  Арле-<lb/> кїнъ чинитъ тожъ, что видя Маркї сталъ смѣяться,<lb/> а ево бранить.
-                  Между тѣмъ приходитъ Брїгеллъ<lb/> съ лакеемъ, у котораго голова связана. Маркї
-                  спра-<lb/> шиваетъ у него тому причину. Лакеи обвинилъ въ<lb/> томъ Арлекїна.
-                  Маркї осердившись велѣлъ Брїгеллу<lb/> збить палкою съ двора Арлекїна. Брїгеллъ
-                  уводитъ<lb/> Арлекїна. Маркї одѣвшись пошолъ съ лакеемъ.</p>
-               <stage>ТЕАТРЪ ПОКАЗЫВАЕТЪ ГОРОДЪ.</stage>
-               <p rend="indent">АРЛЕКIНЪ выгнанныи отъ своего господина чрезъ<lb/> двухъ слугъ,
-                  которые ево били, старается имъ<lb/>
-                  <fw type="catch" place="bottom">за</fw>
-                  <pb facs="#nascondi_ru_007" n="7"/><fw type="pageNum">7</fw> за то отмстить. На тотъ ихъ
-                  крикъ выбѣжалъ<lb/> Панталонъ, и тѣхъ слугъ послалъ прочь. Арлекїнъ<lb/> ему сталъ
-                  розсказывать о своеи напасти со слезами.<lb/> Панталонъ ему велѣлъ поити въ свои
-                  домъ, и обѣ-<lb/> щается умягчить его господина. Арлекїнъ обрадо-<lb/> вався, что
-                  онъ быть имѣетъ съ Смералдїною, пошолъ.<lb/> Старикъ остался; а на то приходитъ
-                  Докторъ съ<lb/> ящикомъ; радуется онъ, что видитъ Панталона,<lb/> которому
-                  говоритъ, что по его обѣщанїю, дочь<lb/> ево Дїана имѣетъ быть ево жена, того ради
-                  при-<lb/> несъ онъ еи подарокъ, и онои ему показываетъ.<lb/> Старикъ кличетъ
-                  Дïану, и велитъ еи, чтобъ она<lb/> дала руку Доктору, какъ своему мужу. Дїана
-                  того<lb/> учинить не хочетъ. Докторъ обрадовавшися хо-<lb/> четъ ея обнять, да и
-                  поставилъ свои ящикъ на зе-<lb/> млю. Брїгеллъ, которои все то видѣлъ,
-                  говоритъ,<lb/> что онъ хочетъ надъ ними подсмѣяться, пошолъ,<lb/> да и
-                  возвращается съ такимъ же ящикомъ; обмѣнилъ<lb/> онои на докторовъ, которои хотя
-                  умягчить свою<lb/> невѣсту, даетъ еи свои подарокъ. Та открываетъ<lb/> ящикъ, и
-                  видя что въ немъ было, осердилась, и на-<lb/> чала жестоко бранить Доктора при
-                  отцѣ, Арлекїнѣ,<lb/> и Смералдїнѣ. Докторъ въ великои печали, и въ не<lb/>
-                  меньшемъ смущенїи пошолъ прочь; а прочїе всѣ<lb/> пошли къ Панталону. Брїгеллъ
-                  возвращается смѣ-<lb/> ючися, и говоритъ, что надобно ему кликнуть<lb/> Дïану,
-                  чтобъ поговорить съ нею. Та пришла. Брї-<lb/> геллъ вѣдая о ея любви къ помянутому
-                  Маркї, и<lb/> о противности къ Доктору, спрашиваетъ у нея,<lb/> что не имѣетъ ли
-                  она у себя въ домѣ какова скры-<lb/> таго таинаго мѣста, она говоритъ, что
-                  есть.<lb/> Брїгеллъ обрадовавшись говоритъ еи, что понеже<lb/> то такъ; то когда
-                  отецъ ея станетъ принуждать<lb/> вытьти за доктора, тогда долженствуетъ она<lb/>
-                  <fw type="catch" place="bottom">притво-</fw>
-                  <pb facs="#nascondi_ru_008" n="8"/><fw type="pageNum">8</fw> притвориться, что бутто
-                  хочетъ себя убить;<lb/> а когда отецъ еи станетъ въ томъ противиться,<lb/> тогда
-                  надобно еи сказать съ гнѣвомъ, что бутто<lb/> она хочетъ себя утопить въ колодезѣ;
-                  но что<lb/> стѣнь ея учинитъ отмщенїе за то, что онъ ея<lb/> хочетъ выдать силою;
-                  а по томъ чтобъ она скры-<lb/> лась въ томъ таиномъ мѣстѣ; однако чтобъ не<lb/>
-                  вовся запирала ворота садовыя, дабы онъ и Маркї<lb/> могли воити въ домъ, и
-                  исполнить намѣренное,<lb/> чтобъ ея отцу не выдавать оную насильно. Дїана<lb/>
-                  взрадовавшися пошла. Брїгеллъ пошолъ же для<lb/> исполненїя обѣщаннаго.</p>
-               <p rend="indent">ДОКТОРЪ выходитъ думая о томъ, что ему<lb/> случилось; и чтобъ
-                  оправдиться предъ Панталономъ<lb/> кличетъ его, которои увѣренъ будучи о его
-                  невин-<lb/> ности призвалъ свою дочь, за которою была Сме-<lb/> ралдїна, такъ же и
-                  Арлекїнъ, и велитъ еи, чтобъ она<lb/> дала руку Доктору. Та притворяяся быть въ
-                  ве-<lb/> ликомъ гнѣвѣ исполняетъ совѣтъ Брїгелловъ, а<lb/> сама прочь пошла.
-                  Панталонъ ругаяся надъ ея<lb/> сердцемъ послалъ Смералдїну кликнуть ея. Сме-<lb/>
-                  ралдїна послушавшись говоритъ, что она ея не<lb/> нашла; Арлекїнъ такъ же. По томъ
-                  Докторъ съ<lb/> Панталономъ, которые не нашедши оную, и думая,<lb/> что она дѣломъ
-                  исполнила угроженїе свое, въ ве-<lb/> ликую пришли печаль. А Панталонъ и пошолъ
-                  прочь<lb/> съ Арлекïномъ и съ Смералдïною. Докторъ будучи<lb/> печаленъ, что онъ
-                  нещастїю тому неповинная былъ<lb/> причина, пошолъ же, дая знать, что уже
-                  ночь<lb/> гораздо наступила.</p>
-               <stage>ТЕАТРЪ ПОКАЗЫВАЕТЪ КАМЕРУ, СЪ ПОСТЕ-<lb/> ЛЕЮ ПАНТАЛОНОВОЮ.</stage>
-               <p rend="indent">ПАНТАЛОНЪ приходитъ оплакивая не щастїе<lb/>
-                  <fw type="catch" place="bottom">дочери</fw>
-                  <pb facs="#nascondi_ru_009" n="9"/><fw type="pageNum">9</fw> дочери своея, и говоритъ,
-                  что мучася совѣстïю<lb/> не имѣетъ онъ покоя. Легъ онъ; и по многихъ<lb/>
-                  игрушкахъ приличныхъ театру погасилъ свѣчу,<lb/> да и заснулъ. Между тѣмъ видимъ
-                  сталъ быть<lb/> пламень, которои разбудивъ старика испужалъ<lb/> его; Но тутъ
-                  показался и Маркї наряжоныи въ Плу-<lb/> тона, а Брїгеллъ, и одинъ изъ его друговъ
-                  въ Дïаво-<lb/> ловъ, которые весьма устрашили старика; тутъ<lb/> же и Дїана вышла
-                  бутто стѣнь, которая проситъ<lb/> справедливости у царя адскаго въ томъ, что
-                  ея<lb/> отецъ хотѣлъ выдать за мужъ по неволѣ, и тѣмъ<lb/> принудилъ ея убить
-                  себя. Плутонъ приказываетъ<lb/> дїаволамъ стащить того бѣдняка въ адъ, а самъ<lb/>
-                  пошолъ прочь съ Дïаною. Шуму дïавольскаго Пан-<lb/> талонъ бояся всталъ съ
-                  постели, и кличетъ по-<lb/> мощниковъ.</p>
-               <p rend="indent">АРЛЕКIНЪ приходитъ на шумъ въ половину<lb/> спящимъ. Старикъ
-                  сказываетъ ему, что съ нимъ<lb/> случилось. Арлекїнъ отъ того трепещетъ. Пан-<lb/>
-                  талонъ хочетъ ево принудить, чтобъ онъ съ нимъ<lb/> остался; Арлекїнъ того учинить
-                  не хочетъ. Изъ<lb/> того произходитъ игрушка смѣшная. На послѣ-<lb/> докъ Арлекїнъ
-                  заснулъ. Дïаволы приходятъ, которые<lb/> стращая Старика и Арлекїна чрезъ игрушку
-                  обыкно-<lb/> венную театру окончеваютъ Дѣиствїе второе.</p>
-            </div>
-            <div type="act" n="3">
-               <head>ДѢИСТВІЕ ТРЕТІЕ.</head>
-               <p rend="indent">ПАНТАЛОНЪ весь трепещучи приходитъ съ<lb/> Арлекїномъ; и послѣ
-                  нѣкоторыхъ игрушекъ при-<lb/> личныхъ театру, велѣлъ себѣ дать стулъ, и про-<lb/>
-                  ситъ его, чтобъ онъ не спалъ до самого дни, а онъ<lb/> не много имѣетъ заснуть.
-                  Арлекїнъ не хотя того<lb/>
-                  <fw type="sig" place="bottom">Г</fw>
-                  <fw type="catch" place="bottom">долго</fw>
-                  <pb facs="#nascondi_ru_010" n="10"/><fw type="pageNum">10</fw> долго учинить, по томъ
-                  обѣщается. Панталонъ<lb/> сталъ спать. Арлекїнъ для препровожденїя времени<lb/>
-                  дѣлаетъ многїя игрушки, которыя обезпокоиваютъ<lb/> старика, и причиняютъ шутку
-                  смѣшную. На конецъ<lb/> онъ заснулъ. Тутъ Маркї приходитъ съ Брїгелломъ,<lb/>
-                  Дїаною, и Смералдїною въ томъ же уборѣ. Маркї го-<lb/> воритъ женьщинамъ, чтобъ
-                  онѣ за нимъ слѣдовали.<lb/> Смералдїна чинитъ многїя шутки надъ Арлекїномъ,<lb/>
-                  которои пробудившись кличетъ Панталона. Смерал-<lb/> дїна погасивши свѣчу вышла съ
-                  тѣмъ Маркї. Арле-<lb/> кїнъ говоритъ старїку, что онъ видѣлъ мертве-<lb/> цовъ.
-                  Панталонъ ему отвѣчаетъ, что онъ больше<lb/> не хочетъ жить въ этои камерѣ, да и
-                  кличетъ<lb/> Смералдїну; но что она долго неидетъ, того ради<lb/> пошолъ онъ ея
-                  искать. Арлекїнъ не хотя остаться<lb/> одинъ, съ приличною театру игрушкою за нимъ
-                  же<lb/> пошолъ.</p>
-               <stage>ТЕАТРЪ ПОКАЗЫВАЕТЪ ГОРОДЪ И ДЕНЬ.</stage>
-               <p rend="indent">БРIГЕЛЛЪ выходитъ очюнь радостенъ, что его<lb/> вымыслъ удался;
-                  говоритъ что онъ хочетъ въ<lb/> пользу себѣ поворотить смущенїе стариково,
-                  дабы<lb/> женить Одоарда на Аурелїѣ, да и сталъ оную кли-<lb/> кать. Аурелїя
-                  приходитъ. Онъ еи говоритъ, что<lb/> ежели она любитъ Одоарда, и хочетъ за
-                  него<lb/> вытьти; то надлежитъ еи итьти въ палаты госпо-<lb/> дина его, гдѣ она
-                  будетъ довольна. Аурелїя пошла.<lb/> Брїгеллъ остался. А къ нему приходитъ
-                  Арлекїнъ<lb/> въ великомъ страхѣ, и во гнѣвѣ, что онъ нигдѣ<lb/> не нашолъ
-                  Смералдїну. Брїгеллъ ему говоритъ,<lb/> что ежели онъ хочетъ быть доволенъ, то
-                  пусть<lb/> поидетъ онъ въ домъ его господина, съ которымъ<lb/> обязуется онъ его
-                  помирить. Арлекїнъ послушался.<lb/>
-                  <fw type="catch" place="bottom">Брïгеллъ</fw>
-                  <pb facs="#nascondi_ru_011" n="11"/><fw type="pageNum">11</fw> Брїгеллъ остался. А
-                  приходитъ Маркї съ Докто-<lb/> ромъ, которои разказываетъ тому о печали
-                  панта-<lb/> лоновои, такъ же и о своеи, для смерти дїанїнои.<lb/> Маркї
-                  повелѣваетъ Брїгеллу кликнуть Панталона,<lb/> которои приходитъ оплакивая свое
-                  нещастїе, ко-<lb/> торое еще стало быть больше чрезъ побѣгъ другїя<lb/> своея
-                  дочери Аурелїи съ Смералдїною. Маркї сталъ<lb/> ево просить къ себѣ, и
-                  обнадеживаетъ его, что онъ<lb/> изъ великои печали придетъ въ великую
-                  радость,<lb/> да и пошолъ самъ съ Брїгелломъ. Панталонъ пошолъ<lb/> взять верхнее
-                  свое одѣянїе, да и пошолъ вмѣстѣ<lb/> съ докторомъ къ оному Маркї.</p>
-               <stage>ТЕАТРЪ ПОКАЗЫВАЕТЪ КАМЕРУ ПРЕВЕСЬМА<lb/> УБРАНУ.</stage>
-               <p rend="indent">МАРКI, Одоардъ, и Арлекїнъ сидятъ на нѣко-<lb/> торомъ бутто тронѣ
-                  держя за руки Дїану, Ауре-<lb/> лїю, и Смералдїну, будучи окружены чрезъ
-                  многихъ<lb/> предстоящихъ. И когда играли одинъ концертъ,<lb/> тогда старики
-                  пришли, и испужавшися стали внѣ<lb/> себя незная что чинить. Панталонъ хотѣлъ
-                  было<lb/> побѣжать обнять Дїану; но удержалъ его Брїгеллъ;<lb/> изъ того
-                  произходятъ многїя игрушки приличныя<lb/> театру. На послѣдокъ Маркї объявилъ все,
-                  и ска-<lb/> зываетъ, что Дїана есть ево жена, Аурелїя одоар-<lb/> дова, а
-                  Смералдїна арлекїнова; и что все прочее<lb/> нечто другое, какъ только насмѣшка,
-                  которая ему<lb/> чинена дабы онъ перемѣнилъ намѣренїе въ разсуж-<lb/> денїи
-                  Доктора. Панталонъ видя, что дѣло сдѣ-<lb/> лано согласился на тѣ брачныя
-                  сочетанїя; а чрезъ<lb/> всѣхъ ихъ веселїе кончится</p>
-               <p rend="indent">КОМЕДIЯ.</p>
-            </div>
-         </body>
-      </text>
-   </TEI>
-   <TEI>
-      <teiHeader>
-         <fileDesc>
-            <titleStmt>
-               <title>Der Laͤcherliche und affectirte Marquis</title>
-               <respStmt>
-                  <resp>Digitisation of facsimile</resp>
-                  <name>The Göttingen State and University Library</name>
-               </respStmt>
-            </titleStmt>
-            <publicationStmt>
-               <p/>
-            </publicationStmt>
-            <sourceDesc>
-               <msDesc>
-                  <msIdentifier>
-                     <settlement>Göttingen</settlement>
-                     <repository>The Göttingen State and University Library</repository>
-                     <idno type="shelfmark">SUB Göttingen, 8 P DRAM IV, 8250 (28a) RARA</idno>
-                  </msIdentifier>
-                  <physDesc>
-                     <objectDesc>
-                        <supportDesc>
-                           <extent>
-                              <measure unit="pages" quantity="8">8 pages of source
-                                 material</measure>
-                              <height unit="cm">18,9</height>
-                              <width unit="cm">14,6</width>
-                              <depth unit="cm">0,1</depth>
-                           </extent>
-                        </supportDesc>
-                     </objectDesc>
-                  </physDesc>
-               </msDesc>
-            </sourceDesc>
-         </fileDesc>
-         <profileDesc>
-            <langUsage>
-               <language ident="ge">German</language>
-            </langUsage>
-         </profileDesc>
-      </teiHeader>
-      <facsimile>
-         <surface type="ge">
-            <graphic xml:id="nascondi_ge_001" url="/img/nascondi_ge_001.jpg"/>
-            <graphic xml:id="nascondi_ge_002" url="/img/nascondi_ge_002.jpg"/>
-            <graphic xml:id="nascondi_ge_003" url="/img/nascondi_ge_003.jpg"/>
-            <graphic xml:id="nascondi_ge_004" url="/img/nascondi_ge_004.jpg"/>
-            <graphic xml:id="nascondi_ge_005" url="/img/nascondi_ge_005.jpg"/>
-            <graphic xml:id="nascondi_ge_006" url="/img/nascondi_ge_006.jpg"/>
-            <graphic xml:id="nascondi_ge_007" url="/img/nascondi_ge_007.jpg"/>
-            <graphic xml:id="nascondi_ge_008" url="/img/nascondi_ge_008.jpg"/>
-         </surface>
-      </facsimile>
-      <text>
-         <front>
-            <pb facs="#nascondi_ge_001" n="1"/>
-            <head type="main">Der Laͤcherliche und affectirte Marquis</head>
-            <head type="sub">welcher<lb/>in einem<lb/><date when="1734">1734.</date><lb/>Jtaliaͤniſchen Schau-Spiele<lb/>an dem<lb/>Kayſerlichen Hofe<lb/>zu
-               St. Petersburg<lb/> aufgefuͤhret worden.</head>
-            <pb facs="#nascondi_ge_002" n="2"/>
-            <pb facs="#nascondi_ge_003" n="3"/>
-            <div type="preface">
-               <head>Inhalt.</head>
-               <p rend="indent">Silvio Marquis d'Alta polvere iſt ein Herr, der durch ſeine
-                  Ver-<lb/> ſchwendung und affectirter Weſen ſich eine allgemeine Hochachtung<lb/>
-                  zu wege zu bringen ſuchet, unter ſeiner aͤuſſerlichen Pracht abereine ſehr<lb/>
-                  niedertraͤchtige Seele verſtecket. Pantalon, der ſeine Toͤchter verheyrathen<lb/>
-                  will, fragt ihn um einen guten Rath; weil jener aber ſelbſt in die aͤl-<lb/> teſte
-                  verliebt iſt und dem Odoardo, wegen der juͤngſten, gerne fuͤgen<lb/> moͤchte,
-                  bedienet er ſich der Ubereilung des Alten zu ſeinem Vor-<lb/> theil, welches die
-                  Verwirrung des gantzen Stuͤckes machet.</p>
-            </div>
-            <castList>
-               <head>Perſonen.</head>
-               <castItem>
-                  <role xml:id="pantalone_ge">Pantalon,</role>
-                  <roleDesc>Vater der<lb/>Diana und<lb/>Aurelia</roleDesc>
-               </castItem>
-               <castGroup>
-                  <castItem>
-                     <role xml:id="diana_ge">Diana,</role>
-                  </castItem>
-                  <castItem>
-                     <role xml:id="aurelia_ge">Aurelia,</role>
-                  </castItem>
-               </castGroup>
-               <castItem>
-                  <role xml:id="smeraldina_ge">Smeraldina</role>
-                  <roleDesc>eine Bediente.</roleDesc>
-               </castItem>
-               <castItem>
-                  <role xml:id="silvio_ge">Silvio</role>
-                  <roleDesc>Marquis d'Alta Polvere.</roleDesc>
-               </castItem>
-               <castGroup>
-                  <castItem>
-                     <role xml:id="brighella_ge">Brighella</role>
-                  </castItem>
-                  <castItem>
-                     <role xml:id="arlecchino_ge">Arlequin</role>
-                  </castItem>
-                  <castItem>
-                     <role xml:id="lacchè_ge">Ein Laquais</role>
-                  </castItem>
-                  <roleDesc>deſſen Bediente</roleDesc>
-               </castGroup>
-               <castItem>
-                  <role xml:id="odoardo_ge">Odoardo</role>
-                  <roleDesc>Liebhaber der Aurelia.</roleDesc>
-               </castItem>
-               <castItem>
-                  <role xml:id="dottore_ge">Der Doctor,</role>
-                  <roleDesc>Freund des Pantalons.</roleDesc>
-               </castItem>
-            </castList>
-            <set>
-               <p>Der Schau-Platz iſt in Venedig.</p>
-            </set>
-         </front>
-         <body>
-            <pb facs="#nascondi_ge_004" n="4"/>
-            <fw type="pageNum">4</fw>
-            <div type="act" n="1">
-               <head>Erſte Handlung.</head>
-               <stage>Der Schau-Platz ſtellet ein Zimmer vor.</stage>
-               <p rend="indent">Brighella zancket mit dem Arlequin, daß noch alles im Zimmer in
-                  Unordnung<lb/> ſey, wenn der Herr aufſtehen wolle. Arlequin antwortet, dieſes ſey
-                  ſeine Schuld<lb/> nicht; indem er, als ein Edelmann Jhro Exeell. nur aus Plaiſir
-                  diene, und daß<lb/> ſolches des Laquayens Sache ſey, an den er ſich halten ſollte.
-                  Der Laquay ſagt,<lb/> es ſey dem Arlequin aufgetragen worden. Arlequin heiſſet ihn
-                  einen Luͤgner, wor-<lb/> auf es zu Schlaͤgen koͤmmt. Brighella bringt ſie aus
-                  einander und macht die Peru-<lb/> que zu rechte. Hierauf rufft der Marquis, da
-                  denn alle dreye gantz verwirrt an ihre<lb/> Schuldigkeit gehen. Der Laquay will
-                  die Thuͤre aufmachen, Arlequin aber trit<lb/> ihm in den Weg, welches zu
-                  verſchiedenem Schertze Gelegenheit giebt. Der Marquis<lb/> fraget, welche Zeit es
-                  ſey? und iſt boͤſe, daß es ſchon zu langſam, um Audientz zu-<lb/> geben. Das
-                  affectirte Weſen des Marquis und die neidiſche Eiferſucht des Arle-<lb/> quins und
-                  Laquayens ihn zubedienen veranlaſſet allerley Poſſen, unter welchen der<lb/>
-                  Pantalon anpochet. Der Laquay ſiehet nach, wer es iſt und bringt die
-                  Nachricht<lb/> zuruͤck, daß es der Pantalon ſey. Der Marquis laͤſſet ihn
-                  hereinkommen, preſen-<lb/> tiret ihm einen Stuhl und befiehlet, unter vielen
-                  ſeltſamen Complimenten, Caffe, Thee<lb/> und Choccolate zubringen. Arlequin gehet
-                  weg und koͤmmt mit einem abgeſchmeck-<lb/> ten Service wieder zuruͤck. Der Marquis
-                  ſchmaͤlet, Brighella und der Laquay<lb/> aber gehen weg, ſeinen Befehl
-                  auszurichten. Pantalon trincket Thee, wehrender Zeit<lb/> als der Marquis ſich
-                  kaͤmmet, ſchmincket und dergleichen mehr thut. Zuletzt ſagt der Pan-<lb/> talon zu
-                  dem Marquis, daß ſeine Tochter in der Antichambre ſey, um ihre Aufwartung<lb/> zu
-                  machen. Der Marquis umarmet ihn und gehet mit dem Arlequin ihr entgegen. Er<lb/>
-                  koͤmmt mit der Diana und Arlequin mit der Smeraldina zuruͤck. Der Alte, der
-                  in<lb/> ſeine Bediente verliebt iſt, will nicht leyden, daß ſie Arlequin bey der
-                  Hand fuͤhre.<lb/> Nach einigen Complimenten erzehlet Pantalon die Urſache ihres
-                  Beſuchs und ſagt, der<lb/> Doctor wolle die Diana mit aller Gewalt haben, er waͤre
-                  aber nicht willens ſie, ohne<lb/> Jhro Exeell. Einſtimmung, weg zu geben und bitte
-                  deswegen um dero Protection.<lb/> Der Marquis antwortet: Ehe man zum Schluße
-                  komme, muͤſſe man vorhero die Diana<lb/> um ihre Meynung fragen und dieſes in
-                  einem anderen Zimmer, wohin ſie ſich bege-<lb/> ben. Arlequin und Pantalon folgen,
-                  nebſt der Smeraldina, nach.</p>
-               <stage>Der Schau-Platz ſtellet ein Stadt vor.</stage>
-               <p rend="indent">Smeraldina trit auf und ſaget, ihre Gebietherin, die Diana, ſey ſehr
-                  erfreuet, daß<lb/> ſie bey ihrem Geliebten Marquis waͤre, ſie ſelbſt aber in
-                  aͤuſſerſter Verzweiffelung,<lb/> daß ihr lieber Arlequin den Pantalon zum
-                  Nehenbuhler habe. Arlequin koͤmmt, und<lb/>
-                  <fw type="catch" place="bottom">wie</fw>
-                  <pb facs="#nascondi_ge_005" n="5"/>
-                  <fw type="pageNum">5</fw> wie ſie ihn ſiehet, machet ſie ihm allerley Careſſen,
-                  unter welchen Pantalon herzuſchlei-<lb/> chet und ſich zwiſchen beyde einſtellet.
-                  Smeraldina gehet fort. Pantalon will die<lb/> Thuͤre zuſchlieſſen; Arlequin
-                  wiederſetzet ſich, macht daß er wiederfaͤllt, und laͤufft fort.<lb/> Der Alte
-                  brummet und gehet gleichfals weg.<lb/> Der Marquis trit auf, nebſt dem Odoardo,
-                  der, mit einer laͤcherlichen Hoͤff-<lb/> lichkeit und Unterwuͤrffigkeit, um ſeine
-                  Huͤlffe bittet, damit er die Aurelia von den<lb/> Pantalon erhalte. Der Marquis
-                  verſpricht, mit dem Alten dißfals zu reden und<lb/> laͤſſet den Pantalon ruffen.
-                  Pantalon koͤmmt mit ſeinen Toͤchtern und der Smeral-<lb/> dina. Der Marquis ſagt
-                  zu dem Alten, er habe etwas von groſer Wichtigkeit in<lb/> ſeinem Hauſe mit ihm zu
-                  ſprechen und nimmt die Damen unter den Arm und gehet<lb/> fort. Es folgen ihm alle
-                  nach.</p>
-               <stage>Der Schau-Platz verwandelt ſich in ein Zimmer.</stage>
-               <p rend="indent">Brighella und Arlequin zancken mit einander, welcher von beyden die
-                  Gaͤſte ih-<lb/> res Herrn empfangen ſoll. Hierauf hoͤret man ein muſicaliches
-                  Concert, unter wel-<lb/> chem der Marquis mit den Toͤchtern des Pantalons, dem
-                  Alten und dem Odoardo,<lb/> nebſt deſſen Laquayen, eintrit. Der Marquis noͤthiget
-                  das Frauenzimmer zum ſitzen;<lb/> Es wird Tafel gehalten und Geſundheit
-                  getruncken. Zuletzt nimmt der Arlequin eine<lb/> Bouteille Wein weg; Der Laquay
-                  will ſie ihm aus der Hand reiſſen; Arlequin<lb/> wird boͤſe, und dieſer Zanck
-                  ſtoͤret den Fortgang der Muſick. Damit Arlequin zu<lb/> eſſen bekoͤmmt, bringet er
-                  zum Schein die falſche Nachricht, als ob ein Fahrzeug<lb/> des Pantalons arretiret
-                  worden, weil es contrebande Waaren bey ſich gehabt.<lb/> Der Alte wird beſuͤrtzt
-                  und empfiehlet ſich dem Marquis, der ihm ſeines Schutzes<lb/> verſichert. Er gehet
-                  weg. Die uͤbrigen folgen ihm nach, und Brighella und Arle-<lb/> quin endigen mit
-                  allerley Poſſen die erſte Handlung.</p>
-            </div>
-            <div type="act" n="2">
-               <head>Andere Handlung.</head>
-               <stage>Der Schau-Platz ſtellet ein Zimmer mit einem Nacht-Tiſch vor.</stage>
-               <p rend="indent">Brighella und Arlequin befehlen zwey Bedienten alles zurechte zu
-                  machen,<lb/> weil der Herr ſich anziehen und ausgehen wolle. Der Marquis koͤmmt
-                  mit einer<lb/> Nacht-Muͤtze, lieſet einen Brief, ſetzet ſich vor den Nacht-Tiſch
-                  und befiehlet, daß<lb/> ſich, auſſer dem Arlequin, alle aus dem Zimmer begeben und
-                  ihm den Laquay<lb/> ruffen ſollen. Nachdem er ſich als ein Petit-Maitre
-                  angeputzet, faͤnget er an zuſchrei-<lb/> ben. Arlequin macht ihm alles nach,
-                  woruͤber der Marquis lacht, aber bald boͤſe<lb/> wird, wie er den Brighella gewahr
-                  wird, der mit dem Laquayen koͤmmt, ſo ſich den<lb/> Kopff verbunden. Der Marquis
-                  fragt nach der Urſache und der Laquay klaget den<lb/>
-                  <fw place="bottom" type="sig">* 3</fw>
-                  <fw type="catch" place="bottom">Arlequin</fw>
-                  <pb facs="#nascondi_ge_006" n="6"/><fw type="pageNum">6</fw>Arlequin an. Der Marquis
-                  befiehlet im Zorn dem Brighella, ihn mit Schlaͤgen<lb/> aus dem Hauſe zujagen.
-                  Brighella fuͤhret den Arlequin weg. Der Marquis klei-<lb/> det ſich vollendes an
-                  und gehet nebſt dem Laquay fort.</p>
-               <stage>Der Schau-Platz verwandelt ſich in eine Stadt.</stage>
-               <p rend="indent">Arlequin, der durch zwey Bediente aus ſeines Herrn Hauß gejagt
-                  wird,<lb/> ſagt, daß er ſich raͤchen wolle. Unter dieſem Lerm koͤmmt der Pantalon,
-                  der die Die-<lb/> ner des Marquis weggehen heiſſet. Arlequin erzehlet ihm weinend,
-                  daß er in ſei-<lb/> nes Herrn Ungnade gefallen. Pantalon ſagt, er ſolle ſich in
-                  ſein Hauß begeben und<lb/> verſpricht, ſeinen Herrn wieder zu beſaͤnfftigen.
-                  Arlequin freuet ſich, daß er auf dieſe<lb/> Art zu der Smeraldina kommen ſoll und
-                  gehorſamet. Der Alte bleibt. Der Do-<lb/> ctor koͤmmt mit einem Kaͤſtgen zu ihm,
-                  freuet ſich, daß er ihn geſund ſiehet und ſagt,<lb/> da er nach Pantalons
-                  Verſprechen, die Diana bekommen ſollte, haͤtte er ihr ein Pre-<lb/> ſent mit
-                  gebracht, welches er ihm ſehen laͤſſet. Der Alte rufft die Diana und befieh-<lb/>
-                  let ihr, dem Doctor die Hand zugeben. Diana wirderſetzet ſich; der Doctor<lb/>
-                  aber ſetzet, voller Freude ſie zu umarmen, das Kaͤſtgen auf die Erde.
-                  Brighella,<lb/> der auf alles acht gehabt, ſagt, er wolle einen Poſſen ſpielen und
-                  tauſchet das Kaͤſt-<lb/> gen mit einem anderen aus. Der Doctor uͤbergiebt ſeiner
-                  Geliebten daſſelbe, um ſie<lb/> zubeſaͤnfftigen. Sie macht es auf und giebt es dem
-                  Doctor, mit vielen Schmaͤh-Worten,<lb/> zuruͤck. Ihr Vater, der Arlequin und
-                  Smeraldina ſagen ihm gleichfals viele<lb/> ſchlimme Sachen in die Augen, woruͤber
-                  er ſo boͤſe wird, daß er ſie verlaͤſſet. Die<lb/> anderen begeben ſich in des
-                  Pantalons Hauß. Brighella koͤmmt lachend zuruͤck und<lb/> ſagt, er wolle die Diana
-                  ruffen und mit ihr ſprechen. Sie koͤmt heraus. Brighella,<lb/> dem ihre Liebe
-                  gegen den Marquis und ihr Abſchied von dem Doctor bekannt iſt,<lb/> fragt ſie, ob
-                  ein verborgener Ort in ihrem Hauſe waͤre? Sie antwortet mit ja. Wor-<lb/> auf er
-                  gantz erfreuet ſagt, wenn dem alſo waͤre, ſo ſollte ſie, wenn ſie ihr Vater<lb/>
-                  zur Heyrath mit dem Doctor zwingen wollte, ſich ſtellen, als ob ſie ſich umbringen
-                  wollte;<lb/> wenn ſich nun ihr Vater wiederſetzete, ſollte ſie ihm, in
-                  verſtelleten Zorne, ſagen, ſie<lb/> wolle ſich erſaͤuffen, aber ihr Geiſt wuͤrde
-                  raͤchen, daß er ſie mit Gewalt verheyra-<lb/> then wolle. Jnzwiſchen ſollte ſie
-                  die Garten-Thuͤre auflaſſen, damit er und der<lb/> Marquis in das Hauß kommen und
-                  ihr Vorhaben in das Werck richten koͤnnten.<lb/> Diana wird hierdurch zufrieden
-                  geſtellet und gehet fort. Brighella gehet auch ab.</p>
-               <p rend="indent">Der Doctor trit auf und bezeiget ſich gantz untroͤſtbar uͤber die
-                  Begebenbeit,<lb/> ſo ſich mit ſeinem Geſchencke zugetragen. Er rufft den Pantalon,
-                  um ſich bey ihm<lb/> zu rechtfertigen. Pantalon, der von ſeiner Unſchuld
-                  uͤbezeiget iſt, laͤſſet ſeine<lb/> Tochter kommen, die von der Smeraldina und dem
-                  Arlequin begleitet wird. Er be-<lb/> fiehlet ihr, dem Doctor die Hand zugeben. Sie
-                  ſtellet ſich gantz raſend an, vollbringet<lb/>
-                  <fw type="catch" place="bottom">den</fw>
-                  <pb facs="#nascondi_ge_007" n="7"/><fw type="pageNum">7</fw> den Rath des Brighella und
-                  gehet fort. Pantalon lacht uͤber ihren Zorn und ſagt<lb/> zu der Smeraldina, ſie
-                  ſolle ſie zuruͤck ruffen. Dieſe koͤmmt wieder und ſagt, ſie<lb/> koͤnne ſie
-                  nirgends finden. Arlequin thut desgleichen. Endlich ſuchen der Doctor<lb/> und
-                  Pantalon ſelbſt, und da der letztere ſeine Tochter nicht ſinde, glaubt er, ſie
-                  habe<lb/> ihre Drohungen wahr gemacht, und begiebt ſich, in aͤuſſerſter
-                  Verzweiffelng, nebſt<lb/> dem Arlequin und der Smeraldina weg. Der Doctor betruͤbt
-                  fich ſehr, daß er, un-<lb/> ſchuidiger Weiſe, die Urſache dieſes Ungluͤcks ſeyn
-                  ſoll und gehet weg.</p>
-               <stage>Der Schau-Platz ſtellet ein Zimmer mit des Pantalons Bette vor.</stage>
-               <p rend="indent">Pantalon trit auf und beklaget ſich uͤber das Ungluͤck ſeiner
-                  Tochter und ſaget,<lb/> daß ihm ſein Gewiſſen keine Ruhe laſſe. Er legt ſich
-                  nieder, loͤſchet des Licht aus<lb/> und ſchlaͤft ein. Jndeſſen ſiehet man eine
-                  Flamme durch das Zimmer fahren, welche<lb/> den Alten aufwecket, der in der
-                  aͤuſſerſten Beſtuͤrtzung da lieget. Der Marquis, als<lb/> Pluto, der Gott der
-                  Hoͤllen, und Brighella nebſt einer ſeinem Freunde, als Teufſel, tre-<lb/> ten
-                  herein und geben den Alten eine Tracht Schlaͤge. Diana aber, als ein Geiſt,
-                  ver-<lb/> langet von dem vermeynten Pluto Gerechtigkeit, weil ſie ihr Vater mit
-                  Gewalt zu<lb/> einer Heyrath zwingen wollen und ſie dadurch genoͤthiget, ſich
-                  umzubringen. Pluto<lb/> befiehlet den Teuffeln, dieſe ungluͤckſelbige nach der
-                  Hoͤlle zubringen und gehet fort.<lb/> Pantalon ſteiget zitternd aus dem Bette und
-                  ſchreyet nach Huͤlffe. Arlequin koͤmmt<lb/> halbſchlaffend herzu und der Alte
-                  erzehlet ihm, was ſich begeben. Arlequin er-<lb/> ſchrickt, zittert fuͤr Furcht
-                  und will nicht bey dem Alten bleiben. Zu letzt legt er<lb/> ſich doch nieder. Die
-                  Teuffel kommen zuruͤck und plagen ſo wohl den Pantalon, als<lb/> den Arlequin,
-                  womit ſich die andere Handlung endiget.</p>
-            </div>
-            <div type="act" n="3">
-               <head>Die dritte Handlung.</head>
-               <p rend="indent">Pantalon koͤmmt gantz zitternd mit dem Arlequin, laͤſſet ſich einen
-                  Stuhl geben,<lb/> bittet ihn, ſo lange zu wachen, biß es Tag werde, indeſſen wolle
-                  er ein wenig ſchlafen.<lb/> Arlequin macht einige Schwuͤrigkeit, nach welcher er
-                  ihn doch ſolches zu thun<lb/> verſpricht. Pantalon ſchlaͤfft ein. Arlequin macht,
-                  ſich die Zeit zu vertreiben, aller-<lb/> ley Poſſen, woruͤber der Alte zu weilen
-                  aufwachet und wieder einſchlaͤfft. Jndeſſen<lb/> koͤmmt der Marquis, Brighella,
-                  Diana und Smeraldina in der ordentlichen Klei-<lb/> dung. Der Marquis ſagt zu den
-                  Frauenzimmern, ſie ſollte ihm folgen. Smeral-<lb/> dina ſpielet dem Arlequin
-                  allerley Poſſen, und dieſer ruffet den Pantalon. Smeraldina<lb/> loͤſchet das
-                  Licht aus und gehet mit dem Marquis fort. Arlequin ſagt zu dem Alten,<lb/> er habe
-                  Geiſter geſehen und Pantalon antwortet, er wolle nicht laͤnger in dieſem Zim-<lb/>
-                  mer bleiben und rufft die Smeraldina. Wie dieſe nicht koͤmmt, gehet er fort, um
-                  ſie<lb/> zu ſuchen. Arlequin will nicht alleine im Zimmer bleiben und folget ihm
-                  nach.</p>
-               <fw place="bottom" type="sig">(*4)</fw>
-               <fw type="catch" place="bottom">Der</fw>
-               <pb facs="#nascondi_ge_008" n="8"/>
-               <fw type="pageNum">8</fw>
-               <stage>Der Schau-Platz ſtellet eine Stadt bey Tage vor.</stage>
-               <p rend="indent">Brighella koͤmmt ſehr vergnuͤgt auf den Schau-Platz und freuet ſich,
-                  daß<lb/> ſein Anſchlag ſo wohl von ſtatten gegangen. Er ſagt, er wolte ſich die
-                  Furcht des Al-<lb/> ten zu Ruhe machen, um die Aurelia an den Odoardo zubringen,
-                  und rufft ſie heraus.<lb/> Wie ſie koͤmmt, ſagt er zu ihr, woferne ſie den Odoardo
-                  liebe und ihn heyrathen wolle,<lb/> ſolle ſie ſich in ſeines Herrn Pallaſt
-                  begeben, allwo alles zu ihrem Vergnugen veran-<lb/> ſtaltet ſey. Aurelia gehet
-                  weg. Brighella bleibt. Der Arlequin koͤmmt gantz er-<lb/> ſchrocken und iſt boͤſe,
-                  daß er die Smeraldina nicht finden koͤnnen. Brighella ſagt<lb/> ihm, worferne er
-                  vergnuͤgt ſeyn wolle, ſo ſolle er in ſeines Herrn Pallaſt gehen und<lb/> fuͤr
-                  deſſen Befriedigung nicht ſorgen. Arlequin gehet fort. Brighella bleibt. Der<lb/>
-                  Marquis koͤmmt mit dem Doctor, der ihm ſeine und des Pantalons Beſtuͤrtzung<lb/>
-                  uͤber den Tod der Diana erklaͤret. Der Marquis befiehlet, den Pantalon
-                  zuruffen,<lb/> und als derſelbe koͤmmt und ſich uͤber das Ungluͤck beklaget, daß
-                  ſeine andere Tochter,<lb/> die Aurelia, die Flucht genommen, bittet er ihn zu ſich
-                  und macht ihm Hoffnung,<lb/> ſeine Traurigkeit in eine große Freude verwandelt
-                  zuſehen. Er gehet mit dem Bri-<lb/> ghella ab. Pantalon hohlet ſeine Muͤtze und
-                  gehet mit dem Doctor in des Mar-<lb/> quis Pallaſt.</p>
-               <stage>Der Schau-Platz ſtellet ein Zimmer vor, in welchen man allerley<lb/>
-                  Zubereitung zu einem Feſte ſiehet.</stage>
-               <p rend="indent">Der Marquis, Odoardo und Arlequin ſitzen, unter einer Bedeckung,
-                  neben<lb/> der Diana, Aurelia und Smeraldlina, von vielen Perſonen umgeben, und
-                  indem man<lb/> ein Muſicaliſches Concert hoͤret, kommen die Alten und werden uͤber
-                  dieſe Dinge gantz<lb/> beſtuͤrtzt. Pantalon will geſchwind ſeine Tochter Diana
-                  umarmen, er wird aber<lb/> von dem Brighella verhindert. Der Marquis entdecket das
-                  Geheimniß, daß nehm-<lb/> lich er ſelbſt die Diana, Odoardo und Arlequin die
-                  Smeraldina geheyra-<lb/> thet, und daß das uͤbrige nur ein Poſſen ſey, den man ihm
-                  geſpielet, damit er ſeine Mey-<lb/> nung, in Anſehunng des Doctors, aͤndern moͤge.
-                  Pantalon ſiehet, daß die Sache ſchon<lb/> gethan iſt und giebt ſeinen Beyfall zu
-                  allen drey Heyrathen; womit ſich das gantze</p>
-               <p rend="indent">Schauſpiel endiget.</p>
-            </div>
-         </body>
-      </text>
-   </TEI>
-   <TEI>
-      <teiHeader>
-         <fileDesc>
-            <titleStmt>
-               <title>Il munifico marchese di Guascogna.</title>
-            </titleStmt>
-            <publicationStmt>
-               <p/>
-            </publicationStmt>
-            <sourceDesc>
-               <p>La traduzione ha preso in considerazione la versione in lingua russa.</p>
-            </sourceDesc>
-         </fileDesc>
-         <profileDesc>
-            <langUsage>
-               <language ident="it">Italian</language>
-            </langUsage>
-         </profileDesc>
-      </teiHeader>
-      <text>
-         <front>
-            <pb facs="#nascondi_ru_001" n="1"/>
-            <head type="main">IL MUNIFICO MARCHESE DI GUASCOGNA.</head>
-            <head type="sub">COMMEDIA ITALIANA<lb/> RAPPRESENTATA A SAN PIETROBURGO<lb/><date when="1734">nell'anno 1734.</date></head>
-            <pb facs="#nascondi_ru_002" n="2"/>
-            <div type="preface">
-               <head>ARGOMENTO.</head>
-               <p rend="indent">Silvio, marchese d’Altapolvere, cerca di ottenere il rispetto della
-                  gente con atti di prodigalità e gesta di grandezza, ma dietro l’apparente
-                  magnificenza nasconde un animo basso e cattivo. Pantalone, volendo maritare le
-                  figlie, cerca la sua protezione, ma Silvio, innamoratosi della figlia maggiore e
-                  favorendo l’amore di Odoardo per la minore abusa della buona opinione che il
-                  vecchio ha di lui. Questo costituisce l’intreccio di tutta la commedia.</p>
-            </div>
-            <castList>
-               <head>PERSONAGGI.</head>
-               <castItem>
-                  <role xml:id="pantalone_it">PANTALONE,</role>
-                  <roleDesc>padre di Diana e Aurelia.</roleDesc>
-               </castItem>
-               <castGroup>
-                  <castItem>
-                     <role xml:id="diana_it">DIANA e</role>
-                  </castItem>
-                  <castItem>
-                     <role xml:id="aurelia_it">AURELIA</role>
-                  </castItem>
-                  <roleDesc>sue figlie.</roleDesc>
-               </castGroup>
-               <castItem>
-                  <role xml:id="smeraldina_it">SMERALDINA,</role>
-                  <roleDesc>serva.</roleDesc>
-               </castItem>
-               <castItem>
-                  <role xml:id="silvio_it">SILVIO MARCHESE d’Altapolvere</role>
-               </castItem>
-               <castGroup>
-                  <castItem>
-                     <role xml:id="arlecchino_it">ARLECCHINO e</role>
-                  </castItem>
-                  <castItem>
-                     <role xml:id="brighella_it">BRIGHELLA</role>
-                  </castItem>
-                  <roleDesc>servitori.</roleDesc>
-               </castGroup>
-               <castItem>
-                  <role xml:id="lacchè_it">LACCHÈ.</role>
-               </castItem>
-               <castItem>
-                  <role xml:id="odoardo_it">ODOARDO,</role>
-                  <roleDesc>innamorato di Aurelia.</roleDesc>
-               </castItem>
-               <castItem>
-                  <role xml:id="dottore_it">DOTTORE,</role>
-                  <roleDesc>amico di Pantalone.</roleDesc>
-               </castItem>
-               <castItem>
-                  <role xml:id="altri_it">Molti altri personaggi.</role>
-               </castItem>
-            </castList>
-            <set>
-               <p>L’azione si svolge a Venezia.</p>
-            </set>
-         </front>
-         <body>
-            <pb facs="#nascondi_ru_003" n="3"/>
-            <div type="act" n="1">
-               <head>ATTO PRIMO.</head>
-               <stage>LA SCENA MOSTRA UNA CAMERA.</stage>
-               <p rend="indent">BRIGHELLA sgrida Arlecchino perché nella camera è tutto in
-                  disordine, e il loro padrone si sveglierà presto. Arlecchino gli risponde che la
-                  cosa non lo riguarda, perché anche lui è un nobile povero e serve Sua Eccellenza
-                  solo per la sua volontà. Aggiunge che Brighella dovrebbe invece sgridare i lacchè.
-                  Uno dei servitori dice che lui il suo l’ha già preparato. Arlecchino ribatte che
-                  sta mentendo. Arlecchino e il servitore iniziano a litigare. Brighella li separa e
-                  inizia a sistemare la parrucca. In quel momento il marchese chiama non si sa chi.
-                  Tutti si spaventano e iniziano a svolgere i loro compiti. Il lacchè corre ad
-                  aprire la porta. Arlecchino, suo rivale da sempre, non glielo permette, da ciò
-                  derivano alcuni lazzi. Entra il marchese e chiede che ore sono. Dopo inizia a
-                  rimproverarli perché è stato svegliato tardi, sta aspettando degli ospiti. Questo
-                  dà il via a uno scherzo teatrale, causato dal la vana ostentazione di grandezza
-                  del marchese e dal frettoloso zelo di Arlecchino e del lacchè di servirlo. Intanto
-                  bussa Pantalone, il lacchè va a vedere chi è e torna dicendo che è Pantalone. Il
-                  marchese ordina di farlo entrare e di dargli una sedia, e si mette a importunare
-                  il vecchio con incessanti complimenti. Poi il marchese ordina di portare del tè,
-                  del caffè e della cioccolata. Arlecchino corre e torna con uno strumento
-                  divertente. Ciò costringe il marchese a sgridarlo e Brighella e il lacchè ad
-                  andare a prendere ciò che ha ordinato il signore. <pb facs="#nascondi_ru_004" n="4"/>
-                  Pantalone inizia a bere il tè e il marchese si pettina, si sistema e così via, il
-                  che causa un lazzo. Alla fine, Pantalone dice al marchese che sua figlia è
-                  nell’anticamera e vuole porgergli i suoi saluti. Il marchese si affretta, le corre
-                  incontro con Arlecchino e ritorna portando Diana per mano. Arlecchino fa lo stesso
-                  con Smeraldina, nonostante il vecchio, essendo innamorato della sua serva, si
-                  oppone e non vuole che Arlecchino si permetta di corteggiarla. Dopo qualche
-                  complimento, Pantalone rivela al marchese che il motivo della sua visita è che il
-                  Dottore vuole prendere Diana in moglie, mentre Pantalone non vuole concedergliela
-                  senza il permesso di Sua Eccellenza, a cui chiede difesa e protezione. Il marchese
-                  gli risponde che, prima di concludere formalmente il matrimonio, è necessario che
-                  parli con Diana per conoscere le sue intenzioni e porta, dopo aver fatto molti
-                  lazzi, la ragazza in un’altra camera. Arlecchino, Pantalone e Smeraldina lo
-                  seguono.</p>
-               <stage>LA SCENA MOSTRA UNA CITTÀ.</stage>
-               <p rend="indent">SMERALDINA entra dicendo che la sua signora è molto felice di essere
-                  con quel marchese che ama. Smeraldina è invece molto triste, perché il suo signore
-                  Pantalone si è infatuato di lei e con il suo amore folle ostacola Arlecchino, che
-                  lei ama. Nel frattempo, entra Arlecchino. Smeraldina, vedendolo, inizia a fargli
-                  quante più carezze possibile. Nel frattempo, Pantalone entra in silenzio e si
-                  mette in mezzo a loro. Da ciò nasce un lazzo pantomimico. Smeraldina <pb facs="#nascondi_ru_005" n="5"/> se ne va. Pantalone va a chiudere il cancello.
-                  Arlecchino, attraverso molti lazzi, gli si oppone, fa cadere Pantalone e va via.
-                  Il vecchio, imprecando, va via anche lui. Il marchese entra con Odoardo, che con
-                  una finta sottomissione e ridendo tra sé e sé, chiede la sua protezione, in modo
-                  da poter ottenere in sposa Aurelia, la figlia di Pantalone, sul quale sa che
-                  Silvio ha una grande influenza. Il marchese promette di parlarne con il padre
-                  della sua amata essendo Odoardo un brav’uomo, e promette anche di proteggerlo.
-                  Chiede al lacchè di chiamare Pantalone con le sue figlie e Smeraldina. Dopo dice
-                  al vecchio che deve parlargli di una cosa importante a casa sua. Con un lazzo e
-                  con un buffo movimento del corpo offre la mano alle dame e tutti vanno via.</p>
-               <stage>LA SCENA MOSTRA UNA CAMERA.</stage>
-               <p rend="indent">BRIGHELA e Arlecchino, interrompendosi a vicenda, preparano il
-                  necessario per accogliere gli ospiti del loro signore e bisticciano tra loro. Poi
-                  comincia a suonare la musica, arriva il marchese con le figlie di Pantalone, il
-                  vecchio, Odoardo e il lacchè. Dopo molti lazzi, Silvio fa accomodare le fanciulle,
-                  da ciò nasce un lazzo. Iniziano a mangiare e bere alla salute. Alla fine
-                  Arlecchino, sempre dispettoso, ruba una bottiglia di vino. Il lacchè vuole
-                  portargliela via. Arlecchino si arrabbia. Entrambi <pb facs="#nascondi_ru_006" n="6"/>
-                  iniziano a fare rumore, il che costringe la musica a fermarsi. Arlecchino, per
-                  placcare la sua fame, dice mentendo che una nave di Pantalone è stata arrestata
-                  sul molo perché è carica di merci proibite. Il vecchio si rattrista e si
-                  raccomanda al marchese, che promette di proteggerlo e va via. Lo seguono tutti,
-                  tranne Arlecchino e Brighella che, attraverso un lazzo, concludono il primo
-                  atto.</p>
-            </div>
-            <div type="act" n="2">
-               <head>ATTO SECONDO.</head>
-               <stage>LA SCENA MOSTRA UNA CAMERA CON UN TAVOLO DA TOELETTE.</stage>
-               <p rend="indent">BRIGHELLA e Arlecchino ordinano ai servitori di portare tutto il
-                  necessario per vestire il signore perché deve uscire. Arriva il marchese con un
-                  berretto da notte e leggendo una lettera; si mette alla toeletta, ordina a tutti
-                  di uscire, tranne Arlecchino, a cui ordina di chiamare il lacchè. Il marchese
-                  comincia a prepararsi, come fanno i modaioli. Poi inizia a scrivere. Arlecchino fa
-                  lo stesso, il marchese vedendolo, inizia a ridere e poi a rimproverarlo. Nel
-                  frattempo, arriva Brighella con il lacchè che ha la testa fasciata. Il marchese
-                  gli domanda il motivo di quello. Il lacchè incolpa Arlecchino. Il marchese,
-                  arrabbiato, ordina a Brighella di picchiare Arlecchino con un bastone e di
-                  cacciarlo. Brighella porta via Arlecchino. Il marchese, dopo essersi vestito, va
-                  via con il lacchè.</p>
-               <stage>LA SCENA MOSTRA UNA CITTÀ.</stage>
-               <p>ARLECCHINO cacciato dal suo padrone con le bastonate di due servitori, cerca <pb facs="#nascondi_ru_007" n="7"/> di vendicarsi. A quel grido accorre Pantalone e manda
-                  via i servitori. Arlecchino, in lacrime, inizia a raccontargli della sua
-                  disgrazia. Pantalone lo invita a casa sua e gli promette di tranquillizzare il suo
-                  signore. Arlecchino si rallegra di poter stare con Smeraldina, entra. Il vecchio
-                  rimane, poi arriva il Dottore con una scatola, si rallegra di vedere Pantalone,
-                  gli ricorda la promessa secondo cui sua figlia Diana sarebbe diventata sua moglie,
-                  per questo le ha portato un dono e lo mostra a Pantalone. Il vecchio chiama Diana
-                  e le dice di dare la mano al Dottore, come se fosse suo marito. Diana non vuole
-                  farlo. Il Dottore gioendo, vuole abbracciarla e appoggia la sua scatola per terra.
-                  Brighella, che ha visto tutto, dice che vuole prenderlo in giro, va via e torna
-                  con una scatola uguale e la scambia con quella del Dottore. Il vecchio, per
-                  addolcire la sua fidanzata, le consegna il suo regalo. La fanciulla apre la
-                  scatola e, vedendo cosa c’è dentro, si arrabbia e inizia a rampognare il Dottore
-                  di fronte a suo padre, Arlecchino e Smeraldina. Il Dottore con grande tristezza, e
-                  non minore imbarazzo, va via, mentre tutti gli altri entrano da Pantalone.
-                  Brighella torna ridendo e dice che deve chiamare Diana per parlarle. Arriva la
-                  fanciulla. Brighella, conoscendo l’amore di Diana per il marchese e l’avversione
-                  per il Dottore, le chiede se in casa ha un posto segreto dove potersi nascondere.
-                  Diana risponde di sì. Brighella, rallegrandosi, le dice che se è così, allora
-                  quando suo padre inizierà a costringerla a sposare il Dottore, lei dovrà <pb facs="#nascondi_ru_008" n="8"/> fingere di volersi suicidare. Quando il padre si
-                  opporrà, gli dovrà dire con rabbia che si suiciderà annegandosi in un pozzo, ma i
-                  suoi gemiti la vendicheranno. Dopodiché deve nascondersi in quel posto segreto ma
-                  far sì che il cancello del giardino non sia del tutto chiuso, così lui e il
-                  marchese possono entrare in casa e portarla via, affinché suo padre non la possa
-                  forzare a sposare il Dottore. Diana si rallegra e va via. Brighella anche va via
-                  per eseguire la promessa.</p>
-               <p rend="indent">Il DOTTORE entra pensando a ciò che gli è successo. Per
-                  giustificarsi di fronte a Pantalone lo chiama. Pantalone, sicuro dell’innocenza
-                  del Dottore, chiama sua figlia, dietro di lei ci sono Smeraldina e Arlecchino, e
-                  le ordina di dare la mano al Dottore. Diana, fingendo di essere molto arrabbiata,
-                  mette in atto il consiglio di Brighella e se ne va. Pantalone, rimproverando il
-                  suo temperamento, manda Smeraldina a chiamarla. Smeraldina dice di non averla
-                  trovata, anche Arlecchino dice lo stesso. Il Dottore e Pantalone, non avendola
-                  trovata e credendo che la fanciulla abbia messo in atto la sua minaccia, cadono in
-                  una grande tristezza. Pantalone va via con Arlecchino e Smeraldina. Il Dottore,
-                  addolorato per essere la causa di quella sfortuna, va via facendo sapere che la
-                  notte è già calata.</p>
-               <stage>LA SCENA MOSTRA UNA CAMERA DA LETTO CON IL LETTO DI PANTALONE.</stage>
-               <p rend="indent">PANTALONE arriva piangendo la sfortuna <pb facs="#nascondi_ru_009" n="9"/>
-                  di sua figlia e dice che è tormentato dalla sua coscienza e non ha pace. Si sdraia
-                  e dopo molti lazzi spegne la candela e si addormenta. Nel frattempo, si vede una
-                  fiamma che sveglia il vecchio e lo spaventa. Poi appare il marchese vestito da
-                  Plutone, e Brighella e un suo amico mascherati da diavoli, che spaventano molto il
-                  vecchio. Subito dopo entra Diana e con lamenti chiede giustizia al re dell’inferno
-                  perché suo padre voleva forzarla a sposare un uomo e quindi l’ha costretta ad
-                  uccidersi. Plutone ordina ai diavoli di portare quel pover’uomo all’inferno e va
-                  via con Diana. Pantalone, spaventato dal rumore del diavolo, si alza dal letto e
-                  chiama gli aiutanti.</p>
-               <p rend="indent">ARLECCHINO accorre al rumore mezzo addormentato. Il vecchio gli
-                  racconta cosa gli è successo. Arlecchino per quello trema. Pantalone vuole
-                  costringerlo a rimanere con lui, ma Arlecchino non vuole farlo. Questo dà il via a
-                  un lazzo. Alla fine, Arlecchino si addormenta. Arrivano i diavoli che spaventano
-                  il vecchio e Arlecchino e con un lazzo concludono il secondo atto.</p>
-            </div>
-            <div type="act" n="3">
-               <head>ATTO TERZO.</head>
-               <p rend="indent">PANTALONE, tutto tremante, arriva con Arlecchino. Dopo alcuni lazzi
-                  ordina che gli sia data una sedia e chiede ad Arlecchino di non dormire fino
-                  all’arrivo del giorno. Arlecchino prima si oppone, <pb facs="#nascondi_ru_010" n="10"/>
-                  poi glielo promette. Pantalone si addormenta. Arlecchino, per trascorrere il
-                  tempo, fa molti lazzi che infastidiscono il vecchio e causano un lazzo divertente.
-                  Alla fine, Arlecchino si addormenta. Allora arriva il marchese con Brighella,
-                  Diana e Smeraldina tutti mascherati. Il marchese dice alle fanciulle di seguirlo.
-                  Smeraldina fa molti lazzi con Arlecchino che si sveglia e chiama Pantalone.
-                  Smeraldina spegne la candela ed esce con il marchese. Arlecchino dice al vecchio
-                  di aver visto i morti. Pantalone gli risponde che non vuole più stare in quella
-                  camera e chiama Smeraldina. La serva tarda ad arrivare e allora Pantalone va a
-                  cercarla. Arlecchino non vuole essere lasciato da solo e con un lazzo segue
-                  Pantalone.</p>
-               <stage>LA SCENA MOSTRA UNA CITTÀ DI GIORNO.</stage>
-               <p rend="indent">BRIGHELLA entra molto contento che la sua invenzione sia riuscita,
-                  dice che vuole sfruttare a suo favore la confusione del vecchio per far sposare
-                  Odoardo con Aurelia e inizia a chiamarla. Arriva Aurelia. Brighella le dice che,
-                  se ama Odoardo e vuole sposarlo, allora deve andare nel palazzo del suo padrone,
-                  dove sarà soddisfatta. Aurelia parte. Brighella rimane. Arriva da lui Arlecchino
-                  con grande paura e rabbia per non aver trovato Smeraldina da nessuna parte.
-                  Brighella gli dice che se vuole essere soddisfatto deve andare a casa del suo
-                  padrone, con il quale si impegna a riconciliarlo. Arlecchino obbedisce. Brighella
-                     <pb facs="#nascondi_ru_011" n="11"/> rimane. Arriva il marchese con il Dottore che
-                  gli racconta della tristezza di Pantalone, oltre che della sua, per la morte di
-                  sua figlia. Il marchese ordina a Brighella di chiamare Pantalone, che viene
-                  piangendo la sua disgrazia, accresciuta dalla fuga dell’altra figlia Aurelia con
-                  Smeraldina. Il marchese gli chiede di entrare in casa sua e lo consola, dicendogli
-                  che sarebbe uscito da un grande dolore con una grande gioia e va via con
-                  Brighella. Pantalone va a prendere la sua veste e va con il Dottore dal
-                  marchese.</p>
-               <stage>LA SCENA MOSTRA UNA CAMERA RICCAMENTE DECORATA.</stage>
-               <p rend="indent">Il MARCHESE, Odoardo e Arlecchino siedono su un trono, tenendo per
-                  mano Diana, Aurelia e Smeraldina, e sono circondati da molte persone. E quando si
-                  tiene un concerto arrivano i vecchi e si infuriano, non sapendo cosa fare.
-                  Pantalone vuole correre ad abbracciare Diana, ma Brighella lo trattiene, da ciò
-                  derivano molti lazzi. Alla fine, il marchese comunica tutto ciò che è accaduto e
-                  dice che Diana è sua moglie, Aurelia è quella di Odoardo e Smeraldina di
-                  Arlecchino e che tutto il resto è stata soltanto una beffa che gli è stata fatta
-                  per fargli cambiare intenzione nei confronti del Dottore. Pantalone, vedendo che
-                  la cosa è fatta, acconsente ai matrimoni e con il divertimento di tutti finisce
-                  la</p>
-               <p rend="indent">COMMEDIA.</p>
-            </div>
-         </body>
-      </text>
-   </TEI>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>ТАЙНОЕ МЕСТО</title>
+                    <respStmt>
+                        <resp>Transcription and encoding by</resp>
+                        <name>Tatiana Korneeva</name>
+                    </respStmt>
+                    <respStmt>
+                        <resp>Digital images</resp>
+                        <name>The Göttingen State and University Library</name>
+                    </respStmt>
+                </titleStmt>
+                <publicationStmt>
+                    <publisher>Università Ca' Foscari di Venezia - VeDPH</publisher>
+                    <date>December 2021</date>
+                    <availability>
+                        <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0
+                            Unported License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <msDesc>
+                        <msIdentifier>
+                            <settlement>Göttingen</settlement>
+                            <repository>The Göttingen State and University Library</repository>
+                            <idno type="shelfmark">8 P DRAM IV, 8250 (37) RARA</idno>
+                            <idno type="URI">http://resolver.sub.uni-goettingen.de/purl?PPN175625916X</idno>
+                        </msIdentifier>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure unit="pages" quantity="14">14 pages of source
+                                            material</measure>
+                                        <height unit="cm">18,9</height>
+                                        <width unit="cm">14,6</width>
+                                        <depth unit="cm">0,1</depth>
+                                    </extent>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msDesc>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <langUsage>
+                    <language ident="ru">Russian</language>
+                </langUsage>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <surface type="ru">
+                <graphic xml:id="nascondi_ru_001" url="/img/nascondi_ru_001.jpg"/>
+                <graphic xml:id="nascondi_ru_002" url="/img/nascondi_ru_002.jpg"/>
+                <graphic xml:id="nascondi_ru_003" url="/img/nascondi_ru_003.jpg"/>
+                <graphic xml:id="nascondi_ru_004" url="/img/nascondi_ru_004.jpg"/>
+                <graphic xml:id="nascondi_ru_005" url="/img/nascondi_ru_005.jpg"/>
+                <graphic xml:id="nascondi_ru_006" url="/img/nascondi_ru_006.jpg"/>
+                <graphic xml:id="nascondi_ru_007" url="/img/nascondi_ru_007.jpg"/>
+                <graphic xml:id="nascondi_ru_008" url="/img/nascondi_ru_008.jpg"/>
+                <graphic xml:id="nascondi_ru_009" url="/img/nascondi_ru_009.jpg"/>
+                <graphic xml:id="nascondi_ru_010" url="/img/nascondi_ru_010.jpg"/>
+                <graphic xml:id="nascondi_ru_011" url="/img/nascondi_ru_011.jpg"/>
+                <graphic xml:id="nascondi_ru_012" url="/img/nascondi_ru_012.jpg"/>
+                <graphic xml:id="nascondi_ru_013" url="/img/nascondi_ru_013.jpg"/>
+                <graphic xml:id="nascondi_ru_014" url="/img/nascondi_ru_014.jpg"/>
+            </surface>
+        </facsimile>
+        <text>
+            <front>
+                <pb facs="#nascondi_ru_001" n="1"/>
+                <head type="main">ТАИНОЕ МѢСТО</head>
+                <head type="sub">КОМЕДIЯ IТАЛIЯНСКАЯ<lb/> ВЪ САНКТПЕТЕРБУРГѢ <date when="1735">1735.</date></head>
+                <pb facs="#nascondi_ru_002" n="2"/>
+                <fw type="pageNum">2</fw>
+                <div type="preface">
+                    <head>ПЕРЕЧЕНЬ.</head>
+                    <p rend="indent">ЦЕЛIИ, на котораго ночью напалъ Октавïй проти-<lb/> вникъ его,
+                        сынъ Панталоновъ, убиваетъ онаго,<lb/> и убѣгаетъ въ Болонїю. Будучи тамъ
+                        получаетъ онъ<lb/> писмо отъ Эуларїи любовницы своея, которая ему<lb/> чрезъ
+                        то приказываетъ возвратиться въ Медїоланъ,<lb/> приготовивши ему такое
+                        мѣсто, гдѣ онъ можетъ<lb/> безопасенъ быть отъ всякаго гоненїя, пока
+                        дѣло<lb/> свое исправитъ. Целїй исполняетъ приказъ. Отъ<lb/> сего
+                        возвращенїя Целїева, которой прибылъ близъ<lb/> Медïолана, начинается
+                        Комедїя.</p>
+                </div>
+                <castList>
+                    <head>ДѢИСТВУЮЩIЯ ЛИЦА.</head>
+                    <castItem>
+                        <role xml:id="pantalone_ru">ПАНТАЛОНЪ,</role>
+                        <roleDesc>отецъ Iзабеллïнъ.</roleDesc>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="isabella_ru">IЗАБЕЛЛА,</role>
+                        <roleDesc>подъ именемъ по томъ Фïаметты дочь Панта-<lb/>лонова, служащая
+                            Арлекïнова.</roleDesc>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="brighella_ru">БРІГЕЛЛЪ,</role>
+                        <roleDesc>слуга.</roleDesc>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="celio_ru">ЦЕЛIИ,</role>
+                        <roleDesc>любовникъ Эуларïинъ.</roleDesc>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="eularia_ru">ЭУЛАРIЯ,</role>
+                        <roleDesc>его любовница.</roleDesc>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="arlecchino_ru">АРЛЕКІНЪ,</role>
+                        <roleDesc>его слуга.</roleDesc>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="dottore_ru">ДОКТОРЪ,</role>
+                        <roleDesc>отецъ Эуларïинъ.</roleDesc>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="colombina_ru">КОЛОМБIНА,</role>
+                        <roleDesc>служащая ея.</roleDesc>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="odoardo_ru">ОДОАРДЪ</role>
+                        <roleDesc>женихъ Iзабеллïнъ.</roleDesc>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="giudice_ru">Одинъ судья.</role>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="soldati_ru">Солдаты приказные.</role>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="lavoratori_ru">Работные люди.</role>
+                    </castItem>
+                </castList>
+                <set>
+                    <p>Дѣиствуется въ Медïоланѣ, и около.</p>
+                </set>
+                <fw type="catch" place="bottom">ДѢИ-</fw>
+            </front>
+            <body>
+                <pb facs="#nascondi_ru_003" n="3"/>
+                <fw type="pageNum">3</fw>
+                <div type="act" n="1">
+                    <head>ДѢИСТВIЕ ПЕРВОЕ.</head>
+                    <stage>ТЕАТРЪ ПОКАЗЫВАЕТЪ ЛѢСЪ.</stage>
+                    <p rend="indent">ЦЕЛIИ съ дороги выходитъ съ Арлекїномъ говоря,<lb/> что надобно
+                        имъ итьти по незнаемымъ дорогамъ,<lb/> чтобъ кому въ глаза не попасться.
+                        Арлекїнъ гово-<lb/> ритъ, что онъ Целїй животъ свой потеряетъ, еже-<lb/>
+                        либъ поиманъ былъ, за убїйство Октавїево. Целïй<lb/> ему отвѣтствуетъ, что
+                        онъ возвращается будучи<lb/> призванъ сюда чрезъ свою любовницу, которая
+                        ему<lb/> припасла одно сокровенное мѣсто. На то слышно<lb/> стало быть, что
+                        кричатъ: помогите. Арлекїнъ го-<lb/> воритъ, что то карѣта, которую лошади
+                        опроки-<lb/> нули съ одною дамою. Целїй побѣжалъ на помощь;<lb/> да и
+                        возвращается съ испужавшеюся Iзабеллою; са-<lb/> жаетъ онъ ея на камень, и
+                        признаваетъ ея что она<lb/> сестра Октавїева, котораго онъ убилъ;
+                        удивившись<lb/> о своей встрѣчѣ, снялъ съ нея одну кисть, говоря,<lb/> что
+                        се ему послужитъ, со временемъ, къ примире-<lb/> нїю съ Панталономъ отцомъ
+                        противника убитаго;<lb/> а слыша, что идутъ люди, побѣжалъ онъ съ
+                        Арлекї-<lb/> номъ.</p>
+                    <p rend="indent">ПАНТАЛОНЪ въ печали о своеи дочери, выходитъ<lb/> съ Одоардомъ
+                        такъ же зоботящемся о своеи невѣстѣ;<lb/> а видя ея внѣ себя; стали ей
+                        давать нюхать балсамъ.<lb/> Та пришедъ въ себя говоритъ имъ, что она себя
+                        не<lb/> поранила; однакожъ она удивляется, потому что<lb/> будучи выброшена
+                        изъ карѣты, что она на семъ мѣстѣ<lb/> нашлася, старикъ, и Одоардъ еи
+                        говорятъ, что ка-<lb/> рѣта ея поднята, а они прибѣжали было на помощь<lb/>
+                        ей. Радуется старикъ, а больше Одоардъ, что его<lb/> невѣста здорова, и
+                        невредна. Обѣщаются они какъ<lb/>
+                        <fw type="sig" place="bottom">Д 2</fw>
+                        <fw type="catch" place="bottom">наискоряе</fw>
+                        <pb facs="#nascondi_ru_004" n="4"/>
+                        <fw type="pageNum">4</fw> наискоряе окончить бракъ, да и пошли всѣ.</p>
+                    <stage>ТЕАТРЪ ПОКАЗЫВАЕТЪ ДВОИНУЮ КАМЕРУ.</stage>
+                    <p rend="indent">ЭУЛАРIЯ выходитъ говоря, что она ожидаетъ<lb/> съ часу на часъ,
+                        Целїя любовника своего, которому<lb/> она приготовила одно таиное мѣсто.
+                        Омакиваетъ<lb/> она нещастїе его. На то Целїй выходитъ съ Ар-<lb/> лекїномъ
+                        обнаживъ свою шпагу говоря, что<lb/> за нимъ гонятся солдаты, и думая, что
+                        то<lb/> чрезъ предательство ея любезныя, чтобъ его по-<lb/> губить, сталъ ея
+                        называть вѣроломницею. Эуларїя<lb/> удивившись о семъ его къ себѣ укорѣ,
+                        увѣряетъ его<lb/> о своей къ нему вѣрности; а слыша, что стучатся<lb/> у
+                        воротъ спрятала она Целїя съ Арлекïномъ въ одно<lb/> тайное мѣсто, потомъ
+                        послала Коломбїну къ воро-<lb/> тамъ. Судья входя съ людьми своими говоритъ
+                        Эу-<lb/> ларїи, что онъ увѣдомился, что спрятался въ ея<lb/> домъ одинъ
+                        виннои, и что то его должности, чтобъ<lb/> онаго тутъ искать. Эуларїя
+                        противится ему говоря,<lb/> что понеже ея отецъ Губернаторомъ
+                        Палаццуол-<lb/> скимъ, того ради дворъ его уволенъ отъ всѣхъ та-<lb/> ковыхъ
+                        обысковъ. Судья говоритъ, что онъ о томъ<lb/> имѣетъ указъ изъ Сената, да и
+                        приказываетъ своимъ<lb/> людямъ обыскъ чинить. Люди обыскивать стали
+                        вездѣ,<lb/> а не нашедши никого, хотятъ прочь поити. Тогда<lb/> Докторъ
+                        выходитъ, и видя солдатовъ у себя, сталъ<lb/> ихъ бранить; для того что они
+                        ни малаго почтенїя<lb/> къ его характеру не имѣли чрезъ то обыскъ.
+                        Судья<lb/> извиняетъ себя указомъ; да и пошолъ съ своими<lb/> людми. Докторъ
+                        о всемъ томъ спрашиваетъ у своей<lb/> дочери; та отвѣтствуетъ, что она
+                        ничего не<lb/> знаетъ. Докторъ сталъ ея бранить за любовь, кото-<lb/>
+                        <fw type="catch" place="bottom">рую</fw>
+                        <pb facs="#nascondi_ru_005" n="5"/>
+                        <fw type="pageNum">5</fw> рую она имѣетъ къ Целїю, и что онъ весьма<lb/>
+                        вѣритъ, что Целїй прибылъ въ Медïоланъ съ ея со-<lb/> гласїя, хочетъ онъ ея
+                        бить. На то Панталонъ при-<lb/> ходитъ; спрашиваетъ о причинѣ его гнѣва.
+                        Докторъ<lb/> ему сказываетъ причину безчестїя, которое онъ воз-<lb/> имѣлъ
+                        отъ судьи, и то, что онъ намѣренъ оста-<lb/> вить сеи домъ, чтобъ въ народѣ
+                        перервать чрезъ то<lb/> всѣ неосновательныя рѣчи. Панталонъ ему
+                        говоритъ,<lb/> что понеже онъ хочетъ за мужъ отдавать свою дочъ<lb/> за
+                        Одоарда; того ради буде его домъ доволенъ будетъ<lb/> для него Панталона, и
+                        для зятя его, то онъ возметъ<lb/> оную за себя.</p>
+                    <p rend="indent">БРIГЕЛЛЪ выходитъ радуяся о возвращенïи Пан-<lb/> талоновомъ
+                        изъ деревни. Докторъ проситъ Панта-<lb/> лона, чтобъ онъ позволилъ Брїгеллу
+                        проводить дочь<lb/> его съ Коломбїною не далеко отъ сюда къ одной<lb/>
+                        теткѣ. Панталонъ позволенїе охотно даетъ. Эула-<lb/> рїя съ Коломбїною
+                        отдавши честь пошли. Докторъ<lb/> говоритъ Панталону, что между тѣмъ
+                        пошлетъ<lb/> онъ забрать свои буторъ, да и пошолъ. На то Брї-<lb/> геллъ
+                        возвращается говоря, что на силу докторову<lb/> онъ дочь, и служащую довелъ
+                        до тетки ихъ. Пан-<lb/> талонъ велитъ ему посмотрѣть покои докторовы,<lb/> и
+                        есть ли въ нихъ все нуждное. Брїгеллъ исполняетъ<lb/> приказъ. Тогда
+                        работные люди пришли говоря, что<lb/> по приказу докторову надобно имъ взять
+                        ево буторъ.<lb/> Брїгеллъ положилъ на нихъ онои отпустилъ. Пан-<lb/> талонъ
+                        ему велитъ, чтобъ онъ сказалъ зятю своему<lb/> и дочери притьти въ сей домъ,
+                        и чтобъ онъ перенесъ его буторъ, да и пошолъ съ нимъ.</p>
+                    <p rend="indent">ЦЕЛIИ и Арлекїнъ выходя изъ сокровеннаго того<lb/> мѣста,
+                        дивятся, что дворъ сталъ быть пустъ; а<lb/> видя, что ворота заперты изъ
+                        внѣ, весьма запечали-<lb/>
+                        <fw type="sig" place="bottom">Д 3</fw>
+                        <fw type="catch" place="bottom">лися</fw>, <pb facs="#nascondi_ru_006" n="6"/><fw type="pageNum">6</fw> лися, для того что не могутъ вытьти вонъ, ни<lb/>
+                        выскочить въ окна, для того что тѣ были съ желѣз-<lb/> ными решотками.
+                        Говорятъ они, что буде не попу-<lb/> стятъ они свою жизнь въ напасть, то имъ
+                        спастися<lb/> отъ сего нещастїя не возможно. На то Брїгеллъ при-<lb/> ходитъ
+                        съ одною лоханью, и съ работными людьми<lb/> несущими буторъ его господина;
+                        полагаетъ онъ ту<lb/> лохань на столъ, отсылаетъ работныхъ людеи, да<lb/> и
+                        пошолъ. Арлекїнъ изъ своего таинаго мѣста видя<lb/> лохань, призвалъ Целїя;
+                        и когда они смотрѣли,<lb/> что бы то было, тогда слышенъ сталъ быть
+                        Брї-<lb/> геллъ. Тѣ опять спряталися, унесши съ собой ло-<lb/> хань.
+                        Брїгеллъ выходитъ съ Iзабеллою сказывая ей<lb/> что женихъ къ ней прислалъ
+                        ту спрашиваетъ, гдѣбъ<lb/> онъ то положилъ, а ненашедый ни гдѣ, стала
+                        сер-<lb/> диться на него. На то Панталонъ приходитъ. Iза-<lb/> белла
+                        жалуется ему о поступкѣ Брїгелловомъ, ко-<lb/> торой сталъ винить
+                        работниковъ въ томъ; а послѣ<lb/> нѣкоторыхъ игрушокъ пошолъ готовить
+                        ужину.<lb/> Панталонъ ввелъ дочь свою въ камеру ея, а самъ<lb/> остался. На
+                        то Эуларїя приходитъ обернувшись<lb/> епанчою, и говоря, что она пришла
+                        выпустить Це-<lb/> лїя изъ того сокровеннаго мѣста, въ которое она его<lb/>
+                        посадила; но увидѣвши Панталона, сказываетъ, что<lb/> будто гонится за ней
+                        нѣкто, и что будто уже онъ<lb/> на лѣсницѣ. Панталонъ, чтобъ то видѣть,
+                        пошолъ,<lb/> впустивши ея въ покой Одоардовъ.</p>
+                    <p rend="indent">ЦЕЛIИ показывается говоря Арлекїну, которой<lb/> наряженъ был
+                        женьшиною, чтобъ онъ старался какъ<lb/> нибудь уйти, и увѣдомить брата его о
+                        ихъ напасти,<lb/> да и спрятался опять. Арлекїнъ остался. Панта-<lb/> лонъ
+                        возвращается; а думая что то та дама, ко-<lb/> торую онъ самъ ввелъ,
+                        сказываетъ, что онъ никого<lb/>
+                        <fw type="catch" place="bottom">не</fw>
+                        <pb facs="#nascondi_ru_007" n="7"/><fw type="pageNum">7</fw> не видалъ на лѣсницѣ;
+                        хотѣлъ онъ ея улещивать<lb/> Арлекїнъ убѣгаетъ; а многїя шутки кончатъ
+                        дѣй-<lb/> ствїе первое.</p>
+                </div>
+                <div type="act" n="2">
+                    <head>ДѢИСТВIЕ ВТОРОЕ.</head>
+                    <p rend="indent">ЭУЛАРIЯ выходитъ изъ покоя Одоардова; и какъ она хотѣла пойти
+                        въ то сокровенное мѣсто, тогда Брїгеллъ увидѣвъ ея, что она выходила изъ
+                        покоя жениха своея госпожи, говоритъ, что онъ хочетъ ея о томъ увѣдомить, да
+                        и пошолъ. Эуларїя вызы- ваетъ Целїя; объявивши ему про себя говоритъ, что
+                        она на другую квартиру переѣхала съ своимъ отцомъ, что ея въ великое привело
+                        затрудненїе о немъ; а услышавши, что идутъ люди, спряталися они. Брїгеллъ
+                        выходитъ говоря Iзабеллѣ, о томъ что онъ видѣлъ. Iзабелла спрашиваетъ у
+                        него, гдѣбъ она теперь была? Брїгеллъ не видя ея больше, дивится, по тому
+                        что ворота все были заперты. Iзабелла думаетъ, что не опять ли она ушла къ
+                        Одоарду, бранитъ Брїгелла, что онъ ея выпустилъ изъ рукъ. На то Панталонъ
+                        приходитъ съ Одоардомъ, и увѣ- домился отъ нихъ о ихъ дѣлѣ, говоритъ дочери
+                        своей, что онъ знаетъ ту женшину, и что она уже вышла. Приказываетъ онъ
+                        Брїгеллу пойти къ воротамъ. Одоардъ кланяется своеи невѣстѣ, по томъ шу-
+                        титъ надъ Панталономъ тою не знаемою женшиною, между тѣмъ Докторъ приходитъ,
+                        спрашиваетъ у нихъ, что нравенъ ли имъ тотъ дворъ! Панта- лонъ говоритъ, что
+                        нравенъ. Стали они другъ другу комплїменты чинить. Тогда Коломбїна при-
+                        ходитъ въ великой боязни, и говоритъ Доктору, что его дочь сбѣжала. Докторъ
+                        въ отчаянїи проситъ <fw type="catch" place="bottom">помощи</fw>
+                        <pb facs="#dispnobi_ru_008" n="8"/><fw type="pageNum">8</fw> помощи у друговъ
+                        своихъ, да и пошолъ съ Колом-<lb/> бїною. Одоардъ, чтобъ ему услужить, за
+                        нимъ же<lb/> пошолъ. Панталонъ говоритъ своеи дочерѣ, чтобъ<lb/> чрезъ сей
+                        примѣръ научилася она быть честною<lb/> дѣвицею, да и послалъ ея домой.
+                        Между тѣмъ Брї-<lb/> геллъ возвращается таща Арлекїна насильно, про<lb/>
+                        котораго сказывалъ господину своему, что онъ его<lb/> поималъ на лѣсницѣ.
+                        Панталонъ дивится, что ви-<lb/> дитъ слугу непрїятельскаго въ своемъ домѣ,
+                        спра-<lb/> шиваетъ у него про непрїятеля своего. Арлекїнъ<lb/> дѣлается
+                        несмысленнымъ. Старикъ приказываетъ<lb/> Брїгеллу свѣчь принесть, а онъ самъ
+                        хочетъ итти<lb/> къ судьѣ, да и пошолъ заперши ворота двойнымъ<lb/> замкомъ.
+                        Арлекїнъ видя себя одного, стучится у<lb/> сокровеннаго того мѣста; Целїй
+                        выходитъ. Арлекїнъ<lb/> ему сказываетъ, что братъ его увѣдомленъ о его<lb/>
+                        напасти, и что онъ обѣщалъ притьти выручить<lb/> его; съ нѣсколькими
+                        друзьями вооруженными, на<lb/> утреннеи зорѣ, а о прибытїи своемъ хотятъ
+                        они<lb/> дать знакъ выстрѣливъ дважды изъ пїстолета,<lb/> Целїи призываетъ
+                        Эуларїю, и соглашается съ нею,<lb/> чтобъ не ожидать дня, но бѣжать
+                        теперь,<lb/> ежели можно будетъ. Стали они подходить къ<lb/> воротамъ въ
+                        самое то время, когда Панталонъ воз-<lb/> вращался съ Одоардомъ, и такъ всѣ
+                        другъ съ дру-<lb/> гомъ встрѣтилися въ темнотѣ, а не говоря ничего<lb/>
+                        остановились всѣ. Целїй, Эуларїя, и Арлекїнъ ни<lb/> слова не молвивши опять
+                        возвратились въ свое мѣ-<lb/> сто. Панталонъ кличетъ. Брїгеллъ съ свѣчею
+                        при-<lb/> ходитъ; спрашиваетъ онъ у старика всему тому<lb/> причины; стали
+                        они искать Арлекїна. Но ненашедши<lb/> заключили, что онъ тогда ушолъ, когда
+                        Панталонъ<lb/> отворялъ дверь. Панталонъ велѣлъ дать свѣчу<lb/>
+                        <fw type="catch" place="bottom">Одоарду,</fw>
+                        <pb facs="#nascondi_ru_009" n="9"/><fw type="pageNum">9</fw> Одоарду, которои
+                        пошолъ въ свою камеру. Потомъ<lb/> старикъ говоритъ Брїгеллу, что Арлекїнъ
+                        не могъ<lb/> имѣть больше двухъ рукъ, а однако ощупано ихъ<lb/> было больше
+                        четырехъ въ темнотѣ. Брїгеллъ гово-<lb/> ритъ, что можетъ быть то были
+                        Iзабеллїны, ко-<lb/> торая хотѣла пошутить надъ своимъ женихомъ,<lb/> но
+                        чтобъ увѣдомиться о томъ кличутъ они ея.</p>
+                    <p rend="indent">IЗАБЕЛЛА выслушавши говоритъ, что она ничего<lb/> не знаетъ, да
+                        и пошла въ свою камеру, подозрѣвая<lb/> въ семъ дѣлѣ нѣчто о Одоардѣ.
+                        Старикъ думая все<lb/> что то она хотѣла пошутить надъ своимъ жени-<lb/>
+                        хомъ, и его укрываетъ, пошолъ съ Брїгелломъ въ<lb/> камеру свою. Арлекїнъ не
+                        видя никово, кличетъ<lb/> Целїя и Эуларїю. И когда они хотѣли уходить,<lb/>
+                        тогда услышали, что люди идутъ. Целїй и Арле-<lb/> кїнъ тотчасъ спряталися;
+                        но Эуларїя въ темнотѣ<lb/> не нашла сокровеннаго того мѣста; а Iзабелла
+                        тогда<lb/> пришла съ свѣчею говоря, что она хочетъ присма-<lb/> тривать за
+                        своимъ женихомъ, и видя одну женшину<lb/> покрытую, которая старалася
+                        укрыться въ камеру<lb/> ея жениха, поимала оную и хочетъ съ нея стащить<lb/>
+                        епанчу. Эуларїя выхвативши пїстолѣтъ, грозитъ ея<lb/> убить. Iзабелла въ
+                        великую ярость пришедши отъ<lb/> ревности, побѣжала въ камеру свою по
+                        пїстолетъ.<lb/> Въ то время Эуларїя при свѣтѣ от свѣчи спрятала-<lb/> ся въ
+                        таиное то мѣсто. Iзабелла въ великомъ гнѣвѣ<lb/> возвращается съ
+                        пїстолѣтомъ; а не видя ни кого<lb/> думаетъ, что Одоардъ ея спряталъ къ
+                        себѣ, и такъ<lb/> великои крикъ начала чинить, да и кличетъ Панта-<lb/>
+                        лона, которому сказываетъ, что ея женихъ запер-<lb/> ся съ женшиною въ
+                        камерѣ своеи. Панталонъ ста-<lb/> рался ея усмирить, та говоритъ, что она
+                        ко-<lb/> нечно хочетъ ту женшину, и принудила старика<lb/>
+                        <fw type="catch" place="bottom">Е</fw> стучаться <pb facs="#nascondi_ru_010" n="10"/><fw type="pageNum">10</fw> стучаться у двереи Одоардовыхъ, и его
+                        просить,<lb/> чтобъ онъ отпеъ. Одоардъ многихъ ради причинъ<lb/> не возможно
+                        было того учинить; того ради чрезъ<lb/> сїе прибавилъ имъ подозрѣнїя. На
+                        конецъ онъ имъ<lb/> отперъ. Панталонъ съ насмѣшкою спрашиваетъ у<lb/> него
+                        вѣстей о той женшинѣ. Одоардъ ставитъ то<lb/> въ шутку; но видя, что они
+                        говорятъ въ правду,<lb/> кленется честїю своею, что онъ никого не
+                        имѣетъ<lb/> въ камерѣ своей. Iзабелла не кажется быть довольна<lb/>
+                        отговорками его, говоритъ Панталону, чтобъ онъ<lb/> самъ пошолъ въ камеру
+                        посмотрѣть. Одоардъ осер-<lb/> дившись говоритъ имъ, что буде чрезъ сей
+                        только<lb/> подлогъ хотятъ они слово данное перемѣнить, и<lb/> въ немъ не
+                        устоять; то и онъ съ своей стороны по-<lb/> зволяетъ ему итьти въ камеру
+                        свою съ такимъ уго-<lb/> воромъ, что буде ни кого онъ не найдетъ, тобъ
+                        и<lb/> ему такъ же вольно было обѣщанїя своего неиспол-<lb/> нить, и не
+                        здержать своего слова. Панталонъ не<lb/> знаетъ что дѣлать. Но ревнивая
+                        Iзабелла говоря<lb/> что то только отговорка невѣрнаго ея жениха, да-<lb/>
+                        бы, чрезъ то, укрыть оную женшину, принудила<lb/> своего отца, чтобъ поити
+                        осмотрѣть камеру Одо-<lb/> ардову. Панталонъ пошолъ; но возвращается съ<lb/>
+                        стыдомъ говоря, что онъ не нашолъ тамъ ни кого.<lb/> Одоардъ съ холодностью
+                        имъ говоритъ, что буде<lb/> имъ нравно, что онъ остатокъ сея ночи
+                        пробудетъ<lb/> еще у нихъ, а завтра съ свѣтомъ въ другъ онъ выдетъ<lb/> отъ
+                        нихъ, да и пошолъ. Iзабелла разьярившися го-<lb/> воритъ своему отцу и
+                        жениху, что они оба въ со-<lb/> гласïи. Одоардъ пошолъ въ свою камеру.
+                        Панталонъ<lb/> не могши утишить свою дочь такъ же. Iзабелла<lb/> видя отъ
+                        обоихъ худой себѣ прïемъ, отчаянïемъ<lb/> своимъ окончеваетъ дѣиствїе
+                        второе.</p>
+                </div>
+                <fw rend="catch" place="bottom">ДѣИ-</fw>
+                <div type="act" n="3">
+                    <pb facs="#nascondi_ru_011" n="11"/>
+                    <fw type="pageNum">11</fw>
+                    <head>ДѢИСТВИЕ ТРЕТЬЕ.</head>
+                    <p rend="indent">IЗАБЕЛЛА приходитъ въ епанчѣ съ свѣчою. Гово-<lb/> ритъ, что
+                        она до свѣту не хочетъ отойти отъ<lb/> сюду, дабы еи видѣть ту женьшину, про
+                        которую<lb/> она все думаетъ, что она у Одоарда. Сѣла она на<lb/> стулъ;
+                        покрылась епанчою, да и уснула.</p>
+                    <p rend="indent">ОДОАРДЪ изъ своего покоя говоритъ, что онъ<lb/> нехочетъ
+                        ожидать дни. Видитъ онъ одну женшину;<lb/> роскрылъ ея; а видя, что то
+                        Iзабелла, думаетъ,<lb/> что она безъ памяти лежитъ; и такъ въ сожалѣнїе<lb/>
+                        пришолъ; но чтобъ ея въ память привести говоритъ,<lb/> что онъ пошолъ По ло
+                        деларенъ. Iзабелла, которая<lb/> уже тогда неспала, встала, и пошла говоря,
+                        что<lb/> она не можетъ терпѣть, чтобъ его видѣть. Между<lb/> тѣмъ Эуларїя
+                        выходитъ изъ таинаго своего мѣста,<lb/> и говоритъ, что она хочетъ, по тому
+                        что никого<lb/> нѣтъ, заснуть въ сей камерѣ. Для того сѣла, и<lb/>
+                        покрылася. Одоардъ возвращается съ тою волною,<lb/> которую называетъ ло
+                        деларенъ, и видя перемѣну<lb/> дивится. Въ то самое время Панталонъ
+                        спряшиваетъ<lb/> изъ своея камеры: кто идетъ? Одоардъ не хотя,<lb/> чтобъ
+                        онъ его видѣлъ тутъ съ женшиною, ушолъ<lb/> въ свою камеру, а Эуларїя въ
+                        сокровенное мѣсто;<lb/> откуду Арлекїнъ вышелъ по прежде того, которои<lb/>
+                        такъ же говоритъ, что онъ хочетъ отдохнуть; са-<lb/> дится онъ, прикрываяся
+                        епанчою. На то Панталонъ<lb/> выходитъ говоря, что то за стукъ, да за
+                        шумъ<lb/> здѣсь? я не могъ на малчасъ заснуть; а увидѣвъ одну<lb/> женьшину
+                        думалъ, что то была дочь его, сталъ ея<lb/> бранить за ея упрямство, да и
+                        хочетъ сдернуть<lb/> епанчу. Арлекїнъ погасилъ у него свѣчу. Панталонъ<lb/>
+                        осердившись пошолъ по свѣтъ, а Арлекïнъ спрятался.<lb/>
+                        <fw type="sig" place="bottom">Е 2</fw>
+                        <fw rend="catch" place="bottom">Пан-</fw>
+                        <pb facs="#nascondi_ru_012" n="12"/><fw type="pageNum">12</fw> Панталонъ
+                        возвращается, но не видя ни кого, ду-<lb/> маетъ, что она ушла къ Одоарду.
+                        Одоардъ осерди-<lb/> вшись такъ же и за сїе, говоритъ Панталону, что<lb/>
+                        хотя чуть еще зоря занялася, однакожъ онъ пой-<lb/> детъ; а что касается до
+                        свадьбы, о томъ подумаетъ,<lb/> да и пошолъ вонъ изъ двора. Панталонъ будучи
+                        о томъ<lb/> въ великои печали кличетъ Брїгелла, которои ему<lb/> совѣтуетъ
+                        искать Одоарда, и стараться чтобъ его<lb/> утишить. Загашиваютъ они свѣчи,
+                        по тому что<lb/> уже день былъ. Панталонъ велитъ себя одѣть,<lb/> жалуяся на
+                        толь непокоиную ночь. На то Докторъ<lb/> приходитъ, чтобъ ему сказать, что
+                        встрѣтившись<lb/> онъ въ кафеиномъ дому съ Одоардомъ, на силу онъ<lb/> его
+                        поклономъ почтилъ, что ему подало причину,<lb/> думать, что нѣтъ ли чего у
+                        нихъ новаго, о чемъ<lb/> онъ пришолъ увѣдомиться. Панталонъ ему сказы-<lb/>
+                        ваетъ о ссорѣ учиненнои отъ ревности его дочери,<lb/> да и проситъ его чтобъ
+                        онъ пошолъ съ нимъ, и помогъ<lb/> бы ему о примиренїи стараться. Докторъ ему
+                        обѣ-<lb/> щается съ такимъ уговоромъ, чтобъ онъ такъ же<lb/> помогъ ему
+                        взаимно искать свою дочь. Панталонъ<lb/> поручаетъ сїе дѣло Брїгеллу,
+                        которои и пошолъ.<lb/> Старики утѣшая другъ друга о своемъ нещастїи,<lb/>
+                        пошли же.</p>
+                    <p rend="indent">IЗАБЕЛЛА печаляся, что оскорбила своего жени-<lb/> ха,
+                        говоритъ, что она хочетъ итьти просить своего<lb/> отца, чтобъ онъ у него
+                        просилъ ея именемъ проще-<lb/> нїя, да и пошла въ его камеру.</p>
+                    <p rend="indent">ЦЕЛIИ выходитъ съ Эуларїею, и Арлекïномъ изъ<lb/> сокровеннаго
+                        того мѣста; и когда старики, чиня<lb/> съ Одоардомъ комплїменты, слышимы
+                        быть стали<lb/> при воротахъ; тогда Арлекїнъ торопяся упредивъ<lb/> Целїя, и
+                        Эуларïю спрятался въ то сокровенное мѣсто,<lb/>
+                        <fw type="catch" place="bottom">да</fw>
+                        <pb facs="#nascondi_ru_013" n="14"/>
+                        <fw type="pageNum">13</fw> да и заперъ оное. Целїй и Эуларїя не зная что
+                        чи-<lb/> нить, и видя себя въ необходимои напасти, Эуларїя<lb/> спряталася
+                        въ Одоардову камеру въ то самое время,<lb/> какъ Iзабелла выглянувши въ
+                        ворота, увидѣла ея<lb/> бѣгущую, да и закричала; вотъ любовница моего<lb/>
+                        мужа, которая пошла къ нему. Целїй бросился въ<lb/> камеру Iзабеллїну, что
+                        Одоардъ увидѣвъ такъ же<lb/> закричалъ: вотъ любовникъ моея невѣсты.
+                        Старики<lb/> невидавъ ни того ни другую, говорятъ. Вотъ теперь<lb/> все
+                        помирено. Iзабелла осердившися говоритъ, что<lb/> ея женихъ больше
+                        запереться неимѣетъ, что жень-<lb/> шина не вошла къ нему. Одоардъ еи
+                        отвѣчаетъ;<lb/> правда, что мнѣ надлежитъ говорить, въ томъ ты<lb/> меня
+                        предъупреждаешь, по тому что ты имѣешь<lb/> въ своей камерѣ любовника, а не
+                        я въ моей. Старики<lb/> стараются, чтобъ ихъ помирить; но видя, что имъ<lb/>
+                        не можно того учинить, Панталонъ вошолъ въ покой<lb/> Одоардовъ, и выходитъ
+                        отъ туда съ покрытою<lb/> Эуларїею. Iзабелла спесивится о своей
+                        находкѣ.<lb/> Одоардъ говоритъ, что онъ еи тотчасъ такъ же<lb/> отмститъ, да
+                        и кленется, что сїя женьшина вошла<lb/> въ его камеру безъ его вѣдома. Тогда
+                        всѣ хотятъ<lb/> ея разкрыть. Эуларїя сказала о себѣ тихонько Одо-<lb/> арду,
+                        прося его, чтобъ онъ недопустилъ ея роз-<lb/> крыть. Одоардъ до того
+                        недопускаетъ. Сїе под-<lb/> вердило подозрѣнїе Iзабеллїно, которая его
+                        стала<lb/> бранить. Одоардъ не терпя того сталъ поносить<lb/> Iзабеллу, что
+                        она имѣетъ любовника въ своеи каме-<lb/> рѣ. Iзабелла подсмѣивать стала его
+                        за отмщенїе<lb/> толь не основательное вѣдая, что никого у нея нѣтъ<lb/> въ
+                        камерѣ. Панталонъ, чтобъ увѣдать правду, хо-<lb/> четъ войти въ покои къ
+                        своей дочери. Целїй пока-<lb/> залъ суля старику, которой назадь подался.
+                        Пан-<lb/> талонъ началъ жестоко бранить свою дочь, что она<lb/>
+                        <fw type="sig" place="bottom">Е 3</fw>
+                        <fw type="catch" place="bottom">въ</fw>
+                        <pb facs="#nascondi_ru_014" n="14"/>
+                        <fw type="pageNum">14</fw> въ камерѣ своей укрывала того, кто ея брата
+                        убилъ.<lb/> Всѣ хотятъ войти въ камеру противъ Целїя, кото-<lb/> рой
+                        выхвативши шпагу защищается въ дверяхъ, и<lb/> говоритъ, что онъ въ сеи
+                        дворъ вошолъ не наглски,<lb/> но будучи призванъ отъ Эуларїи. Эуларїя
+                        показала<lb/> себя. Докторъ видя свою дочь хочетъ ея убить;<lb/> но однако
+                        удержали его; а послышавши стукъ уви-<lb/> дѣли что Брїгеллъ бѣжитъ съ
+                        Коломбïною говоря,<lb/> что братъ Целїевъ съ множествомъ людеи идетъ,<lb/>
+                        которые всѣ вооружены, и что проситъ онъ, чтобъ<lb/> выдать ему брата его.
+                        Всѣ о томъ удивились. Целїй<lb/> прибѣжавъ къ воротамъ того двора, говоритъ
+                        ста-<lb/> рикамъ, что илибъ они его простили, или онъ ихъ<lb/> тутъ всѣхъ
+                        побьетъ съ братомъ своимъ. Старики<lb/> видя свою напасть обѣщаютъ его
+                        простить, и по-<lb/> мириться за убїйство. Целїй отослалъ своего брата,<lb/>
+                        по томъ возвращается говоря, что въ смерти Пан-<lb/> талонова сына онъ не
+                        виноватъ, по тому что онъ<lb/> не один былъ, когда тотъ на него напалъ; и
+                        такъ<lb/> можетъ быть, что его кто другои убилъ, а не онъ.<lb/> Тутъ
+                        помирились они. Эуларїя проситъ прощенїя<lb/> у Доктора за преступленїе
+                        свое. Iзабелла прощает-<lb/> ся съ Одоардомъ за ревность. Целїй проситъ
+                        всѣхъ,<lb/> чтобъ простить такъ же Арлекїна, да и кличетъ его.<lb/> Арлекїнъ
+                        показался изъ тайнаго онаго мѣста и съ<lb/> лоханью, которую онъ укралъ съ
+                        стола. Брїгеллъ<lb/> узнавши оную, отнимаетъ у него оную. Эуларїя<lb/>
+                        сказываетъ про намѣренїе, для чего она здѣлала сїе<lb/> сокровенное мѣсто;
+                        чрезъ то извѣстны стали быть<lb/> всѣ о чудесахъ бывшихъ въ ночь. По томъ
+                        сочетанї-<lb/> ями брачными кончится Комедїя.</p>
+                </div>
+            </body>
+        </text>
+    </TEI>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Il nascondiglio</title>
+                </titleStmt>
+                <publicationStmt>
+                    <p/>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>La traduzione ha preso in considerazione la versione in lingua russa.</p>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <langUsage>
+                    <language ident="it">Italian</language>
+                </langUsage>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <front>
+                <pb facs="#nascondi_ru_001" n="1"/>
+                <head type="main">IL NASCONDIGLIO.</head>
+                <head type="sub">COMMEDIA ITALIANA<lb/> RAPPRESENTATA A SAN PIETROBURGO<lb/>
+                    <date when="1735">nel 1735.</date></head>
+                <pb facs="#nascondi_ru_002" n="2"/>
+                <div type="preface">
+                    <head>ARGOMENTO.</head>
+                    <p rend="indent">CELIO, che viene assalito di notte da Ottavio, suo avversario e
+                        figlio di Pantalone, lo uccide e fugge a Bologna. Lì riceve una lettera da
+                        Eularia, la sua amata, che gli ordina di tornare a Milano, avendo preparato
+                        per lui un posto, dove può stare al sicuro da ogni persecuzione, finché non
+                        risolve i suoi affari. Celio esegue l’ordine. Dal ritorno di Celio, nei
+                        pressi di Milano, inizia la commedia. </p>
+                </div>
+                <castList>
+                    <head>PERSONAGGI.</head>
+                    <castItem>
+                        <role xml:id="pantalone_it">PANTALONE,</role>
+                        <roleDesc>padre di Isabella.</roleDesc>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="isabella_it">ISABELLA,</role>
+                        <roleDesc>sua figlia.</roleDesc>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="brighella_it">BRIGHELLA,</role>
+                        <roleDesc>servitore.</roleDesc>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="celio_it">ЦЕЛIИ,</role>
+                        <roleDesc>любовникъ Эуларïинъ.</roleDesc>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="eularia_it">ЭУЛАРIЯ,</role>
+                        <roleDesc>la sua innamorata.</roleDesc>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="arlecchino_it">ARLECCHINO,</role>
+                        <roleDesc>suo servitore.</roleDesc>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="dottore_it">IL DOTTORE,</role>
+                        <roleDesc>padre di Eularia.</roleDesc>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="colombina_it">COLOMBINA,</role>
+                        <roleDesc>sua servitrice.</roleDesc>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="odoardo_it">ODOARDO,</role>
+                        <roleDesc>fidanzato di Isabella.</roleDesc>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="giudice_it">Un giudice.</role>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="soldati_it">Soldati giudiziari.</role>
+                    </castItem>
+                    <castItem>
+                        <role xml:id="lavoratori_it">Facchini.</role>
+                    </castItem>
+                </castList>
+                <set>
+                    <p>L’azione si svolge a Milano e dintorni.</p>
+                </set>
+            </front>
+            <body>
+                <pb facs="#nascondi_ru_003" n="3"/>
+                <div type="act" n="1">
+                    <head>ATTO PRIMO.</head>
+                    <stage>LA SCENA MOSTRA UN BOSCO.</stage>
+                    <p rend="indent">CELIO entra dalla strada con Arlecchino, dicendo che devono
+                        percorrere vie inconsuete per non attirare l’attenzione di nessuno.
+                        Arlecchino dice che Celio perderà la vita se verrà catturato per l’omicidio
+                        di Ottavio. Celio gli risponde che sta tornando perché è stato chiamato là
+                        dalla sua amata, che ha in serbo per lui un nascondiglio. Intanto sente
+                        gridare aiuto. Arlecchino dice che è una carrozza, che i cavalli hanno
+                        ribaltato, con una signora. Celio corre in soccorso. E torna con Isabella
+                        spaventata, la fa sedere su una pietra, e riconosce che è la sorella di
+                        Ottavio, che lui ha ucciso; sorpreso dal suo incontro, le toglie una ciocca
+                        di capelli, dicendo che gli sarebbe servita con il tempo, per riconciliarsi
+                        con Pantalone, padre del nemico ucciso, e sentendo arrivare delle persone,
+                        si mette a correre con Arlecchino.</p>
+                    <p rend="indent">PANTALONE, addolorato per la figlia, entra con Odoardo, anche
+                        lui in ansia per la sua fidanzata, e vedendola sconvolta, iniziano a farle
+                        annusare del balsamo. Tornata in sé, Isabella dice loro che non si è fatta
+                        male, tuttavia è sorpresa, perché è stata estratta dalla carrozza e si trova
+                        in quel posto. Il vecchio e Odoardo le dicono che la sua carrozza è stata
+                        sollevata e che loro sono corsi ad aiutarla. Il vecchio si rallegra, e
+                        ancora di più Odoardo, che la sua fidanzata sia sana e salva. Promettono <pb facs="#nascondi_ru_004" n="4"/> di concludere il matrimonio il prima possibile
+                        e tutti vanno via.</p>
+                    <stage>LA SCENA MOSTRA UNA CAMERA DOPPIA.</stage>
+                    <p rend="indent">EULARIA entra, dicendo che aspetta di ora in ora il suo
+                        innamorato Celio, per il quale ha preparato un nascondiglio. Rimugina della
+                        disgrazia del fidanzato. A quel punto entrano Celio e Arlecchino con le
+                        spade sguainate, dicono che i soldati li stanno inseguendo e pensando che
+                        ciò sia dovuto al tradimento della ragazza, la chiamano perfida. Eularia,
+                        sorpresa del rimprovero di Celio, gli assicura la sua fedeltà e, sentendo
+                        che bussano alla porta, nasconde Celio e Arlecchino in un luogo segreto, poi
+                        manda Colombina alla porta. Il giudice, entrando con i suoi uomini, dice ad
+                        Eularia di essere stato informato che in casa sua c’è un colpevole, e che è
+                        suo compito cercarlo là. Eularia gli si oppone, dicendo che, essendo suo
+                        padre il governatore di Palazzuolo, i suoi familiari sono dispensati da quel
+                        genere di perquisizione. Il giudice dice di avere un mandato del senato in
+                        merito e ordina ai suoi uomini di perquisire la casa. Gli uomini iniziano a
+                        cercare dappertutto e, non avendo trovato nessuno, vogliono andarsene. In
+                        quel momento entra il Dottore e, vedendo i soldati in casa sua, inizia a
+                        rimproverarli, perché non hanno il minimo rispetto per la sua posizione. A
+                        sua discolpa il giudice gli dice del mandato e va via con i suoi uomini. Il
+                        Dottore fa delle domande sull’accaduto alla figlia, la quale però risponde
+                        di non sapere nulla. Il Dottore inizia a rimproverarla per l’amore che <pb facs="#nascondi_ru_005" n="5"/> prova per Celio e dice di essere convinto che
+                        il giovane sia venuto a Milano con il consenso della figlia e vuole
+                        picchiarla. In quel momento arriva Pantalone e chiede il motivo della sua
+                        rabbia. Il Dottore gli spiega la ragione del disonore che ha ricevuto dal
+                        giudice e che intende lasciare quella casa per interrompere tutte le
+                        chiacchiere infondate tra la gente. Pantalone risponde che siccome vuole
+                        dare sua figlia in sposa a Odoardo allora la sua casa sarà aperta sia a
+                        Pantalone che alla figlia.</p>
+                    <p rend="indent">BRIGHELLA entra, rallegrandosi per il ritorno di Pantalone
+                        dalla campagna. Il Dottore chiede a Pantalone di permettere a Brighella di
+                        accompagnare la figlia e Colombina, non lontano da lì, da una zia. Pantalone
+                        dà volentieri il permesso. Eularia e Colombina salutano e partono. Il
+                        Dottore dice a Pantalone che nel frattempo manderà a prendere i suoi bagagli
+                        e va via. Intanto Brighella ritorna dicendo che ha portato la figlia del
+                        Dottore e la servitrice dalla zia. Pantalone gli chiede di dare un’occhiata
+                        all’alloggio del Dottore e di controllare se ha tutto ciò di cui ha bisogno.
+                        Brighella esegue gli ordini. Poi arrivano dei facchini e dicono di essere
+                        venuti per ordine del Dottore a prendere i suoi bagagli. Brighella glieli
+                        consegna e li lascia andare. Pantalone gli chiede di dire a suo genero e
+                        alla figlia di venire in quella casa e di portare là la sua roba e va via
+                        con lui.</p>
+                    <p rend="indent">CELIO e Arlecchino escono dal nascondiglio e si stupiscono che
+                        il cortile è vuoto e, vedendo che le porte sono chiuse dall’esterno, sono
+                        molto tristi, <pb facs="#nascondi_ru_006" n="6"/> perché non possono né uscire, né
+                        saltare fuori dalle finestre, perché hanno le inferriate. Dicono che se non
+                        escono le loro vite sono in pericolo e non possono salvarsi da quella
+                        disgrazia. Nel frattempo, Brighella arriva con una bacinella, e con dei
+                        facchini che portano il bagaglio del padrone, mette la bacinella sul tavolo,
+                        manda via i facchini e va via. Arlecchino, dal suo nascondiglio, vedendo la
+                        bacinella, chiama Celio, e quando guardano cosa è, allora sentono Brighella
+                        che arriva. Si nascondono di nuovo, portando con loro la bacinella.
+                        Brighella entra con Isabella, dicendole che il fidanzato le ha mandato
+                        quella bacinella. Isabella chiede dove l’ha messa e non trovandola da
+                        nessuna parte, si arrabbia con Brighella. In quel momento arriva Pantalone.
+                        Isabella si lamenta con il padre di Brighella, che dà la colpa ai facchini
+                        e, dopo alcuni lazzi, va a cucinare la cena. Pantalone manda la figlia nella
+                        sua camera e rimane. Intanto arriva Eularia, avvolta in un mantello, e dice
+                        di essere venuta per far uscire Celio dal nascondiglio, in cui l’ha
+                        lasciato, ma quando vede Pantalone, dice che qualcuno la sta inseguendo e
+                        che è già sulle scale. Pantalone va a vedere chi è, lasciandola entrare
+                        nelle stanze di Odoardo.</p>
+                    <p rend="indent">CELIO si mostra, dicendo ad Arlecchino, che è vestito da donna,
+                        di cercare in qualche modo di scappare e di avvisare suo fratello della loro
+                        disgrazia, e si nasconde di nuovo. Arlecchino rimane. Pantalone ritorna, e
+                        pensando che fosse quella signora, che egli stesso ha fatto entrare, dice
+                        che non <pb facs="#nascondi_ru_007" n="7"/> ha visto nessuno sulle scale. Vuole
+                        corteggiarla, ma Arlecchino fugge e molte battute concludono il primo
+                        atto.</p>
+                </div>
+                <div type="act" n="2">
+                    <head>ATTO SECONDO.</head>
+                    <p rend="indent">EULARIA esce dalla camera di Odoardo, e quando vuole andare in
+                        quel nascondiglio, allora Brighella, vedendola uscire dalla camera del
+                        fidanzato della sua padrona, dice di volerla avvisare di ciò e se ne va.
+                        Eularia chiama Celio, lo informa che si è trasferita in un altro
+                        appartamento con suo padre, cosa che le ha creato una gran difficoltà, e
+                        sentendo che stanno arrivando delle persone, si nascondono. Brighella entra,
+                        raccontando a Isabella ciò che ha visto. Isabella gli chiede dove è andata
+                        Eularia. Brighella, non vendendola più, si meraviglia del fatto che le porte
+                        sono tutte chiuse a chiave. Isabella pensa che potrebbe essere andata di
+                        nuovo da Odoardo, rimprovera Brighella per essersela lasciata sfuggire. In
+                        quel momento arriva Pantalone con Odoardo, viene informato da Brighella e
+                        Isabella di quanto successo, dice a sua figlia che conosce quella donna e
+                        che se n’è già andata. Ordina a Brighella di andare al cancello. Odoardo fa
+                        un inchino alla sua fidanzata, poi scherza con Pantalone su quella donna
+                        sconosciuta, intanto arriva il Dottore e chiede a loro se quella casa gli
+                        piace. Pantalone risponde che gli piace. Cominciano a farsi complimenti a
+                        vicenda. Allora Colombina arriva con grande paura e dice al Dottore che sua
+                        figlia è scappata. Il Dottore chiede con disperazione aiuto <pb facs="#nascondi_ru_008" n="8"/> ai suoi amici e va con Colombina. Odoardo, per
+                        servirlo, lo segue. Pantalone dice a sua figlia che, attraverso
+                        quell’esempio, deve imparare ad essere una ragazza onesta e la manda a casa.
+                        Nel frattempo, Brighella torna trascinando Arlecchino con la forza e dice al
+                        suo padrone di averlo trovato sulle scale. Pantalone si meraviglia di vedere
+                        il servitore del suo nemico nella sua casa e gli domanda del suo nemico.
+                        Arlecchino fa l’innocente. Il vecchio ordina a Brighella di portare una
+                        candela, lui stesso vuole andare dal giudice, e va a chiudere a chiave il
+                        cancello a doppia mandata. Arlecchino, vedendosi da solo, bussa al
+                        nascondiglio e Celio esce. Arlecchino gli dice che suo fratello è stato
+                        informato della sua disgrazia e ha promesso di venire a salvarlo con alcuni
+                        amici armati all’alba, i quali daranno segno del loro arrivo sparando due
+                        volte con la pistola. Celio chiama Eularia, e concorda con lei, di non
+                        aspettare il giorno, ma scappare adesso, se possibile. Si avviano verso il
+                        cancello proprio nel momento in cui Pantalone sta tornando con Odoardo, e
+                        così tutti si incontrano nell’oscurità, e senza dire niente si fermano.
+                        Celio, Eularia e Arlecchino, senza dire una parola, tornano di nuovo al loro
+                        nascondiglio. Pantalone chiama qualcuno. Brighella arriva con una candela,
+                        chiede al vecchio cosa è successo e cominciano a cercare Arlecchino. Ma non
+                        trovandolo concludono che se ne è andato quando Pantalone ha aperto il
+                        cancello. Pantalone ordina di dare una candela a Odoardo <pb facs="#nascondi_ru_009" n="9"/> che va nella sua camera. Poi il vecchio dice a
+                        Brighella che Arlecchino non può avere più di due braccia, eppure se ne
+                        sentiva più di quattro al buio. Brighella risponde che forse Isabella vuole
+                        fare uno scherzo al suo fidanzato e per chiederglielo la chiamano.</p>
+                    <p rend="indent">ISABELLA, dopo aver sentito la domanda, dice di non sapere
+                        nulla e va in camera sua, sospettando di Odoardo. Il vecchio, pensando che
+                        tutto ciò che voleva lei era fare uno scherzo al suo fidanzato, e lo difende
+                        e va con Brighella nella sua camera. Arlecchino, non vedendo nessuno, chiama
+                        Celio ed Eularia. E quando vogliono andarsene, sentono arrivare delle
+                        persone. Celio e Arlecchino si nascondono immediatamente, ma Eularia,
+                        nell’oscurità, non riesce a trovare il nascondiglio. Arriva Isabella con una
+                        candela, dicendo che vuole controllare Odoardo, e vedendo una donna coperta,
+                        che cerca di nascondersi nella camera del suo fidanzato, la cattura e vuole
+                        toglierle il mantello. Eularia, estraendo la pistola, minaccia di ucciderla.
+                        Isabella, infuriata per la gelosia, corre in camera sua a prendere la
+                        pistola. In quel momento Eularia, al lume di candela, si rifugia nel
+                        nascondiglio. Isabella, adirata, ritorna con la pistola e, non vedendo
+                        nessuno, pensa che Odoardo l’abbia nascosta nelle sue stanze, urla forte e
+                        chiama Pantalone, al quale dice che il suo fidanzato si è rinchiuso con una
+                        donna nella camera. Pantalone cerca di calmarla, Isabella dice che vuole
+                        vedere quella donna, costringe il padre a bussare <pb facs="#nascondi_ru_010" n="10"/> alla porta di Odoardo e chiedergli di aprire. Odoardo, per
+                        molte ragioni, non può farlo, cosa che aumenta i loro sospetti. Alla fine,
+                        apre la porta. Pantalone, beffardamente, gli chiede notizie su quella donna.
+                        Odoardo lo prende come uno scherzo, ma, vedendo che lo intendono davvero,
+                        giura sul suo onore che non ha nessuno nella sua stanza. Isabella non sembra
+                        essere convinta delle sue scuse, dice a Pantalone di andare lui stesso nella
+                        camera a controllare. Adirato, Odoardo dice loro che attraverso quel
+                        sotterfugio vogliono cambiare la parola data; poi, da parte sua, gli
+                        permette di andare in camera sua, con l’accordo che, se non trovano nessuno,
+                        sarà libero anche lui di non mantenere la sua promessa. Pantalone non sa
+                        cosa fare. Isabella, ingelosita, dice che è solo una scusa del suo infedele
+                        fidanzato per nascondere quella donna e costringe suo padre a ispezionare la
+                        camera di Odoardo. Pantalone va e torna, dicendo con vergogna che non vi ha
+                        trovato nessuno. Odoardo dice freddamente che, se a loro sta bene,
+                        trascorrerà ancora il resto della notte a casa loro e se ne andrà domani con
+                        la prima luce. Isabella, furibonda, incolpa suo padre e il fidanzato di
+                        essersi messi d’accordo. Odoardo va in camera sua. Pantalone, non riuscendo
+                        a confortare la figlia, va via anche lui. Isabella, vedendo da entrambi una
+                        cattiva accoglienza, con la sua disperazione si conclude il secondo
+                        atto.</p>
+                </div>
+                <div type="act" n="3">
+                    <pb facs="#nascondi_ru_011" n="11"/>
+                    <head>ATTO TERZO.</head>
+                    <p rend="indent">ISABELLA entra avvolta in un mantello e con una candela. Dice
+                        che prima dell’alba non vuole allontanarsi da là, per poter vedere quella
+                        donna, che continua a pensare sia da Odoardo. Si siede su una sedia, si
+                        copre con un mantello e si addormenta.</p>
+                    <p rend="indent">ODOARDO, dalla sua camera, dice che non vuole aspettare
+                        l’arrivo del giorno. Vede una donna, e togliendo il suo mantello, scopre che
+                        è Isabella. Crede che sia priva di sensi, prova pietà per lei e, per
+                        rianimarla, dice di andare a prendere l’eau de la reine. Isabella, che in
+                        quel momento è già sveglia, si alza e se ne va, dicendo che non può
+                        sopportare di vederlo. Intanto Eularia esce dal suo nascondiglio e dice che
+                        vuole dormire in quella camera, perché non c’è nessuno. Si siede e si copre.
+                        Odoardo ritorna con il profumo che chiama l’eau de la reine e, vedendo il
+                        cambiamento, si meraviglia. Proprio in quel momento Pantalone chiede dalla
+                        sua camera: chi arriva? Odoardo non volendo farsi vedere lì con una donna,
+                        va in camera sua, ed Eularia nel nascondiglio, da dove esce Arlecchino,
+                        dicendo che anche lui vuole riposarsi e con il mantello. Intanto entra
+                        Pantalone, chiedendo cosa è quel bussare, cos’è quel rumore là? Non sono
+                        riuscito a dormire nemmeno un po’. Vedendo una donna, pensa che sia sua
+                        figlia, inizia a rimproverarla per la sua testardaggine e vuole toglierle il
+                        mantello. Arlecchino spegne la candela del vecchio. Pantalone, arrabbiato,
+                        va a prendere un’altra candela e Arlecchino si nasconde. <pb facs="#nascondi_ru_012" n="12"/> Pantalone ritorna, ma non vedendo più
+                        nessuno, pensa che la figlia sia andata da Odoardo. Odoardo, anche lui
+                        arrabbiato per lo stesso motivo, dice a Pantalone che, anche se manca ancora
+                        un po’ all’alba, va via, e per quanto riguarda il matrimonio, ci penserà, e
+                        va via dal cortile. Pantalone, essendo molto triste per quello, chiama
+                        Brighella, che gli consiglia di cercare Odoardo e di cercare di calmarlo.
+                        Spengono le candele, perché è già giorno. Pantalone ordina di essere
+                        vestito, lamentandosi di una notte così agitata. Nel frattempo, arriva il
+                        Dottore, che gli dice di essersi incontrato in una caffetteria con Odoardo,
+                        il quale l’ha a malapena salutato, il che gli ha fatto pensare che fosse
+                        successo qualcosa ed è venuto a chiedere informazioni. Pantalone gli
+                        racconta del litigio causato dalla gelosia di sua figlia e gli chiede di
+                        venire con lui a cercare di fare pace con Odoardo. Il Dottore glielo
+                        promette chiedendo in cambio di trovare sua figlia. Pantalone affida quella
+                        faccenda a Brighella, che va via. I vecchi si confortano a vicenda per la
+                        loro disgrazia e anche loro vanno via.</p>
+                    <p rend="indent">ISABELLA, addolorata per aver offeso il fidanzato, dice che
+                        vuole andare a chiedere a suo padre di chiedergli perdono a suo nome e va in
+                        camera di lui.</p>
+                    <p rend="indent">CELIO esce con Eularia e Arlecchino dal nascondiglio, e quando
+                        i vecchi, facendo complimenti a Odoardo, cominciano a farsi sentire alla
+                        porta, allora Arlecchino si affretta, entra nel nascondiglio prima di Celio
+                        ed Eularia e <pb facs="#nascondi_ru_013" n="13"/> si rinchiude. Celio ed Eularia
+                        non sanno cosa fare, e vedendosi in difficoltà, Eularia si nasconde in
+                        camera di Odoardo nello stesso momento in cui Isabella, si affaccia alla
+                        porta, la vede correre e si mette a urlare: ecco l’amante del mio promesso
+                        sposo che va da lui. Celio si precipita in camera di Isabella. Odoardo,
+                        vedendolo, grida: ecco l’amante della mia fidanzata. I vecchi, non avendo
+                        visto né l’uno né l’altro, dicono: ecco che tutti si sono riconciliati.
+                        Isabella, arrabbiata, dice che il suo fidanzato non può più negare che una
+                        donna è entrata nella sua stanza. Odoardo le risponde: è vero, cosa devo
+                        dire che mi metti in guardia perché hai un amante in camera, non io nella
+                        mia. I vecchi cercano di riconciliarli, ma vedendo che è impossibile farlo,
+                        Pantalone entra in pace da Odoardo, ed esce da là con Eularia coperta.
+                        Isabella è sprezzante per la sua scoperta. Odoardo dice che si vendicherà
+                        immediatamente di lei allo stesso modo, e giura che quella donna è entrata
+                        in camera sua a sua insaputa. Poi tutti vogliono scoprirla. Eularia parla a
+                        bassa voce con Odoardo di sé stessa, gli chiede di non lasciarla scoprire.
+                        Odoardo non lascerà che accada. Ciò conferma il sospetto di Isabella, che
+                        inizia a rimproverarlo. Odoardo, impaziente, inizia a maledire Isabella
+                        perché ha un amante in camera sua. Isabella inizia a prenderlo in giro per
+                        la sua infondata vendetta, dato che non c’è nessuno in camera sua.
+                        Pantalone, per scoprire la verità, vuole entrare in camera di sua figlia.
+                        Celio si mostra e Pantalone indietreggia. Pantalone inizia a rimproverare
+                        severamente sua figlia per aver nascosto <pb facs="#nascondi_ru_014" n="14"/>
+                        nella sua camera colui che ha ucciso suo fratello. Tutti vogliono entrare in
+                        camera e attaccare Celio, che sguaina la spada, si difende sulla porta, e
+                        dice di essere entrato in quella casa non per arroganza, ma è stato chiamato
+                        da Eularia. Eularia si rivela. Il Dottore, vedendo sua figlia, vuole
+                        ucciderla, gli altri, tuttavia, lo trattengono. Sentono bussare e vedono
+                        Brighella correre con Colombina, dicendo che il fratello di Celio è arrivato
+                        con una moltitudine di uomini, tutti armati, e che gli chiede di
+                        consegnargli suo fratello. Tutti si sorprendono. Celio, correndo verso i
+                        cancelli di quel cortile, dice ai vecchi che, o lo perdonano, o li picchierà
+                        tutti con suo fratello. I vecchi, vedendo la loro disgrazia, promettono di
+                        perdonarlo per l’omicidio e di fare pace. Celio manda via il fratello, poi
+                        torna dicendo che non è lui il responsabile della morte del figlio di
+                        Pantalone, perché non era solo quando l’ha aggredito, e quindi può darsi che
+                        qualcun’altro l’abbia ucciso, non lui. Così tutti si riconciliano. Eularia
+                        chiede perdono al Dottore per il suo misfatto. Isabella e Odoardo si
+                        perdonano l’un l’altra. Celio chiede a tutti di perdonare anche Arlecchino e
+                        lo chiama. Arlecchino appare dal nascondiglio con la bacinella, che ha
+                        rubato dal tavolo. Brighella, dopo averla riconosciuta, gliela porta via.
+                        Eularia rivela il motivo per cui ha creato quel nascondiglio, attraverso il
+                        suo racconto si spiegano tutti i miracoli avvenuti nella notte. Poi con i
+                        festeggiamenti dei matrimoni finisce la commedia.</p>
+                </div>
+            </body>
+        </text>
+    </TEI>
 </teiCorpus>

@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>La disputa sulla nobiltà tra Eularia, vedova stravagante, e Pantalone mercante attaccabrighe, ovvero il marchese d’Alta Polvere</title>
+                <title>L’onorata povertà di Rinaldo, antico cavaliere gallo al tempo di Carlo Magno</title>
                 <respStmt>
                     <resp>Transcription and encoding by</resp>
                     <name>Tatiana Korneeva</name>
@@ -29,17 +29,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <p>L’onorata povertà di Rinaldo, antico cavaliere gallo al tempo di Carlo Magno.
-                    Stando al rendiconto amministrativo di Giuseppe Avolio che riporta annotazioni
-                    relative all’allestimento dello scenario L’onorata povertà di Rinaldo, antico
-                    cavaliere gallo al tempo di Carlo Magno, questa commedia dall’argomento
-                    cavalleresco fu allestita a San Pietroburgo il 15 ottobre 1735. Pandolfi (1958,
-                    vol. V, p. 365) insiste sulla somiglianza dello scenario con Renaud de
-                    Montauban, ou Sujet fidèle messo in scena da Riccoboni a Parigi il 6 aprile 1717
-                    e derivato a sua volta da Las probeças de reynaldos (1599) di Lope de Vega,
-                    fonte anche dell’Onorata povertà di Rinaldo attribuito a Giacinto Andrea
-                    Cicognini. Quanto alle eventuali riprese del canovaccio, si ricorda Rinaldo di
-                    Mont’Albano (1736) di Carlo Goldoni.</p>
+                <p>Stando al rendiconto amministrativo di Giuseppe Avoglio che riporta annotazioni relative all’allestimento dello scenario <em>L’onorata povertà di Rinaldo, antico cavaliere gallo al tempo di Carlo Magno</em>, questa commedia dall’argomento cavalleresco fu allestita a San Pietroburgo il 15 ottobre 1735. Pandolfi (1958 V, p. 365) insiste sulla somiglianza dello scenario con <em>Renaud de Montauban, ou Sujet fidèle</em> messo in scena da Riccoboni a Parigi il 6 aprile 1717 e derivato a sua volta da <em>Las probeças de reynaldos</em> (1599) di Lope de Vega, fonte anche dell’<em>Onorata povertà di Rinaldo</em> attribuito a Giacinto Andrea Cicognini. Quanto alle eventuali riprese del canovaccio, si ricorda <em>Rinaldo di Mont’Albano</em> di Carlo Goldoni del 1736.</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
