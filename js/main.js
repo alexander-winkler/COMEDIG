@@ -1,40 +1,40 @@
 // List of the XML files to be processed.
 const XMLFiles = [
-  "/comedig/xml/arlesmer.xml",
-  "/comedig/xml/arlestat.xml",
-  "/comedig/xml/brigarmi.xml",
-  "/comedig/xml/colomaga.xml",
-  "/comedig/xml/amanriva.xml",
-  "/comedig/xml/diveacqu.xml",
-  "/comedig/xml/corrbuon.xml",
-  "/comedig/xml/dottvolt.xml",
-  "/comedig/xml/franvene.xml",
-  "/comedig/xml/granbasi.xml",
-  "/comedig/xml/munimarc.xml",
-  "/comedig/xml/nascondi.xml",
-  "/comedig/xml/litiinga.xml",
-  "/comedig/xml/respapol.xml",
-  "/comedig/xml/quatarle.xml",
-  "/comedig/xml/travarle.xml",
-  "/comedig/xml/convsmer.xml",
-  "/comedig/xml/cortones.xml",
-  "/comedig/xml/dispnobi.xml",
-  "/comedig/xml/onorpove.xml",
-  "/comedig/xml/gazznoti.xml",
-  "/comedig/xml/lavanobi.xml",
-  "/comedig/xml/maggglor.xml",
-  "/comedig/xml/nascarle.xml",
-  "/comedig/xml/arcainca.xml",
-  "/comedig/xml/disgpant.xml",
-  "/comedig/xml/fortdisg.xml",
-  "/comedig/xml/magipiet.xml",
-  "/comedig/xml/metaarle.xml",
-  "/comedig/xml/ingafort.xml",
-  "/comedig/xml/spergiur.xml",
-  "/comedig/xml/sansone.xml",
-  "/comedig/xml/scavstec.xml",
-  "/comedig/xml/smerodia.xml",
-  "/comedig/xml/smerspir.xml"
+  "/xml/arlesmer.xml",
+  "/xml/arlestat.xml",
+  "/xml/brigarmi.xml",
+  "/xml/colomaga.xml",
+  "/xml/amanriva.xml",
+  "/xml/diveacqu.xml",
+  "/xml/corrbuon.xml",
+  "/xml/dottvolt.xml",
+  "/xml/franvene.xml",
+  "/xml/granbasi.xml",
+  "/xml/munimarc.xml",
+  "/xml/nascondi.xml",
+  "/xml/litiinga.xml",
+  "/xml/respapol.xml",
+  "/xml/quatarle.xml",
+  "/xml/travarle.xml",
+  "/xml/convsmer.xml",
+  "/xml/cortones.xml",
+  "/xml/dispnobi.xml",
+  "/xml/onorpove.xml",
+  "/xml/gazznoti.xml",
+  "/xml/lavanobi.xml",
+  "/xml/maggglor.xml",
+  "/xml/nascarle.xml",
+  "/xml/arcainca.xml",
+  "/xml/disgpant.xml",
+  "/xml/fortdisg.xml",
+  "/xml/magipiet.xml",
+  "/xml/metaarle.xml",
+  "/xml/ingafort.xml",
+  "/xml/spergiur.xml",
+  "/xml/sansone.xml",
+  "/xml/scavstec.xml",
+  "/xml/smerodia.xml",
+  "/xml/smerspir.xml"
 ];
 
 var CETEIcean;
@@ -137,7 +137,7 @@ const Comedig = {
       const elmLi = document.createElement("li");
       const elmA = document.createElement("a");
       elmA.setAttribute("class", "dropdown-item");
-      elmA.setAttribute("href", "/comedig/work?id=" + workId);
+      elmA.setAttribute("href", "/work?id=" + workId);
       elmA.textContent = work.title;
       elmLi.appendChild(elmA);
       elm.appendChild(elmLi);
@@ -148,7 +148,7 @@ const Comedig = {
   // Function that creates an overview page of works contained in the project
 
   createWorksPage() {
-    if (!location.pathname.startsWith("/comedig/opere.html")) {
+    if (!location.pathname.startsWith("/opere.html")) {
       return;
     }
 
@@ -167,7 +167,7 @@ const Comedig = {
       
 
       var workLink = document.createElement("a");
-      workLink.setAttribute("href", "/comedig/work?id=" + workId);
+      workLink.setAttribute("href", "/work?id=" + workId);
       workLink.setAttribute("class", "titleContainer");
       workLink.text = "  🔗";
       workTitle.appendChild(workLink);
@@ -192,7 +192,7 @@ const Comedig = {
 
       var leggionline = document.createElement('p');
       var workLinka = document.createElement("a");
-      workLinka.setAttribute("href", "/comedig/work?id=" + workId);
+      workLinka.setAttribute("href", "/work?id=" + workId);
       workLinka.setAttribute("class", "titleContainer");
       workLinka.text = "Leggi online"
       leggionline.appendChild(workLinka);
@@ -208,7 +208,7 @@ const Comedig = {
 
       /*const listWorksLi = document.createElement("li");
       const listWorksA = document.createElement("a");
-      listWorksA.setAttribute("href", "/comedig/work?id=" + workId);
+      listWorksA.setAttribute("href", "/work?id=" + workId);
       listWorksA.textContent = work.title;
       listWorksLi.appendChild(listWorksA);
       listWorks.appendChild(listWorksLi);*/
@@ -238,7 +238,7 @@ const Comedig = {
       const elmLi = document.createElement("li");
       const elmA = document.createElement("a");
       elmA.setAttribute("class", "dropdown-item");
-      elmA.setAttribute("href", "/comedig/agent?id=" + agentId);
+      elmA.setAttribute("href", "/agent?id=" + agentId);
       elmA.textContent = agent.name;
       elmLi.appendChild(elmA);
       elm.appendChild(elmLi);
@@ -246,7 +246,7 @@ const Comedig = {
   },
 
   maybeShowWork() {
-    if (!location.pathname.startsWith("/comedig/work")) {
+    if (!location.pathname.startsWith("/work")) {
       return;
     }
 
@@ -387,7 +387,7 @@ const Comedig = {
         const li = document.createElement('li');
         const a = document.createElement('a');
         a.textContent = agent.name;
-        a.href = "/comedig/agent?id=" + agentId;
+        a.href = "/agent?id=" + agentId;
         li.appendChild(a);
         agentWorkList.appendChild(li);
       }
@@ -395,7 +395,7 @@ const Comedig = {
   },
 
   maybeShowAgent() {
-    if (!location.pathname.startsWith("/comedig/agent")) {
+    if (!location.pathname.startsWith("/agent")) {
       return;
     }
 
@@ -416,7 +416,7 @@ const Comedig = {
         const li = document.createElement('li');
         const a = document.createElement('a');
         a.textContent = work.title;
-        a.href = "/comedig/work?id=" + workId;
+        a.href = "/work?id=" + workId;
         li.appendChild(a);
         agentWorkList.appendChild(li);
       }
@@ -443,7 +443,7 @@ const Comedig = {
 
     if (!store) return;
 
-    const rdfData = await fetch("/comedig/rdf/people.rdf").then(r => r.text());
+    const rdfData = await fetch("/rdf/people.rdf").then(r => r.text());
     await new Promise(resolve => {
       store.load("text/turtle", rdfData, (err, results) => {
         if (err) {
