@@ -14,12 +14,10 @@ body {
   padding: 0.3em;
 }
 
-td .bib_name {
-  padding-right: 20px;
-}
-
 .bib_name{
   font-variant: small-caps;
+  padding-right: 20px;
+  vertical-align: top;
 }
 
 
