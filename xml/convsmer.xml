@@ -1,687 +1,688 @@
+<?xml version="1.0"?>
 <teiCorpus xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La conversazione tra Smeraldina spirito folletto e Pantalone</title>
+        <respStmt>
+          <resp>Transcription, translation, and encoding by</resp>
+          <name>Tatiana Korneeva</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technical coordination, metadata curation, programming by</resp>
+          <name>Tiziana Mancinelli</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universit&#xE0; Ca' Foscari di Venezia - VeDPH</publisher>
+        <date>May 2022</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>La mancata indicazione della data di allestimento sul frontespizio dello scenario a stampa non permette di avanzare una sicura datazione del testo. Sarebbe tuttavia logico immaginare che l&#x2019;opera fosse allestita a poca distanza cronologica della commedia <em>Smeraldina spirito folletto</em> (1733), di cui rappresenta una sorta di appendice per quanto riguarda la trama. Pur essendo uno scenario a s&#xE9; stante, proprio per le attinenze contenutistiche tra <em>La conversazione</em> e la commedia viene pubblicato da Vladimir Peretc, nella sua edizione delle commedie e intermezzi del 1917, in appendice della <em>Smeraldina spirito folletto</em>. Lo scenario rappresenta la prima istanza di discorso strutturato in forma di vero e proprio dialogo (una seconda traccia del discorso diretto si trover&#xE0; nei <em>Travestimenti di Arlecchino</em>, con il dialogo a tre che ha come protagonisti Brighella, Smeraldina e Arlecchino, i tre personaggi scrivono una lettera alla madre di quest&#x2019;ultimo). Da notare inoltre svariati riferimenti alla realt&#xE0; russa (il reparto carne del mercato di San Pietroburgo, la vendita di birra in via I, l&#x2019;alta societ&#xE0; della citt&#xE0; di Riga), attraverso i quali gli attori cercavano di avvicinare il testo alla comprensione dell&#x2019;uditorio russo (Pieroni 2017, 141 e 151).</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <TEI>
     <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>La conversazione tra Smeraldina spirito folletto e Pantalone</title>
-                <respStmt>
-                    <resp>Transcription, translation, and encoding by</resp>
-                    <name>Tatiana Korneeva</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Technical coordination, metadata curation, programming by</resp>
-                    <name>Tiziana Mancinelli</name>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Università Ca' Foscari di Venezia - VeDPH</publisher>
-                <date>December 2021</date>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <p>La mancata indicazione della data di allestimento sul frontespizio dello scenario a stampa non permette di avanzare una sicura datazione del testo. Sarebbe tuttavia logico immaginare che l’opera fosse allestita a poca distanza cronologica della commedia <em>Smeraldina spirito folletto</em> (1733), di cui rappresenta una sorta di appendice per quanto riguarda la trama. Pur essendo uno scenario a sé stante, proprio per le attinenze contenutistiche tra <em>La conversazione</em> e la commedia viene pubblicato da Vladimir Peretc, nella sua edizione delle commedie e intermezzi del 1917, in appendice della <em>Smeraldina spirito folletto</em>. Lo scenario rappresenta la prima istanza di discorso strutturato in forma di vero e proprio dialogo (una seconda traccia del discorso diretto si troverà nei <em>Travestimenti di Arlecchino</em>, con il dialogo a tre che ha come protagonisti Brighella, Smeraldina e Arlecchino, i tre personaggi scrivono una lettera alla madre di quest’ultimo). Da notare inoltre svariati riferimenti alla realtà russa (il reparto carne del mercato di San Pietroburgo, la vendita di birra in via I, l’alta società della città di Riga), attraverso i quali gli attori cercavano di avvicinare il testo alla comprensione dell’uditorio russo (Pieroni 2017, 141 e 151).</p>
-            </sourceDesc>
-        </fileDesc>
+      <fileDesc>
+        <titleStmt>
+          <title>&#x420;&#x410;&#x417;&#x413;&#x41E;&#x412;&#x41E;&#x420;&#x42A; &#x41C;&#x415;&#x416;&#x414;&#x423; &#x421;&#x41C;&#x415;&#x420;&#x410;&#x41B;&#x414;I&#x41D;&#x41E;&#x42E; &#x41A;&#x418;&#x41A;&#x418;&#x41C;&#x41E;&#x420;&#x41E;&#x42E;, &#x438; &#x41F;&#x410;&#x41D;&#x422;&#x410;&#x41B;&#x41E;&#x41D;&#x41E;&#x41C;&#x42A;</title>
+          <respStmt>
+            <resp>Digitization of facsimile</resp>
+            <name>The G&#xF6;ttingen State and University Library</name>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc>
+            <msIdentifier>
+              <settlement>G&#xF6;ttingen</settlement>
+              <repository>The G&#xF6;ttingen State and University Library</repository>
+              <idno type="shelfmark">SUB G&#xF6;ttingen, 8 P DRAM IV, 8250 (21d) RARA</idno>
+              <idno type="URI">http://resolver.sub.uni-goettingen.de/purl?PPN1756127549</idno>
+            </msIdentifier>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <extent>
+                    <measure unit="pages" quantity="4">4 pages of source
+                                            material</measure>
+                    <height unit="cm">18,9</height>
+                    <width unit="cm">14,6</width>
+                    <depth unit="cm">0,1</depth>
+                  </extent>
+                </supportDesc>
+              </objectDesc>
+            </physDesc>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="ru">Russian</language>
+        </langUsage>
+      </profileDesc>
     </teiHeader>
-    <TEI>
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>РАЗГОВОРЪ МЕЖДУ СМЕРАЛДIНОЮ КИКИМОРОЮ, и ПАНТАЛОНОМЪ</title>
-                    <respStmt>
-                        <resp>Digitization of facsimile</resp>
-                        <name>The Göttingen State and University Library</name>
-                    </respStmt>
-                </titleStmt>
-                <publicationStmt>
-                    <p/>
-                </publicationStmt>
-                <sourceDesc>
-                    <msDesc>
-                        <msIdentifier>
-                            <settlement>Göttingen</settlement>
-                            <repository>The Göttingen State and University Library</repository>
-                            <idno type="shelfmark">SUB Göttingen, 8 P DRAM IV, 8250 (21d) RARA</idno>
-                            <idno type="URI">http://resolver.sub.uni-goettingen.de/purl?PPN1756127549</idno>
-                        </msIdentifier>
-                        <physDesc>
-                            <objectDesc>
-                                <supportDesc>
-                                    <extent>
-                                        <measure unit="pages" quantity="4">4 pages of source
-                                            material</measure>
-                                        <height unit="cm">18,9</height>
-                                        <width unit="cm">14,6</width>
-                                        <depth unit="cm">0,1</depth>
-                                    </extent>
-                                </supportDesc>
-                            </objectDesc>
-                        </physDesc>
-                    </msDesc>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <langUsage>
-                    <language ident="ru">Russian</language>
-                </langUsage>
-            </profileDesc>
-        </teiHeader>
-        <facsimile>
-            <surface type="ru">
-                <graphic xml:id="convsmer_ru_001" url="/img/convsmer_ru_001.jpg"/>
-                <graphic xml:id="convsmer_ru_002" url="/img/convsmer_ru_002.jpg"/>
-                <graphic xml:id="convsmer_ru_003" url="/img/convsmer_ru_003.jpg"/>
-                <graphic xml:id="convsmer_ru_004" url="/img/convsmer_ru_004.jpg"/>
-            </surface>
-        </facsimile>
-        <text>
-            <front>
-                <pb facs="#convsmer_ru_001" n="1"/>
-                <fw type="pageNum">1</fw>
-                <head type="main">РАЗГОВОРЪ МЕЖДУ<lb/> СМЕРАЛДIНОЮ КИКИМОРОЮ, и ПАНТА-<lb/>
-                    ЛОНОМЪ.</head>
-            </front>
-            <body>
-                <p rend="indent">***</p>
-                <sp who="#spirito_folletto_ru">
-                    <speaker>Киким:</speaker>
-                    <p>Я вамъ говорю, что вамъ надобно имѣть вѣжство<lb/> и почтенїе къ женщинѣ
-                        такои, какова я, по<lb/> тому что ежелибъ я не боялась повредить<lb/> честь
-                        мою, то бы я васъ научила, какъ въ томъ<lb/> поступать. Бездѣльники, плуты,
-                        ни къ чему год-<lb/> ныя, пьяницы. Здравствуите, мои господа.</p>
-                    <p rend="indent">***</p>
-                    <p>Не извольте, пожалуите, удивляться, что я такъ<lb/> теперь сердита, и толь
-                        злобна я имѣю тому<lb/> причину.</p>
-                </sp>
-                <sp who="pantalone_ru">
-                    <speaker>Пант:</speaker>
-                    <p>Не здѣлалъ ли вамъ кто чево?</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_ru">
-                    <speaker>Киким:</speaker>
-                    <p>Не здѣлалъ ли мнѣ кто чево? Cпрашиваете вы у<lb/> меня, не здѣлалъ ли мнѣ кто
-                        чево? Проклятая я<lb/> буду; добро! Дамъ я себя знать! Я намѣрена от-<lb/>
-                        мстить мою обиду такъ, что хотя бы я знала,<lb/> что чрезъ то потеряю всѣ
-                        пожитки отцовскїя<lb/> моего прадѣда, и моеи прабабки, которые были<lb/>
-                        добрые люди.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_ru">
-                    <speaker>Пант:</speaker>
-                    <p>Да извольте сказать, кто васъ обезчестилъ; такъ<lb/> можно и помощь вамъ въ
-                        томъ подать.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_ru">
-                    <speaker>Киким:</speaker>
-                    <p>Я васъ вижу быть толь учтивыхъ людеи, мои<lb/> господа, что бы я тѣмъ васъ
-                        обезчестила, ежели<lb/>
-                        <fw type="sig" place="bottom">Ж</fw>
-                        <fw type="catch" place="bottom">бы</fw>
+    <facsimile>
+      <surface type="ru">
+        <graphic xml:id="convsmer_ru_001" url="/img/convsmer_ru_001.jpg"/>
+        <graphic xml:id="convsmer_ru_002" url="/img/convsmer_ru_002.jpg"/>
+        <graphic xml:id="convsmer_ru_003" url="/img/convsmer_ru_003.jpg"/>
+        <graphic xml:id="convsmer_ru_004" url="/img/convsmer_ru_004.jpg"/>
+      </surface>
+    </facsimile>
+    <text>
+      <front>
+        <pb facs="#convsmer_ru_001" n="1"/>
+        <fw type="pageNum">1</fw>
+        <head type="main">&#x420;&#x410;&#x417;&#x413;&#x41E;&#x412;&#x41E;&#x420;&#x42A; &#x41C;&#x415;&#x416;&#x414;&#x423;<lb/> &#x421;&#x41C;&#x415;&#x420;&#x410;&#x41B;&#x414;I&#x41D;&#x41E;&#x42E; &#x41A;&#x418;&#x41A;&#x418;&#x41C;&#x41E;&#x420;&#x41E;&#x42E;, &#x438; &#x41F;&#x410;&#x41D;&#x422;&#x410;-<lb/>
+                    &#x41B;&#x41E;&#x41D;&#x41E;&#x41C;&#x42A;.</head>
+      </front>
+      <body>
+        <p rend="indent">***</p>
+        <sp who="#spirito_folletto_ru">
+          <speaker>&#x41A;&#x438;&#x43A;&#x438;&#x43C;:</speaker>
+          <p>&#x42F; &#x432;&#x430;&#x43C;&#x44A; &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x44E;, &#x447;&#x442;&#x43E; &#x432;&#x430;&#x43C;&#x44A; &#x43D;&#x430;&#x434;&#x43E;&#x431;&#x43D;&#x43E; &#x438;&#x43C;&#x463;&#x442;&#x44C; &#x432;&#x463;&#x436;&#x441;&#x442;&#x432;&#x43E;<lb/> &#x438; &#x43F;&#x43E;&#x447;&#x442;&#x435;&#x43D;&#x457;&#x435; &#x43A;&#x44A; &#x436;&#x435;&#x43D;&#x449;&#x438;&#x43D;&#x463;
+                        &#x442;&#x430;&#x43A;&#x43E;&#x438;, &#x43A;&#x430;&#x43A;&#x43E;&#x432;&#x430; &#x44F;, &#x43F;&#x43E;<lb/> &#x442;&#x43E;&#x43C;&#x443; &#x447;&#x442;&#x43E; &#x435;&#x436;&#x435;&#x43B;&#x438;&#x431;&#x44A; &#x44F; &#x43D;&#x435; &#x431;&#x43E;&#x44F;&#x43B;&#x430;&#x441;&#x44C; &#x43F;&#x43E;&#x432;&#x440;&#x435;&#x434;&#x438;&#x442;&#x44C;<lb/> &#x447;&#x435;&#x441;&#x442;&#x44C;
+                        &#x43C;&#x43E;&#x44E;, &#x442;&#x43E; &#x431;&#x44B; &#x44F; &#x432;&#x430;&#x441;&#x44A; &#x43D;&#x430;&#x443;&#x447;&#x438;&#x43B;&#x430;, &#x43A;&#x430;&#x43A;&#x44A; &#x432;&#x44A; &#x442;&#x43E;&#x43C;&#x44A;<lb/> &#x43F;&#x43E;&#x441;&#x442;&#x443;&#x43F;&#x430;&#x442;&#x44C;. &#x411;&#x435;&#x437;&#x434;&#x463;&#x43B;&#x44C;&#x43D;&#x438;&#x43A;&#x438;, &#x43F;&#x43B;&#x443;&#x442;&#x44B;,
+                        &#x43D;&#x438; &#x43A;&#x44A; &#x447;&#x435;&#x43C;&#x443; &#x433;&#x43E;&#x434;-<lb/> &#x43D;&#x44B;&#x44F;, &#x43F;&#x44C;&#x44F;&#x43D;&#x438;&#x446;&#x44B;. &#x417;&#x434;&#x440;&#x430;&#x432;&#x441;&#x442;&#x432;&#x443;&#x438;&#x442;&#x435;, &#x43C;&#x43E;&#x438; &#x433;&#x43E;&#x441;&#x43F;&#x43E;&#x434;&#x430;.</p>
+          <p rend="indent">***</p>
+          <p>&#x41D;&#x435; &#x438;&#x437;&#x432;&#x43E;&#x43B;&#x44C;&#x442;&#x435;, &#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x438;&#x442;&#x435;, &#x443;&#x434;&#x438;&#x432;&#x43B;&#x44F;&#x442;&#x44C;&#x441;&#x44F;, &#x447;&#x442;&#x43E; &#x44F; &#x442;&#x430;&#x43A;&#x44A;<lb/> &#x442;&#x435;&#x43F;&#x435;&#x440;&#x44C; &#x441;&#x435;&#x440;&#x434;&#x438;&#x442;&#x430;, &#x438; &#x442;&#x43E;&#x43B;&#x44C;
+                        &#x437;&#x43B;&#x43E;&#x431;&#x43D;&#x430; &#x44F; &#x438;&#x43C;&#x463;&#x44E; &#x442;&#x43E;&#x43C;&#x443;<lb/> &#x43F;&#x440;&#x438;&#x447;&#x438;&#x43D;&#x443;.</p>
+        </sp>
+        <sp who="pantalone_ru">
+          <speaker>&#x41F;&#x430;&#x43D;&#x442;:</speaker>
+          <p>&#x41D;&#x435; &#x437;&#x434;&#x463;&#x43B;&#x430;&#x43B;&#x44A; &#x43B;&#x438; &#x432;&#x430;&#x43C;&#x44A; &#x43A;&#x442;&#x43E; &#x447;&#x435;&#x432;&#x43E;?</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_ru">
+          <speaker>&#x41A;&#x438;&#x43A;&#x438;&#x43C;:</speaker>
+          <p>&#x41D;&#x435; &#x437;&#x434;&#x463;&#x43B;&#x430;&#x43B;&#x44A; &#x43B;&#x438; &#x43C;&#x43D;&#x463; &#x43A;&#x442;&#x43E; &#x447;&#x435;&#x432;&#x43E;? C&#x43F;&#x440;&#x430;&#x448;&#x438;&#x432;&#x430;&#x435;&#x442;&#x435; &#x432;&#x44B; &#x443;<lb/> &#x43C;&#x435;&#x43D;&#x44F;, &#x43D;&#x435; &#x437;&#x434;&#x463;&#x43B;&#x430;&#x43B;&#x44A; &#x43B;&#x438; &#x43C;&#x43D;&#x463; &#x43A;&#x442;&#x43E;
+                        &#x447;&#x435;&#x432;&#x43E;? &#x41F;&#x440;&#x43E;&#x43A;&#x43B;&#x44F;&#x442;&#x430;&#x44F; &#x44F;<lb/> &#x431;&#x443;&#x434;&#x443;; &#x434;&#x43E;&#x431;&#x440;&#x43E;! &#x414;&#x430;&#x43C;&#x44A; &#x44F; &#x441;&#x435;&#x431;&#x44F; &#x437;&#x43D;&#x430;&#x442;&#x44C;! &#x42F; &#x43D;&#x430;&#x43C;&#x463;&#x440;&#x435;&#x43D;&#x430; &#x43E;&#x442;-<lb/>
+                        &#x43C;&#x441;&#x442;&#x438;&#x442;&#x44C; &#x43C;&#x43E;&#x44E; &#x43E;&#x431;&#x438;&#x434;&#x443; &#x442;&#x430;&#x43A;&#x44A;, &#x447;&#x442;&#x43E; &#x445;&#x43E;&#x442;&#x44F; &#x431;&#x44B; &#x44F; &#x437;&#x43D;&#x430;&#x43B;&#x430;,<lb/> &#x447;&#x442;&#x43E; &#x447;&#x440;&#x435;&#x437;&#x44A; &#x442;&#x43E; &#x43F;&#x43E;&#x442;&#x435;&#x440;&#x44F;&#x44E; &#x432;&#x441;&#x463;
+                        &#x43F;&#x43E;&#x436;&#x438;&#x442;&#x43A;&#x438; &#x43E;&#x442;&#x446;&#x43E;&#x432;&#x441;&#x43A;&#x457;&#x44F;<lb/> &#x43C;&#x43E;&#x435;&#x433;&#x43E; &#x43F;&#x440;&#x430;&#x434;&#x463;&#x434;&#x430;, &#x438; &#x43C;&#x43E;&#x435;&#x438; &#x43F;&#x440;&#x430;&#x431;&#x430;&#x431;&#x43A;&#x438;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x44B;&#x435; &#x431;&#x44B;&#x43B;&#x438;<lb/>
+                        &#x434;&#x43E;&#x431;&#x440;&#x44B;&#x435; &#x43B;&#x44E;&#x434;&#x438;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_ru">
+          <speaker>&#x41F;&#x430;&#x43D;&#x442;:</speaker>
+          <p>&#x414;&#x430; &#x438;&#x437;&#x432;&#x43E;&#x43B;&#x44C;&#x442;&#x435; &#x441;&#x43A;&#x430;&#x437;&#x430;&#x442;&#x44C;, &#x43A;&#x442;&#x43E; &#x432;&#x430;&#x441;&#x44A; &#x43E;&#x431;&#x435;&#x437;&#x447;&#x435;&#x441;&#x442;&#x438;&#x43B;&#x44A;; &#x442;&#x430;&#x43A;&#x44A;<lb/> &#x43C;&#x43E;&#x436;&#x43D;&#x43E; &#x438; &#x43F;&#x43E;&#x43C;&#x43E;&#x449;&#x44C; &#x432;&#x430;&#x43C;&#x44A; &#x432;&#x44A;
+                        &#x442;&#x43E;&#x43C;&#x44A; &#x43F;&#x43E;&#x434;&#x430;&#x442;&#x44C;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_ru">
+          <speaker>&#x41A;&#x438;&#x43A;&#x438;&#x43C;:</speaker>
+          <p>&#x42F; &#x432;&#x430;&#x441;&#x44A; &#x432;&#x438;&#x436;&#x443; &#x431;&#x44B;&#x442;&#x44C; &#x442;&#x43E;&#x43B;&#x44C; &#x443;&#x447;&#x442;&#x438;&#x432;&#x44B;&#x445;&#x44A; &#x43B;&#x44E;&#x434;&#x435;&#x438;, &#x43C;&#x43E;&#x438;<lb/> &#x433;&#x43E;&#x441;&#x43F;&#x43E;&#x434;&#x430;, &#x447;&#x442;&#x43E; &#x431;&#x44B; &#x44F; &#x442;&#x463;&#x43C;&#x44A; &#x432;&#x430;&#x441;&#x44A;
+                        &#x43E;&#x431;&#x435;&#x437;&#x447;&#x435;&#x441;&#x442;&#x438;&#x43B;&#x430;, &#x435;&#x436;&#x435;&#x43B;&#x438;<lb/>
+                        <fw type="sig" place="bottom">&#x416;</fw>
+                        <fw type="catch" place="bottom">&#x431;&#x44B;</fw>
                         <pb facs="#convsmer_ru_002" n="2"/>
-                        <fw type="pageNum">2</fw>бы я отъ васъ утаила мое нещастїе. Извольтежъ<lb/>
-                        для того знать, что я родилась, въ Москвѣ, дочь<lb/> только одна И . . .
-                        Которои поставленъ былъ<lb/> Докторомъ въ медїцïнѣ въ
-                        Санктпетербургскои<lb/> мяснои рядъ, и которои не уступалъ въ своемъ<lb/>
-                        искусствѣ главному столяру голландскому. Мать<lb/> моя называлась И . . . и
-                        такая женщина, чтобъ<lb/> она могла услужить обществу Рїжскому.
-                        Продавала<lb/> она масло коровье по алтыну фунтъ; а я варила<lb/> улицѣ; и
-                        оное такъ удавалось, что<lb/> пиво въ И . . . улицѣ; и оное такъ удавалось,
-                        что<lb/> Рускїя въ добрыя кулаки совались, для того<lb/> чтобъ кому прежде
-                        пить.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_ru">
-                    <speaker>Пант:</speaker>
-                    <p>Вы чаи къ себѣ приманили много любовниковъ кра-<lb/>сотою вашею?</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_ru">
-                    <speaker>Киким:</speaker>
-                    <p>Очюнь много: изъ которыхъ пришолъ ко мнѣ одна-<lb/> жды прïѣзжеи молодецъ
-                        изрядно убранъ, и вѣжливъ,<lb/> которои назывался Сїлвїи; охъ ти мнѣ! лишъ
-                        я<lb/> о томъ подумаю, то слїозы у меня тотъ часъ, и<lb/> навернутся въ
-                        глазахъ.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_ru">
-                    <speaker>Пант:</speaker>
-                    <p>Не извольте плакать, дорогая куколка, ободритесь.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_ru">
-                    <speaker>Киким:</speaker>
-                    <p>Очюнь много: изъ которыхъ пришолъ ко мнѣ одна-<lb/> жды прïѣзжеи молодецъ
-                        изрядно убранъ, и вѣжливъ,<lb/> которои назывался Сїлвїи; охъ ти мнѣ! лишъ
-                        я<lb/> о томъ подумаю, то слїозы у меня тотъ часъ, и<lb/> навернутся въ
-                        глазахъ.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_ru">
-                    <speaker>Киким:</speaker>
-                    <p>Ахъ! нельзя мнѣ не плакать! измѣнникъ! плутъ!<lb/> шелмъ! Но чтобъ
-                        возвратиться къ моеи повѣсти,<lb/> тогда онои молодецъ тотъ часъ влюбился въ
-                        меня,<lb/> и так сильно сталъ мнѣ показывать свою любовь<lb/> называя меня,
-                        сердце мое, животы мои, сокро-<lb/> вище мое, я сокрушаюсь, я умираю по
-                        васъ, что<lb/> я согласилась на ево желанїе, и не могла я жива<lb/> быть,
-                        ежелибъ я ево не видѣла на меньшои конецъ<lb/> съ двенатцать разъ всякои
-                        день. На конецъ въ из-<lb/>
-                        <fw type="catch" place="bottom">вѣстнѣишïи</fw>
+                        <fw type="pageNum">2</fw>&#x431;&#x44B; &#x44F; &#x43E;&#x442;&#x44A; &#x432;&#x430;&#x441;&#x44A; &#x443;&#x442;&#x430;&#x438;&#x43B;&#x430; &#x43C;&#x43E;&#x435; &#x43D;&#x435;&#x449;&#x430;&#x441;&#x442;&#x457;&#x435;. &#x418;&#x437;&#x432;&#x43E;&#x43B;&#x44C;&#x442;&#x435;&#x436;&#x44A;<lb/>
+                        &#x434;&#x43B;&#x44F; &#x442;&#x43E;&#x433;&#x43E; &#x437;&#x43D;&#x430;&#x442;&#x44C;, &#x447;&#x442;&#x43E; &#x44F; &#x440;&#x43E;&#x434;&#x438;&#x43B;&#x430;&#x441;&#x44C;, &#x432;&#x44A; &#x41C;&#x43E;&#x441;&#x43A;&#x432;&#x463;, &#x434;&#x43E;&#x447;&#x44C;<lb/> &#x442;&#x43E;&#x43B;&#x44C;&#x43A;&#x43E; &#x43E;&#x434;&#x43D;&#x430; &#x418; . . .
+                        &#x41A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438; &#x43F;&#x43E;&#x441;&#x442;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x44A; &#x431;&#x44B;&#x43B;&#x44A;<lb/> &#x414;&#x43E;&#x43A;&#x442;&#x43E;&#x440;&#x43E;&#x43C;&#x44A; &#x432;&#x44A; &#x43C;&#x435;&#x434;&#x457;&#x446;&#xEF;&#x43D;&#x463; &#x432;&#x44A;
+                        &#x421;&#x430;&#x43D;&#x43A;&#x442;&#x43F;&#x435;&#x442;&#x435;&#x440;&#x431;&#x443;&#x440;&#x433;&#x441;&#x43A;&#x43E;&#x438;<lb/> &#x43C;&#x44F;&#x441;&#x43D;&#x43E;&#x438; &#x440;&#x44F;&#x434;&#x44A;, &#x438; &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438; &#x43D;&#x435; &#x443;&#x441;&#x442;&#x443;&#x43F;&#x430;&#x43B;&#x44A; &#x432;&#x44A; &#x441;&#x432;&#x43E;&#x435;&#x43C;&#x44A;<lb/>
+                        &#x438;&#x441;&#x43A;&#x443;&#x441;&#x441;&#x442;&#x432;&#x463; &#x433;&#x43B;&#x430;&#x432;&#x43D;&#x43E;&#x43C;&#x443; &#x441;&#x442;&#x43E;&#x43B;&#x44F;&#x440;&#x443; &#x433;&#x43E;&#x43B;&#x43B;&#x430;&#x43D;&#x434;&#x441;&#x43A;&#x43E;&#x43C;&#x443;. &#x41C;&#x430;&#x442;&#x44C;<lb/> &#x43C;&#x43E;&#x44F; &#x43D;&#x430;&#x437;&#x44B;&#x432;&#x430;&#x43B;&#x430;&#x441;&#x44C; &#x418; . . . &#x438;
+                        &#x442;&#x430;&#x43A;&#x430;&#x44F; &#x436;&#x435;&#x43D;&#x449;&#x438;&#x43D;&#x430;, &#x447;&#x442;&#x43E;&#x431;&#x44A;<lb/> &#x43E;&#x43D;&#x430; &#x43C;&#x43E;&#x433;&#x43B;&#x430; &#x443;&#x441;&#x43B;&#x443;&#x436;&#x438;&#x442;&#x44C; &#x43E;&#x431;&#x449;&#x435;&#x441;&#x442;&#x432;&#x443; &#x420;&#x457;&#x436;&#x441;&#x43A;&#x43E;&#x43C;&#x443;.
+                        &#x41F;&#x440;&#x43E;&#x434;&#x430;&#x432;&#x430;&#x43B;&#x430;<lb/> &#x43E;&#x43D;&#x430; &#x43C;&#x430;&#x441;&#x43B;&#x43E; &#x43A;&#x43E;&#x440;&#x43E;&#x432;&#x44C;&#x435; &#x43F;&#x43E; &#x430;&#x43B;&#x442;&#x44B;&#x43D;&#x443; &#x444;&#x443;&#x43D;&#x442;&#x44A;; &#x430; &#x44F; &#x432;&#x430;&#x440;&#x438;&#x43B;&#x430;<lb/> &#x443;&#x43B;&#x438;&#x446;&#x463;; &#x438;
+                        &#x43E;&#x43D;&#x43E;&#x435; &#x442;&#x430;&#x43A;&#x44A; &#x443;&#x434;&#x430;&#x432;&#x430;&#x43B;&#x43E;&#x441;&#x44C;, &#x447;&#x442;&#x43E;<lb/> &#x43F;&#x438;&#x432;&#x43E; &#x432;&#x44A; &#x418; . . . &#x443;&#x43B;&#x438;&#x446;&#x463;; &#x438; &#x43E;&#x43D;&#x43E;&#x435; &#x442;&#x430;&#x43A;&#x44A; &#x443;&#x434;&#x430;&#x432;&#x430;&#x43B;&#x43E;&#x441;&#x44C;,
+                        &#x447;&#x442;&#x43E;<lb/> &#x420;&#x443;&#x441;&#x43A;&#x457;&#x44F; &#x432;&#x44A; &#x434;&#x43E;&#x431;&#x440;&#x44B;&#x44F; &#x43A;&#x443;&#x43B;&#x430;&#x43A;&#x438; &#x441;&#x43E;&#x432;&#x430;&#x43B;&#x438;&#x441;&#x44C;, &#x434;&#x43B;&#x44F; &#x442;&#x43E;&#x433;&#x43E;<lb/> &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x43A;&#x43E;&#x43C;&#x443; &#x43F;&#x440;&#x435;&#x436;&#x434;&#x435;
+                        &#x43F;&#x438;&#x442;&#x44C;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_ru">
+          <speaker>&#x41F;&#x430;&#x43D;&#x442;:</speaker>
+          <p>&#x412;&#x44B; &#x447;&#x430;&#x438; &#x43A;&#x44A; &#x441;&#x435;&#x431;&#x463; &#x43F;&#x440;&#x438;&#x43C;&#x430;&#x43D;&#x438;&#x43B;&#x438; &#x43C;&#x43D;&#x43E;&#x433;&#x43E; &#x43B;&#x44E;&#x431;&#x43E;&#x432;&#x43D;&#x438;&#x43A;&#x43E;&#x432;&#x44A; &#x43A;&#x440;&#x430;-<lb/>&#x441;&#x43E;&#x442;&#x43E;&#x44E; &#x432;&#x430;&#x448;&#x435;&#x44E;?</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_ru">
+          <speaker>&#x41A;&#x438;&#x43A;&#x438;&#x43C;:</speaker>
+          <p>&#x41E;&#x447;&#x44E;&#x43D;&#x44C; &#x43C;&#x43D;&#x43E;&#x433;&#x43E;: &#x438;&#x437;&#x44A; &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x44B;&#x445;&#x44A; &#x43F;&#x440;&#x438;&#x448;&#x43E;&#x43B;&#x44A; &#x43A;&#x43E; &#x43C;&#x43D;&#x463; &#x43E;&#x434;&#x43D;&#x430;-<lb/> &#x436;&#x434;&#x44B; &#x43F;&#x440;&#xEF;&#x463;&#x437;&#x436;&#x435;&#x438; &#x43C;&#x43E;&#x43B;&#x43E;&#x434;&#x435;&#x446;&#x44A;
+                        &#x438;&#x437;&#x440;&#x44F;&#x434;&#x43D;&#x43E; &#x443;&#x431;&#x440;&#x430;&#x43D;&#x44A;, &#x438; &#x432;&#x463;&#x436;&#x43B;&#x438;&#x432;&#x44A;,<lb/> &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438; &#x43D;&#x430;&#x437;&#x44B;&#x432;&#x430;&#x43B;&#x441;&#x44F; &#x421;&#x457;&#x43B;&#x432;&#x457;&#x438;; &#x43E;&#x445;&#x44A; &#x442;&#x438; &#x43C;&#x43D;&#x463;! &#x43B;&#x438;&#x448;&#x44A;
+                        &#x44F;<lb/> &#x43E; &#x442;&#x43E;&#x43C;&#x44A; &#x43F;&#x43E;&#x434;&#x443;&#x43C;&#x430;&#x44E;, &#x442;&#x43E; &#x441;&#x43B;&#x457;&#x43E;&#x437;&#x44B; &#x443; &#x43C;&#x435;&#x43D;&#x44F; &#x442;&#x43E;&#x442;&#x44A; &#x447;&#x430;&#x441;&#x44A;, &#x438;<lb/> &#x43D;&#x430;&#x432;&#x435;&#x440;&#x43D;&#x443;&#x442;&#x441;&#x44F; &#x432;&#x44A;
+                        &#x433;&#x43B;&#x430;&#x437;&#x430;&#x445;&#x44A;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_ru">
+          <speaker>&#x41F;&#x430;&#x43D;&#x442;:</speaker>
+          <p>&#x41D;&#x435; &#x438;&#x437;&#x432;&#x43E;&#x43B;&#x44C;&#x442;&#x435; &#x43F;&#x43B;&#x430;&#x43A;&#x430;&#x442;&#x44C;, &#x434;&#x43E;&#x440;&#x43E;&#x433;&#x430;&#x44F; &#x43A;&#x443;&#x43A;&#x43E;&#x43B;&#x43A;&#x430;, &#x43E;&#x431;&#x43E;&#x434;&#x440;&#x438;&#x442;&#x435;&#x441;&#x44C;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_ru">
+          <speaker>&#x41A;&#x438;&#x43A;&#x438;&#x43C;:</speaker>
+          <p>&#x41E;&#x447;&#x44E;&#x43D;&#x44C; &#x43C;&#x43D;&#x43E;&#x433;&#x43E;: &#x438;&#x437;&#x44A; &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x44B;&#x445;&#x44A; &#x43F;&#x440;&#x438;&#x448;&#x43E;&#x43B;&#x44A; &#x43A;&#x43E; &#x43C;&#x43D;&#x463; &#x43E;&#x434;&#x43D;&#x430;-<lb/> &#x436;&#x434;&#x44B; &#x43F;&#x440;&#xEF;&#x463;&#x437;&#x436;&#x435;&#x438; &#x43C;&#x43E;&#x43B;&#x43E;&#x434;&#x435;&#x446;&#x44A;
+                        &#x438;&#x437;&#x440;&#x44F;&#x434;&#x43D;&#x43E; &#x443;&#x431;&#x440;&#x430;&#x43D;&#x44A;, &#x438; &#x432;&#x463;&#x436;&#x43B;&#x438;&#x432;&#x44A;,<lb/> &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438; &#x43D;&#x430;&#x437;&#x44B;&#x432;&#x430;&#x43B;&#x441;&#x44F; &#x421;&#x457;&#x43B;&#x432;&#x457;&#x438;; &#x43E;&#x445;&#x44A; &#x442;&#x438; &#x43C;&#x43D;&#x463;! &#x43B;&#x438;&#x448;&#x44A;
+                        &#x44F;<lb/> &#x43E; &#x442;&#x43E;&#x43C;&#x44A; &#x43F;&#x43E;&#x434;&#x443;&#x43C;&#x430;&#x44E;, &#x442;&#x43E; &#x441;&#x43B;&#x457;&#x43E;&#x437;&#x44B; &#x443; &#x43C;&#x435;&#x43D;&#x44F; &#x442;&#x43E;&#x442;&#x44A; &#x447;&#x430;&#x441;&#x44A;, &#x438;<lb/> &#x43D;&#x430;&#x432;&#x435;&#x440;&#x43D;&#x443;&#x442;&#x441;&#x44F; &#x432;&#x44A;
+                        &#x433;&#x43B;&#x430;&#x437;&#x430;&#x445;&#x44A;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_ru">
+          <speaker>&#x41A;&#x438;&#x43A;&#x438;&#x43C;:</speaker>
+          <p>&#x410;&#x445;&#x44A;! &#x43D;&#x435;&#x43B;&#x44C;&#x437;&#x44F; &#x43C;&#x43D;&#x463; &#x43D;&#x435; &#x43F;&#x43B;&#x430;&#x43A;&#x430;&#x442;&#x44C;! &#x438;&#x437;&#x43C;&#x463;&#x43D;&#x43D;&#x438;&#x43A;&#x44A;! &#x43F;&#x43B;&#x443;&#x442;&#x44A;!<lb/> &#x448;&#x435;&#x43B;&#x43C;&#x44A;! &#x41D;&#x43E; &#x447;&#x442;&#x43E;&#x431;&#x44A;
+                        &#x432;&#x43E;&#x437;&#x432;&#x440;&#x430;&#x442;&#x438;&#x442;&#x44C;&#x441;&#x44F; &#x43A;&#x44A; &#x43C;&#x43E;&#x435;&#x438; &#x43F;&#x43E;&#x432;&#x463;&#x441;&#x442;&#x438;,<lb/> &#x442;&#x43E;&#x433;&#x434;&#x430; &#x43E;&#x43D;&#x43E;&#x438; &#x43C;&#x43E;&#x43B;&#x43E;&#x434;&#x435;&#x446;&#x44A; &#x442;&#x43E;&#x442;&#x44A; &#x447;&#x430;&#x441;&#x44A; &#x432;&#x43B;&#x44E;&#x431;&#x438;&#x43B;&#x441;&#x44F; &#x432;&#x44A;
+                        &#x43C;&#x435;&#x43D;&#x44F;,<lb/> &#x438; &#x442;&#x430;&#x43A; &#x441;&#x438;&#x43B;&#x44C;&#x43D;&#x43E; &#x441;&#x442;&#x430;&#x43B;&#x44A; &#x43C;&#x43D;&#x463; &#x43F;&#x43E;&#x43A;&#x430;&#x437;&#x44B;&#x432;&#x430;&#x442;&#x44C; &#x441;&#x432;&#x43E;&#x44E; &#x43B;&#x44E;&#x431;&#x43E;&#x432;&#x44C;<lb/> &#x43D;&#x430;&#x437;&#x44B;&#x432;&#x430;&#x44F; &#x43C;&#x435;&#x43D;&#x44F;,
+                        &#x441;&#x435;&#x440;&#x434;&#x446;&#x435; &#x43C;&#x43E;&#x435;, &#x436;&#x438;&#x432;&#x43E;&#x442;&#x44B; &#x43C;&#x43E;&#x438;, &#x441;&#x43E;&#x43A;&#x440;&#x43E;-<lb/> &#x432;&#x438;&#x449;&#x435; &#x43C;&#x43E;&#x435;, &#x44F; &#x441;&#x43E;&#x43A;&#x440;&#x443;&#x448;&#x430;&#x44E;&#x441;&#x44C;, &#x44F; &#x443;&#x43C;&#x438;&#x440;&#x430;&#x44E; &#x43F;&#x43E;
+                        &#x432;&#x430;&#x441;&#x44A;, &#x447;&#x442;&#x43E;<lb/> &#x44F; &#x441;&#x43E;&#x433;&#x43B;&#x430;&#x441;&#x438;&#x43B;&#x430;&#x441;&#x44C; &#x43D;&#x430; &#x435;&#x432;&#x43E; &#x436;&#x435;&#x43B;&#x430;&#x43D;&#x457;&#x435;, &#x438; &#x43D;&#x435; &#x43C;&#x43E;&#x433;&#x43B;&#x430; &#x44F; &#x436;&#x438;&#x432;&#x430;<lb/> &#x431;&#x44B;&#x442;&#x44C;,
+                        &#x435;&#x436;&#x435;&#x43B;&#x438;&#x431;&#x44A; &#x44F; &#x435;&#x432;&#x43E; &#x43D;&#x435; &#x432;&#x438;&#x434;&#x463;&#x43B;&#x430; &#x43D;&#x430; &#x43C;&#x435;&#x43D;&#x44C;&#x448;&#x43E;&#x438; &#x43A;&#x43E;&#x43D;&#x435;&#x446;&#x44A;<lb/> &#x441;&#x44A; &#x434;&#x432;&#x435;&#x43D;&#x430;&#x442;&#x446;&#x430;&#x442;&#x44C; &#x440;&#x430;&#x437;&#x44A; &#x432;&#x441;&#x44F;&#x43A;&#x43E;&#x438;
+                        &#x434;&#x435;&#x43D;&#x44C;. &#x41D;&#x430; &#x43A;&#x43E;&#x43D;&#x435;&#x446;&#x44A; &#x432;&#x44A; &#x438;&#x437;-<lb/>
+                        <fw type="catch" place="bottom">&#x432;&#x463;&#x441;&#x442;&#x43D;&#x463;&#x438;&#x448;&#xEF;&#x438;</fw>
                         <pb facs="#convsmer_ru_003" n="3"/>
-                        <fw type="pageNum">3</fw>вѣстнѣишïи знакъ своея вѣрности далъ онъ мнѣ<lb/>
-                        этотъ перстень, и то тогда, когда онъ отъѣж-<lb/> жалъ отъ сюду въ свои домъ
-                        для взятья нужныхъ<lb/> вещеи къ нашеи свадьбѣ.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_ru">
-                    <speaker>Пант:</speaker>
-                    <p>Ежели онъ доброи человѣкъ, то содержитъ свое<lb/> слово.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_ru">
-                    <speaker>Киким:</speaker>
-                    <p>Какъ ему сдержать, по тому что вѣрные люди<lb/> увѣдомили меня, что этотъ
-                        Сїлвїи убилъ первую<lb/> свою жену, которая называлася Смералдїна, и
-                        не-<lb/> смотря на обѣщанїе, чтобъ взять меня за себя,<lb/> чему вотъ
-                        закладъ старается онъ жениться на,<lb/> нѣкоторои Дïанѣ, дочерѣ Панталона де
-                        Бїзоньнїозї.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_ru">
-                    <speaker>Пант:</speaker>
-                    <p>Развѣ женится онъ на чортъ, которои чтобъ взялъ<lb/> этова плута. Ничево не
-                        извольте бояться, госу-<lb/> дарыня моя, дочь моя никогда ево не будетъ.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_ru">
-                    <speaker>Киким:</speaker>
-                    <p>Какъ! так это вы Панталонъ отецъ Дïанïнъ?</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_ru">
-                    <speaker>Пант:</speaker>
-                    <p>Правда, я ея отецъ.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_ru">
-                    <speaker>Киким:</speaker>
-                    <p>Дорогои мои государь, я у васъ прощенїя прошу<lb/> въ моеи не умѣренности; а
-                        веть тутъ идетъ<lb/> о моеи чести.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_ru">
-                    <speaker>Пант:</speaker>
-                    <p>Вы это очюнь хорошо здѣлали, что меня увѣдо-<lb/> мили о плутовствѣ того
-                        человѣка.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <fw type="sig" place="bottom">Ж 2</fw>
-                <fw type="catch" place="bottom">Извольте</fw>
-                <pb facs="#convsmer_ru_004" n="4"/>
-                <sp who="#spirito_folletto_ru">
-                    <speaker>Киким:</speaker>
-                    <p>Извольте вы поберечься, мои господинъ, веть<lb/> этотъ Сïлвïи не что иное,
-                        какъ вертопрахъ, и<lb/> такои человѣкъ, которои всему не спускаетъ, что<lb/>
-                        ему попадїотся.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_ru">
-                    <speaker>Пант:</speaker>
-                    <p>Не извольте, о томъ попеченїе имѣть.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_ru">
-                    <speaker>Киким:</speaker>
-                    <p>Я васъ увѣдомляю къ лучшему вашему, и дочери<lb/> вашея.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_ru">
-                    <speaker>Пант:</speaker>
-                    <p>Довольно тово.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_ru">
-                    <speaker>Киким:</speaker>
-                    <p>Я хочу итьти, чтобъ вамъ больше не надокучить.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_ru">
-                    <speaker>Киким:</speaker>
-                    <p>Ваша услужница, мои господа.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_ru">
-                    <speaker>Пант:</speaker>
-                    <p>Прости красна дѣвица.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_ru">
-                    <speaker>Киким:</speaker>
-                    <p>Но прежде нежели я поиду, хочется мнѣ вамъ по-<lb/> казать танецъ на рускую
-                        стать.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_ru">
-                    <speaker>Пант:</speaker>
-                    <p>Извольте танцовать.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_ru">
-                    <speaker>Киким:</speaker>
-                    <p>Ступаи сюда, мужикъ, танцуи со мною. </p>
-                    <p rend="indent">***</p>
-                </sp>
-            </body>
-        </text>
-    </TEI>
-    <TEI>
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>Gespräche zwischen Smeraldina als einem umherschweifenden Geist, und den
+                        <fw type="pageNum">3</fw>&#x432;&#x463;&#x441;&#x442;&#x43D;&#x463;&#x438;&#x448;&#xEF;&#x438; &#x437;&#x43D;&#x430;&#x43A;&#x44A; &#x441;&#x432;&#x43E;&#x435;&#x44F; &#x432;&#x463;&#x440;&#x43D;&#x43E;&#x441;&#x442;&#x438; &#x434;&#x430;&#x43B;&#x44A; &#x43E;&#x43D;&#x44A; &#x43C;&#x43D;&#x463;<lb/>
+                        &#x44D;&#x442;&#x43E;&#x442;&#x44A; &#x43F;&#x435;&#x440;&#x441;&#x442;&#x435;&#x43D;&#x44C;, &#x438; &#x442;&#x43E; &#x442;&#x43E;&#x433;&#x434;&#x430;, &#x43A;&#x43E;&#x433;&#x434;&#x430; &#x43E;&#x43D;&#x44A; &#x43E;&#x442;&#x44A;&#x463;&#x436;-<lb/> &#x436;&#x430;&#x43B;&#x44A; &#x43E;&#x442;&#x44A; &#x441;&#x44E;&#x434;&#x443; &#x432;&#x44A; &#x441;&#x432;&#x43E;&#x438; &#x434;&#x43E;&#x43C;&#x44A;
+                        &#x434;&#x43B;&#x44F; &#x432;&#x437;&#x44F;&#x442;&#x44C;&#x44F; &#x43D;&#x443;&#x436;&#x43D;&#x44B;&#x445;&#x44A;<lb/> &#x432;&#x435;&#x449;&#x435;&#x438; &#x43A;&#x44A; &#x43D;&#x430;&#x448;&#x435;&#x438; &#x441;&#x432;&#x430;&#x434;&#x44C;&#x431;&#x463;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_ru">
+          <speaker>&#x41F;&#x430;&#x43D;&#x442;:</speaker>
+          <p>&#x415;&#x436;&#x435;&#x43B;&#x438; &#x43E;&#x43D;&#x44A; &#x434;&#x43E;&#x431;&#x440;&#x43E;&#x438; &#x447;&#x435;&#x43B;&#x43E;&#x432;&#x463;&#x43A;&#x44A;, &#x442;&#x43E; &#x441;&#x43E;&#x434;&#x435;&#x440;&#x436;&#x438;&#x442;&#x44A; &#x441;&#x432;&#x43E;&#x435;<lb/> &#x441;&#x43B;&#x43E;&#x432;&#x43E;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_ru">
+          <speaker>&#x41A;&#x438;&#x43A;&#x438;&#x43C;:</speaker>
+          <p>&#x41A;&#x430;&#x43A;&#x44A; &#x435;&#x43C;&#x443; &#x441;&#x434;&#x435;&#x440;&#x436;&#x430;&#x442;&#x44C;, &#x43F;&#x43E; &#x442;&#x43E;&#x43C;&#x443; &#x447;&#x442;&#x43E; &#x432;&#x463;&#x440;&#x43D;&#x44B;&#x435; &#x43B;&#x44E;&#x434;&#x438;<lb/> &#x443;&#x432;&#x463;&#x434;&#x43E;&#x43C;&#x438;&#x43B;&#x438; &#x43C;&#x435;&#x43D;&#x44F;, &#x447;&#x442;&#x43E; &#x44D;&#x442;&#x43E;&#x442;&#x44A;
+                        &#x421;&#x457;&#x43B;&#x432;&#x457;&#x438; &#x443;&#x431;&#x438;&#x43B;&#x44A; &#x43F;&#x435;&#x440;&#x432;&#x443;&#x44E;<lb/> &#x441;&#x432;&#x43E;&#x44E; &#x436;&#x435;&#x43D;&#x443;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x430;&#x44F; &#x43D;&#x430;&#x437;&#x44B;&#x432;&#x430;&#x43B;&#x430;&#x441;&#x44F; &#x421;&#x43C;&#x435;&#x440;&#x430;&#x43B;&#x434;&#x457;&#x43D;&#x430;, &#x438;
+                        &#x43D;&#x435;-<lb/> &#x441;&#x43C;&#x43E;&#x442;&#x440;&#x44F; &#x43D;&#x430; &#x43E;&#x431;&#x463;&#x449;&#x430;&#x43D;&#x457;&#x435;, &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x432;&#x437;&#x44F;&#x442;&#x44C; &#x43C;&#x435;&#x43D;&#x44F; &#x437;&#x430; &#x441;&#x435;&#x431;&#x44F;,<lb/> &#x447;&#x435;&#x43C;&#x443; &#x432;&#x43E;&#x442;&#x44A;
+                        &#x437;&#x430;&#x43A;&#x43B;&#x430;&#x434;&#x44A; &#x441;&#x442;&#x430;&#x440;&#x430;&#x435;&#x442;&#x441;&#x44F; &#x43E;&#x43D;&#x44A; &#x436;&#x435;&#x43D;&#x438;&#x442;&#x44C;&#x441;&#x44F; &#x43D;&#x430;,<lb/> &#x43D;&#x463;&#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438; &#x414;&#xEF;&#x430;&#x43D;&#x463;, &#x434;&#x43E;&#x447;&#x435;&#x440;&#x463; &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x430; &#x434;&#x435;
+                        &#x411;&#x457;&#x437;&#x43E;&#x43D;&#x44C;&#x43D;&#x457;&#x43E;&#x437;&#x457;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_ru">
+          <speaker>&#x41F;&#x430;&#x43D;&#x442;:</speaker>
+          <p>&#x420;&#x430;&#x437;&#x432;&#x463; &#x436;&#x435;&#x43D;&#x438;&#x442;&#x441;&#x44F; &#x43E;&#x43D;&#x44A; &#x43D;&#x430; &#x447;&#x43E;&#x440;&#x442;&#x44A;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438; &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x432;&#x437;&#x44F;&#x43B;&#x44A;<lb/> &#x44D;&#x442;&#x43E;&#x432;&#x430; &#x43F;&#x43B;&#x443;&#x442;&#x430;. &#x41D;&#x438;&#x447;&#x435;&#x432;&#x43E; &#x43D;&#x435;
+                        &#x438;&#x437;&#x432;&#x43E;&#x43B;&#x44C;&#x442;&#x435; &#x431;&#x43E;&#x44F;&#x442;&#x44C;&#x441;&#x44F;, &#x433;&#x43E;&#x441;&#x443;-<lb/> &#x434;&#x430;&#x440;&#x44B;&#x43D;&#x44F; &#x43C;&#x43E;&#x44F;, &#x434;&#x43E;&#x447;&#x44C; &#x43C;&#x43E;&#x44F; &#x43D;&#x438;&#x43A;&#x43E;&#x433;&#x434;&#x430; &#x435;&#x432;&#x43E; &#x43D;&#x435; &#x431;&#x443;&#x434;&#x435;&#x442;&#x44A;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_ru">
+          <speaker>&#x41A;&#x438;&#x43A;&#x438;&#x43C;:</speaker>
+          <p>&#x41A;&#x430;&#x43A;&#x44A;! &#x442;&#x430;&#x43A; &#x44D;&#x442;&#x43E; &#x432;&#x44B; &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x44A; &#x43E;&#x442;&#x435;&#x446;&#x44A; &#x414;&#xEF;&#x430;&#x43D;&#xEF;&#x43D;&#x44A;?</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_ru">
+          <speaker>&#x41F;&#x430;&#x43D;&#x442;:</speaker>
+          <p>&#x41F;&#x440;&#x430;&#x432;&#x434;&#x430;, &#x44F; &#x435;&#x44F; &#x43E;&#x442;&#x435;&#x446;&#x44A;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_ru">
+          <speaker>&#x41A;&#x438;&#x43A;&#x438;&#x43C;:</speaker>
+          <p>&#x414;&#x43E;&#x440;&#x43E;&#x433;&#x43E;&#x438; &#x43C;&#x43E;&#x438; &#x433;&#x43E;&#x441;&#x443;&#x434;&#x430;&#x440;&#x44C;, &#x44F; &#x443; &#x432;&#x430;&#x441;&#x44A; &#x43F;&#x440;&#x43E;&#x449;&#x435;&#x43D;&#x457;&#x44F; &#x43F;&#x440;&#x43E;&#x448;&#x443;<lb/> &#x432;&#x44A; &#x43C;&#x43E;&#x435;&#x438; &#x43D;&#x435; &#x443;&#x43C;&#x463;&#x440;&#x435;&#x43D;&#x43D;&#x43E;&#x441;&#x442;&#x438;; &#x430;
+                        &#x432;&#x435;&#x442;&#x44C; &#x442;&#x443;&#x442;&#x44A; &#x438;&#x434;&#x435;&#x442;&#x44A;<lb/> &#x43E; &#x43C;&#x43E;&#x435;&#x438; &#x447;&#x435;&#x441;&#x442;&#x438;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_ru">
+          <speaker>&#x41F;&#x430;&#x43D;&#x442;:</speaker>
+          <p>&#x412;&#x44B; &#x44D;&#x442;&#x43E; &#x43E;&#x447;&#x44E;&#x43D;&#x44C; &#x445;&#x43E;&#x440;&#x43E;&#x448;&#x43E; &#x437;&#x434;&#x463;&#x43B;&#x430;&#x43B;&#x438;, &#x447;&#x442;&#x43E; &#x43C;&#x435;&#x43D;&#x44F; &#x443;&#x432;&#x463;&#x434;&#x43E;-<lb/> &#x43C;&#x438;&#x43B;&#x438; &#x43E; &#x43F;&#x43B;&#x443;&#x442;&#x43E;&#x432;&#x441;&#x442;&#x432;&#x463; &#x442;&#x43E;&#x433;&#x43E;
+                        &#x447;&#x435;&#x43B;&#x43E;&#x432;&#x463;&#x43A;&#x430;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <fw type="sig" place="bottom">&#x416; 2</fw>
+        <fw type="catch" place="bottom">&#x418;&#x437;&#x432;&#x43E;&#x43B;&#x44C;&#x442;&#x435;</fw>
+        <pb facs="#convsmer_ru_004" n="4"/>
+        <sp who="#spirito_folletto_ru">
+          <speaker>&#x41A;&#x438;&#x43A;&#x438;&#x43C;:</speaker>
+          <p>&#x418;&#x437;&#x432;&#x43E;&#x43B;&#x44C;&#x442;&#x435; &#x432;&#x44B; &#x43F;&#x43E;&#x431;&#x435;&#x440;&#x435;&#x447;&#x44C;&#x441;&#x44F;, &#x43C;&#x43E;&#x438; &#x433;&#x43E;&#x441;&#x43F;&#x43E;&#x434;&#x438;&#x43D;&#x44A;, &#x432;&#x435;&#x442;&#x44C;<lb/> &#x44D;&#x442;&#x43E;&#x442;&#x44A; &#x421;&#xEF;&#x43B;&#x432;&#xEF;&#x438; &#x43D;&#x435; &#x447;&#x442;&#x43E; &#x438;&#x43D;&#x43E;&#x435;,
+                        &#x43A;&#x430;&#x43A;&#x44A; &#x432;&#x435;&#x440;&#x442;&#x43E;&#x43F;&#x440;&#x430;&#x445;&#x44A;, &#x438;<lb/> &#x442;&#x430;&#x43A;&#x43E;&#x438; &#x447;&#x435;&#x43B;&#x43E;&#x432;&#x463;&#x43A;&#x44A;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438; &#x432;&#x441;&#x435;&#x43C;&#x443; &#x43D;&#x435; &#x441;&#x43F;&#x443;&#x441;&#x43A;&#x430;&#x435;&#x442;&#x44A;, &#x447;&#x442;&#x43E;<lb/>
+                        &#x435;&#x43C;&#x443; &#x43F;&#x43E;&#x43F;&#x430;&#x434;&#x457;&#x43E;&#x442;&#x441;&#x44F;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_ru">
+          <speaker>&#x41F;&#x430;&#x43D;&#x442;:</speaker>
+          <p>&#x41D;&#x435; &#x438;&#x437;&#x432;&#x43E;&#x43B;&#x44C;&#x442;&#x435;, &#x43E; &#x442;&#x43E;&#x43C;&#x44A; &#x43F;&#x43E;&#x43F;&#x435;&#x447;&#x435;&#x43D;&#x457;&#x435; &#x438;&#x43C;&#x463;&#x442;&#x44C;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_ru">
+          <speaker>&#x41A;&#x438;&#x43A;&#x438;&#x43C;:</speaker>
+          <p>&#x42F; &#x432;&#x430;&#x441;&#x44A; &#x443;&#x432;&#x463;&#x434;&#x43E;&#x43C;&#x43B;&#x44F;&#x44E; &#x43A;&#x44A; &#x43B;&#x443;&#x447;&#x448;&#x435;&#x43C;&#x443; &#x432;&#x430;&#x448;&#x435;&#x43C;&#x443;, &#x438; &#x434;&#x43E;&#x447;&#x435;&#x440;&#x438;<lb/> &#x432;&#x430;&#x448;&#x435;&#x44F;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_ru">
+          <speaker>&#x41F;&#x430;&#x43D;&#x442;:</speaker>
+          <p>&#x414;&#x43E;&#x432;&#x43E;&#x43B;&#x44C;&#x43D;&#x43E; &#x442;&#x43E;&#x432;&#x43E;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_ru">
+          <speaker>&#x41A;&#x438;&#x43A;&#x438;&#x43C;:</speaker>
+          <p>&#x42F; &#x445;&#x43E;&#x447;&#x443; &#x438;&#x442;&#x44C;&#x442;&#x438;, &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x432;&#x430;&#x43C;&#x44A; &#x431;&#x43E;&#x43B;&#x44C;&#x448;&#x435; &#x43D;&#x435; &#x43D;&#x430;&#x434;&#x43E;&#x43A;&#x443;&#x447;&#x438;&#x442;&#x44C;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_ru">
+          <speaker>&#x41A;&#x438;&#x43A;&#x438;&#x43C;:</speaker>
+          <p>&#x412;&#x430;&#x448;&#x430; &#x443;&#x441;&#x43B;&#x443;&#x436;&#x43D;&#x438;&#x446;&#x430;, &#x43C;&#x43E;&#x438; &#x433;&#x43E;&#x441;&#x43F;&#x43E;&#x434;&#x430;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_ru">
+          <speaker>&#x41F;&#x430;&#x43D;&#x442;:</speaker>
+          <p>&#x41F;&#x440;&#x43E;&#x441;&#x442;&#x438; &#x43A;&#x440;&#x430;&#x441;&#x43D;&#x430; &#x434;&#x463;&#x432;&#x438;&#x446;&#x430;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_ru">
+          <speaker>&#x41A;&#x438;&#x43A;&#x438;&#x43C;:</speaker>
+          <p>&#x41D;&#x43E; &#x43F;&#x440;&#x435;&#x436;&#x434;&#x435; &#x43D;&#x435;&#x436;&#x435;&#x43B;&#x438; &#x44F; &#x43F;&#x43E;&#x438;&#x434;&#x443;, &#x445;&#x43E;&#x447;&#x435;&#x442;&#x441;&#x44F; &#x43C;&#x43D;&#x463; &#x432;&#x430;&#x43C;&#x44A; &#x43F;&#x43E;-<lb/> &#x43A;&#x430;&#x437;&#x430;&#x442;&#x44C; &#x442;&#x430;&#x43D;&#x435;&#x446;&#x44A; &#x43D;&#x430; &#x440;&#x443;&#x441;&#x43A;&#x443;&#x44E;
+                        &#x441;&#x442;&#x430;&#x442;&#x44C;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_ru">
+          <speaker>&#x41F;&#x430;&#x43D;&#x442;:</speaker>
+          <p>&#x418;&#x437;&#x432;&#x43E;&#x43B;&#x44C;&#x442;&#x435; &#x442;&#x430;&#x43D;&#x446;&#x43E;&#x432;&#x430;&#x442;&#x44C;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_ru">
+          <speaker>&#x41A;&#x438;&#x43A;&#x438;&#x43C;:</speaker>
+          <p>&#x421;&#x442;&#x443;&#x43F;&#x430;&#x438; &#x441;&#x44E;&#x434;&#x430;, &#x43C;&#x443;&#x436;&#x438;&#x43A;&#x44A;, &#x442;&#x430;&#x43D;&#x446;&#x443;&#x438; &#x441;&#x43E; &#x43C;&#x43D;&#x43E;&#x44E;. </p>
+          <p rend="indent">***</p>
+        </sp>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Gespr&#xE4;che zwischen Smeraldina als einem umherschweifenden Geist, und den
                         Pantalon</title>
-                    <respStmt>
-                        <resp>Digitisation of facsimile</resp>
-                        <name>The Göttingen State and University Library</name>
-                    </respStmt>
-                </titleStmt>
-                <publicationStmt>
-                    <p/>
-                </publicationStmt>
-                <sourceDesc>
-                    <msDesc>
-                        <msIdentifier>
-                            <settlement>Göttingen</settlement>
-                            <repository>The Göttingen State and University Library</repository>
-                            <idno type="shelfmark">SUB Göttingen, 8 P DRAM IV, 8250 (21c) RARA</idno>
-                            <idno type="URI">http://resolver.sub.uni-goettingen.de/purl?PPN689539738</idno>
-                        </msIdentifier>
-                        <physDesc>
-                            <objectDesc>
-                                <supportDesc>
-                                    <extent>
-                                        <measure unit="pages" quantity="4">4 pages of source
+          <respStmt>
+            <resp>Digitisation of facsimile</resp>
+            <name>The G&#xF6;ttingen State and University Library</name>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc>
+            <msIdentifier>
+              <settlement>G&#xF6;ttingen</settlement>
+              <repository>The G&#xF6;ttingen State and University Library</repository>
+              <idno type="shelfmark">SUB G&#xF6;ttingen, 8 P DRAM IV, 8250 (21c) RARA</idno>
+              <idno type="URI">http://resolver.sub.uni-goettingen.de/purl?PPN689539738</idno>
+            </msIdentifier>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <extent>
+                    <measure unit="pages" quantity="4">4 pages of source
                                             material</measure>
-                                        <height unit="cm">18,9</height>
-                                        <width unit="cm">14,6</width>
-                                        <depth unit="cm">0,1</depth>
-                                    </extent>
-                                </supportDesc>
-                            </objectDesc>
-                        </physDesc>
-                    </msDesc>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <langUsage>
-                    <language ident="ge">German</language>
-                </langUsage>
-            </profileDesc>
-        </teiHeader>
-        <facsimile>
-            <surface type="ge">
-                <graphic xml:id="convsmer_ge_001" url="/img/convsmer_ge_001.jpg"/>
-                <graphic xml:id="convsmer_ge_002" url="/img/convsmer_ge_002.jpg"/>
-                <graphic xml:id="convsmer_ge_003" url="/img/convsmer_ge_003.jpg"/>
-                <graphic xml:id="convsmer_ge_004" url="/img/convsmer_ge_004.jpg"/>
-            </surface>
-        </facsimile>
-        <text>
-            <front>
-                <pb facs="#convsmer_ge_001" n="1"/>
-                <head type="main">Gespraͤche<lb/> zwischen Smeraldina, als einem um-<lb/>
-                    herſchweifenden Geiſt, und den<lb/> Pantalon</head>
-                <head type="sub">welches<lb/>in einem<lb/>Jtaliaͤniſchen
-                    Schau-Spiele<lb/>eingefuͤhret worden.</head>
-            </front>
-            <body>
-                <pb facs="#convsmer_ge_002" n="2"/>
-                <fw type="pageNum">2</fw>
-                <sp who="#spirito_folletto_ge">
-                    <speaker>Der Geiſt.</speaker>
-                    <p>Ich ſage euch, daß ihr mir, als einer Frau von Stande, mit<lb/> Hoͤfflichkeit
-                        und Reſpect begegnet; denn, woferne ich meine<lb/> Ehre nicht beobachtete,
-                        ſo wollte ich euch anders lehren, wie ihr euch<lb/> auffuͤhren ſollet. Jhr
-                        Betruͤger! Ihr Lumpenhande? Ihr nichtswuͤr-<lb/> digen, liederlichen Kerls!
-                        Euere gehorſame Dienerin, meine Herren.</p>
-                    <p rend="indent">Habt die Gnade und verwundert euch nicht, wenn ihr mich<lb/>
-                        als einen ſo verwirrten und eingefleiſchten Teuffel ſehet. Ich habe<lb/>
-                        meine Urſache.</p>
-                </sp>
-                <sp who="pantalone_ge">
-                    <speaker>Pantalon.</speaker>
-                    <p>Was hat man euch gethan? </p>
-                </sp>
-                <sp who="#spirito_folletto_ge">
-                    <speaker>Der Geiſt</speaker>
-                    <p>Was man mir gethan hat? Jhr fraget noch? Der Hen-<lb/> cker hat ſo was
-                        geſehen! Habt ihr das Gehirne verlohren? Jedoch<lb/> Gedult! die That gehet
-                        mich an. Jch will mich raͤchen, und wenn es<lb/> das gantze vaͤterliche
-                        Erbtheil meines Ur-Groß-Vaters und meiner<lb/> Ur-Groß Mutter koſten ſollte,
+                    <height unit="cm">18,9</height>
+                    <width unit="cm">14,6</width>
+                    <depth unit="cm">0,1</depth>
+                  </extent>
+                </supportDesc>
+              </objectDesc>
+            </physDesc>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="ge">German</language>
+        </langUsage>
+      </profileDesc>
+    </teiHeader>
+    <facsimile>
+      <surface type="ge">
+        <graphic xml:id="convsmer_ge_001" url="/img/convsmer_ge_001.jpg"/>
+        <graphic xml:id="convsmer_ge_002" url="/img/convsmer_ge_002.jpg"/>
+        <graphic xml:id="convsmer_ge_003" url="/img/convsmer_ge_003.jpg"/>
+        <graphic xml:id="convsmer_ge_004" url="/img/convsmer_ge_004.jpg"/>
+      </surface>
+    </facsimile>
+    <text>
+      <front>
+        <pb facs="#convsmer_ge_001" n="1"/>
+        <head type="main">Gespra&#x364;che<lb/> zwischen Smeraldina, als einem um-<lb/>
+                    her&#x17F;chweifenden Gei&#x17F;t, und den<lb/> Pantalon</head>
+        <head type="sub">welches<lb/>in einem<lb/>Jtalia&#x364;ni&#x17F;chen
+                    Schau-Spiele<lb/>eingefu&#x364;hret worden.</head>
+      </front>
+      <body>
+        <pb facs="#convsmer_ge_002" n="2"/>
+        <fw type="pageNum">2</fw>
+        <sp who="#spirito_folletto_ge">
+          <speaker>Der Gei&#x17F;t.</speaker>
+          <p>Ich &#x17F;age euch, da&#xDF; ihr mir, als einer Frau von Stande, mit<lb/> Ho&#x364;fflichkeit
+                        und Re&#x17F;pect begegnet; denn, woferne ich meine<lb/> Ehre nicht beobachtete,
+                        &#x17F;o wollte ich euch anders lehren, wie ihr euch<lb/> auffu&#x364;hren &#x17F;ollet. Jhr
+                        Betru&#x364;ger! Ihr Lumpenhande? Ihr nichtswu&#x364;r-<lb/> digen, liederlichen Kerls!
+                        Euere gehor&#x17F;ame Dienerin, meine Herren.</p>
+          <p rend="indent">Habt die Gnade und verwundert euch nicht, wenn ihr mich<lb/>
+                        als einen &#x17F;o verwirrten und eingeflei&#x17F;chten Teuffel &#x17F;ehet. Ich habe<lb/>
+                        meine Ur&#x17F;ache.</p>
+        </sp>
+        <sp who="pantalone_ge">
+          <speaker>Pantalon.</speaker>
+          <p>Was hat man euch gethan? </p>
+        </sp>
+        <sp who="#spirito_folletto_ge">
+          <speaker>Der Gei&#x17F;t</speaker>
+          <p>Was man mir gethan hat? Jhr fraget noch? Der Hen-<lb/> cker hat &#x17F;o was
+                        ge&#x17F;ehen! Habt ihr das Gehirne verlohren? Jedoch<lb/> Gedult! die That gehet
+                        mich an. Jch will mich ra&#x364;chen, und wenn es<lb/> das gantze va&#x364;terliche
+                        Erbtheil meines Ur-Gro&#xDF;-Vaters und meiner<lb/> Ur-Gro&#xDF; Mutter ko&#x17F;ten &#x17F;ollte,
                         welches beydes wackere Leute waren.</p>
-                </sp>
-                <sp who="pantalone_ge">
-                    <speaker>Pantalon.</speaker>
-                    <p>Sagt doch, wer euch beleidiget und ob man euch helffen<lb/> kan?</p>
-                </sp>
-                <sp who="#spirito_folletto_ge">
-                    <speaker>Der Geiſt</speaker>
-                    <p>Ich ſehe euch fuͤr zu verſtaͤndig an, meine Herren, als daß ihr<lb/> euch
-                        beleidiget finden werdet, wann ich mein Ungluͤck vor euch ver-<lb/> borgen
-                        halte: wiſſet demnach, daß ich von Moſcau und die eintzige<lb/> Tochter des
-                        Herrn *** bin, der unlaͤngſt in der Fleiſchbanck zu Pe-<lb/> tersburg zum
-                        Doctor Medicinae gemacht worden, und der, in ſei-<lb/> ner Profeſion, dem
-                        beſten Tiſchler nichts nachgiebt. Meine Mutter<lb/> heiſet **** eine Frau,
-                        die ſo gut rechnet, daß ſie der Buͤrgerſchafft<lb/> zu Riga Dienſte zu
-                        leiſten capable waͤre. Sie verkaufft Pfeffer zu<lb/> 3. Copicken das Pfund
-                        und ich ſchencke Bier in der *** Straße, undv braue es ſo gut, daß ſich die
-                        Ruſſen calatſchen, um das erſte aus-<lb/> zuſtechen.</p>
-                </sp>
-                <sp who="pantalone_ge">
-                    <speaker>Pantalon</speaker>
-                    <p>Ihr werdet euch, durch eure Schoͤnheit viele Kundſchafft zu-<lb/> ziehen?</p>
-                </sp>
-                <fw type="catch" place="bottom">Der</fw>
-                <pb facs="#convsmer_ge_003" n="3"/>
-                <fw type="pageNum">3</fw>
-                <sp who="#spirito_folletto_ge">
-                    <speaker>Der Geiſt.</speaker>
-                    <p>In Menge: unter andern kam unlaͤgſt ein junger, wohlgemach-<lb/> ter und
-                        galanter Fremder zu mir, der ſich Silvio nennte. Ach! wenn<lb/> ich an ihn
-                        gedencke, ſo ſteigen mir die Thraͤnen in die Augen.</p>
-                </sp>
-                <sp who="pantalone_ge">
-                    <speaker>Pantalon.</speaker>
-                    <p>Weinet nicht, charmanter Engel; ihr muͤſſet euch einen<lb/> Muth faſſen.</p>
-                </sp>
-                <sp who="#spirito_folletto_ge">
-                    <speaker>Der Geiſt.</speaker>
-                    <p>Ach! ich kan mich der Thraͤnen nicht enthalten. Der Ver-<lb/> raͤther! der
-                        Betruͤger! der ehrloſe Menſch! Aber, wieder auf mei-<lb/> ne Hiſtorie zu
-                        kommen, dieſer Menſch wurde in mich verliebt. Um<lb/> meine Liebe zu
-                        gewinnen, ſagte er mir allezeit vor: mein Hertz,<lb/> mein Leben, mein
-                        Schatz! ich vergehe, ich ſterbe fuͤr euch! ſo daß<lb/> ich mich darein
+        </sp>
+        <sp who="pantalone_ge">
+          <speaker>Pantalon.</speaker>
+          <p>Sagt doch, wer euch beleidiget und ob man euch helffen<lb/> kan?</p>
+        </sp>
+        <sp who="#spirito_folletto_ge">
+          <speaker>Der Gei&#x17F;t</speaker>
+          <p>Ich &#x17F;ehe euch fu&#x364;r zu ver&#x17F;ta&#x364;ndig an, meine Herren, als da&#xDF; ihr<lb/> euch
+                        beleidiget finden werdet, wann ich mein Unglu&#x364;ck vor euch ver-<lb/> borgen
+                        halte: wi&#x17F;&#x17F;et demnach, da&#xDF; ich von Mo&#x17F;cau und die eintzige<lb/> Tochter des
+                        Herrn *** bin, der unla&#x364;ng&#x17F;t in der Flei&#x17F;chbanck zu Pe-<lb/> tersburg zum
+                        Doctor Medicinae gemacht worden, und der, in &#x17F;ei-<lb/> ner Profe&#x17F;ion, dem
+                        be&#x17F;ten Ti&#x17F;chler nichts nachgiebt. Meine Mutter<lb/> hei&#x17F;et **** eine Frau,
+                        die &#x17F;o gut rechnet, da&#xDF; &#x17F;ie der Bu&#x364;rger&#x17F;chafft<lb/> zu Riga Dien&#x17F;te zu
+                        lei&#x17F;ten capable wa&#x364;re. Sie verkaufft Pfeffer zu<lb/> 3. Copicken das Pfund
+                        und ich &#x17F;chencke Bier in der *** Stra&#xDF;e, undv braue es &#x17F;o gut, da&#xDF; &#x17F;ich die
+                        Ru&#x17F;&#x17F;en calat&#x17F;chen, um das er&#x17F;te aus-<lb/> zu&#x17F;techen.</p>
+        </sp>
+        <sp who="pantalone_ge">
+          <speaker>Pantalon</speaker>
+          <p>Ihr werdet euch, durch eure Scho&#x364;nheit viele Kund&#x17F;chafft zu-<lb/> ziehen?</p>
+        </sp>
+        <fw type="catch" place="bottom">Der</fw>
+        <pb facs="#convsmer_ge_003" n="3"/>
+        <fw type="pageNum">3</fw>
+        <sp who="#spirito_folletto_ge">
+          <speaker>Der Gei&#x17F;t.</speaker>
+          <p>In Menge: unter andern kam unla&#x364;g&#x17F;t ein junger, wohlgemach-<lb/> ter und
+                        galanter Fremder zu mir, der &#x17F;ich Silvio nennte. Ach! wenn<lb/> ich an ihn
+                        gedencke, &#x17F;o &#x17F;teigen mir die Thra&#x364;nen in die Augen.</p>
+        </sp>
+        <sp who="pantalone_ge">
+          <speaker>Pantalon.</speaker>
+          <p>Weinet nicht, charmanter Engel; ihr mu&#x364;&#x17F;&#x17F;et euch einen<lb/> Muth fa&#x17F;&#x17F;en.</p>
+        </sp>
+        <sp who="#spirito_folletto_ge">
+          <speaker>Der Gei&#x17F;t.</speaker>
+          <p>Ach! ich kan mich der Thra&#x364;nen nicht enthalten. Der Ver-<lb/> ra&#x364;ther! der
+                        Betru&#x364;ger! der ehrlo&#x17F;e Men&#x17F;ch! Aber, wieder auf mei-<lb/> ne Hi&#x17F;torie zu
+                        kommen, die&#x17F;er Men&#x17F;ch wurde in mich verliebt. Um<lb/> meine Liebe zu
+                        gewinnen, &#x17F;agte er mir allezeit vor: mein Hertz,<lb/> mein Leben, mein
+                        Schatz! ich vergehe, ich &#x17F;terbe fu&#x364;r euch! &#x17F;o da&#xDF;<lb/> ich mich darein
                         ergab, und nicht leben konte, wenn ich ihn nicht des<lb/> Tages ein oder
-                        zweymahl zu ſehen bekam. Zuletzt wollte er mir<lb/> noch ein ſicheres
-                        Unterpfand ſeiner Treue geben und ſchenckte mir<lb/> dieſen Ring, und dieſes
-                        that er, ehe er aus der Stadt gieng; um die<lb/> noͤthigen Scheine herbey zu
-                        hohlen, daß er mich heyrathen koͤnte.</p>
-                </sp>
-                <sp who="pantalone_ge">
-                    <speaker>Pantalon.</speaker>
-                    <p>Wenn er ein ehrlicher Kerl iſt, ſo wird er ſein Wort halten.</p>
-                </sp>
-                <sp who="#spirito_folletto_it">
-                    <speaker>Der Geiſt.</speaker>
-                    <p>Im Gegentheil, es haben mich Leute, denen man Glauben<lb/> beymeſſen kan,
-                        verſichert, daß dieſer Sylvio ſeine erſte Frau mit<lb/> Nahmen Smeraldina
-                        umbringen laſſen, und ungeachtet ſeines Ver-<lb/> ſprechens, das er mir mit
-                        dieſem Ring zugleich gegeben, eine andere<lb/> mit Nahmen Diana, Pantalons
-                        von Biſognoſi Tochter, heyrathen<lb/> wolle.</p>
-                </sp>
-                <sp who="pantalone_ge">
-                    <speaker>Pantalon.</speaker>
-                    <p>Er wird den Teuffel heyrathen, derdieſen Betruͤger hohlen<lb/> wird.
-                        Fuͤrchtet euch nicht, meine liebe Jungfer! meine Tochter wird<lb/> ihn nicht
+                        zweymahl zu &#x17F;ehen bekam. Zuletzt wollte er mir<lb/> noch ein &#x17F;icheres
+                        Unterpfand &#x17F;einer Treue geben und &#x17F;chenckte mir<lb/> die&#x17F;en Ring, und die&#x17F;es
+                        that er, ehe er aus der Stadt gieng; um die<lb/> no&#x364;thigen Scheine herbey zu
+                        hohlen, da&#xDF; er mich heyrathen ko&#x364;nte.</p>
+        </sp>
+        <sp who="pantalone_ge">
+          <speaker>Pantalon.</speaker>
+          <p>Wenn er ein ehrlicher Kerl i&#x17F;t, &#x17F;o wird er &#x17F;ein Wort halten.</p>
+        </sp>
+        <sp who="#spirito_folletto_it">
+          <speaker>Der Gei&#x17F;t.</speaker>
+          <p>Im Gegentheil, es haben mich Leute, denen man Glauben<lb/> beyme&#x17F;&#x17F;en kan,
+                        ver&#x17F;ichert, da&#xDF; die&#x17F;er Sylvio &#x17F;eine er&#x17F;te Frau mit<lb/> Nahmen Smeraldina
+                        umbringen la&#x17F;&#x17F;en, und ungeachtet &#x17F;eines Ver-<lb/> &#x17F;prechens, das er mir mit
+                        die&#x17F;em Ring zugleich gegeben, eine andere<lb/> mit Nahmen Diana, Pantalons
+                        von Bi&#x17F;ogno&#x17F;i Tochter, heyrathen<lb/> wolle.</p>
+        </sp>
+        <sp who="pantalone_ge">
+          <speaker>Pantalon.</speaker>
+          <p>Er wird den Teuffel heyrathen, derdie&#x17F;en Betru&#x364;ger hohlen<lb/> wird.
+                        Fu&#x364;rchtet euch nicht, meine liebe Jungfer! meine Tochter wird<lb/> ihn nicht
                         heyrathen.</p>
-                </sp>
-                <sp who="#spirito_folletto_ge">
-                    <speaker>Der Geiſt.</speaker>
-                    <p>Wie? ſeyd ihr Pantalon, der Vater der Diana?</p>
-                </sp>
-                <sp who="pantalone_ge">
-                    <speaker>PANTALONE:</speaker>
-                    <p>Ja, ich bin ihr Vater.</p>
-                </sp>
-                <fw type="catch" place="bottom">Der</fw>
-                <pb facs="#convsmer_ge_004" n="4"/>
-                <fw type="pageNum">4</fw>
-                <sp who="#spirito_folletto_ge">
-                    <speaker>Der Geiſt.</speaker>
-                    <p>Mein lieber Herr, ich bitte um Verzeyhung; meine Ehre<lb/> bringt mich zu
-                        dieſer Ausſchweiffung.</p>
-                </sp>
-                <sp who="pantalone_ge">
-                    <speaker>Pantalon.</speaker>
-                    <p>Ihr habt wohlgethan, daß ihr mir von der Betruͤgerey die-<lb/> ſes Menſchen
+        </sp>
+        <sp who="#spirito_folletto_ge">
+          <speaker>Der Gei&#x17F;t.</speaker>
+          <p>Wie? &#x17F;eyd ihr Pantalon, der Vater der Diana?</p>
+        </sp>
+        <sp who="pantalone_ge">
+          <speaker>PANTALONE:</speaker>
+          <p>Ja, ich bin ihr Vater.</p>
+        </sp>
+        <fw type="catch" place="bottom">Der</fw>
+        <pb facs="#convsmer_ge_004" n="4"/>
+        <fw type="pageNum">4</fw>
+        <sp who="#spirito_folletto_ge">
+          <speaker>Der Gei&#x17F;t.</speaker>
+          <p>Mein lieber Herr, ich bitte um Verzeyhung; meine Ehre<lb/> bringt mich zu
+                        die&#x17F;er Aus&#x17F;chweiffung.</p>
+        </sp>
+        <sp who="pantalone_ge">
+          <speaker>Pantalon.</speaker>
+          <p>Ihr habt wohlgethan, da&#xDF; ihr mir von der Betru&#x364;gerey die-<lb/> &#x17F;es Men&#x17F;chen
                         Nachricht gegeben.</p>
-                </sp>
-                <pb facs="#convsmer_ru_004" n="4"/>
-                <sp who="#spirito_folletto_ge">
-                    <speaker>Der Geiſt.</speaker>
-                    <p>Nehmet euch in acht, mein Herr, dieſer Silvio iſt ein Petit-<lb/> Maitre und
-                        ein Menſch von gutem Gluͤcke.</p>
-                </sp>
-                <sp who="pantalone_it">
-                    <speaker>Pantalon.</speaker>
-                    <p>Traget keine Sorge.</p>
-                </sp>
-                <sp who="#spirito_folletto_ge">
-                    <speaker>Der Geiſt.</speaker>
-                    <p>Ich habe es euch und eurer Tochter zum Beſten erzehlet.</p>
-                </sp>
-                <sp who="pantalone_ge">
-                    <speaker>Pantalon.</speaker>
-                    <p>Es iſt gantz gut.</p>
-                </sp>
-                <sp who="#spirito_folletto_ge">
-                    <speaker>Der Geiſt.</speaker>
-                    <p>Ich will gehen, um euch nicht laͤnger beſchwehrlich zu fal-<lb/> len, ich bin
+        </sp>
+        <pb facs="#convsmer_ru_004" n="4"/>
+        <sp who="#spirito_folletto_ge">
+          <speaker>Der Gei&#x17F;t.</speaker>
+          <p>Nehmet euch in acht, mein Herr, die&#x17F;er Silvio i&#x17F;t ein Petit-<lb/> Maitre und
+                        ein Men&#x17F;ch von gutem Glu&#x364;cke.</p>
+        </sp>
+        <sp who="pantalone_it">
+          <speaker>Pantalon.</speaker>
+          <p>Traget keine Sorge.</p>
+        </sp>
+        <sp who="#spirito_folletto_ge">
+          <speaker>Der Gei&#x17F;t.</speaker>
+          <p>Ich habe es euch und eurer Tochter zum Be&#x17F;ten erzehlet.</p>
+        </sp>
+        <sp who="pantalone_ge">
+          <speaker>Pantalon.</speaker>
+          <p>Es i&#x17F;t gantz gut.</p>
+        </sp>
+        <sp who="#spirito_folletto_ge">
+          <speaker>Der Gei&#x17F;t.</speaker>
+          <p>Ich will gehen, um euch nicht la&#x364;nger be&#x17F;chwehrlich zu fal-<lb/> len, ich bin
                         euere Dienerin, mein Herr.</p>
-                </sp>
-                <sp who="pantalone_ge">
-                    <speaker>Pantalon.</speaker>
-                    <p>Lebet wohl Mademoiſſelle.</p>
-                </sp>
-                <sp who="#spirito_folletto_ge">
-                    <speaker>Der Geiſt.</speaker>
-                    <p>Allein, ehe ich fortgehen, muͤſſet ihr noch einen Rußiſchen<lb/> Tantz
-                        ſehen.</p>
-                </sp>
-                <sp who="pantalone_ge">
-                    <speaker>Pantalon.</speaker>
-                    <p>Tantzet.</p>
-                </sp>
-                <sp who="#spirito_folletto_ge">
-                    <speaker>Der Geiſt.</speaker>
-                    <p>Komm her, Bauer, tantze mit mir. etc.</p>
-                </sp>
-            </body>
-        </text>
-    </TEI>
-    <TEI>
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>La conversazione tra Smeraldina spirito folletto e Pantalone</title>
-                </titleStmt>
-                <publicationStmt>
-                    <p/>
-                </publicationStmt>
-                <sourceDesc>
-                    <p>La traduzione ha preso in considerazione la versione in lingua russa.</p>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <langUsage>
-                    <language ident="it">Italian</language>
-                </langUsage>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <front>
-                <pb facs="#convsmer_ru_001" n="1"/>
-                <head type="main">LA CONVERSAZIONE TRA SMERALDINA SPIRITO FOLLETTO E
+        </sp>
+        <sp who="pantalone_ge">
+          <speaker>Pantalon.</speaker>
+          <p>Lebet wohl Mademoi&#x17F;&#x17F;elle.</p>
+        </sp>
+        <sp who="#spirito_folletto_ge">
+          <speaker>Der Gei&#x17F;t.</speaker>
+          <p>Allein, ehe ich fortgehen, mu&#x364;&#x17F;&#x17F;et ihr noch einen Ru&#xDF;i&#x17F;chen<lb/> Tantz
+                        &#x17F;ehen.</p>
+        </sp>
+        <sp who="pantalone_ge">
+          <speaker>Pantalon.</speaker>
+          <p>Tantzet.</p>
+        </sp>
+        <sp who="#spirito_folletto_ge">
+          <speaker>Der Gei&#x17F;t.</speaker>
+          <p>Komm her, Bauer, tantze mit mir. etc.</p>
+        </sp>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>La conversazione tra Smeraldina spirito folletto e Pantalone</title>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc>
+          <p>La traduzione ha preso in considerazione la versione in lingua russa.</p>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="it">Italian</language>
+        </langUsage>
+      </profileDesc>
+    </teiHeader>
+    <text>
+      <front>
+        <pb facs="#convsmer_ru_001" n="1"/>
+        <head type="main">LA CONVERSAZIONE TRA SMERALDINA SPIRITO FOLLETTO E
                     PANTALONE.</head>
-            </front>
-            <body>
-                <p rend="indent">***</p>
-                <sp who="#spirito_folletto_it">
-                    <speaker>SPIRITO FOLLETTO:</speaker>
-                    <p>Io vi dico che dovete essere gentile e rispettoso nei confronti di una donna
-                        come me, perché se io non temessi di nuocere al mio onore, allora vi
+      </front>
+      <body>
+        <p rend="indent">***</p>
+        <sp who="#spirito_folletto_it">
+          <speaker>SPIRITO FOLLETTO:</speaker>
+          <p>Io vi dico che dovete essere gentile e rispettoso nei confronti di una donna
+                        come me, perch&#xE9; se io non temessi di nuocere al mio onore, allora vi
                         insegnerei io come comportarvi. Fannulloni, imbroglioni, buoni a nulla,
                         ubriaconi. Buongiorno, miei signori.</p>
-                    <p rend="indent">***</p>
-                    <p>Non vogliate, ve ne prego, meravigliarvi che io adesso sono così arrabbiata e
+          <p rend="indent">***</p>
+          <p>Non vogliate, ve ne prego, meravigliarvi che io adesso sono cos&#xEC; arrabbiata e
                         tanto cattiva; ne ho un motivo.</p>
-                </sp>
-                <sp who="pantalone_it">
-                    <speaker>PANTALONE:</speaker>
-                    <p>Forse qualcuno vi ha fatto qualcosa?</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_it">
-                    <speaker>SPIRITO FOLLETTO:</speaker>
-                    <p>Voi mi chiedete se qualcuno mi ha fatto qualcosa? Io sarò maledetta: va bene!
-                        Farò sapere a tutti chi sono io! Ho intenzione di vendicare la mia offesa
-                        anche se sapessi che a causa di ciò potrei perdere tutti gli averi paterni
+        </sp>
+        <sp who="pantalone_it">
+          <speaker>PANTALONE:</speaker>
+          <p>Forse qualcuno vi ha fatto qualcosa?</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_it">
+          <speaker>SPIRITO FOLLETTO:</speaker>
+          <p>Voi mi chiedete se qualcuno mi ha fatto qualcosa? Io sar&#xF2; maledetta: va bene!
+                        Far&#xF2; sapere a tutti chi sono io! Ho intenzione di vendicare la mia offesa
+                        anche se sapessi che a causa di ci&#xF2; potrei perdere tutti gli averi paterni
                         del mio bisnonno e della mia bisnonna, che erano brave persone.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_it">
-                    <speaker>PANTALONE:</speaker>
-                    <p>Abbiate la compiacenza di dire chi vi ha disonorato, così potrò aiutarvi.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_it">
-                    <speaker>SPIRITO FOLLETTO:</speaker>
-                    <p>Io vedo che voi siete una persona tanto garbata, mio signore, che sarei io
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_it">
+          <speaker>PANTALONE:</speaker>
+          <p>Abbiate la compiacenza di dire chi vi ha disonorato, cos&#xEC; potr&#xF2; aiutarvi.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_it">
+          <speaker>SPIRITO FOLLETTO:</speaker>
+          <p>Io vedo che voi siete una persona tanto garbata, mio signore, che sarei io
                         stessa a disonorarvi se <pb facs="#convsmer_ru_002" n="2"/> vi tacessi la mia
-                        infelicità. Dovete sapere che io sono nata a Mosca, figlia unica di I..., il
+                        infelicit&#xE0;. Dovete sapere che io sono nata a Mosca, figlia unica di I..., il
                         quale era stato messo come Dottore in medicina nel reparto carne del mercato
-                        a San Pietroburgo e che nella sua arte non era da meno del più importante
+                        a San Pietroburgo e che nella sua arte non era da meno del pi&#xF9; importante
                         falegname olandese. Mia madre si chiamava I..., ed era una donna tale da
-                        poter offrire i propri servigi nella società di Riga. Ella vendeva il burro
+                        poter offrire i propri servigi nella societ&#xE0; di Riga. Ella vendeva il burro
                         a un altin a libbra. E io facevo la birra nella via di I...; e mi veniva
-                        così bene che i russi facevano a pugni per berla per primi.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_it">
-                    <speaker>PANTALONE:</speaker>
-                    <p>Voi, a quanto pare, attiravate molti spasimanti con la vostra bellezza!</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_it">
-                    <speaker>SPIRITO FOLLETTO:</speaker>
-                    <p>Moltissimi: tra i quali un giorno venne da me un giovane forestiero, molto
-                        ben vestito e cortese che si chiamava Silvio. Ahimè! Se solo ci penso mi
+                        cos&#xEC; bene che i russi facevano a pugni per berla per primi.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_it">
+          <speaker>PANTALONE:</speaker>
+          <p>Voi, a quanto pare, attiravate molti spasimanti con la vostra bellezza!</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_it">
+          <speaker>SPIRITO FOLLETTO:</speaker>
+          <p>Moltissimi: tra i quali un giorno venne da me un giovane forestiero, molto
+                        ben vestito e cortese che si chiamava Silvio. Ahim&#xE8;! Se solo ci penso mi
                         vengono subito le lacrime agli occhi.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_it">
-                    <speaker>PANTALONE:</speaker>
-                    <p>Non piangete, cara bambolina; fatevi coraggio.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_it">
-                    <speaker>SPIRITO FOLLETTO:</speaker>
-                    <p>Ah! E come posso non piangere! Traditore! Imbroglione! Briccone! Ma per
-                        tornare alla mia storia, allora quel giovane si innamorò immediatamente di
-                        me e si mise a dimostrarmi il suo amore in modo così appassionato
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_it">
+          <speaker>PANTALONE:</speaker>
+          <p>Non piangete, cara bambolina; fatevi coraggio.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_it">
+          <speaker>SPIRITO FOLLETTO:</speaker>
+          <p>Ah! E come posso non piangere! Traditore! Imbroglione! Briccone! Ma per
+                        tornare alla mia storia, allora quel giovane si innamor&#xF2; immediatamente di
+                        me e si mise a dimostrarmi il suo amore in modo cos&#xEC; appassionato
                         chiamandomi cuore mio, vita mia, tesoro mio, io mi affliggo, io muoio per
                         voi, e io ho ceduto al suo desiderio e non potevo vivere se non lo vedevo
                         per almeno dodici volte al giorno. Alla fine come segno evidente <pb facs="#convsmer_ru_003" n="3"/> della sua devozione mi ha dato questo anello, e
-                        questo quando è partito per andare a casa sua a prendere il necessario per
+                        questo quando &#xE8; partito per andare a casa sua a prendere il necessario per
                         le nostre nozze.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_it">
-                    <speaker>PANTALONE:</speaker>
-                    <p>Se è una persona onesta, manterrà la sua parola.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_it">
-                    <speaker>SPIRITO FOLLETTO:</speaker>
-                    <p>Come può mantenerla, se alcune brave persone mi hanno informato che questo
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_it">
+          <speaker>PANTALONE:</speaker>
+          <p>Se &#xE8; una persona onesta, manterr&#xE0; la sua parola.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_it">
+          <speaker>SPIRITO FOLLETTO:</speaker>
+          <p>Come pu&#xF2; mantenerla, se alcune brave persone mi hanno informato che questo
                         Silvio ha ucciso la sua prima moglie che si chiamava Smeraldina e nonostante
                         la promessa fattami di sposarmi, di cui ho qui il pegno, cerca di sposare
-                        una certa Diana, figlia di Pantalone de’ Bisognosi!</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_it">
-                    <speaker>PANTALONE:</speaker>
-                    <p>Forse sposerà il diavolo, che se lo porti questo imbroglione. Non abbiate
-                        paura, mia signora, mia figlia non sarà mai sua.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_it">
-                    <speaker>SPIRITO FOLLETTO:</speaker>
-                    <p>Come! Siete voi Pantalone, il padre di Diana?</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_it">
-                    <speaker>PANTALONE:</speaker>
-                    <p>È la verità, sono suo padre.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_it">
-                    <speaker>SPIRITO FOLLETTO:</speaker>
-                    <p>Mio caro signore, vi chiedo scusa per i miei eccessi; si tratta pur sempre
+                        una certa Diana, figlia di Pantalone de&#x2019; Bisognosi!</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_it">
+          <speaker>PANTALONE:</speaker>
+          <p>Forse sposer&#xE0; il diavolo, che se lo porti questo imbroglione. Non abbiate
+                        paura, mia signora, mia figlia non sar&#xE0; mai sua.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_it">
+          <speaker>SPIRITO FOLLETTO:</speaker>
+          <p>Come! Siete voi Pantalone, il padre di Diana?</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_it">
+          <speaker>PANTALONE:</speaker>
+          <p>&#xC8; la verit&#xE0;, sono suo padre.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_it">
+          <speaker>SPIRITO FOLLETTO:</speaker>
+          <p>Mio caro signore, vi chiedo scusa per i miei eccessi; si tratta pur sempre
                         del mio onore.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_it">
-                    <speaker>PANTALONE:</speaker>
-                    <p>Avete fatto molto bene ad informarmi degli imbrogli di quell’uomo.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <pb facs="#convsmer_ru_004" n="4"/>
-                <sp who="#spirito_folletto_it">
-                    <speaker>SPIRITO FOLLETTO:</speaker>
-                    <p>Vogliate essere prudente, mio signore, poiché questo Silvio altri non è che
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_it">
+          <speaker>PANTALONE:</speaker>
+          <p>Avete fatto molto bene ad informarmi degli imbrogli di quell&#x2019;uomo.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <pb facs="#convsmer_ru_004" n="4"/>
+        <sp who="#spirito_folletto_it">
+          <speaker>SPIRITO FOLLETTO:</speaker>
+          <p>Vogliate essere prudente, mio signore, poich&#xE9; questo Silvio altri non &#xE8; che
                         uno sventato, una persona che non si lascia scalfire e non molla il
                         tiro.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_it">
-                    <speaker>PANTALONE:</speaker>
-                    <p>Non preoccupatevi di ciò.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_it">
-                    <speaker>SPIRITO FOLLETTO:</speaker>
-                    <p>Io vi informo per il bene vostro e di vostra figlia.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_it">
-                    <speaker>PANTALONE:</speaker>
-                    <p>Ora basta.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_it">
-                    <speaker>SPIRITO FOLLETTO:</speaker>
-                    <p>Voglio andarmene per non annoiarvi più.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_it">
-                    <speaker>SPIRITO FOLLETTO:</speaker>
-                    <p>Serva vostra, mio signore.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_it">
-                    <speaker>PANTALONE:</speaker>
-                    <p>Addio bella fanciulla.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_it">
-                    <speaker>SPIRITO FOLLETTO:</speaker>
-                    <p>Ma prima di andarmene voglio mostrarvi una danza alla maniera russa.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="pantalone_it">
-                    <speaker>PANTALONE:</speaker>
-                    <p>Danzate.</p>
-                    <p rend="indent">***</p>
-                </sp>
-                <sp who="#spirito_folletto_it">
-                    <speaker>SPIRITO FOLLETTO:</speaker>
-                    <p>Vieni qui, giovanotto, balla con me.</p>
-                    <p rend="indent">***</p>
-                </sp>
-            </body>
-        </text>
-    </TEI>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_it">
+          <speaker>PANTALONE:</speaker>
+          <p>Non preoccupatevi di ci&#xF2;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_it">
+          <speaker>SPIRITO FOLLETTO:</speaker>
+          <p>Io vi informo per il bene vostro e di vostra figlia.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_it">
+          <speaker>PANTALONE:</speaker>
+          <p>Ora basta.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_it">
+          <speaker>SPIRITO FOLLETTO:</speaker>
+          <p>Voglio andarmene per non annoiarvi pi&#xF9;.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_it">
+          <speaker>SPIRITO FOLLETTO:</speaker>
+          <p>Serva vostra, mio signore.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_it">
+          <speaker>PANTALONE:</speaker>
+          <p>Addio bella fanciulla.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_it">
+          <speaker>SPIRITO FOLLETTO:</speaker>
+          <p>Ma prima di andarmene voglio mostrarvi una danza alla maniera russa.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="pantalone_it">
+          <speaker>PANTALONE:</speaker>
+          <p>Danzate.</p>
+          <p rend="indent">***</p>
+        </sp>
+        <sp who="#spirito_folletto_it">
+          <speaker>SPIRITO FOLLETTO:</speaker>
+          <p>Vieni qui, giovanotto, balla con me.</p>
+          <p rend="indent">***</p>
+        </sp>
+      </body>
+    </text>
+  </TEI>
 </teiCorpus>
