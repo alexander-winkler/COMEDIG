@@ -1,799 +1,800 @@
+<?xml version="1.0"?>
 <teiCorpus xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>L'inganno fortunato</title>
-                <respStmt>
-                    <resp>Transcription, translation, and encoding by</resp>
-                    <name>Tatiana Korneeva</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Translation by</resp>
-                    <name>Alice Pieroni</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Revisions of transcription by</resp>
-                    <name>Tatiana Korneeva</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Technical coordination, metadata curation, programming by</resp>
-                    <name>Tiziana Mancinelli</name>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Università Ca' Foscari di Venezia - VeDPH</publisher>
-                <date>December 2021</date>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L'inganno fortunato</title>
+        <respStmt>
+          <resp>Transcription, translation, and encoding by</resp>
+          <name>Tatiana Korneeva</name>
+        </respStmt>
+        <respStmt>
+          <resp>Translation by</resp>
+          <name>Alice Pieroni</name>
+        </respStmt>
+        <respStmt>
+          <resp>Revisions of transcription by</resp>
+          <name>Tatiana Korneeva</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technical coordination, metadata curation, programming by</resp>
+          <name>Tiziana Mancinelli</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universit&#xE0; Ca' Foscari di Venezia - VeDPH</publisher>
+        <date>May 2022</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported
                         License</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <p>In base alla data indicata sul frontespizio dello scenario a stampa è possibile stabilire che la <em>pièce</em> fosse stata allestita nel 1734. Un canovaccio dallo stesso titolo fu allestito alla corte dell’Imperatrice Anna Ioannovna già nel 1731 dalla prima compagnia di attori italiani, diretta da Tommaso Ristori, con protagonista Tommaso Visentini. Secondo la lettura comparativa di Marialuisa Ferrazzi, nessun legame si palesa tra lo scenario pietroburghese e la commedia italiana a canovaccio con lo stesso titolo, <em>L’Inganno fortunato overo l’Amata aborrita commedia bellissima</em> <em>pièce</em> di derivazione spagnola, ambientata in Dalmazia e incentrata sull’amore e la schiavitù, che fu allestita al Nouveau Théâtre Italien di Parigi il 18 maggio 1716 (Ferrazzi 2000, 135). Nel caso dell’allestimento russo, si tratta invece di un canovaccio tradizionale, con le consueti trame amorose tra Silvio e Odoardo e le figlie di Pantalone, Diana e Aurelia. Da notare, inoltre, come già nei <em>Travestimenti di Arlecchino</em> (1733), la presenza del personaggio di Coviello. È plausibile ipotizzare che, ad interpretare il capitano napoletano, fosse Antonio Sacco. Infatti, l’attore aveva familiarità con il ruolo di Coviello in quanto lo zio, Gennaro Sacco, è specializzato proprio nell’interpretazione della maschera napoletana (Pieroni 2017, 179 e 198).</p>
-            </sourceDesc>
-        </fileDesc>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>In base alla data indicata sul frontespizio dello scenario a stampa &#xE8; possibile stabilire che la <em>pi&#xE8;ce</em> fosse stata allestita nel 1734. Un canovaccio dallo stesso titolo fu allestito alla corte dell&#x2019;Imperatrice Anna Ioannovna gi&#xE0; nel 1731 dalla prima compagnia di attori italiani, diretta da Tommaso Ristori, con protagonista Tommaso Visentini. Secondo la lettura comparativa di Marialuisa Ferrazzi, nessun legame si palesa tra lo scenario pietroburghese e la commedia italiana a canovaccio con lo stesso titolo, <em>L&#x2019;Inganno fortunato overo l&#x2019;Amata aborrita commedia bellissima</em> <em>pi&#xE8;ce</em> di derivazione spagnola, ambientata in Dalmazia e incentrata sull&#x2019;amore e la schiavit&#xF9;, che fu allestita al Nouveau Th&#xE9;&#xE2;tre Italien di Parigi il 18 maggio 1716 (Ferrazzi 2000, 135). Nel caso dell&#x2019;allestimento russo, si tratta invece di un canovaccio tradizionale, con le consueti trame amorose tra Silvio e Odoardo e le figlie di Pantalone, Diana e Aurelia. Da notare, inoltre, come gi&#xE0; nei <em>Travestimenti di Arlecchino</em> (1733), la presenza del personaggio di Coviello. &#xC8; plausibile ipotizzare che, ad interpretare il capitano napoletano, fosse Antonio Sacco. Infatti, l&#x2019;attore aveva familiarit&#xE0; con il ruolo di Coviello in quanto lo zio, Gennaro Sacco, &#xE8; specializzato proprio nell&#x2019;interpretazione della maschera napoletana (Pieroni 2017, 179 e 198).</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>&#x41E;&#x411;&#x41C;&#x410;&#x41D;&#x42A; &#x411;&#x41B;&#x410;&#x413;&#x41E;&#x41F;&#x41E;&#x41B;&#x423;&#x427;&#x41D;&#x42B;&#x418;</title>
+          <respStmt>
+            <resp>Transcription and encoding by</resp>
+            <name>Tatiana Korneeva</name>
+          </respStmt>
+          <respStmt>
+            <resp>Digital images</resp>
+            <name>The G&#xF6;ttingen State and University Library</name>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Universit&#xE0; Ca' Foscari di Venezia - VeDPH</publisher>
+          <date>May 2022</date>
+          <availability>
+            <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0
+                            Unported License</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc>
+            <msIdentifier>
+              <settlement>G&#xF6;ttingen</settlement>
+              <repository>The G&#xF6;ttingen State and University Library</repository>
+              <idno type="shelfmark">SUB G&#xF6;ttingen, 8 P DRAM IV, 8250 (27b) RARA</idno>
+              <idno type="URI">http://resolver.sub.uni-goettingen.de/purl?PPN1757483349</idno>
+            </msIdentifier>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <extent>
+                    <measure unit="pages" quantity="10">10 pages of source
+                                            material</measure>
+                    <height unit="cm">18,9</height>
+                    <width unit="cm">14,6</width>
+                    <depth unit="cm">0,1</depth>
+                  </extent>
+                </supportDesc>
+              </objectDesc>
+            </physDesc>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="ru">Russian</language>
+        </langUsage>
+      </profileDesc>
     </teiHeader>
-    <TEI>
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>ОБМАНЪ БЛАГОПОЛУЧНЫИ</title>
-                    <respStmt>
-                        <resp>Transcription and encoding by</resp>
-                        <name>Tatiana Korneeva</name>
-                    </respStmt>
-                    <respStmt>
-                        <resp>Digital images</resp>
-                        <name>The Göttingen State and University Library</name>
-                    </respStmt>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Università Ca' Foscari di Venezia - VeDPH</publisher>
-                    <date>December 2021</date>
-                    <availability>
-                        <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0
-                            Unported License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <msDesc>
-                        <msIdentifier>
-                            <settlement>Göttingen</settlement>
-                            <repository>The Göttingen State and University Library</repository>
-                            <idno type="shelfmark">SUB Göttingen, 8 P DRAM IV, 8250 (27b) RARA</idno>
-                            <idno type="URI">http://resolver.sub.uni-goettingen.de/purl?PPN1757483349</idno>
-                        </msIdentifier>
-                        <physDesc>
-                            <objectDesc>
-                                <supportDesc>
-                                    <extent>
-                                        <measure unit="pages" quantity="10">10 pages of source
-                                            material</measure>
-                                        <height unit="cm">18,9</height>
-                                        <width unit="cm">14,6</width>
-                                        <depth unit="cm">0,1</depth>
-                                    </extent>
-                                </supportDesc>
-                            </objectDesc>
-                        </physDesc>
-                    </msDesc>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <langUsage>
-                    <language ident="ru">Russian</language>
-                </langUsage>
-            </profileDesc>
-        </teiHeader>
-        <facsimile>
-            <surface type="ru">
-                <graphic xml:id="ingafort_ru_001" url="/img/ingafort_ru_001.jpg"/>
-                <graphic xml:id="ingafort_ru_002" url="/img/ingafort_ru_002.jpg"/>
-                <graphic xml:id="ingafort_ru_003" url="/img/ingafort_ru_003.jpg"/>
-                <graphic xml:id="ingafort_ru_004" url="/img/ingafort_ru_004.jpg"/>
-                <graphic xml:id="ingafort_ru_005" url="/img/ingafort_ru_005.jpg"/>
-                <graphic xml:id="ingafort_ru_006" url="/img/ingafort_ru_006.jpg"/>
-                <graphic xml:id="ingafort_ru_007" url="/img/ingafort_ru_007.jpg"/>
-                <graphic xml:id="ingafort_ru_008" url="/img/ingafort_ru_008.jpg"/>
-                <graphic xml:id="ingafort_ru_009" url="/img/ingafort_ru_009.jpg"/>
-            </surface>
-        </facsimile>
-        <text>
-            <front>
-                <pb facs="#ingafort_ru_001" n="1"/>
-                <head type="main">ОБМАНЪ БЛАГОПОЛУЧНЫИ</head>
-                <head type="sub">КОМЕДIЯ IТАЛIЯНСКАЯ,<lb/> ВЪ САНКТПЕТЕРБУРГѢ<lb/>
-                    <date when="1734">1734 года.</date></head>
-                <pb facs="#ingafort_ru_002" n="2"/>
-                <fw type="pageNum">2</fw>
-                <div type="preface">
-                    <head>ПЕРЕЧЕНЬ ВСЕЯ КОМЕДIИ.</head>
-                    <p rend="indent">СIЛВIИ посредством портрета, которои ему<lb/> надлежало писать,
-                        влюбился въ Дïану, метресу<lb/> Одоарда друга своего; и когда они
-                        хотѣли,<lb/> таясь другъ друга, поговорить съ нею въ ея камерѣ,<lb/> тогда
-                        засталъ ихъ Панталонъ. Что принудило ихъ<lb/> стараться, какъ бы ея
-                        похитить.</p>
-                </div>
-                <castList>
-                    <head>ДѢИСТВУЮЩІЯ ЛИЦА.</head>
-                    <castItem>
-                        <role xml:id="pantalone_ru">ПАНТАЛОНЪ,</role>
-                        <roleDesc>отецъ Дïанинъ, и Аурелïинъ.</roleDesc>
-                    </castItem>
-                    <castGroup>
-                        <castItem>
-                            <role xml:id="diana_ru">ДIАНА и<lb/></role>
-                        </castItem>
-                        <castItem>
-                            <role xml:id="aurelia_ru">АУРЕЛIЯ,</role>
-                        </castItem>
-                        <roleDesc>сестры.</roleDesc>
-                    </castGroup>
-                    <castItem>
-                        <role xml:id="smeraldina_ru">СМЕРАЛДIНА</role>
-                        <roleDesc>служащая.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="silvio_ru">СIЛВIИ,</role>
-                        <roleDesc>маляръ.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="arlecchino_ru">АРЛЕКIНЪ,</role>
-                        <roleDesc>слуга его.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="dottore_ru">ДОКТОРЪ,</role>
-                        <roleDesc>отецъ Одоардовъ.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="brighella_ru">БРIГЕЛЛЪ,</role>
-                        <roleDesc>служащеи.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="coviello_ru">КОВIЕЛЛЪ.</role>
-                    </castItem>
-                </castList>
-                <set>
-                    <p>Это дѣиствïе въ Болонïи.</p>
-                </set>
-                <fw type="catch" place="bottom">ДѢИ-</fw>
-            </front>
-            <body>
-                <pb facs="#ingafort_ru_003" n="3"/>
-                <fw type="pageNum">3</fw>
-                <div type="act" n="1">
-                    <head>ДѢИСТВÏЕ ПЕРВОЕ.</head>
-                    <stage>ТЕАТРЪ ПОКАЗЫВАЕТЪ ЛАВКУ МАЛЯРСКУЮ.</stage>
-                    <p rend="indent">ОДОАРДЪ проситъ Сïлвïя, чтобъ онъ написалъ<lb/> ему портретъ
-                        Дïаны метресы своея. Сïлвïи говоритъ,<lb/> что надлежитъ ея видѣть. Одоардъ
-                        отвѣтствуетъ,<lb/> что онъ ея о томъ уже просилъ, и что для сего<lb/> она
-                        имѣетъ притьти сама къ нему. Сïлвïи сталъ<lb/> кликать Арлекïна, которои
-                        выходитъ весьма сер-<lb/> дитъ, грозя нѣкому смертïю, ежалибъ онъ не
-                        сказалъ<lb/> правды. Сïлвïи у его спрашиваетъ, на когобъ онъ<lb/> толь
-                        сердился? Арлекïнъ ему говоритъ, что его<lb/> Камердïнеръ сѣлъ у него
-                        ребрышко жареное, за что<lb/> онъ его билъ верïовкою, чтобъ онъ сказалъ
-                        правду о<lb/> своемъ воровствѣ; а буде не скажетъ, то онъ его<lb/> повѣситъ.
-                        Сїлвїи дивится тому, что Арлекїнъ ему<lb/> говоритъ; велитъ ему ясняе себя
-                        вытолковать.<lb/> Арлекїнъ чрезъ отверницы сказываетъ, что его Ка-<lb/>
-                        медïеръ есть тотъ, которои у него укралъ мясо<lb/> его съ сковороды, въ чомъ
-                        онъ ему и повинился го-<lb/> воря: МЯУНЯО [то есть съѣлъ.] Сïлвїи по
-                        некото-<lb/> рыхъ игрушкахъ, велитъ ему тереть краски. Арле-<lb/> кïнъ думая
-                        все о своемъ ребрышкѣ, вспамятовалъ,<lb/> что онъ то самъ съѣлъ въ прошлои
-                        вечер. Призна-<lb/> ваетъ онъ кота, опятъ за добраго кота, и говоритъ,<lb/>
-                        что онъ у него станетъ прощенïя просить. Сïлвïи<lb/> обѣщается Одоарду поити
-                        къ Дïанъ, чтобъ ея сту-<lb/> шевать, дабы она нашла уже нѣчто
-                        здѣланное,<lb/> когда она къ нему придетъ, да и пошолъ съ нимъ<lb/> вмѣстѣ.
-                        Арлекїнъ остался для розтиранїя красокъ.<lb/> Къ нему приходитъ Смералдїна,
-                        которая говоритъ,<lb/> что она влюбилась въ Арлекїна, и что подъ подло-<lb/>
-                        гомъ, чтобъ повелѣть себѣ написать портретъ,<lb/>
-                        <fw type="sig" place="bottom">Т 2</fw>
-                        <fw type="catch" place="bottom">она</fw>
+    <facsimile>
+      <surface type="ru">
+        <graphic xml:id="ingafort_ru_001" url="/img/ingafort_ru_001.jpg"/>
+        <graphic xml:id="ingafort_ru_002" url="/img/ingafort_ru_002.jpg"/>
+        <graphic xml:id="ingafort_ru_003" url="/img/ingafort_ru_003.jpg"/>
+        <graphic xml:id="ingafort_ru_004" url="/img/ingafort_ru_004.jpg"/>
+        <graphic xml:id="ingafort_ru_005" url="/img/ingafort_ru_005.jpg"/>
+        <graphic xml:id="ingafort_ru_006" url="/img/ingafort_ru_006.jpg"/>
+        <graphic xml:id="ingafort_ru_007" url="/img/ingafort_ru_007.jpg"/>
+        <graphic xml:id="ingafort_ru_008" url="/img/ingafort_ru_008.jpg"/>
+        <graphic xml:id="ingafort_ru_009" url="/img/ingafort_ru_009.jpg"/>
+      </surface>
+    </facsimile>
+    <text>
+      <front>
+        <pb facs="#ingafort_ru_001" n="1"/>
+        <head type="main">&#x41E;&#x411;&#x41C;&#x410;&#x41D;&#x42A; &#x411;&#x41B;&#x410;&#x413;&#x41E;&#x41F;&#x41E;&#x41B;&#x423;&#x427;&#x41D;&#x42B;&#x418;</head>
+        <head type="sub">&#x41A;&#x41E;&#x41C;&#x415;&#x414;I&#x42F; I&#x422;&#x410;&#x41B;I&#x42F;&#x41D;&#x421;&#x41A;&#x410;&#x42F;,<lb/> &#x412;&#x42A; &#x421;&#x410;&#x41D;&#x41A;&#x422;&#x41F;&#x415;&#x422;&#x415;&#x420;&#x411;&#x423;&#x420;&#x413;&#x462;<lb/>
+                    <date when="1734">1734 &#x433;&#x43E;&#x434;&#x430;.</date></head>
+        <pb facs="#ingafort_ru_002" n="2"/>
+        <fw type="pageNum">2</fw>
+        <div type="preface">
+          <head>&#x41F;&#x415;&#x420;&#x415;&#x427;&#x415;&#x41D;&#x42C; &#x412;&#x421;&#x415;&#x42F; &#x41A;&#x41E;&#x41C;&#x415;&#x414;I&#x418;.</head>
+          <p rend="indent">&#x421;I&#x41B;&#x412;I&#x418; &#x43F;&#x43E;&#x441;&#x440;&#x435;&#x434;&#x441;&#x442;&#x432;&#x43E;&#x43C; &#x43F;&#x43E;&#x440;&#x442;&#x440;&#x435;&#x442;&#x430;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438; &#x435;&#x43C;&#x443;<lb/> &#x43D;&#x430;&#x434;&#x43B;&#x435;&#x436;&#x430;&#x43B;&#x43E; &#x43F;&#x438;&#x441;&#x430;&#x442;&#x44C;,
+                        &#x432;&#x43B;&#x44E;&#x431;&#x438;&#x43B;&#x441;&#x44F; &#x432;&#x44A; &#x414;&#xEF;&#x430;&#x43D;&#x443;, &#x43C;&#x435;&#x442;&#x440;&#x435;&#x441;&#x443;<lb/> &#x41E;&#x434;&#x43E;&#x430;&#x440;&#x434;&#x430; &#x434;&#x440;&#x443;&#x433;&#x430; &#x441;&#x432;&#x43E;&#x435;&#x433;&#x43E;; &#x438; &#x43A;&#x43E;&#x433;&#x434;&#x430; &#x43E;&#x43D;&#x438;
+                        &#x445;&#x43E;&#x442;&#x463;&#x43B;&#x438;,<lb/> &#x442;&#x430;&#x44F;&#x441;&#x44C; &#x434;&#x440;&#x443;&#x433;&#x44A; &#x434;&#x440;&#x443;&#x433;&#x430;, &#x43F;&#x43E;&#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x44C; &#x441;&#x44A; &#x43D;&#x435;&#x44E; &#x432;&#x44A; &#x435;&#x44F; &#x43A;&#x430;&#x43C;&#x435;&#x440;&#x463;,<lb/> &#x442;&#x43E;&#x433;&#x434;&#x430;
+                        &#x437;&#x430;&#x441;&#x442;&#x430;&#x43B;&#x44A; &#x438;&#x445;&#x44A; &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x44A;. &#x427;&#x442;&#x43E; &#x43F;&#x440;&#x438;&#x43D;&#x443;&#x434;&#x438;&#x43B;&#x43E; &#x438;&#x445;&#x44A;<lb/> &#x441;&#x442;&#x430;&#x440;&#x430;&#x442;&#x44C;&#x441;&#x44F;, &#x43A;&#x430;&#x43A;&#x44A; &#x431;&#x44B; &#x435;&#x44F;
+                        &#x43F;&#x43E;&#x445;&#x438;&#x442;&#x438;&#x442;&#x44C;.</p>
+        </div>
+        <castList>
+          <head>&#x414;&#x462;&#x418;&#x421;&#x422;&#x412;&#x423;&#x42E;&#x429;&#x406;&#x42F; &#x41B;&#x418;&#x426;&#x410;.</head>
+          <castItem>
+            <role xml:id="pantalone_ru">&#x41F;&#x410;&#x41D;&#x422;&#x410;&#x41B;&#x41E;&#x41D;&#x42A;,</role>
+            <roleDesc>&#x43E;&#x442;&#x435;&#x446;&#x44A; &#x414;&#xEF;&#x430;&#x43D;&#x438;&#x43D;&#x44A;, &#x438; &#x410;&#x443;&#x440;&#x435;&#x43B;&#xEF;&#x438;&#x43D;&#x44A;.</roleDesc>
+          </castItem>
+          <castGroup>
+            <castItem>
+              <role xml:id="diana_ru">&#x414;I&#x410;&#x41D;&#x410; &#x438;<lb/></role>
+            </castItem>
+            <castItem>
+              <role xml:id="aurelia_ru">&#x410;&#x423;&#x420;&#x415;&#x41B;I&#x42F;,</role>
+            </castItem>
+            <roleDesc>&#x441;&#x435;&#x441;&#x442;&#x440;&#x44B;.</roleDesc>
+          </castGroup>
+          <castItem>
+            <role xml:id="smeraldina_ru">&#x421;&#x41C;&#x415;&#x420;&#x410;&#x41B;&#x414;I&#x41D;&#x410;</role>
+            <roleDesc>&#x441;&#x43B;&#x443;&#x436;&#x430;&#x449;&#x430;&#x44F;.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="silvio_ru">&#x421;I&#x41B;&#x412;I&#x418;,</role>
+            <roleDesc>&#x43C;&#x430;&#x43B;&#x44F;&#x440;&#x44A;.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="arlecchino_ru">&#x410;&#x420;&#x41B;&#x415;&#x41A;I&#x41D;&#x42A;,</role>
+            <roleDesc>&#x441;&#x43B;&#x443;&#x433;&#x430; &#x435;&#x433;&#x43E;.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="dottore_ru">&#x414;&#x41E;&#x41A;&#x422;&#x41E;&#x420;&#x42A;,</role>
+            <roleDesc>&#x43E;&#x442;&#x435;&#x446;&#x44A; &#x41E;&#x434;&#x43E;&#x430;&#x440;&#x434;&#x43E;&#x432;&#x44A;.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="brighella_ru">&#x411;&#x420;I&#x413;&#x415;&#x41B;&#x41B;&#x42A;,</role>
+            <roleDesc>&#x441;&#x43B;&#x443;&#x436;&#x430;&#x449;&#x435;&#x438;.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="coviello_ru">&#x41A;&#x41E;&#x412;I&#x415;&#x41B;&#x41B;&#x42A;.</role>
+          </castItem>
+        </castList>
+        <set>
+          <p>&#x42D;&#x442;&#x43E; &#x434;&#x463;&#x438;&#x441;&#x442;&#x432;&#xEF;&#x435; &#x432;&#x44A; &#x411;&#x43E;&#x43B;&#x43E;&#x43D;&#xEF;&#x438;.</p>
+        </set>
+        <fw type="catch" place="bottom">&#x414;&#x462;&#x418;-</fw>
+      </front>
+      <body>
+        <pb facs="#ingafort_ru_003" n="3"/>
+        <fw type="pageNum">3</fw>
+        <div type="act" n="1">
+          <head>&#x414;&#x462;&#x418;&#x421;&#x422;&#x412;&#xCF;&#x415; &#x41F;&#x415;&#x420;&#x412;&#x41E;&#x415;.</head>
+          <stage>&#x422;&#x415;&#x410;&#x422;&#x420;&#x42A; &#x41F;&#x41E;&#x41A;&#x410;&#x417;&#x42B;&#x412;&#x410;&#x415;&#x422;&#x42A; &#x41B;&#x410;&#x412;&#x41A;&#x423; &#x41C;&#x410;&#x41B;&#x42F;&#x420;&#x421;&#x41A;&#x423;&#x42E;.</stage>
+          <p rend="indent">&#x41E;&#x414;&#x41E;&#x410;&#x420;&#x414;&#x42A; &#x43F;&#x440;&#x43E;&#x441;&#x438;&#x442;&#x44A; &#x421;&#xEF;&#x43B;&#x432;&#xEF;&#x44F;, &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x43E;&#x43D;&#x44A; &#x43D;&#x430;&#x43F;&#x438;&#x441;&#x430;&#x43B;&#x44A;<lb/> &#x435;&#x43C;&#x443; &#x43F;&#x43E;&#x440;&#x442;&#x440;&#x435;&#x442;&#x44A;
+                        &#x414;&#xEF;&#x430;&#x43D;&#x44B; &#x43C;&#x435;&#x442;&#x440;&#x435;&#x441;&#x44B; &#x441;&#x432;&#x43E;&#x435;&#x44F;. &#x421;&#xEF;&#x43B;&#x432;&#xEF;&#x438; &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x44A;,<lb/> &#x447;&#x442;&#x43E; &#x43D;&#x430;&#x434;&#x43B;&#x435;&#x436;&#x438;&#x442;&#x44A; &#x435;&#x44F; &#x432;&#x438;&#x434;&#x463;&#x442;&#x44C;. &#x41E;&#x434;&#x43E;&#x430;&#x440;&#x434;&#x44A;
+                        &#x43E;&#x442;&#x432;&#x463;&#x442;&#x441;&#x442;&#x432;&#x443;&#x435;&#x442;&#x44A;,<lb/> &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x44A; &#x435;&#x44F; &#x43E; &#x442;&#x43E;&#x43C;&#x44A; &#x443;&#x436;&#x435; &#x43F;&#x440;&#x43E;&#x441;&#x438;&#x43B;&#x44A;, &#x438; &#x447;&#x442;&#x43E; &#x434;&#x43B;&#x44F; &#x441;&#x435;&#x433;&#x43E;<lb/> &#x43E;&#x43D;&#x430;
+                        &#x438;&#x43C;&#x463;&#x435;&#x442;&#x44A; &#x43F;&#x440;&#x438;&#x442;&#x44C;&#x442;&#x438; &#x441;&#x430;&#x43C;&#x430; &#x43A;&#x44A; &#x43D;&#x435;&#x43C;&#x443;. &#x421;&#xEF;&#x43B;&#x432;&#xEF;&#x438; &#x441;&#x442;&#x430;&#x43B;&#x44A;<lb/> &#x43A;&#x43B;&#x438;&#x43A;&#x430;&#x442;&#x44C; &#x410;&#x440;&#x43B;&#x435;&#x43A;&#xEF;&#x43D;&#x430;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438;
+                        &#x432;&#x44B;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x432;&#x435;&#x441;&#x44C;&#x43C;&#x430; &#x441;&#x435;&#x440;-<lb/> &#x434;&#x438;&#x442;&#x44A;, &#x433;&#x440;&#x43E;&#x437;&#x44F; &#x43D;&#x463;&#x43A;&#x43E;&#x43C;&#x443; &#x441;&#x43C;&#x435;&#x440;&#x442;&#xEF;&#x44E;, &#x435;&#x436;&#x430;&#x43B;&#x438;&#x431;&#x44A; &#x43E;&#x43D;&#x44A; &#x43D;&#x435;
+                        &#x441;&#x43A;&#x430;&#x437;&#x430;&#x43B;&#x44A;<lb/> &#x43F;&#x440;&#x430;&#x432;&#x434;&#x44B;. &#x421;&#xEF;&#x43B;&#x432;&#xEF;&#x438; &#x443; &#x435;&#x433;&#x43E; &#x441;&#x43F;&#x440;&#x430;&#x448;&#x438;&#x432;&#x430;&#x435;&#x442;&#x44A;, &#x43D;&#x430; &#x43A;&#x43E;&#x433;&#x43E;&#x431;&#x44A; &#x43E;&#x43D;&#x44A;<lb/> &#x442;&#x43E;&#x43B;&#x44C;
+                        &#x441;&#x435;&#x440;&#x434;&#x438;&#x43B;&#x441;&#x44F;? &#x410;&#x440;&#x43B;&#x435;&#x43A;&#xEF;&#x43D;&#x44A; &#x435;&#x43C;&#x443; &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x44A;, &#x447;&#x442;&#x43E; &#x435;&#x433;&#x43E;<lb/> &#x41A;&#x430;&#x43C;&#x435;&#x440;&#x434;&#xEF;&#x43D;&#x435;&#x440;&#x44A; &#x441;&#x463;&#x43B;&#x44A; &#x443; &#x43D;&#x435;&#x433;&#x43E;
+                        &#x440;&#x435;&#x431;&#x440;&#x44B;&#x448;&#x43A;&#x43E; &#x436;&#x430;&#x440;&#x435;&#x43D;&#x43E;&#x435;, &#x437;&#x430; &#x447;&#x442;&#x43E;<lb/> &#x43E;&#x43D;&#x44A; &#x435;&#x433;&#x43E; &#x431;&#x438;&#x43B;&#x44A; &#x432;&#x435;&#x440;&#xEF;&#x43E;&#x432;&#x43A;&#x43E;&#x44E;, &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x43E;&#x43D;&#x44A; &#x441;&#x43A;&#x430;&#x437;&#x430;&#x43B;&#x44A;
+                        &#x43F;&#x440;&#x430;&#x432;&#x434;&#x443; &#x43E;<lb/> &#x441;&#x432;&#x43E;&#x435;&#x43C;&#x44A; &#x432;&#x43E;&#x440;&#x43E;&#x432;&#x441;&#x442;&#x432;&#x463;; &#x430; &#x431;&#x443;&#x434;&#x435; &#x43D;&#x435; &#x441;&#x43A;&#x430;&#x436;&#x435;&#x442;&#x44A;, &#x442;&#x43E; &#x43E;&#x43D;&#x44A; &#x435;&#x433;&#x43E;<lb/> &#x43F;&#x43E;&#x432;&#x463;&#x441;&#x438;&#x442;&#x44A;.
+                        &#x421;&#x457;&#x43B;&#x432;&#x457;&#x438; &#x434;&#x438;&#x432;&#x438;&#x442;&#x441;&#x44F; &#x442;&#x43E;&#x43C;&#x443;, &#x447;&#x442;&#x43E; &#x410;&#x440;&#x43B;&#x435;&#x43A;&#x457;&#x43D;&#x44A; &#x435;&#x43C;&#x443;<lb/> &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x44A;; &#x432;&#x435;&#x43B;&#x438;&#x442;&#x44A; &#x435;&#x43C;&#x443; &#x44F;&#x441;&#x43D;&#x44F;&#x435; &#x441;&#x435;&#x431;&#x44F;
+                        &#x432;&#x44B;&#x442;&#x43E;&#x43B;&#x43A;&#x43E;&#x432;&#x430;&#x442;&#x44C;.<lb/> &#x410;&#x440;&#x43B;&#x435;&#x43A;&#x457;&#x43D;&#x44A; &#x447;&#x440;&#x435;&#x437;&#x44A; &#x43E;&#x442;&#x432;&#x435;&#x440;&#x43D;&#x438;&#x446;&#x44B; &#x441;&#x43A;&#x430;&#x437;&#x44B;&#x432;&#x430;&#x435;&#x442;&#x44A;, &#x447;&#x442;&#x43E; &#x435;&#x433;&#x43E; &#x41A;&#x430;-<lb/>
+                        &#x43C;&#x435;&#x434;&#xEF;&#x435;&#x440;&#x44A; &#x435;&#x441;&#x442;&#x44C; &#x442;&#x43E;&#x442;&#x44A;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438; &#x443; &#x43D;&#x435;&#x433;&#x43E; &#x443;&#x43A;&#x440;&#x430;&#x43B;&#x44A; &#x43C;&#x44F;&#x441;&#x43E;<lb/> &#x435;&#x433;&#x43E; &#x441;&#x44A; &#x441;&#x43A;&#x43E;&#x432;&#x43E;&#x440;&#x43E;&#x434;&#x44B;, &#x432;&#x44A; &#x447;&#x43E;&#x43C;&#x44A;
+                        &#x43E;&#x43D;&#x44A; &#x435;&#x43C;&#x443; &#x438; &#x43F;&#x43E;&#x432;&#x438;&#x43D;&#x438;&#x43B;&#x441;&#x44F; &#x433;&#x43E;-<lb/> &#x432;&#x43E;&#x440;&#x44F;: &#x41C;&#x42F;&#x423;&#x41D;&#x42F;&#x41E; [&#x442;&#x43E; &#x435;&#x441;&#x442;&#x44C; &#x441;&#x44A;&#x463;&#x43B;&#x44A;.] &#x421;&#xEF;&#x43B;&#x432;&#x457;&#x438; &#x43F;&#x43E;
+                        &#x43D;&#x435;&#x43A;&#x43E;&#x442;&#x43E;-<lb/> &#x440;&#x44B;&#x445;&#x44A; &#x438;&#x433;&#x440;&#x443;&#x448;&#x43A;&#x430;&#x445;&#x44A;, &#x432;&#x435;&#x43B;&#x438;&#x442;&#x44A; &#x435;&#x43C;&#x443; &#x442;&#x435;&#x440;&#x435;&#x442;&#x44C; &#x43A;&#x440;&#x430;&#x441;&#x43A;&#x438;. &#x410;&#x440;&#x43B;&#x435;-<lb/> &#x43A;&#xEF;&#x43D;&#x44A; &#x434;&#x443;&#x43C;&#x430;&#x44F;
+                        &#x432;&#x441;&#x435; &#x43E; &#x441;&#x432;&#x43E;&#x435;&#x43C;&#x44A; &#x440;&#x435;&#x431;&#x440;&#x44B;&#x448;&#x43A;&#x463;, &#x432;&#x441;&#x43F;&#x430;&#x43C;&#x44F;&#x442;&#x43E;&#x432;&#x430;&#x43B;&#x44A;,<lb/> &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x44A; &#x442;&#x43E; &#x441;&#x430;&#x43C;&#x44A; &#x441;&#x44A;&#x463;&#x43B;&#x44A; &#x432;&#x44A; &#x43F;&#x440;&#x43E;&#x448;&#x43B;&#x43E;&#x438;
+                        &#x432;&#x435;&#x447;&#x435;&#x440;. &#x41F;&#x440;&#x438;&#x437;&#x43D;&#x430;-<lb/> &#x432;&#x430;&#x435;&#x442;&#x44A; &#x43E;&#x43D;&#x44A; &#x43A;&#x43E;&#x442;&#x430;, &#x43E;&#x43F;&#x44F;&#x442;&#x44A; &#x437;&#x430; &#x434;&#x43E;&#x431;&#x440;&#x430;&#x433;&#x43E; &#x43A;&#x43E;&#x442;&#x430;, &#x438; &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x44A;,<lb/>
+                        &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x44A; &#x443; &#x43D;&#x435;&#x433;&#x43E; &#x441;&#x442;&#x430;&#x43D;&#x435;&#x442;&#x44A; &#x43F;&#x440;&#x43E;&#x449;&#x435;&#x43D;&#xEF;&#x44F; &#x43F;&#x440;&#x43E;&#x441;&#x438;&#x442;&#x44C;. &#x421;&#xEF;&#x43B;&#x432;&#xEF;&#x438;<lb/> &#x43E;&#x431;&#x463;&#x449;&#x430;&#x435;&#x442;&#x441;&#x44F; &#x41E;&#x434;&#x43E;&#x430;&#x440;&#x434;&#x443; &#x43F;&#x43E;&#x438;&#x442;&#x438;
+                        &#x43A;&#x44A; &#x414;&#xEF;&#x430;&#x43D;&#x44A;, &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x435;&#x44F; &#x441;&#x442;&#x443;-<lb/> &#x448;&#x435;&#x432;&#x430;&#x442;&#x44C;, &#x434;&#x430;&#x431;&#x44B; &#x43E;&#x43D;&#x430; &#x43D;&#x430;&#x448;&#x43B;&#x430; &#x443;&#x436;&#x435; &#x43D;&#x463;&#x447;&#x442;&#x43E;
+                        &#x437;&#x434;&#x463;&#x43B;&#x430;&#x43D;&#x43D;&#x43E;&#x435;,<lb/> &#x43A;&#x43E;&#x433;&#x434;&#x430; &#x43E;&#x43D;&#x430; &#x43A;&#x44A; &#x43D;&#x435;&#x43C;&#x443; &#x43F;&#x440;&#x438;&#x434;&#x435;&#x442;&#x44A;, &#x434;&#x430; &#x438; &#x43F;&#x43E;&#x448;&#x43E;&#x43B;&#x44A; &#x441;&#x44A; &#x43D;&#x438;&#x43C;&#x44A;<lb/> &#x432;&#x43C;&#x463;&#x441;&#x442;&#x463;.
+                        &#x410;&#x440;&#x43B;&#x435;&#x43A;&#x457;&#x43D;&#x44A; &#x43E;&#x441;&#x442;&#x430;&#x43B;&#x441;&#x44F; &#x434;&#x43B;&#x44F; &#x440;&#x43E;&#x437;&#x442;&#x438;&#x440;&#x430;&#x43D;&#x457;&#x44F; &#x43A;&#x440;&#x430;&#x441;&#x43E;&#x43A;&#x44A;.<lb/> &#x41A;&#x44A; &#x43D;&#x435;&#x43C;&#x443; &#x43F;&#x440;&#x438;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x421;&#x43C;&#x435;&#x440;&#x430;&#x43B;&#x434;&#x457;&#x43D;&#x430;,
+                        &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x430;&#x44F; &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x44A;,<lb/> &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x430; &#x432;&#x43B;&#x44E;&#x431;&#x438;&#x43B;&#x430;&#x441;&#x44C; &#x432;&#x44A; &#x410;&#x440;&#x43B;&#x435;&#x43A;&#x457;&#x43D;&#x430;, &#x438; &#x447;&#x442;&#x43E; &#x43F;&#x43E;&#x434;&#x44A; &#x43F;&#x43E;&#x434;&#x43B;&#x43E;-<lb/>
+                        &#x433;&#x43E;&#x43C;&#x44A;, &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x43F;&#x43E;&#x432;&#x435;&#x43B;&#x463;&#x442;&#x44C; &#x441;&#x435;&#x431;&#x463; &#x43D;&#x430;&#x43F;&#x438;&#x441;&#x430;&#x442;&#x44C; &#x43F;&#x43E;&#x440;&#x442;&#x440;&#x435;&#x442;&#x44A;,<lb/>
+                        <fw type="sig" place="bottom">&#x422; 2</fw>
+                        <fw type="catch" place="bottom">&#x43E;&#x43D;&#x430;</fw>
                         <pb facs="#ingafort_ru_004" n="4"/>
-                        <fw type="pageNum">4</fw> она хотела ему объявить свою любовь. Изъ того<lb/>
-                        произходитъ между ними игрушка смѣшная. И когда<lb/> Арлекïнъ писалъ ея
-                        портретъ, тогда прибылъ одинъ<lb/> человѣкъ спрашивающïи о Панталонѣ.
-                        Арлекїнъ ото-<lb/> слалъ его отъ себя, чрезъ игрушку приличную теа-<lb/>
-                        тру. На то приходитъ Брïгеллъ, которои видя<lb/> Смералдїну, которую онъ
-                        любилъ, с Арлекïномъ,<lb/> сталъ ревновать. Послѣ нѣкоторыхъ игрушекъ
-                        въ<lb/> словахъ, Арлекїнъ хочетъ, чтобъ Брïгеллъ пошолъ<lb/> прочь; но видя,
-                        что тотъ того не чинитъ, того<lb/> ради онъ его прогналъ. Продолжаетъ еще
-                        онъ пи-<lb/> сать портретъ Смерадїнинъ. Тогда Сïлвïи прибылъ,<lb/> и кличетъ
-                        его, чтобъ спросить у него, что из-<lb/> теръ ли онъ краски? Арлекïнъ послѣ
-                        игрушки смѣ-<lb/> шныя, пошолъ по нихъ. Смералдïна оттуда вышла.<lb/> Сïлвïи
-                        говоритъ, что онъ ожидает Дïану, да и<lb/> сказываетъ, что онъ въ нея
-                        влюбился, и что онъ<lb/> хочетъ употребить симъ случаемъ в пользу себѣ,<lb/>
-                        то есть, чтобъ еи объявить свою любовь къ неи.<lb/> На то приходитъ Дïана.
-                        Сïлвïи, по комплїментах,<lb/> посадилъ ея; и велитъ Арлекïну, чтобъ онъ
-                        ему<lb/> принесъ его орудïя. Что Арлекнъ испоняетъ, но<lb/> не такъ, какъ
-                        надлежитъ, извиняяся въ томъ двое-<lb/> толковательными отговорками; что
-                        причиняетъ<lb/> многïя игрушки приличныя театру; послѣ кото-<lb/> рыхъ
-                        Дïана, которои Сïлвïи объявилъ свою любовь,<lb/> приказываетъ ему, чтобъ он
-                        къ неи пришол въ че-<lb/> тыре часа подъ вечеръ. Сказываетъ она ему,
-                        чрезъ<lb/> которое бы окно ему надежало влѣзть въ ея каме-<lb/> ру, да и
-                        пошла. Сїлвїи приказываетъ Арлекїну<lb/> чтобъ онъ ему нашолъ лѣстницу.
-                        Арлекïнъ ему го-<lb/> воритъ, что онъ ту выпроситъ у одного искрення-<lb/>
-                        го своего друга. Сïлвïи у него спрашиваетъ, кто<lb/> бы то былъ тотъ другъ?
-                        Арлекïнъ ему отвѣчаетъ:<lb/>
-                        <fw type="catch" place="signature">палачъ.</fw>
+                        <fw type="pageNum">4</fw> &#x43E;&#x43D;&#x430; &#x445;&#x43E;&#x442;&#x435;&#x43B;&#x430; &#x435;&#x43C;&#x443; &#x43E;&#x431;&#x44A;&#x44F;&#x432;&#x438;&#x442;&#x44C; &#x441;&#x432;&#x43E;&#x44E; &#x43B;&#x44E;&#x431;&#x43E;&#x432;&#x44C;. &#x418;&#x437;&#x44A; &#x442;&#x43E;&#x433;&#x43E;<lb/>
+                        &#x43F;&#x440;&#x43E;&#x438;&#x437;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x43C;&#x435;&#x436;&#x434;&#x443; &#x43D;&#x438;&#x43C;&#x438; &#x438;&#x433;&#x440;&#x443;&#x448;&#x43A;&#x430; &#x441;&#x43C;&#x463;&#x448;&#x43D;&#x430;&#x44F;. &#x418; &#x43A;&#x43E;&#x433;&#x434;&#x430;<lb/> &#x410;&#x440;&#x43B;&#x435;&#x43A;&#xEF;&#x43D;&#x44A; &#x43F;&#x438;&#x441;&#x430;&#x43B;&#x44A; &#x435;&#x44F;
+                        &#x43F;&#x43E;&#x440;&#x442;&#x440;&#x435;&#x442;&#x44A;, &#x442;&#x43E;&#x433;&#x434;&#x430; &#x43F;&#x440;&#x438;&#x431;&#x44B;&#x43B;&#x44A; &#x43E;&#x434;&#x438;&#x43D;&#x44A;<lb/> &#x447;&#x435;&#x43B;&#x43E;&#x432;&#x463;&#x43A;&#x44A; &#x441;&#x43F;&#x440;&#x430;&#x448;&#x438;&#x432;&#x430;&#x44E;&#x449;&#xEF;&#x438; &#x43E; &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x463;.
+                        &#x410;&#x440;&#x43B;&#x435;&#x43A;&#x457;&#x43D;&#x44A; &#x43E;&#x442;&#x43E;-<lb/> &#x441;&#x43B;&#x430;&#x43B;&#x44A; &#x435;&#x433;&#x43E; &#x43E;&#x442;&#x44A; &#x441;&#x435;&#x431;&#x44F;, &#x447;&#x440;&#x435;&#x437;&#x44A; &#x438;&#x433;&#x440;&#x443;&#x448;&#x43A;&#x443; &#x43F;&#x440;&#x438;&#x43B;&#x438;&#x447;&#x43D;&#x443;&#x44E; &#x442;&#x435;&#x430;-<lb/>
+                        &#x442;&#x440;&#x443;. &#x41D;&#x430; &#x442;&#x43E; &#x43F;&#x440;&#x438;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x411;&#x440;&#xEF;&#x433;&#x435;&#x43B;&#x43B;&#x44A;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438; &#x432;&#x438;&#x434;&#x44F;<lb/> &#x421;&#x43C;&#x435;&#x440;&#x430;&#x43B;&#x434;&#x457;&#x43D;&#x443;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x443;&#x44E; &#x43E;&#x43D;&#x44A;
+                        &#x43B;&#x44E;&#x431;&#x438;&#x43B;&#x44A;, &#x441; &#x410;&#x440;&#x43B;&#x435;&#x43A;&#xEF;&#x43D;&#x43E;&#x43C;&#x44A;,<lb/> &#x441;&#x442;&#x430;&#x43B;&#x44A; &#x440;&#x435;&#x432;&#x43D;&#x43E;&#x432;&#x430;&#x442;&#x44C;. &#x41F;&#x43E;&#x441;&#x43B;&#x463; &#x43D;&#x463;&#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x44B;&#x445;&#x44A; &#x438;&#x433;&#x440;&#x443;&#x448;&#x435;&#x43A;&#x44A;
+                        &#x432;&#x44A;<lb/> &#x441;&#x43B;&#x43E;&#x432;&#x430;&#x445;&#x44A;, &#x410;&#x440;&#x43B;&#x435;&#x43A;&#x457;&#x43D;&#x44A; &#x445;&#x43E;&#x447;&#x435;&#x442;&#x44A;, &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x411;&#x440;&#xEF;&#x433;&#x435;&#x43B;&#x43B;&#x44A; &#x43F;&#x43E;&#x448;&#x43E;&#x43B;&#x44A;<lb/> &#x43F;&#x440;&#x43E;&#x447;&#x44C;; &#x43D;&#x43E; &#x432;&#x438;&#x434;&#x44F;,
+                        &#x447;&#x442;&#x43E; &#x442;&#x43E;&#x442;&#x44A; &#x442;&#x43E;&#x433;&#x43E; &#x43D;&#x435; &#x447;&#x438;&#x43D;&#x438;&#x442;&#x44A;, &#x442;&#x43E;&#x433;&#x43E;<lb/> &#x440;&#x430;&#x434;&#x438; &#x43E;&#x43D;&#x44A; &#x435;&#x433;&#x43E; &#x43F;&#x440;&#x43E;&#x433;&#x43D;&#x430;&#x43B;&#x44A;. &#x41F;&#x440;&#x43E;&#x434;&#x43E;&#x43B;&#x436;&#x430;&#x435;&#x442;&#x44A; &#x435;&#x449;&#x435;
+                        &#x43E;&#x43D;&#x44A; &#x43F;&#x438;-<lb/> &#x441;&#x430;&#x442;&#x44C; &#x43F;&#x43E;&#x440;&#x442;&#x440;&#x435;&#x442;&#x44A; &#x421;&#x43C;&#x435;&#x440;&#x430;&#x434;&#x457;&#x43D;&#x438;&#x43D;&#x44A;. &#x422;&#x43E;&#x433;&#x434;&#x430; &#x421;&#xEF;&#x43B;&#x432;&#xEF;&#x438; &#x43F;&#x440;&#x438;&#x431;&#x44B;&#x43B;&#x44A;,<lb/> &#x438; &#x43A;&#x43B;&#x438;&#x447;&#x435;&#x442;&#x44A;
+                        &#x435;&#x433;&#x43E;, &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x441;&#x43F;&#x440;&#x43E;&#x441;&#x438;&#x442;&#x44C; &#x443; &#x43D;&#x435;&#x433;&#x43E;, &#x447;&#x442;&#x43E; &#x438;&#x437;-<lb/> &#x442;&#x435;&#x440;&#x44A; &#x43B;&#x438; &#x43E;&#x43D;&#x44A; &#x43A;&#x440;&#x430;&#x441;&#x43A;&#x438;? &#x410;&#x440;&#x43B;&#x435;&#x43A;&#xEF;&#x43D;&#x44A; &#x43F;&#x43E;&#x441;&#x43B;&#x463;
+                        &#x438;&#x433;&#x440;&#x443;&#x448;&#x43A;&#x438; &#x441;&#x43C;&#x463;-<lb/> &#x448;&#x43D;&#x44B;&#x44F;, &#x43F;&#x43E;&#x448;&#x43E;&#x43B;&#x44A; &#x43F;&#x43E; &#x43D;&#x438;&#x445;&#x44A;. &#x421;&#x43C;&#x435;&#x440;&#x430;&#x43B;&#x434;&#xEF;&#x43D;&#x430; &#x43E;&#x442;&#x442;&#x443;&#x434;&#x430; &#x432;&#x44B;&#x448;&#x43B;&#x430;.<lb/> &#x421;&#xEF;&#x43B;&#x432;&#xEF;&#x438;
+                        &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x44A;, &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x44A; &#x43E;&#x436;&#x438;&#x434;&#x430;&#x435;&#x442; &#x414;&#xEF;&#x430;&#x43D;&#x443;, &#x434;&#x430; &#x438;<lb/> &#x441;&#x43A;&#x430;&#x437;&#x44B;&#x432;&#x430;&#x435;&#x442;&#x44A;, &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x44A; &#x432;&#x44A; &#x43D;&#x435;&#x44F;
+                        &#x432;&#x43B;&#x44E;&#x431;&#x438;&#x43B;&#x441;&#x44F;, &#x438; &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x44A;<lb/> &#x445;&#x43E;&#x447;&#x435;&#x442;&#x44A; &#x443;&#x43F;&#x43E;&#x442;&#x440;&#x435;&#x431;&#x438;&#x442;&#x44C; &#x441;&#x438;&#x43C;&#x44A; &#x441;&#x43B;&#x443;&#x447;&#x430;&#x435;&#x43C;&#x44A; &#x432; &#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x443; &#x441;&#x435;&#x431;&#x463;,<lb/>
+                        &#x442;&#x43E; &#x435;&#x441;&#x442;&#x44C;, &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x435;&#x438; &#x43E;&#x431;&#x44A;&#x44F;&#x432;&#x438;&#x442;&#x44C; &#x441;&#x432;&#x43E;&#x44E; &#x43B;&#x44E;&#x431;&#x43E;&#x432;&#x44C; &#x43A;&#x44A; &#x43D;&#x435;&#x438;.<lb/> &#x41D;&#x430; &#x442;&#x43E; &#x43F;&#x440;&#x438;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x414;&#xEF;&#x430;&#x43D;&#x430;.
+                        &#x421;&#xEF;&#x43B;&#x432;&#xEF;&#x438;, &#x43F;&#x43E; &#x43A;&#x43E;&#x43C;&#x43F;&#x43B;&#x457;&#x43C;&#x435;&#x43D;&#x442;&#x430;&#x445;,<lb/> &#x43F;&#x43E;&#x441;&#x430;&#x434;&#x438;&#x43B;&#x44A; &#x435;&#x44F;; &#x438; &#x432;&#x435;&#x43B;&#x438;&#x442;&#x44A; &#x410;&#x440;&#x43B;&#x435;&#x43A;&#xEF;&#x43D;&#x443;, &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x43E;&#x43D;&#x44A;
+                        &#x435;&#x43C;&#x443;<lb/> &#x43F;&#x440;&#x438;&#x43D;&#x435;&#x441;&#x44A; &#x435;&#x433;&#x43E; &#x43E;&#x440;&#x443;&#x434;&#xEF;&#x44F;. &#x427;&#x442;&#x43E; &#x410;&#x440;&#x43B;&#x435;&#x43A;&#x43D;&#x44A; &#x438;&#x441;&#x43F;&#x43E;&#x43D;&#x44F;&#x435;&#x442;&#x44A;, &#x43D;&#x43E;<lb/> &#x43D;&#x435; &#x442;&#x430;&#x43A;&#x44A;, &#x43A;&#x430;&#x43A;&#x44A;
+                        &#x43D;&#x430;&#x434;&#x43B;&#x435;&#x436;&#x438;&#x442;&#x44A;, &#x438;&#x437;&#x432;&#x438;&#x43D;&#x44F;&#x44F;&#x441;&#x44F; &#x432;&#x44A; &#x442;&#x43E;&#x43C;&#x44A; &#x434;&#x432;&#x43E;&#x435;-<lb/> &#x442;&#x43E;&#x43B;&#x43A;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x44B;&#x43C;&#x438; &#x43E;&#x442;&#x433;&#x43E;&#x432;&#x43E;&#x440;&#x43A;&#x430;&#x43C;&#x438;; &#x447;&#x442;&#x43E;
+                        &#x43F;&#x440;&#x438;&#x447;&#x438;&#x43D;&#x44F;&#x435;&#x442;&#x44A;<lb/> &#x43C;&#x43D;&#x43E;&#x433;&#xEF;&#x44F; &#x438;&#x433;&#x440;&#x443;&#x448;&#x43A;&#x438; &#x43F;&#x440;&#x438;&#x43B;&#x438;&#x447;&#x43D;&#x44B;&#x44F; &#x442;&#x435;&#x430;&#x442;&#x440;&#x443;; &#x43F;&#x43E;&#x441;&#x43B;&#x463; &#x43A;&#x43E;&#x442;&#x43E;-<lb/> &#x440;&#x44B;&#x445;&#x44A;
+                        &#x414;&#xEF;&#x430;&#x43D;&#x430;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438; &#x421;&#xEF;&#x43B;&#x432;&#xEF;&#x438; &#x43E;&#x431;&#x44A;&#x44F;&#x432;&#x438;&#x43B;&#x44A; &#x441;&#x432;&#x43E;&#x44E; &#x43B;&#x44E;&#x431;&#x43E;&#x432;&#x44C;,<lb/> &#x43F;&#x440;&#x438;&#x43A;&#x430;&#x437;&#x44B;&#x432;&#x430;&#x435;&#x442;&#x44A; &#x435;&#x43C;&#x443;, &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x43E;&#x43D;
+                        &#x43A;&#x44A; &#x43D;&#x435;&#x438; &#x43F;&#x440;&#x438;&#x448;&#x43E;&#x43B; &#x432;&#x44A; &#x447;&#x435;-<lb/> &#x442;&#x44B;&#x440;&#x435; &#x447;&#x430;&#x441;&#x430; &#x43F;&#x43E;&#x434;&#x44A; &#x432;&#x435;&#x447;&#x435;&#x440;&#x44A;. &#x421;&#x43A;&#x430;&#x437;&#x44B;&#x432;&#x430;&#x435;&#x442;&#x44A; &#x43E;&#x43D;&#x430; &#x435;&#x43C;&#x443;,
+                        &#x447;&#x440;&#x435;&#x437;&#x44A;<lb/> &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x435; &#x431;&#x44B; &#x43E;&#x43A;&#x43D;&#x43E; &#x435;&#x43C;&#x443; &#x43D;&#x430;&#x434;&#x435;&#x436;&#x430;&#x43B;&#x43E; &#x432;&#x43B;&#x463;&#x437;&#x442;&#x44C; &#x432;&#x44A; &#x435;&#x44F; &#x43A;&#x430;&#x43C;&#x435;-<lb/> &#x440;&#x443;, &#x434;&#x430; &#x438;
+                        &#x43F;&#x43E;&#x448;&#x43B;&#x430;. &#x421;&#x457;&#x43B;&#x432;&#x457;&#x438; &#x43F;&#x440;&#x438;&#x43A;&#x430;&#x437;&#x44B;&#x432;&#x430;&#x435;&#x442;&#x44A; &#x410;&#x440;&#x43B;&#x435;&#x43A;&#x457;&#x43D;&#x443;<lb/> &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x43E;&#x43D;&#x44A; &#x435;&#x43C;&#x443; &#x43D;&#x430;&#x448;&#x43E;&#x43B;&#x44A; &#x43B;&#x463;&#x441;&#x442;&#x43D;&#x438;&#x446;&#x443;.
+                        &#x410;&#x440;&#x43B;&#x435;&#x43A;&#xEF;&#x43D;&#x44A; &#x435;&#x43C;&#x443; &#x433;&#x43E;-<lb/> &#x432;&#x43E;&#x440;&#x438;&#x442;&#x44A;, &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x44A; &#x442;&#x443; &#x432;&#x44B;&#x43F;&#x440;&#x43E;&#x441;&#x438;&#x442;&#x44A; &#x443; &#x43E;&#x434;&#x43D;&#x43E;&#x433;&#x43E; &#x438;&#x441;&#x43A;&#x440;&#x435;&#x43D;&#x43D;&#x44F;-<lb/>
+                        &#x433;&#x43E; &#x441;&#x432;&#x43E;&#x435;&#x433;&#x43E; &#x434;&#x440;&#x443;&#x433;&#x430;. &#x421;&#xEF;&#x43B;&#x432;&#xEF;&#x438; &#x443; &#x43D;&#x435;&#x433;&#x43E; &#x441;&#x43F;&#x440;&#x430;&#x448;&#x438;&#x432;&#x430;&#x435;&#x442;&#x44A;, &#x43A;&#x442;&#x43E;<lb/> &#x431;&#x44B; &#x442;&#x43E; &#x431;&#x44B;&#x43B;&#x44A; &#x442;&#x43E;&#x442;&#x44A; &#x434;&#x440;&#x443;&#x433;&#x44A;?
+                        &#x410;&#x440;&#x43B;&#x435;&#x43A;&#xEF;&#x43D;&#x44A; &#x435;&#x43C;&#x443; &#x43E;&#x442;&#x432;&#x463;&#x447;&#x430;&#x435;&#x442;&#x44A;:<lb/>
+                        <fw type="catch" place="signature">&#x43F;&#x430;&#x43B;&#x430;&#x447;&#x44A;.</fw>
                         <pb facs="#ingafort_ru_005" n="5"/>
-                        <fw type="pageNum">5</fw> палачъ. Сїлвïи его сталъ за то бранить, да и
-                        по-<lb/> шолъ. Арлекїнъ говоритъ, что онъ долженъ окон-<lb/> чить еще
-                        портретъ одного купца. На то Панталонъ<lb/> приходитъ; спрашиваетъ онъ
-                        Арлекїна, что окон-<lb/> чилъ ли онъ его портретъ. Арлекїнъ ему отвѣт-<lb/>
-                        ствуетъ, что уже онъ тотъ зачалъ писать. Изъ<lb/> того произходитъ игрушка
-                        смѣшная между Пан-<lb/> талономъ и Арлекїномъ, которои окончивъ
-                        портретъ,<lb/> говоритъ Панталону, что весьма онъ его утрафилъ<lb/>
-                        написать, да и сталъ ему онои казать. Панталонъ<lb/> видя намалеваную голову
-                        ослову, осердился; Арле-<lb/> кїнъ такъ же. А шумомъ и крикомъ кончится
-                        дѣи-<lb/> ствїе первое.</p>
-                </div>
-                <div type="act" n="2">
-                    <head>ДѢИСТВІЕ ВТОРОЕ.</head>
-                    <stage>ТЕАТРЪ ПОКАЗЫВАЕТЪ НОЧЬ.</stage>
-                    <p rend="indent">СIЛВIИ выходитъ превесьма сердитъ, что не<lb/> идетъ къ нему
-                        долго его слуга Арлекїнъ съ лѣсни-<lb/> цею, которую онъ ему приказалъ
-                        сыскать. Нахо-<lb/> дитъ онъ ворота двора дїанина отвореныя. Говоритъ<lb/>
-                        онъ, что хочетъ употребить симъ случаемъ, чтобъ<lb/> видѣться съ Дїаною, да
-                        и вошолъ къ неи.<lb/> ОДОАРДЪ говоритъ выходя, что онъ получилъ<lb/> одинъ
-                        бїльетъ, чрезъ которои Дïана ему велѣла къ<lb/> себѣ притьти ночью, а видя
-                        что ворота отворены,<lb/> того ради вошолъ онъ къ неи.<lb/> АРЛЕКIНЪ
-                        выходитъ съ лѣсницею, чиня многїя<lb/> игрушки; ищетъ онъ своего господина;
-                        но не могши<lb/> его наити, приставилъ онъ лѣсницу къ окнамъ Пан-<lb/>
-                        талоновымъ говоря, что онъ хочетъ видѣться cъ<lb/> Смералдїною; и когда онъ
-                        ея кликалъ, тогда при-<lb/> ходятъ многїе солдаты, которые думая, что то<lb/>
+                        <fw type="pageNum">5</fw> &#x43F;&#x430;&#x43B;&#x430;&#x447;&#x44A;. &#x421;&#x457;&#x43B;&#x432;&#xEF;&#x438; &#x435;&#x433;&#x43E; &#x441;&#x442;&#x430;&#x43B;&#x44A; &#x437;&#x430; &#x442;&#x43E; &#x431;&#x440;&#x430;&#x43D;&#x438;&#x442;&#x44C;, &#x434;&#x430; &#x438;
+                        &#x43F;&#x43E;-<lb/> &#x448;&#x43E;&#x43B;&#x44A;. &#x410;&#x440;&#x43B;&#x435;&#x43A;&#x457;&#x43D;&#x44A; &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x44A;, &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x44A; &#x434;&#x43E;&#x43B;&#x436;&#x435;&#x43D;&#x44A; &#x43E;&#x43A;&#x43E;&#x43D;-<lb/> &#x447;&#x438;&#x442;&#x44C; &#x435;&#x449;&#x435;
+                        &#x43F;&#x43E;&#x440;&#x442;&#x440;&#x435;&#x442;&#x44A; &#x43E;&#x434;&#x43D;&#x43E;&#x433;&#x43E; &#x43A;&#x443;&#x43F;&#x446;&#x430;. &#x41D;&#x430; &#x442;&#x43E; &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x44A;<lb/> &#x43F;&#x440;&#x438;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A;; &#x441;&#x43F;&#x440;&#x430;&#x448;&#x438;&#x432;&#x430;&#x435;&#x442;&#x44A; &#x43E;&#x43D;&#x44A;
+                        &#x410;&#x440;&#x43B;&#x435;&#x43A;&#x457;&#x43D;&#x430;, &#x447;&#x442;&#x43E; &#x43E;&#x43A;&#x43E;&#x43D;-<lb/> &#x447;&#x438;&#x43B;&#x44A; &#x43B;&#x438; &#x43E;&#x43D;&#x44A; &#x435;&#x433;&#x43E; &#x43F;&#x43E;&#x440;&#x442;&#x440;&#x435;&#x442;&#x44A;. &#x410;&#x440;&#x43B;&#x435;&#x43A;&#x457;&#x43D;&#x44A; &#x435;&#x43C;&#x443; &#x43E;&#x442;&#x432;&#x463;&#x442;-<lb/>
+                        &#x441;&#x442;&#x432;&#x443;&#x435;&#x442;&#x44A;, &#x447;&#x442;&#x43E; &#x443;&#x436;&#x435; &#x43E;&#x43D;&#x44A; &#x442;&#x43E;&#x442;&#x44A; &#x437;&#x430;&#x447;&#x430;&#x43B;&#x44A; &#x43F;&#x438;&#x441;&#x430;&#x442;&#x44C;. &#x418;&#x437;&#x44A;<lb/> &#x442;&#x43E;&#x433;&#x43E; &#x43F;&#x440;&#x43E;&#x438;&#x437;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x438;&#x433;&#x440;&#x443;&#x448;&#x43A;&#x430;
+                        &#x441;&#x43C;&#x463;&#x448;&#x43D;&#x430;&#x44F; &#x43C;&#x435;&#x436;&#x434;&#x443; &#x41F;&#x430;&#x43D;-<lb/> &#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x43E;&#x43C;&#x44A; &#x438; &#x410;&#x440;&#x43B;&#x435;&#x43A;&#x457;&#x43D;&#x43E;&#x43C;&#x44A;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438; &#x43E;&#x43A;&#x43E;&#x43D;&#x447;&#x438;&#x432;&#x44A;
+                        &#x43F;&#x43E;&#x440;&#x442;&#x440;&#x435;&#x442;&#x44A;,<lb/> &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x44A; &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x443;, &#x447;&#x442;&#x43E; &#x432;&#x435;&#x441;&#x44C;&#x43C;&#x430; &#x43E;&#x43D;&#x44A; &#x435;&#x433;&#x43E; &#x443;&#x442;&#x440;&#x430;&#x444;&#x438;&#x43B;&#x44A;<lb/>
+                        &#x43D;&#x430;&#x43F;&#x438;&#x441;&#x430;&#x442;&#x44C;, &#x434;&#x430; &#x438; &#x441;&#x442;&#x430;&#x43B;&#x44A; &#x435;&#x43C;&#x443; &#x43E;&#x43D;&#x43E;&#x438; &#x43A;&#x430;&#x437;&#x430;&#x442;&#x44C;. &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x44A;<lb/> &#x432;&#x438;&#x434;&#x44F; &#x43D;&#x430;&#x43C;&#x430;&#x43B;&#x435;&#x432;&#x430;&#x43D;&#x443;&#x44E; &#x433;&#x43E;&#x43B;&#x43E;&#x432;&#x443;
+                        &#x43E;&#x441;&#x43B;&#x43E;&#x432;&#x443;, &#x43E;&#x441;&#x435;&#x440;&#x434;&#x438;&#x43B;&#x441;&#x44F;; &#x410;&#x440;&#x43B;&#x435;-<lb/> &#x43A;&#x457;&#x43D;&#x44A; &#x442;&#x430;&#x43A;&#x44A; &#x436;&#x435;. &#x410; &#x448;&#x443;&#x43C;&#x43E;&#x43C;&#x44A; &#x438; &#x43A;&#x440;&#x438;&#x43A;&#x43E;&#x43C;&#x44A; &#x43A;&#x43E;&#x43D;&#x447;&#x438;&#x442;&#x441;&#x44F;
+                        &#x434;&#x463;&#x438;-<lb/> &#x441;&#x442;&#x432;&#x457;&#x435; &#x43F;&#x435;&#x440;&#x432;&#x43E;&#x435;.</p>
+        </div>
+        <div type="act" n="2">
+          <head>&#x414;&#x462;&#x418;&#x421;&#x422;&#x412;&#x406;&#x415; &#x412;&#x422;&#x41E;&#x420;&#x41E;&#x415;.</head>
+          <stage>&#x422;&#x415;&#x410;&#x422;&#x420;&#x42A; &#x41F;&#x41E;&#x41A;&#x410;&#x417;&#x42B;&#x412;&#x410;&#x415;&#x422;&#x42A; &#x41D;&#x41E;&#x427;&#x42C;.</stage>
+          <p rend="indent">&#x421;I&#x41B;&#x412;I&#x418; &#x432;&#x44B;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x43F;&#x440;&#x435;&#x432;&#x435;&#x441;&#x44C;&#x43C;&#x430; &#x441;&#x435;&#x440;&#x434;&#x438;&#x442;&#x44A;, &#x447;&#x442;&#x43E; &#x43D;&#x435;<lb/> &#x438;&#x434;&#x435;&#x442;&#x44A; &#x43A;&#x44A; &#x43D;&#x435;&#x43C;&#x443;
+                        &#x434;&#x43E;&#x43B;&#x433;&#x43E; &#x435;&#x433;&#x43E; &#x441;&#x43B;&#x443;&#x433;&#x430; &#x410;&#x440;&#x43B;&#x435;&#x43A;&#x457;&#x43D;&#x44A; &#x441;&#x44A; &#x43B;&#x463;&#x441;&#x43D;&#x438;-<lb/> &#x446;&#x435;&#x44E;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x443;&#x44E; &#x43E;&#x43D;&#x44A; &#x435;&#x43C;&#x443; &#x43F;&#x440;&#x438;&#x43A;&#x430;&#x437;&#x430;&#x43B;&#x44A;
+                        &#x441;&#x44B;&#x441;&#x43A;&#x430;&#x442;&#x44C;. &#x41D;&#x430;&#x445;&#x43E;-<lb/> &#x434;&#x438;&#x442;&#x44A; &#x43E;&#x43D;&#x44A; &#x432;&#x43E;&#x440;&#x43E;&#x442;&#x430; &#x434;&#x432;&#x43E;&#x440;&#x430; &#x434;&#x457;&#x430;&#x43D;&#x438;&#x43D;&#x430; &#x43E;&#x442;&#x432;&#x43E;&#x440;&#x435;&#x43D;&#x44B;&#x44F;. &#x413;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x44A;<lb/>
+                        &#x43E;&#x43D;&#x44A;, &#x447;&#x442;&#x43E; &#x445;&#x43E;&#x447;&#x435;&#x442;&#x44A; &#x443;&#x43F;&#x43E;&#x442;&#x440;&#x435;&#x431;&#x438;&#x442;&#x44C; &#x441;&#x438;&#x43C;&#x44A; &#x441;&#x43B;&#x443;&#x447;&#x430;&#x435;&#x43C;&#x44A;, &#x447;&#x442;&#x43E;&#x431;&#x44A;<lb/> &#x432;&#x438;&#x434;&#x463;&#x442;&#x44C;&#x441;&#x44F; &#x441;&#x44A; &#x414;&#x457;&#x430;&#x43D;&#x43E;&#x44E;, &#x434;&#x430;
+                        &#x438; &#x432;&#x43E;&#x448;&#x43E;&#x43B;&#x44A; &#x43A;&#x44A; &#x43D;&#x435;&#x438;.<lb/> &#x41E;&#x414;&#x41E;&#x410;&#x420;&#x414;&#x42A; &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x44A; &#x432;&#x44B;&#x445;&#x43E;&#x434;&#x44F;, &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x44A; &#x43F;&#x43E;&#x43B;&#x443;&#x447;&#x438;&#x43B;&#x44A;<lb/> &#x43E;&#x434;&#x438;&#x43D;&#x44A;
+                        &#x431;&#x457;&#x43B;&#x44C;&#x435;&#x442;&#x44A;, &#x447;&#x440;&#x435;&#x437;&#x44A; &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438; &#x414;&#xEF;&#x430;&#x43D;&#x430; &#x435;&#x43C;&#x443; &#x432;&#x435;&#x43B;&#x463;&#x43B;&#x430; &#x43A;&#x44A;<lb/> &#x441;&#x435;&#x431;&#x463; &#x43F;&#x440;&#x438;&#x442;&#x44C;&#x442;&#x438; &#x43D;&#x43E;&#x447;&#x44C;&#x44E;, &#x430; &#x432;&#x438;&#x434;&#x44F;
+                        &#x447;&#x442;&#x43E; &#x432;&#x43E;&#x440;&#x43E;&#x442;&#x430; &#x43E;&#x442;&#x432;&#x43E;&#x440;&#x435;&#x43D;&#x44B;,<lb/> &#x442;&#x43E;&#x433;&#x43E; &#x440;&#x430;&#x434;&#x438; &#x432;&#x43E;&#x448;&#x43E;&#x43B;&#x44A; &#x43E;&#x43D;&#x44A; &#x43A;&#x44A; &#x43D;&#x435;&#x438;.<lb/> &#x410;&#x420;&#x41B;&#x415;&#x41A;I&#x41D;&#x42A;
+                        &#x432;&#x44B;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x441;&#x44A; &#x43B;&#x463;&#x441;&#x43D;&#x438;&#x446;&#x435;&#x44E;, &#x447;&#x438;&#x43D;&#x44F; &#x43C;&#x43D;&#x43E;&#x433;&#x457;&#x44F;<lb/> &#x438;&#x433;&#x440;&#x443;&#x448;&#x43A;&#x438;; &#x438;&#x449;&#x435;&#x442;&#x44A; &#x43E;&#x43D;&#x44A; &#x441;&#x432;&#x43E;&#x435;&#x433;&#x43E; &#x433;&#x43E;&#x441;&#x43F;&#x43E;&#x434;&#x438;&#x43D;&#x430;;
+                        &#x43D;&#x43E; &#x43D;&#x435; &#x43C;&#x43E;&#x433;&#x448;&#x438;<lb/> &#x435;&#x433;&#x43E; &#x43D;&#x430;&#x438;&#x442;&#x438;, &#x43F;&#x440;&#x438;&#x441;&#x442;&#x430;&#x432;&#x438;&#x43B;&#x44A; &#x43E;&#x43D;&#x44A; &#x43B;&#x463;&#x441;&#x43D;&#x438;&#x446;&#x443; &#x43A;&#x44A; &#x43E;&#x43A;&#x43D;&#x430;&#x43C;&#x44A; &#x41F;&#x430;&#x43D;-<lb/>
+                        &#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x43E;&#x432;&#x44B;&#x43C;&#x44A; &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x44F;, &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x44A; &#x445;&#x43E;&#x447;&#x435;&#x442;&#x44A; &#x432;&#x438;&#x434;&#x463;&#x442;&#x44C;&#x441;&#x44F; c&#x44A;<lb/> &#x421;&#x43C;&#x435;&#x440;&#x430;&#x43B;&#x434;&#x457;&#x43D;&#x43E;&#x44E;; &#x438; &#x43A;&#x43E;&#x433;&#x434;&#x430; &#x43E;&#x43D;&#x44A;
+                        &#x435;&#x44F; &#x43A;&#x43B;&#x438;&#x43A;&#x430;&#x43B;&#x44A;, &#x442;&#x43E;&#x433;&#x434;&#x430; &#x43F;&#x440;&#x438;-<lb/> &#x445;&#x43E;&#x434;&#x44F;&#x442;&#x44A; &#x43C;&#x43D;&#x43E;&#x433;&#x457;&#x435; &#x441;&#x43E;&#x43B;&#x434;&#x430;&#x442;&#x44B;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x44B;&#x435; &#x434;&#x443;&#x43C;&#x430;&#x44F;, &#x447;&#x442;&#x43E; &#x442;&#x43E;<lb/>
                         <fw type="sig" place="bottom">T 3</fw>
-                        <fw type="catch" place="bottom">воръ,</fw>
+                        <fw type="catch" place="bottom">&#x432;&#x43E;&#x440;&#x44A;,</fw>
                         <pb facs="#obman-6" n="6"/>
-                        <fw type="pageNum">6</fw> воръ, хотятъ его взять за караулъ. Тотъ отъ
-                        нихъ<lb/> защищается, да и уходитъ. ТѢ за нимъ погналися.<lb/> Что, на
-                        конецъ, принудило Арлекїна спрятаться въ<lb/> домъ Панталоновъ, и то чрезъ
-                        одну игрушку при-<lb/> личную театру, вскочивъ въ окно.</p>
-                    <p rend="indent">КОВIЕЛЛЪ выходитъ съ Брїгелломъ, говоря ему<lb/> о своеи лябви
-                        къ Аурелїѣ дочери Панталоновои.<lb/> Брїгеллъ тому сказываетъ про свою къ
-                        Смералдїнѣ.<lb/> Говорятъ они, что весьма знаютъ домъ Пантало-<lb/> новъ, и
-                        для того хотятъ поговорить съ своими лю-<lb/> бимыми. Видятъ они, что ворота
-                        отворены, того<lb/> ради входятъ къ Панталону.</p>
-                    <stage>ТЕАТРЪ ПОКАЗЫВАЕТЪ КАМЕРУ СЪ КРАВАТЬЮ.</stage>
-                    <p rend="indent">ДIАНА выходитъ въ потïомкахъ говоря, что она<lb/> дожидается
-                        Сїлвїя съ нетерпѣливностїю. На то<lb/> Сїлвїи приходитъ, и когда онъ еи
-                        говорилъ о своеи<lb/> любви, тогда Панталонъ слышимъ сталъ быть. Дї-<lb/>
-                        ана изпужавшися спрятываетъ Сїлвїя за кравать;<lb/> а сама уходитъ.</p>
-                    <p rend="indent">АУРЕЛIЯ выходитъ говоря, что она дожидает-<lb/> ся Сїлвїя
-                        своего любовника. На то приходитъ Одо-<lb/> ардъ, которои въ потїомкахъ
-                        беручи Аурелїю за Дïа-<lb/> ну свою метресу, далъ еи руку; тогда
-                        Панталонъ<lb/> сталъ быть слышимъ опять. Аурелїя положила<lb/> Сїлвїя на
-                        постелю. Между тѣмъ Панталонъ при-<lb/> ходитъ, и спрашиваетъ Аурелїю, что
-                        бы она тутъ<lb/> дѣлала теперь? Oна ему сказываетъ, что не мо-<lb/> жетъ
-                        сестра ея Дїана, и за тѣмъ она вышла. Ста-<lb/> рикъ послалъ ея въ ея
-                        камеру, да и самъ за нею же<lb/> пошоъ.</p>
-                    <p rend="indent">КОВIЕЛЛЪ выходитъ такъ же въ потïомкахъ бу-<lb/> дучи въ
-                        смущенїи, что не знаетъ гдѣ наити онъ<lb/>
-                        <fw type="catch" place="bottom">Аурелїю,</fw>
+                        <fw type="pageNum">6</fw> &#x432;&#x43E;&#x440;&#x44A;, &#x445;&#x43E;&#x442;&#x44F;&#x442;&#x44A; &#x435;&#x433;&#x43E; &#x432;&#x437;&#x44F;&#x442;&#x44C; &#x437;&#x430; &#x43A;&#x430;&#x440;&#x430;&#x443;&#x43B;&#x44A;. &#x422;&#x43E;&#x442;&#x44A; &#x43E;&#x442;&#x44A;
+                        &#x43D;&#x438;&#x445;&#x44A;<lb/> &#x437;&#x430;&#x449;&#x438;&#x449;&#x430;&#x435;&#x442;&#x441;&#x44F;, &#x434;&#x430; &#x438; &#x443;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A;. &#x422;&#x462; &#x437;&#x430; &#x43D;&#x438;&#x43C;&#x44A; &#x43F;&#x43E;&#x433;&#x43D;&#x430;&#x43B;&#x438;&#x441;&#x44F;.<lb/> &#x427;&#x442;&#x43E;, &#x43D;&#x430;
+                        &#x43A;&#x43E;&#x43D;&#x435;&#x446;&#x44A;, &#x43F;&#x440;&#x438;&#x43D;&#x443;&#x434;&#x438;&#x43B;&#x43E; &#x410;&#x440;&#x43B;&#x435;&#x43A;&#x457;&#x43D;&#x430; &#x441;&#x43F;&#x440;&#x44F;&#x442;&#x430;&#x442;&#x44C;&#x441;&#x44F; &#x432;&#x44A;<lb/> &#x434;&#x43E;&#x43C;&#x44A; &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x43E;&#x432;&#x44A;, &#x438; &#x442;&#x43E; &#x447;&#x440;&#x435;&#x437;&#x44A;
+                        &#x43E;&#x434;&#x43D;&#x443; &#x438;&#x433;&#x440;&#x443;&#x448;&#x43A;&#x443; &#x43F;&#x440;&#x438;-<lb/> &#x43B;&#x438;&#x447;&#x43D;&#x443;&#x44E; &#x442;&#x435;&#x430;&#x442;&#x440;&#x443;, &#x432;&#x441;&#x43A;&#x43E;&#x447;&#x438;&#x432;&#x44A; &#x432;&#x44A; &#x43E;&#x43A;&#x43D;&#x43E;.</p>
+          <p rend="indent">&#x41A;&#x41E;&#x412;I&#x415;&#x41B;&#x41B;&#x42A; &#x432;&#x44B;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x441;&#x44A; &#x411;&#x440;&#x457;&#x433;&#x435;&#x43B;&#x43B;&#x43E;&#x43C;&#x44A;, &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x44F; &#x435;&#x43C;&#x443;<lb/> &#x43E; &#x441;&#x432;&#x43E;&#x435;&#x438; &#x43B;&#x44F;&#x431;&#x432;&#x438;
+                        &#x43A;&#x44A; &#x410;&#x443;&#x440;&#x435;&#x43B;&#x457;&#x463; &#x434;&#x43E;&#x447;&#x435;&#x440;&#x438; &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x43E;&#x432;&#x43E;&#x438;.<lb/> &#x411;&#x440;&#x457;&#x433;&#x435;&#x43B;&#x43B;&#x44A; &#x442;&#x43E;&#x43C;&#x443; &#x441;&#x43A;&#x430;&#x437;&#x44B;&#x432;&#x430;&#x435;&#x442;&#x44A; &#x43F;&#x440;&#x43E; &#x441;&#x432;&#x43E;&#x44E; &#x43A;&#x44A;
+                        &#x421;&#x43C;&#x435;&#x440;&#x430;&#x43B;&#x434;&#x457;&#x43D;&#x463;.<lb/> &#x413;&#x43E;&#x432;&#x43E;&#x440;&#x44F;&#x442;&#x44A; &#x43E;&#x43D;&#x438;, &#x447;&#x442;&#x43E; &#x432;&#x435;&#x441;&#x44C;&#x43C;&#x430; &#x437;&#x43D;&#x430;&#x44E;&#x442;&#x44A; &#x434;&#x43E;&#x43C;&#x44A; &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;-<lb/> &#x43D;&#x43E;&#x432;&#x44A;, &#x438;
+                        &#x434;&#x43B;&#x44F; &#x442;&#x43E;&#x433;&#x43E; &#x445;&#x43E;&#x442;&#x44F;&#x442;&#x44A; &#x43F;&#x43E;&#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x44C; &#x441;&#x44A; &#x441;&#x432;&#x43E;&#x438;&#x43C;&#x438; &#x43B;&#x44E;-<lb/> &#x431;&#x438;&#x43C;&#x44B;&#x43C;&#x438;. &#x412;&#x438;&#x434;&#x44F;&#x442;&#x44A; &#x43E;&#x43D;&#x438;, &#x447;&#x442;&#x43E; &#x432;&#x43E;&#x440;&#x43E;&#x442;&#x430;
+                        &#x43E;&#x442;&#x432;&#x43E;&#x440;&#x435;&#x43D;&#x44B;, &#x442;&#x43E;&#x433;&#x43E;<lb/> &#x440;&#x430;&#x434;&#x438; &#x432;&#x445;&#x43E;&#x434;&#x44F;&#x442;&#x44A; &#x43A;&#x44A; &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x443;.</p>
+          <stage>&#x422;&#x415;&#x410;&#x422;&#x420;&#x42A; &#x41F;&#x41E;&#x41A;&#x410;&#x417;&#x42B;&#x412;&#x410;&#x415;&#x422;&#x42A; &#x41A;&#x410;&#x41C;&#x415;&#x420;&#x423; &#x421;&#x42A; &#x41A;&#x420;&#x410;&#x412;&#x410;&#x422;&#x42C;&#x42E;.</stage>
+          <p rend="indent">&#x414;I&#x410;&#x41D;&#x410; &#x432;&#x44B;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x432;&#x44A; &#x43F;&#x43E;&#x442;&#xEF;&#x43E;&#x43C;&#x43A;&#x430;&#x445;&#x44A; &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x44F;, &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x430;<lb/> &#x434;&#x43E;&#x436;&#x438;&#x434;&#x430;&#x435;&#x442;&#x441;&#x44F;
+                        &#x421;&#x457;&#x43B;&#x432;&#x457;&#x44F; &#x441;&#x44A; &#x43D;&#x435;&#x442;&#x435;&#x440;&#x43F;&#x463;&#x43B;&#x438;&#x432;&#x43D;&#x43E;&#x441;&#x442;&#x457;&#x44E;. &#x41D;&#x430; &#x442;&#x43E;<lb/> &#x421;&#x457;&#x43B;&#x432;&#x457;&#x438; &#x43F;&#x440;&#x438;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A;, &#x438; &#x43A;&#x43E;&#x433;&#x434;&#x430; &#x43E;&#x43D;&#x44A; &#x435;&#x438;
+                        &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x43B;&#x44A; &#x43E; &#x441;&#x432;&#x43E;&#x435;&#x438;<lb/> &#x43B;&#x44E;&#x431;&#x432;&#x438;, &#x442;&#x43E;&#x433;&#x434;&#x430; &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x44A; &#x441;&#x43B;&#x44B;&#x448;&#x438;&#x43C;&#x44A; &#x441;&#x442;&#x430;&#x43B;&#x44A; &#x431;&#x44B;&#x442;&#x44C;. &#x414;&#x457;-<lb/>
+                        &#x430;&#x43D;&#x430; &#x438;&#x437;&#x43F;&#x443;&#x436;&#x430;&#x432;&#x448;&#x438;&#x441;&#x44F; &#x441;&#x43F;&#x440;&#x44F;&#x442;&#x44B;&#x432;&#x430;&#x435;&#x442;&#x44A; &#x421;&#x457;&#x43B;&#x432;&#x457;&#x44F; &#x437;&#x430; &#x43A;&#x440;&#x430;&#x432;&#x430;&#x442;&#x44C;;<lb/> &#x430; &#x441;&#x430;&#x43C;&#x430; &#x443;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A;.</p>
+          <p rend="indent">&#x410;&#x423;&#x420;&#x415;&#x41B;I&#x42F; &#x432;&#x44B;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x44F;, &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x430; &#x434;&#x43E;&#x436;&#x438;&#x434;&#x430;&#x435;&#x442;-<lb/> &#x441;&#x44F; &#x421;&#x457;&#x43B;&#x432;&#x457;&#x44F;
+                        &#x441;&#x432;&#x43E;&#x435;&#x433;&#x43E; &#x43B;&#x44E;&#x431;&#x43E;&#x432;&#x43D;&#x438;&#x43A;&#x430;. &#x41D;&#x430; &#x442;&#x43E; &#x43F;&#x440;&#x438;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x41E;&#x434;&#x43E;-<lb/> &#x430;&#x440;&#x434;&#x44A;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438; &#x432;&#x44A; &#x43F;&#x43E;&#x442;&#x457;&#x43E;&#x43C;&#x43A;&#x430;&#x445;&#x44A;
+                        &#x431;&#x435;&#x440;&#x443;&#x447;&#x438; &#x410;&#x443;&#x440;&#x435;&#x43B;&#x457;&#x44E; &#x437;&#x430; &#x414;&#xEF;&#x430;-<lb/> &#x43D;&#x443; &#x441;&#x432;&#x43E;&#x44E; &#x43C;&#x435;&#x442;&#x440;&#x435;&#x441;&#x443;, &#x434;&#x430;&#x43B;&#x44A; &#x435;&#x438; &#x440;&#x443;&#x43A;&#x443;; &#x442;&#x43E;&#x433;&#x434;&#x430;
+                        &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x44A;<lb/> &#x441;&#x442;&#x430;&#x43B;&#x44A; &#x431;&#x44B;&#x442;&#x44C; &#x441;&#x43B;&#x44B;&#x448;&#x438;&#x43C;&#x44A; &#x43E;&#x43F;&#x44F;&#x442;&#x44C;. &#x410;&#x443;&#x440;&#x435;&#x43B;&#x457;&#x44F; &#x43F;&#x43E;&#x43B;&#x43E;&#x436;&#x438;&#x43B;&#x430;<lb/> &#x421;&#x457;&#x43B;&#x432;&#x457;&#x44F; &#x43D;&#x430;
+                        &#x43F;&#x43E;&#x441;&#x442;&#x435;&#x43B;&#x44E;. &#x41C;&#x435;&#x436;&#x434;&#x443; &#x442;&#x463;&#x43C;&#x44A; &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x44A; &#x43F;&#x440;&#x438;-<lb/> &#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A;, &#x438; &#x441;&#x43F;&#x440;&#x430;&#x448;&#x438;&#x432;&#x430;&#x435;&#x442;&#x44A; &#x410;&#x443;&#x440;&#x435;&#x43B;&#x457;&#x44E;, &#x447;&#x442;&#x43E;
+                        &#x431;&#x44B; &#x43E;&#x43D;&#x430; &#x442;&#x443;&#x442;&#x44A;<lb/> &#x434;&#x463;&#x43B;&#x430;&#x43B;&#x430; &#x442;&#x435;&#x43F;&#x435;&#x440;&#x44C;? O&#x43D;&#x430; &#x435;&#x43C;&#x443; &#x441;&#x43A;&#x430;&#x437;&#x44B;&#x432;&#x430;&#x435;&#x442;&#x44A;, &#x447;&#x442;&#x43E; &#x43D;&#x435; &#x43C;&#x43E;-<lb/> &#x436;&#x435;&#x442;&#x44A;
+                        &#x441;&#x435;&#x441;&#x442;&#x440;&#x430; &#x435;&#x44F; &#x414;&#x457;&#x430;&#x43D;&#x430;, &#x438; &#x437;&#x430; &#x442;&#x463;&#x43C;&#x44A; &#x43E;&#x43D;&#x430; &#x432;&#x44B;&#x448;&#x43B;&#x430;. &#x421;&#x442;&#x430;-<lb/> &#x440;&#x438;&#x43A;&#x44A; &#x43F;&#x43E;&#x441;&#x43B;&#x430;&#x43B;&#x44A; &#x435;&#x44F; &#x432;&#x44A; &#x435;&#x44F;
+                        &#x43A;&#x430;&#x43C;&#x435;&#x440;&#x443;, &#x434;&#x430; &#x438; &#x441;&#x430;&#x43C;&#x44A; &#x437;&#x430; &#x43D;&#x435;&#x44E; &#x436;&#x435;<lb/> &#x43F;&#x43E;&#x448;&#x43E;&#x44A;.</p>
+          <p rend="indent">&#x41A;&#x41E;&#x412;I&#x415;&#x41B;&#x41B;&#x42A; &#x432;&#x44B;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x442;&#x430;&#x43A;&#x44A; &#x436;&#x435; &#x432;&#x44A; &#x43F;&#x43E;&#x442;&#xEF;&#x43E;&#x43C;&#x43A;&#x430;&#x445;&#x44A; &#x431;&#x443;-<lb/> &#x434;&#x443;&#x447;&#x438; &#x432;&#x44A;
+                        &#x441;&#x43C;&#x443;&#x449;&#x435;&#x43D;&#x457;&#x438;, &#x447;&#x442;&#x43E; &#x43D;&#x435; &#x437;&#x43D;&#x430;&#x435;&#x442;&#x44A; &#x433;&#x434;&#x463; &#x43D;&#x430;&#x438;&#x442;&#x438; &#x43E;&#x43D;&#x44A;<lb/>
+                        <fw type="catch" place="bottom">&#x410;&#x443;&#x440;&#x435;&#x43B;&#x457;&#x44E;,</fw>
                         <pb facs="#obman-7" n="7"/>
-                        <fw type="pageNum">7</fw> Аурелїю, и слышя что идутъ люди, спрятался.<lb/>
-                        Дïана возвращается, чтобъ выпустить отъ себя<lb/> Сїлвїя. Стала она его
-                        кликать; Сїлвїи и Одоардъ<lb/> выходятъ оба вдругъ; взяли они оба ея за
-                        руки.<lb/> Дїана пришла въ великое смущенїе, что себя видитъ<lb/> между
-                        двѣмя особами. Тогда Аурелїя приходитъ<lb/> съ свѣчою, и видя свою сестру,
-                        что она съ ея лю-<lb/> бовникомъ, и Одоардомъ, говоритъ еи: БУДЪ<lb/>
-                        ЗДОРОВА, СЕСТРИЦА! ДВУХЪ ВДРУГЪ? ХОРОШО!<lb/> По томъ взяла Сїлвїя, котораго
-                        она любила, и пове-<lb/> ла за собою. Тотъ пошолъ съ нею не безъ
-                        сожалѣ-<lb/> нїя. Одоардъ выводитъ изъ смущенїя Дїану. И когда<lb/> онъ еи
-                        говорилъ о своеи любви, тогда слышимъ<lb/> сталъ быть Панталонъ, которои
-                        приходилъ. Дïана<lb/> принудила Одоарда спрятаться опять на кравать.<lb/> На
-                        то старикъ выходитъ, и срашиваетъ Дïану, что<lb/> бы она дѣлала въ тои
-                        камерѣ, и для чегобъ она была<lb/> въ такомъ смущенїи? Дїана сказываетъ
-                        подложно,<lb/> что въ сеи камерѣ имѣются, [дабы тѣмъ скоряе<lb/> выслать
-                        отца] духи. Панталонъ по многихъ игруш-<lb/> кахъ съ своею дочерїю, послалъ
-                        ея отъ себя прочь,<lb/> говоря, что ему надлежитъ писать многїя писма.<lb/>
-                        Велѣлъ онъ себѣ принесть все къ тому надлежащее,<lb/> да и сталъ писать.
-                        Тогда Арлекїнъ въ великое его<lb/> сердце приводитъ чрезъ многїя насмѣшки,
-                        которыя<lb/> онъ думаетъ быть отъ духовъ. Изъ чего происхо-<lb/> дитъ
-                        игрушка смѣшная. Послѣ которыя Панта-<lb/> лонъ великимъ страхомъ сталъ быть
-                        обнятъ; того<lb/> ради сталъ ложиться на постелю; но увидѣвши<lb/> тутъ
-                        Одоарда съ обнаженною шпагою, убѣжалъ.<lb/> Одоардъ видя, что онъ сталъ быть
-                        почти поиманъ,<lb/> говоритъ, что ему надлежитъ укрыться, да и по-<lb/>
-                        шолъ. Панталонъ возвращается съ людьми, и ве-<lb/> литъ искать по всеи
-                        камерѣ того человѣка, кото-<lb/>
-                        <fw type="catch" place="bottom">рои</fw>
+                        <fw type="pageNum">7</fw> &#x410;&#x443;&#x440;&#x435;&#x43B;&#x457;&#x44E;, &#x438; &#x441;&#x43B;&#x44B;&#x448;&#x44F; &#x447;&#x442;&#x43E; &#x438;&#x434;&#x443;&#x442;&#x44A; &#x43B;&#x44E;&#x434;&#x438;, &#x441;&#x43F;&#x440;&#x44F;&#x442;&#x430;&#x43B;&#x441;&#x44F;.<lb/>
+                        &#x414;&#xEF;&#x430;&#x43D;&#x430; &#x432;&#x43E;&#x437;&#x432;&#x440;&#x430;&#x449;&#x430;&#x435;&#x442;&#x441;&#x44F;, &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x432;&#x44B;&#x43F;&#x443;&#x441;&#x442;&#x438;&#x442;&#x44C; &#x43E;&#x442;&#x44A; &#x441;&#x435;&#x431;&#x44F;<lb/> &#x421;&#x457;&#x43B;&#x432;&#x457;&#x44F;. &#x421;&#x442;&#x430;&#x43B;&#x430; &#x43E;&#x43D;&#x430; &#x435;&#x433;&#x43E;
+                        &#x43A;&#x43B;&#x438;&#x43A;&#x430;&#x442;&#x44C;; &#x421;&#x457;&#x43B;&#x432;&#x457;&#x438; &#x438; &#x41E;&#x434;&#x43E;&#x430;&#x440;&#x434;&#x44A;<lb/> &#x432;&#x44B;&#x445;&#x43E;&#x434;&#x44F;&#x442;&#x44A; &#x43E;&#x431;&#x430; &#x432;&#x434;&#x440;&#x443;&#x433;&#x44A;; &#x432;&#x437;&#x44F;&#x43B;&#x438; &#x43E;&#x43D;&#x438; &#x43E;&#x431;&#x430; &#x435;&#x44F; &#x437;&#x430;
+                        &#x440;&#x443;&#x43A;&#x438;.<lb/> &#x414;&#x457;&#x430;&#x43D;&#x430; &#x43F;&#x440;&#x438;&#x448;&#x43B;&#x430; &#x432;&#x44A; &#x432;&#x435;&#x43B;&#x438;&#x43A;&#x43E;&#x435; &#x441;&#x43C;&#x443;&#x449;&#x435;&#x43D;&#x457;&#x435;, &#x447;&#x442;&#x43E; &#x441;&#x435;&#x431;&#x44F; &#x432;&#x438;&#x434;&#x438;&#x442;&#x44A;<lb/> &#x43C;&#x435;&#x436;&#x434;&#x443;
+                        &#x434;&#x432;&#x463;&#x43C;&#x44F; &#x43E;&#x441;&#x43E;&#x431;&#x430;&#x43C;&#x438;. &#x422;&#x43E;&#x433;&#x434;&#x430; &#x410;&#x443;&#x440;&#x435;&#x43B;&#x457;&#x44F; &#x43F;&#x440;&#x438;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A;<lb/> &#x441;&#x44A; &#x441;&#x432;&#x463;&#x447;&#x43E;&#x44E;, &#x438; &#x432;&#x438;&#x434;&#x44F; &#x441;&#x432;&#x43E;&#x44E; &#x441;&#x435;&#x441;&#x442;&#x440;&#x443;,
+                        &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x430; &#x441;&#x44A; &#x435;&#x44F; &#x43B;&#x44E;-<lb/> &#x431;&#x43E;&#x432;&#x43D;&#x438;&#x43A;&#x43E;&#x43C;&#x44A;, &#x438; &#x41E;&#x434;&#x43E;&#x430;&#x440;&#x434;&#x43E;&#x43C;&#x44A;, &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x44A; &#x435;&#x438;: &#x411;&#x423;&#x414;&#x42A;<lb/>
+                        &#x417;&#x414;&#x41E;&#x420;&#x41E;&#x412;&#x410;, &#x421;&#x415;&#x421;&#x422;&#x420;&#x418;&#x426;&#x410;! &#x414;&#x412;&#x423;&#x425;&#x42A; &#x412;&#x414;&#x420;&#x423;&#x413;&#x42A;? &#x425;&#x41E;&#x420;&#x41E;&#x428;&#x41E;!<lb/> &#x41F;&#x43E; &#x442;&#x43E;&#x43C;&#x44A; &#x432;&#x437;&#x44F;&#x43B;&#x430; &#x421;&#x457;&#x43B;&#x432;&#x457;&#x44F;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x430;&#x433;&#x43E;
+                        &#x43E;&#x43D;&#x430; &#x43B;&#x44E;&#x431;&#x438;&#x43B;&#x430;, &#x438; &#x43F;&#x43E;&#x432;&#x435;-<lb/> &#x43B;&#x430; &#x437;&#x430; &#x441;&#x43E;&#x431;&#x43E;&#x44E;. &#x422;&#x43E;&#x442;&#x44A; &#x43F;&#x43E;&#x448;&#x43E;&#x43B;&#x44A; &#x441;&#x44A; &#x43D;&#x435;&#x44E; &#x43D;&#x435; &#x431;&#x435;&#x437;&#x44A;
+                        &#x441;&#x43E;&#x436;&#x430;&#x43B;&#x463;-<lb/> &#x43D;&#x457;&#x44F;. &#x41E;&#x434;&#x43E;&#x430;&#x440;&#x434;&#x44A; &#x432;&#x44B;&#x432;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x438;&#x437;&#x44A; &#x441;&#x43C;&#x443;&#x449;&#x435;&#x43D;&#x457;&#x44F; &#x414;&#x457;&#x430;&#x43D;&#x443;. &#x418; &#x43A;&#x43E;&#x433;&#x434;&#x430;<lb/> &#x43E;&#x43D;&#x44A; &#x435;&#x438;
+                        &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x43B;&#x44A; &#x43E; &#x441;&#x432;&#x43E;&#x435;&#x438; &#x43B;&#x44E;&#x431;&#x432;&#x438;, &#x442;&#x43E;&#x433;&#x434;&#x430; &#x441;&#x43B;&#x44B;&#x448;&#x438;&#x43C;&#x44A;<lb/> &#x441;&#x442;&#x430;&#x43B;&#x44A; &#x431;&#x44B;&#x442;&#x44C; &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x44A;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438;
+                        &#x43F;&#x440;&#x438;&#x445;&#x43E;&#x434;&#x438;&#x43B;&#x44A;. &#x414;&#xEF;&#x430;&#x43D;&#x430;<lb/> &#x43F;&#x440;&#x438;&#x43D;&#x443;&#x434;&#x438;&#x43B;&#x430; &#x41E;&#x434;&#x43E;&#x430;&#x440;&#x434;&#x430; &#x441;&#x43F;&#x440;&#x44F;&#x442;&#x430;&#x442;&#x44C;&#x441;&#x44F; &#x43E;&#x43F;&#x44F;&#x442;&#x44C; &#x43D;&#x430; &#x43A;&#x440;&#x430;&#x432;&#x430;&#x442;&#x44C;.<lb/> &#x41D;&#x430;
+                        &#x442;&#x43E; &#x441;&#x442;&#x430;&#x440;&#x438;&#x43A;&#x44A; &#x432;&#x44B;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A;, &#x438; &#x441;&#x440;&#x430;&#x448;&#x438;&#x432;&#x430;&#x435;&#x442;&#x44A; &#x414;&#xEF;&#x430;&#x43D;&#x443;, &#x447;&#x442;&#x43E;<lb/> &#x431;&#x44B; &#x43E;&#x43D;&#x430; &#x434;&#x463;&#x43B;&#x430;&#x43B;&#x430; &#x432;&#x44A; &#x442;&#x43E;&#x438;
+                        &#x43A;&#x430;&#x43C;&#x435;&#x440;&#x463;, &#x438; &#x434;&#x43B;&#x44F; &#x447;&#x435;&#x433;&#x43E;&#x431;&#x44A; &#x43E;&#x43D;&#x430; &#x431;&#x44B;&#x43B;&#x430;<lb/> &#x432;&#x44A; &#x442;&#x430;&#x43A;&#x43E;&#x43C;&#x44A; &#x441;&#x43C;&#x443;&#x449;&#x435;&#x43D;&#x457;&#x438;? &#x414;&#x457;&#x430;&#x43D;&#x430; &#x441;&#x43A;&#x430;&#x437;&#x44B;&#x432;&#x430;&#x435;&#x442;&#x44A;
+                        &#x43F;&#x43E;&#x434;&#x43B;&#x43E;&#x436;&#x43D;&#x43E;,<lb/> &#x447;&#x442;&#x43E; &#x432;&#x44A; &#x441;&#x435;&#x438; &#x43A;&#x430;&#x43C;&#x435;&#x440;&#x463; &#x438;&#x43C;&#x463;&#x44E;&#x442;&#x441;&#x44F;, [&#x434;&#x430;&#x431;&#x44B; &#x442;&#x463;&#x43C;&#x44A; &#x441;&#x43A;&#x43E;&#x440;&#x44F;&#x435;<lb/> &#x432;&#x44B;&#x441;&#x43B;&#x430;&#x442;&#x44C;
+                        &#x43E;&#x442;&#x446;&#x430;] &#x434;&#x443;&#x445;&#x438;. &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x44A; &#x43F;&#x43E; &#x43C;&#x43D;&#x43E;&#x433;&#x438;&#x445;&#x44A; &#x438;&#x433;&#x440;&#x443;&#x448;-<lb/> &#x43A;&#x430;&#x445;&#x44A; &#x441;&#x44A; &#x441;&#x432;&#x43E;&#x435;&#x44E; &#x434;&#x43E;&#x447;&#x435;&#x440;&#x457;&#x44E;, &#x43F;&#x43E;&#x441;&#x43B;&#x430;&#x43B;&#x44A;
+                        &#x435;&#x44F; &#x43E;&#x442;&#x44A; &#x441;&#x435;&#x431;&#x44F; &#x43F;&#x440;&#x43E;&#x447;&#x44C;,<lb/> &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x44F;, &#x447;&#x442;&#x43E; &#x435;&#x43C;&#x443; &#x43D;&#x430;&#x434;&#x43B;&#x435;&#x436;&#x438;&#x442;&#x44A; &#x43F;&#x438;&#x441;&#x430;&#x442;&#x44C; &#x43C;&#x43D;&#x43E;&#x433;&#x457;&#x44F; &#x43F;&#x438;&#x441;&#x43C;&#x430;.<lb/>
+                        &#x412;&#x435;&#x43B;&#x463;&#x43B;&#x44A; &#x43E;&#x43D;&#x44A; &#x441;&#x435;&#x431;&#x463; &#x43F;&#x440;&#x438;&#x43D;&#x435;&#x441;&#x442;&#x44C; &#x432;&#x441;&#x435; &#x43A;&#x44A; &#x442;&#x43E;&#x43C;&#x443; &#x43D;&#x430;&#x434;&#x43B;&#x435;&#x436;&#x430;&#x449;&#x435;&#x435;,<lb/> &#x434;&#x430; &#x438; &#x441;&#x442;&#x430;&#x43B;&#x44A; &#x43F;&#x438;&#x441;&#x430;&#x442;&#x44C;.
+                        &#x422;&#x43E;&#x433;&#x434;&#x430; &#x410;&#x440;&#x43B;&#x435;&#x43A;&#x457;&#x43D;&#x44A; &#x432;&#x44A; &#x432;&#x435;&#x43B;&#x438;&#x43A;&#x43E;&#x435; &#x435;&#x433;&#x43E;<lb/> &#x441;&#x435;&#x440;&#x434;&#x446;&#x435; &#x43F;&#x440;&#x438;&#x432;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x447;&#x440;&#x435;&#x437;&#x44A; &#x43C;&#x43D;&#x43E;&#x433;&#x457;&#x44F; &#x43D;&#x430;&#x441;&#x43C;&#x463;&#x448;&#x43A;&#x438;,
+                        &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x44B;&#x44F;<lb/> &#x43E;&#x43D;&#x44A; &#x434;&#x443;&#x43C;&#x430;&#x435;&#x442;&#x44A; &#x431;&#x44B;&#x442;&#x44C; &#x43E;&#x442;&#x44A; &#x434;&#x443;&#x445;&#x43E;&#x432;&#x44A;. &#x418;&#x437;&#x44A; &#x447;&#x435;&#x433;&#x43E; &#x43F;&#x440;&#x43E;&#x438;&#x441;&#x445;&#x43E;-<lb/> &#x434;&#x438;&#x442;&#x44A;
+                        &#x438;&#x433;&#x440;&#x443;&#x448;&#x43A;&#x430; &#x441;&#x43C;&#x463;&#x448;&#x43D;&#x430;&#x44F;. &#x41F;&#x43E;&#x441;&#x43B;&#x463; &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x44B;&#x44F; &#x41F;&#x430;&#x43D;&#x442;&#x430;-<lb/> &#x43B;&#x43E;&#x43D;&#x44A; &#x432;&#x435;&#x43B;&#x438;&#x43A;&#x438;&#x43C;&#x44A; &#x441;&#x442;&#x440;&#x430;&#x445;&#x43E;&#x43C;&#x44A; &#x441;&#x442;&#x430;&#x43B;&#x44A; &#x431;&#x44B;&#x442;&#x44C;
+                        &#x43E;&#x431;&#x43D;&#x44F;&#x442;&#x44A;; &#x442;&#x43E;&#x433;&#x43E;<lb/> &#x440;&#x430;&#x434;&#x438; &#x441;&#x442;&#x430;&#x43B;&#x44A; &#x43B;&#x43E;&#x436;&#x438;&#x442;&#x44C;&#x441;&#x44F; &#x43D;&#x430; &#x43F;&#x43E;&#x441;&#x442;&#x435;&#x43B;&#x44E;; &#x43D;&#x43E; &#x443;&#x432;&#x438;&#x434;&#x463;&#x432;&#x448;&#x438;<lb/> &#x442;&#x443;&#x442;&#x44A;
+                        &#x41E;&#x434;&#x43E;&#x430;&#x440;&#x434;&#x430; &#x441;&#x44A; &#x43E;&#x431;&#x43D;&#x430;&#x436;&#x435;&#x43D;&#x43D;&#x43E;&#x44E; &#x448;&#x43F;&#x430;&#x433;&#x43E;&#x44E;, &#x443;&#x431;&#x463;&#x436;&#x430;&#x43B;&#x44A;.<lb/> &#x41E;&#x434;&#x43E;&#x430;&#x440;&#x434;&#x44A; &#x432;&#x438;&#x434;&#x44F;, &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x44A; &#x441;&#x442;&#x430;&#x43B;&#x44A; &#x431;&#x44B;&#x442;&#x44C;
+                        &#x43F;&#x43E;&#x447;&#x442;&#x438; &#x43F;&#x43E;&#x438;&#x43C;&#x430;&#x43D;&#x44A;,<lb/> &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x44A;, &#x447;&#x442;&#x43E; &#x435;&#x43C;&#x443; &#x43D;&#x430;&#x434;&#x43B;&#x435;&#x436;&#x438;&#x442;&#x44A; &#x443;&#x43A;&#x440;&#x44B;&#x442;&#x44C;&#x441;&#x44F;, &#x434;&#x430; &#x438; &#x43F;&#x43E;-<lb/>
+                        &#x448;&#x43E;&#x43B;&#x44A;. &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x44A; &#x432;&#x43E;&#x437;&#x432;&#x440;&#x430;&#x449;&#x430;&#x435;&#x442;&#x441;&#x44F; &#x441;&#x44A; &#x43B;&#x44E;&#x434;&#x44C;&#x43C;&#x438;, &#x438; &#x432;&#x435;-<lb/> &#x43B;&#x438;&#x442;&#x44A; &#x438;&#x441;&#x43A;&#x430;&#x442;&#x44C; &#x43F;&#x43E; &#x432;&#x441;&#x435;&#x438;
+                        &#x43A;&#x430;&#x43C;&#x435;&#x440;&#x463; &#x442;&#x43E;&#x433;&#x43E; &#x447;&#x435;&#x43B;&#x43E;&#x432;&#x463;&#x43A;&#x430;, &#x43A;&#x43E;&#x442;&#x43E;-<lb/>
+                        <fw type="catch" place="bottom">&#x440;&#x43E;&#x438;</fw>
                         <pb facs="#obman-8" n="8"/>
-                        <fw type="pageNum">8</fw> рои былъ на постелѣ; но не нашедши его,
-                        отослалъ<lb/> всѣхъ людеи прочь, а самъ легъ на постелю пога-<lb/> сивъ
-                        свѣчу. Дїана возвращается, чтобъ выпустить<lb/> Сïлвїя, про котораго она
-                        думала, что онъ тутъ,<lb/> и стала его кликать. Панталонъ хочетъ еи
-                        дать<lb/> руку, чтобъ ея изловить. Та увидѣвши свою ошиб-<lb/> ку, ушла; и
-                        когда ея старикъ искалъ, тогда Ауре-<lb/> лїя пришла такъ же съ тѣмъ
-                        намѣренїемъ, чтобъ<lb/> выпустить Сїлвїя. Панталонъ думая про нея, что<lb/>
-                        то та, которую онъ ищетъ, схватилъ ея за руку. И<lb/> когда онъ ея хотѣлъ
-                        бить, тогда приходитъ Ковїеллъ,<lb/> которои чрезъ игрушку приличную театру,
-                        увелъ<lb/> Аурелїю съ собою. Панталонъ осердившися хочетъ<lb/> за ними
-                        бѣжать; но Арлекїнъ его остановилъ, и<lb/> чрезъ одну игрушку своиственную
-                        театру оконче-<lb/> ваетъ дѣиствїе второе.</p>
-                </div>
-                <div type="act" n="3">
-                    <head>ДѢИСТВІЕ ТРЕТІЕ.</head>
-                    <stage>ТЕАТРЪ ПОКАЗЫВАЕТЪ НОЧЪ.</stage>
-                    <p rend="indent">ПАНТАЛОНЪ выходитъ говоря Доктору о за<lb/> трудненїи, въ
-                        которомъ онъ находится, по при-<lb/> чинѣ своихъ дочереи, и что онъ ихъ
-                        хочетъ за мужъ<lb/> отдать. Докторъ у него проситъ за себя Дїаны;<lb/> а за
-                        сына своего Одоарда Аурелїи. Панталонъ съ<lb/> нимъ соглашается въ томъ. И
-                        чтобъ въ крѣпостнои<lb/> палатѣ контрактъ учинить, пошли.</p>
-                    <p rend="indent">СIЛВIИ говоритъ, что онъ согласился съ Дїа-<lb/> ною, чтобъ ея
-                        похитить, прежде нежели день раз-<lb/> свѣтаетъ, и что онъ хочетъ ея отвесть
-                        къ Докто-<lb/> ру, которои ему другъ. Сталъ онъ стучатся<lb/>
-                        <fw type="catch" place="bottom">у Дїаны,</fw>
+                        <fw type="pageNum">8</fw> &#x440;&#x43E;&#x438; &#x431;&#x44B;&#x43B;&#x44A; &#x43D;&#x430; &#x43F;&#x43E;&#x441;&#x442;&#x435;&#x43B;&#x463;; &#x43D;&#x43E; &#x43D;&#x435; &#x43D;&#x430;&#x448;&#x435;&#x434;&#x448;&#x438; &#x435;&#x433;&#x43E;,
+                        &#x43E;&#x442;&#x43E;&#x441;&#x43B;&#x430;&#x43B;&#x44A;<lb/> &#x432;&#x441;&#x463;&#x445;&#x44A; &#x43B;&#x44E;&#x434;&#x435;&#x438; &#x43F;&#x440;&#x43E;&#x447;&#x44C;, &#x430; &#x441;&#x430;&#x43C;&#x44A; &#x43B;&#x435;&#x433;&#x44A; &#x43D;&#x430; &#x43F;&#x43E;&#x441;&#x442;&#x435;&#x43B;&#x44E; &#x43F;&#x43E;&#x433;&#x430;-<lb/> &#x441;&#x438;&#x432;&#x44A;
+                        &#x441;&#x432;&#x463;&#x447;&#x443;. &#x414;&#x457;&#x430;&#x43D;&#x430; &#x432;&#x43E;&#x437;&#x432;&#x440;&#x430;&#x449;&#x430;&#x435;&#x442;&#x441;&#x44F;, &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x432;&#x44B;&#x43F;&#x443;&#x441;&#x442;&#x438;&#x442;&#x44C;<lb/> &#x421;&#xEF;&#x43B;&#x432;&#x457;&#x44F;, &#x43F;&#x440;&#x43E; &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x430;&#x433;&#x43E; &#x43E;&#x43D;&#x430;
+                        &#x434;&#x443;&#x43C;&#x430;&#x43B;&#x430;, &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x44A; &#x442;&#x443;&#x442;&#x44A;,<lb/> &#x438; &#x441;&#x442;&#x430;&#x43B;&#x430; &#x435;&#x433;&#x43E; &#x43A;&#x43B;&#x438;&#x43A;&#x430;&#x442;&#x44C;. &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x44A; &#x445;&#x43E;&#x447;&#x435;&#x442;&#x44A; &#x435;&#x438;
+                        &#x434;&#x430;&#x442;&#x44C;<lb/> &#x440;&#x443;&#x43A;&#x443;, &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x435;&#x44F; &#x438;&#x437;&#x43B;&#x43E;&#x432;&#x438;&#x442;&#x44C;. &#x422;&#x430; &#x443;&#x432;&#x438;&#x434;&#x463;&#x432;&#x448;&#x438; &#x441;&#x432;&#x43E;&#x44E; &#x43E;&#x448;&#x438;&#x431;-<lb/> &#x43A;&#x443;, &#x443;&#x448;&#x43B;&#x430;; &#x438;
+                        &#x43A;&#x43E;&#x433;&#x434;&#x430; &#x435;&#x44F; &#x441;&#x442;&#x430;&#x440;&#x438;&#x43A;&#x44A; &#x438;&#x441;&#x43A;&#x430;&#x43B;&#x44A;, &#x442;&#x43E;&#x433;&#x434;&#x430; &#x410;&#x443;&#x440;&#x435;-<lb/> &#x43B;&#x457;&#x44F; &#x43F;&#x440;&#x438;&#x448;&#x43B;&#x430; &#x442;&#x430;&#x43A;&#x44A; &#x436;&#x435; &#x441;&#x44A; &#x442;&#x463;&#x43C;&#x44A;
+                        &#x43D;&#x430;&#x43C;&#x463;&#x440;&#x435;&#x43D;&#x457;&#x435;&#x43C;&#x44A;, &#x447;&#x442;&#x43E;&#x431;&#x44A;<lb/> &#x432;&#x44B;&#x43F;&#x443;&#x441;&#x442;&#x438;&#x442;&#x44C; &#x421;&#x457;&#x43B;&#x432;&#x457;&#x44F;. &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x44A; &#x434;&#x443;&#x43C;&#x430;&#x44F; &#x43F;&#x440;&#x43E; &#x43D;&#x435;&#x44F;, &#x447;&#x442;&#x43E;<lb/>
+                        &#x442;&#x43E; &#x442;&#x430;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x443;&#x44E; &#x43E;&#x43D;&#x44A; &#x438;&#x449;&#x435;&#x442;&#x44A;, &#x441;&#x445;&#x432;&#x430;&#x442;&#x438;&#x43B;&#x44A; &#x435;&#x44F; &#x437;&#x430; &#x440;&#x443;&#x43A;&#x443;. &#x418;<lb/> &#x43A;&#x43E;&#x433;&#x434;&#x430; &#x43E;&#x43D;&#x44A; &#x435;&#x44F; &#x445;&#x43E;&#x442;&#x463;&#x43B;&#x44A;
+                        &#x431;&#x438;&#x442;&#x44C;, &#x442;&#x43E;&#x433;&#x434;&#x430; &#x43F;&#x440;&#x438;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x41A;&#x43E;&#x432;&#x457;&#x435;&#x43B;&#x43B;&#x44A;,<lb/> &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438; &#x447;&#x440;&#x435;&#x437;&#x44A; &#x438;&#x433;&#x440;&#x443;&#x448;&#x43A;&#x443; &#x43F;&#x440;&#x438;&#x43B;&#x438;&#x447;&#x43D;&#x443;&#x44E; &#x442;&#x435;&#x430;&#x442;&#x440;&#x443;,
+                        &#x443;&#x432;&#x435;&#x43B;&#x44A;<lb/> &#x410;&#x443;&#x440;&#x435;&#x43B;&#x457;&#x44E; &#x441;&#x44A; &#x441;&#x43E;&#x431;&#x43E;&#x44E;. &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x44A; &#x43E;&#x441;&#x435;&#x440;&#x434;&#x438;&#x432;&#x448;&#x438;&#x441;&#x44F; &#x445;&#x43E;&#x447;&#x435;&#x442;&#x44A;<lb/> &#x437;&#x430; &#x43D;&#x438;&#x43C;&#x438;
+                        &#x431;&#x463;&#x436;&#x430;&#x442;&#x44C;; &#x43D;&#x43E; &#x410;&#x440;&#x43B;&#x435;&#x43A;&#x457;&#x43D;&#x44A; &#x435;&#x433;&#x43E; &#x43E;&#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x438;&#x43B;&#x44A;, &#x438;<lb/> &#x447;&#x440;&#x435;&#x437;&#x44A; &#x43E;&#x434;&#x43D;&#x443; &#x438;&#x433;&#x440;&#x443;&#x448;&#x43A;&#x443; &#x441;&#x432;&#x43E;&#x438;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x443;&#x44E;
+                        &#x442;&#x435;&#x430;&#x442;&#x440;&#x443; &#x43E;&#x43A;&#x43E;&#x43D;&#x447;&#x435;-<lb/> &#x432;&#x430;&#x435;&#x442;&#x44A; &#x434;&#x463;&#x438;&#x441;&#x442;&#x432;&#x457;&#x435; &#x432;&#x442;&#x43E;&#x440;&#x43E;&#x435;.</p>
+        </div>
+        <div type="act" n="3">
+          <head>&#x414;&#x462;&#x418;&#x421;&#x422;&#x412;&#x406;&#x415; &#x422;&#x420;&#x415;&#x422;&#x406;&#x415;.</head>
+          <stage>&#x422;&#x415;&#x410;&#x422;&#x420;&#x42A; &#x41F;&#x41E;&#x41A;&#x410;&#x417;&#x42B;&#x412;&#x410;&#x415;&#x422;&#x42A; &#x41D;&#x41E;&#x427;&#x42A;.</stage>
+          <p rend="indent">&#x41F;&#x410;&#x41D;&#x422;&#x410;&#x41B;&#x41E;&#x41D;&#x42A; &#x432;&#x44B;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x44F; &#x414;&#x43E;&#x43A;&#x442;&#x43E;&#x440;&#x443; &#x43E; &#x437;&#x430;<lb/> &#x442;&#x440;&#x443;&#x434;&#x43D;&#x435;&#x43D;&#x457;&#x438;, &#x432;&#x44A;
+                        &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x43C;&#x44A; &#x43E;&#x43D;&#x44A; &#x43D;&#x430;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x441;&#x44F;, &#x43F;&#x43E; &#x43F;&#x440;&#x438;-<lb/> &#x447;&#x438;&#x43D;&#x463; &#x441;&#x432;&#x43E;&#x438;&#x445;&#x44A; &#x434;&#x43E;&#x447;&#x435;&#x440;&#x435;&#x438;, &#x438; &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x44A; &#x438;&#x445;&#x44A;
+                        &#x445;&#x43E;&#x447;&#x435;&#x442;&#x44A; &#x437;&#x430; &#x43C;&#x443;&#x436;&#x44A;<lb/> &#x43E;&#x442;&#x434;&#x430;&#x442;&#x44C;. &#x414;&#x43E;&#x43A;&#x442;&#x43E;&#x440;&#x44A; &#x443; &#x43D;&#x435;&#x433;&#x43E; &#x43F;&#x440;&#x43E;&#x441;&#x438;&#x442;&#x44A; &#x437;&#x430; &#x441;&#x435;&#x431;&#x44F; &#x414;&#x457;&#x430;&#x43D;&#x44B;;<lb/> &#x430; &#x437;&#x430;
+                        &#x441;&#x44B;&#x43D;&#x430; &#x441;&#x432;&#x43E;&#x435;&#x433;&#x43E; &#x41E;&#x434;&#x43E;&#x430;&#x440;&#x434;&#x430; &#x410;&#x443;&#x440;&#x435;&#x43B;&#x457;&#x438;. &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x44A; &#x441;&#x44A;<lb/> &#x43D;&#x438;&#x43C;&#x44A; &#x441;&#x43E;&#x433;&#x43B;&#x430;&#x448;&#x430;&#x435;&#x442;&#x441;&#x44F; &#x432;&#x44A; &#x442;&#x43E;&#x43C;&#x44A;. &#x418;
+                        &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x432;&#x44A; &#x43A;&#x440;&#x463;&#x43F;&#x43E;&#x441;&#x442;&#x43D;&#x43E;&#x438;<lb/> &#x43F;&#x430;&#x43B;&#x430;&#x442;&#x463; &#x43A;&#x43E;&#x43D;&#x442;&#x440;&#x430;&#x43A;&#x442;&#x44A; &#x443;&#x447;&#x438;&#x43D;&#x438;&#x442;&#x44C;, &#x43F;&#x43E;&#x448;&#x43B;&#x438;.</p>
+          <p rend="indent">&#x421;I&#x41B;&#x412;I&#x418; &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x44A;, &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x44A; &#x441;&#x43E;&#x433;&#x43B;&#x430;&#x441;&#x438;&#x43B;&#x441;&#x44F; &#x441;&#x44A; &#x414;&#x457;&#x430;-<lb/> &#x43D;&#x43E;&#x44E;, &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x435;&#x44F;
+                        &#x43F;&#x43E;&#x445;&#x438;&#x442;&#x438;&#x442;&#x44C;, &#x43F;&#x440;&#x435;&#x436;&#x434;&#x435; &#x43D;&#x435;&#x436;&#x435;&#x43B;&#x438; &#x434;&#x435;&#x43D;&#x44C; &#x440;&#x430;&#x437;-<lb/> &#x441;&#x432;&#x463;&#x442;&#x430;&#x435;&#x442;&#x44A;, &#x438; &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x44A; &#x445;&#x43E;&#x447;&#x435;&#x442;&#x44A; &#x435;&#x44F; &#x43E;&#x442;&#x432;&#x435;&#x441;&#x442;&#x44C;
+                        &#x43A;&#x44A; &#x414;&#x43E;&#x43A;&#x442;&#x43E;-<lb/> &#x440;&#x443;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438; &#x435;&#x43C;&#x443; &#x434;&#x440;&#x443;&#x433;&#x44A;. &#x421;&#x442;&#x430;&#x43B;&#x44A; &#x43E;&#x43D;&#x44A; &#x441;&#x442;&#x443;&#x447;&#x430;&#x442;&#x441;&#x44F;<lb/>
+                        <fw type="catch" place="bottom">&#x443; &#x414;&#x457;&#x430;&#x43D;&#x44B;,</fw>
                         <pb facs="#obman-9" n="9"/>
-                        <fw type="pageNum">9</fw> у Дїаны, которая его ожидала; выходитъ она.
-                        Тотъ<lb/> еи далъ руку, и повелъ ея къ Доктору.</p>
-                    <p rend="indent">ОДОАРДЪ приходитъ съ тѣмъ же намѣренïемъ,<lb/> то есть, чтобъ
-                        похитить Дïану; да и сталъ сту-<lb/> чаться. Аурелїя выходитъ, которая
-                        думая, что то<lb/> Сїлвїи, дала ему руку, и пошла съ нимъ къ Доктору жъ.</p>
-                    <p rend="indent">КОВIЕЛЛЪ говоритъ такъ же, что онъ согласился<lb/> съ своею
-                        метресою, чтобъ ея похитить, да и сталъ<lb/> стучаться. Смералдїна вышеди, и
-                        думая, что то<lb/> Арлекїнъ, дала ему руку, которои ввелъ ея къ<lb/>
-                        Доктору.</p>
-                    <p rend="indent">БРIГЕЛЛЪ выходитъ говоря, чтобъ онъ хотѣлъ<lb/> поимать
-                        Смералдїну, и притворяяся быть ея лю-<lb/> бовникомъ, сталъ стучаться.
-                        Арлекїнъ выходитъ<lb/> нарядившися въ женщину, и пошолъ съ Брїгелломъ<lb/>
-                        къ Доктору.</p>
-                    <p rend="indent">Старики выходятъ говоря, что они учинили<lb/> свои контрактъ.
-                        Сїлвїи и Одоардъ приходятъ,<lb/> одинъ по другомъ, и просятъ прощенїя у
-                        Панталона,<lb/> что они его прогнѣвили похищенїемъ дочери его<lb/> Дїаны,
-                        про которую каждои сказывалъ, что у него,<lb/> и что онъ на неи женился.
-                        Панталонъ дивится,<lb/> что его одна дочь двоиною стала, и послѣ
-                        нѣкото-<lb/> рыхъ игрушекъ имъ говоритъ, чтобъ они ту при-<lb/> вели. Тѣ
-                        пошли, а приходитъ Ковїеллъ, которои<lb/> таковымъ же способомъ проситъ у
-                        него прощенїя,<lb/> что онъ похитилъ дочь его Аурелїю. Панталонъ<lb/> ему
-                        приказываетъ такъ же и ея привести. Ковїеллъ<lb/> пошолъ. А приходитъ
-                        Брїгеллъ, и проситъ у него<lb/> прощенïя, за то, что онъ у него похитилъ
-                        Смерал-<lb/> дїну, и сказалъ, что всѣ привели своихъ метресъ<lb/> къ
-                        Доктору, которои весьма осердился. Панталонъ<lb/> приказываетъ Брїгеллу,
-                        чтобъ онъ привелъ Смерал-<lb/> дїну. Брїгеллъ пошолъ. Но вотъ и всѣ возвраща-<lb/>
-                        <fw type="catch" place="bottom">ются.</fw>
+                        <fw type="pageNum">9</fw> &#x443; &#x414;&#x457;&#x430;&#x43D;&#x44B;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x430;&#x44F; &#x435;&#x433;&#x43E; &#x43E;&#x436;&#x438;&#x434;&#x430;&#x43B;&#x430;; &#x432;&#x44B;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x43E;&#x43D;&#x430;.
+                        &#x422;&#x43E;&#x442;&#x44A;<lb/> &#x435;&#x438; &#x434;&#x430;&#x43B;&#x44A; &#x440;&#x443;&#x43A;&#x443;, &#x438; &#x43F;&#x43E;&#x432;&#x435;&#x43B;&#x44A; &#x435;&#x44F; &#x43A;&#x44A; &#x414;&#x43E;&#x43A;&#x442;&#x43E;&#x440;&#x443;.</p>
+          <p rend="indent">&#x41E;&#x414;&#x41E;&#x410;&#x420;&#x414;&#x42A; &#x43F;&#x440;&#x438;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x441;&#x44A; &#x442;&#x463;&#x43C;&#x44A; &#x436;&#x435; &#x43D;&#x430;&#x43C;&#x463;&#x440;&#x435;&#x43D;&#xEF;&#x435;&#x43C;&#x44A;,<lb/> &#x442;&#x43E; &#x435;&#x441;&#x442;&#x44C;, &#x447;&#x442;&#x43E;&#x431;&#x44A;
+                        &#x43F;&#x43E;&#x445;&#x438;&#x442;&#x438;&#x442;&#x44C; &#x414;&#xEF;&#x430;&#x43D;&#x443;; &#x434;&#x430; &#x438; &#x441;&#x442;&#x430;&#x43B;&#x44A; &#x441;&#x442;&#x443;-<lb/> &#x447;&#x430;&#x442;&#x44C;&#x441;&#x44F;. &#x410;&#x443;&#x440;&#x435;&#x43B;&#x457;&#x44F; &#x432;&#x44B;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x430;&#x44F;
+                        &#x434;&#x443;&#x43C;&#x430;&#x44F;, &#x447;&#x442;&#x43E; &#x442;&#x43E;<lb/> &#x421;&#x457;&#x43B;&#x432;&#x457;&#x438;, &#x434;&#x430;&#x43B;&#x430; &#x435;&#x43C;&#x443; &#x440;&#x443;&#x43A;&#x443;, &#x438; &#x43F;&#x43E;&#x448;&#x43B;&#x430; &#x441;&#x44A; &#x43D;&#x438;&#x43C;&#x44A; &#x43A;&#x44A; &#x414;&#x43E;&#x43A;&#x442;&#x43E;&#x440;&#x443; &#x436;&#x44A;.</p>
+          <p rend="indent">&#x41A;&#x41E;&#x412;I&#x415;&#x41B;&#x41B;&#x42A; &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x44A; &#x442;&#x430;&#x43A;&#x44A; &#x436;&#x435;, &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x44A; &#x441;&#x43E;&#x433;&#x43B;&#x430;&#x441;&#x438;&#x43B;&#x441;&#x44F;<lb/> &#x441;&#x44A; &#x441;&#x432;&#x43E;&#x435;&#x44E;
+                        &#x43C;&#x435;&#x442;&#x440;&#x435;&#x441;&#x43E;&#x44E;, &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x435;&#x44F; &#x43F;&#x43E;&#x445;&#x438;&#x442;&#x438;&#x442;&#x44C;, &#x434;&#x430; &#x438; &#x441;&#x442;&#x430;&#x43B;&#x44A;<lb/> &#x441;&#x442;&#x443;&#x447;&#x430;&#x442;&#x44C;&#x441;&#x44F;. &#x421;&#x43C;&#x435;&#x440;&#x430;&#x43B;&#x434;&#x457;&#x43D;&#x430; &#x432;&#x44B;&#x448;&#x435;&#x434;&#x438;, &#x438;
+                        &#x434;&#x443;&#x43C;&#x430;&#x44F;, &#x447;&#x442;&#x43E; &#x442;&#x43E;<lb/> &#x410;&#x440;&#x43B;&#x435;&#x43A;&#x457;&#x43D;&#x44A;, &#x434;&#x430;&#x43B;&#x430; &#x435;&#x43C;&#x443; &#x440;&#x443;&#x43A;&#x443;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438; &#x432;&#x432;&#x435;&#x43B;&#x44A; &#x435;&#x44F; &#x43A;&#x44A;<lb/>
+                        &#x414;&#x43E;&#x43A;&#x442;&#x43E;&#x440;&#x443;.</p>
+          <p rend="indent">&#x411;&#x420;I&#x413;&#x415;&#x41B;&#x41B;&#x42A; &#x432;&#x44B;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x44F;, &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x43E;&#x43D;&#x44A; &#x445;&#x43E;&#x442;&#x463;&#x43B;&#x44A;<lb/> &#x43F;&#x43E;&#x438;&#x43C;&#x430;&#x442;&#x44C;
+                        &#x421;&#x43C;&#x435;&#x440;&#x430;&#x43B;&#x434;&#x457;&#x43D;&#x443;, &#x438; &#x43F;&#x440;&#x438;&#x442;&#x432;&#x43E;&#x440;&#x44F;&#x44F;&#x441;&#x44F; &#x431;&#x44B;&#x442;&#x44C; &#x435;&#x44F; &#x43B;&#x44E;-<lb/> &#x431;&#x43E;&#x432;&#x43D;&#x438;&#x43A;&#x43E;&#x43C;&#x44A;, &#x441;&#x442;&#x430;&#x43B;&#x44A; &#x441;&#x442;&#x443;&#x447;&#x430;&#x442;&#x44C;&#x441;&#x44F;.
+                        &#x410;&#x440;&#x43B;&#x435;&#x43A;&#x457;&#x43D;&#x44A; &#x432;&#x44B;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A;<lb/> &#x43D;&#x430;&#x440;&#x44F;&#x434;&#x438;&#x432;&#x448;&#x438;&#x441;&#x44F; &#x432;&#x44A; &#x436;&#x435;&#x43D;&#x449;&#x438;&#x43D;&#x443;, &#x438; &#x43F;&#x43E;&#x448;&#x43E;&#x43B;&#x44A; &#x441;&#x44A; &#x411;&#x440;&#x457;&#x433;&#x435;&#x43B;&#x43B;&#x43E;&#x43C;&#x44A;<lb/>
+                        &#x43A;&#x44A; &#x414;&#x43E;&#x43A;&#x442;&#x43E;&#x440;&#x443;.</p>
+          <p rend="indent">&#x421;&#x442;&#x430;&#x440;&#x438;&#x43A;&#x438; &#x432;&#x44B;&#x445;&#x43E;&#x434;&#x44F;&#x442;&#x44A; &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x44F;, &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x438; &#x443;&#x447;&#x438;&#x43D;&#x438;&#x43B;&#x438;<lb/> &#x441;&#x432;&#x43E;&#x438; &#x43A;&#x43E;&#x43D;&#x442;&#x440;&#x430;&#x43A;&#x442;&#x44A;.
+                        &#x421;&#x457;&#x43B;&#x432;&#x457;&#x438; &#x438; &#x41E;&#x434;&#x43E;&#x430;&#x440;&#x434;&#x44A; &#x43F;&#x440;&#x438;&#x445;&#x43E;&#x434;&#x44F;&#x442;&#x44A;,<lb/> &#x43E;&#x434;&#x438;&#x43D;&#x44A; &#x43F;&#x43E; &#x434;&#x440;&#x443;&#x433;&#x43E;&#x43C;&#x44A;, &#x438; &#x43F;&#x440;&#x43E;&#x441;&#x44F;&#x442;&#x44A; &#x43F;&#x440;&#x43E;&#x449;&#x435;&#x43D;&#x457;&#x44F; &#x443;
+                        &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x430;,<lb/> &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x438; &#x435;&#x433;&#x43E; &#x43F;&#x440;&#x43E;&#x433;&#x43D;&#x463;&#x432;&#x438;&#x43B;&#x438; &#x43F;&#x43E;&#x445;&#x438;&#x449;&#x435;&#x43D;&#x457;&#x435;&#x43C;&#x44A; &#x434;&#x43E;&#x447;&#x435;&#x440;&#x438; &#x435;&#x433;&#x43E;<lb/> &#x414;&#x457;&#x430;&#x43D;&#x44B;,
+                        &#x43F;&#x440;&#x43E; &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x443;&#x44E; &#x43A;&#x430;&#x436;&#x434;&#x43E;&#x438; &#x441;&#x43A;&#x430;&#x437;&#x44B;&#x432;&#x430;&#x43B;&#x44A;, &#x447;&#x442;&#x43E; &#x443; &#x43D;&#x435;&#x433;&#x43E;,<lb/> &#x438; &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x44A; &#x43D;&#x430; &#x43D;&#x435;&#x438; &#x436;&#x435;&#x43D;&#x438;&#x43B;&#x441;&#x44F;.
+                        &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x44A; &#x434;&#x438;&#x432;&#x438;&#x442;&#x441;&#x44F;,<lb/> &#x447;&#x442;&#x43E; &#x435;&#x433;&#x43E; &#x43E;&#x434;&#x43D;&#x430; &#x434;&#x43E;&#x447;&#x44C; &#x434;&#x432;&#x43E;&#x438;&#x43D;&#x43E;&#x44E; &#x441;&#x442;&#x430;&#x43B;&#x430;, &#x438; &#x43F;&#x43E;&#x441;&#x43B;&#x463;
+                        &#x43D;&#x463;&#x43A;&#x43E;&#x442;&#x43E;-<lb/> &#x440;&#x44B;&#x445;&#x44A; &#x438;&#x433;&#x440;&#x443;&#x448;&#x435;&#x43A;&#x44A; &#x438;&#x43C;&#x44A; &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x44A;, &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x43E;&#x43D;&#x438; &#x442;&#x443; &#x43F;&#x440;&#x438;-<lb/> &#x432;&#x435;&#x43B;&#x438;. &#x422;&#x463;
+                        &#x43F;&#x43E;&#x448;&#x43B;&#x438;, &#x430; &#x43F;&#x440;&#x438;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A; &#x41A;&#x43E;&#x432;&#x457;&#x435;&#x43B;&#x43B;&#x44A;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438;<lb/> &#x442;&#x430;&#x43A;&#x43E;&#x432;&#x44B;&#x43C;&#x44A; &#x436;&#x435; &#x441;&#x43F;&#x43E;&#x441;&#x43E;&#x431;&#x43E;&#x43C;&#x44A; &#x43F;&#x440;&#x43E;&#x441;&#x438;&#x442;&#x44A; &#x443;
+                        &#x43D;&#x435;&#x433;&#x43E; &#x43F;&#x440;&#x43E;&#x449;&#x435;&#x43D;&#x457;&#x44F;,<lb/> &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x44A; &#x43F;&#x43E;&#x445;&#x438;&#x442;&#x438;&#x43B;&#x44A; &#x434;&#x43E;&#x447;&#x44C; &#x435;&#x433;&#x43E; &#x410;&#x443;&#x440;&#x435;&#x43B;&#x457;&#x44E;. &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x44A;<lb/> &#x435;&#x43C;&#x443;
+                        &#x43F;&#x440;&#x438;&#x43A;&#x430;&#x437;&#x44B;&#x432;&#x430;&#x435;&#x442;&#x44A; &#x442;&#x430;&#x43A;&#x44A; &#x436;&#x435; &#x438; &#x435;&#x44F; &#x43F;&#x440;&#x438;&#x432;&#x435;&#x441;&#x442;&#x438;. &#x41A;&#x43E;&#x432;&#x457;&#x435;&#x43B;&#x43B;&#x44A;<lb/> &#x43F;&#x43E;&#x448;&#x43E;&#x43B;&#x44A;. &#x410; &#x43F;&#x440;&#x438;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44A;
+                        &#x411;&#x440;&#x457;&#x433;&#x435;&#x43B;&#x43B;&#x44A;, &#x438; &#x43F;&#x440;&#x43E;&#x441;&#x438;&#x442;&#x44A; &#x443; &#x43D;&#x435;&#x433;&#x43E;<lb/> &#x43F;&#x440;&#x43E;&#x449;&#x435;&#x43D;&#xEF;&#x44F;, &#x437;&#x430; &#x442;&#x43E;, &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x44A; &#x443; &#x43D;&#x435;&#x433;&#x43E; &#x43F;&#x43E;&#x445;&#x438;&#x442;&#x438;&#x43B;&#x44A;
+                        &#x421;&#x43C;&#x435;&#x440;&#x430;&#x43B;-<lb/> &#x434;&#x457;&#x43D;&#x443;, &#x438; &#x441;&#x43A;&#x430;&#x437;&#x430;&#x43B;&#x44A;, &#x447;&#x442;&#x43E; &#x432;&#x441;&#x463; &#x43F;&#x440;&#x438;&#x432;&#x435;&#x43B;&#x438; &#x441;&#x432;&#x43E;&#x438;&#x445;&#x44A; &#x43C;&#x435;&#x442;&#x440;&#x435;&#x441;&#x44A;<lb/> &#x43A;&#x44A;
+                        &#x414;&#x43E;&#x43A;&#x442;&#x43E;&#x440;&#x443;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438; &#x432;&#x435;&#x441;&#x44C;&#x43C;&#x430; &#x43E;&#x441;&#x435;&#x440;&#x434;&#x438;&#x43B;&#x441;&#x44F;. &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x44A;<lb/> &#x43F;&#x440;&#x438;&#x43A;&#x430;&#x437;&#x44B;&#x432;&#x430;&#x435;&#x442;&#x44A; &#x411;&#x440;&#x457;&#x433;&#x435;&#x43B;&#x43B;&#x443;,
+                        &#x447;&#x442;&#x43E;&#x431;&#x44A; &#x43E;&#x43D;&#x44A; &#x43F;&#x440;&#x438;&#x432;&#x435;&#x43B;&#x44A; &#x421;&#x43C;&#x435;&#x440;&#x430;&#x43B;-<lb/> &#x434;&#x457;&#x43D;&#x443;. &#x411;&#x440;&#x457;&#x433;&#x435;&#x43B;&#x43B;&#x44A; &#x43F;&#x43E;&#x448;&#x43E;&#x43B;&#x44A;. &#x41D;&#x43E; &#x432;&#x43E;&#x442;&#x44A; &#x438; &#x432;&#x441;&#x463; &#x432;&#x43E;&#x437;&#x432;&#x440;&#x430;&#x449;&#x430;-<lb/>
+                        <fw type="catch" place="bottom">&#x44E;&#x442;&#x441;&#x44F;.</fw>
                         <pb facs="#obman-10" n="10"/>
-                        <fw type="PageNum">10</fw> ются. Старики удивилися, что они видѣли
-                        четы-<lb/> рехъ женцинъ. Панталон, которои не имѣлъ, какъ<lb/> двухъ
-                        дочереи, и одну служащую, спрашиваетъ у<lb/> любовниковъ, что хотятъ ли они
-                        жениться на этихъ<lb/> дамахъ. Сïлвїи и Одоардъ думая, что у каждаго<lb/>
-                        изъ нихъ Дїана въ рукахъ, отвѣтствуютъ, что хо-<lb/> тятъ. Панталонъ велѣлъ
-                        ихъ розкрывать. Одоардъ<lb/> осердился на хитрость Сїлвïеву; такъ же и
-                        Аурелїя.<lb/> Но уже уговорили ихъ. Ковïелла спрашивали, что<lb/> хочетъ ли
-                        онъ взять за себя свою даму, которои<lb/> отчаяся возъимѣть Аурелїю, которую
-                        онъ видѣлъ<lb/> быть въ рукахъ Одоардовыхъ, сказалъ, что хочетъ.<lb/>
-                        Смералдїна себя объявила; что въ отчаянїе приво-<lb/> дитъ Брїгелла,
-                        котораго старикъ проситъ, чтобъ<lb/> онъ показалъ и свою метресу, да и
-                        спрашиваетъ,<lb/> что хочетъ ли онъ жениться на неи; Брїгеллъ гово-<lb/>
-                        ритъ, что хочетъ. По томъ намѣряется и разкрыть.<lb/> Арлекїнъ не допускаетъ
-                        себя разкрыть; но послѣ<lb/> нѣкоторыхъ игрушекъ, чрезъ сочетанїе
-                        брачное<lb/> Сïлвїя съ Дїаною, Одоарда съ Аурелїею, и Арлекина,<lb/> которои
-                        все конечно хотѣлъ Смералдїны, съ Сме-<lb/> ралдїною, кончится</p>
-                    <p rend="indent">КОМЕДIЯ.</p>
-                </div>
-            </body>
-        </text>
-    </TEI>
-    <TEI>
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>Der gluͤckliche Betrug</title>
-                    <respStmt>
-                        <resp>Transcription and encoding by</resp>
-                        <name>Tatiana Korneeva</name>
-                    </respStmt>
-                    <respStmt>
-                        <resp>Digital images</resp>
-                        <name>The Göttingen State and University Library</name>
-                    </respStmt>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Università Ca' Foscari di Venezia - VeDPH</publisher>
-                    <date>December 2021</date>
-                    <availability>
-                        <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0
+                        <fw type="PageNum">10</fw> &#x44E;&#x442;&#x441;&#x44F;. &#x421;&#x442;&#x430;&#x440;&#x438;&#x43A;&#x438; &#x443;&#x434;&#x438;&#x432;&#x438;&#x43B;&#x438;&#x441;&#x44F;, &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x438; &#x432;&#x438;&#x434;&#x463;&#x43B;&#x438;
+                        &#x447;&#x435;&#x442;&#x44B;-<lb/> &#x440;&#x435;&#x445;&#x44A; &#x436;&#x435;&#x43D;&#x446;&#x438;&#x43D;&#x44A;. &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438; &#x43D;&#x435; &#x438;&#x43C;&#x463;&#x43B;&#x44A;, &#x43A;&#x430;&#x43A;&#x44A;<lb/> &#x434;&#x432;&#x443;&#x445;&#x44A;
+                        &#x434;&#x43E;&#x447;&#x435;&#x440;&#x435;&#x438;, &#x438; &#x43E;&#x434;&#x43D;&#x443; &#x441;&#x43B;&#x443;&#x436;&#x430;&#x449;&#x443;&#x44E;, &#x441;&#x43F;&#x440;&#x430;&#x448;&#x438;&#x432;&#x430;&#x435;&#x442;&#x44A; &#x443;<lb/> &#x43B;&#x44E;&#x431;&#x43E;&#x432;&#x43D;&#x438;&#x43A;&#x43E;&#x432;&#x44A;, &#x447;&#x442;&#x43E; &#x445;&#x43E;&#x442;&#x44F;&#x442;&#x44A; &#x43B;&#x438; &#x43E;&#x43D;&#x438;
+                        &#x436;&#x435;&#x43D;&#x438;&#x442;&#x44C;&#x441;&#x44F; &#x43D;&#x430; &#x44D;&#x442;&#x438;&#x445;&#x44A;<lb/> &#x434;&#x430;&#x43C;&#x430;&#x445;&#x44A;. &#x421;&#xEF;&#x43B;&#x432;&#x457;&#x438; &#x438; &#x41E;&#x434;&#x43E;&#x430;&#x440;&#x434;&#x44A; &#x434;&#x443;&#x43C;&#x430;&#x44F;, &#x447;&#x442;&#x43E; &#x443; &#x43A;&#x430;&#x436;&#x434;&#x430;&#x433;&#x43E;<lb/>
+                        &#x438;&#x437;&#x44A; &#x43D;&#x438;&#x445;&#x44A; &#x414;&#x457;&#x430;&#x43D;&#x430; &#x432;&#x44A; &#x440;&#x443;&#x43A;&#x430;&#x445;&#x44A;, &#x43E;&#x442;&#x432;&#x463;&#x442;&#x441;&#x442;&#x432;&#x443;&#x44E;&#x442;&#x44A;, &#x447;&#x442;&#x43E; &#x445;&#x43E;-<lb/> &#x442;&#x44F;&#x442;&#x44A;. &#x41F;&#x430;&#x43D;&#x442;&#x430;&#x43B;&#x43E;&#x43D;&#x44A; &#x432;&#x435;&#x43B;&#x463;&#x43B;&#x44A;
+                        &#x438;&#x445;&#x44A; &#x440;&#x43E;&#x437;&#x43A;&#x440;&#x44B;&#x432;&#x430;&#x442;&#x44C;. &#x41E;&#x434;&#x43E;&#x430;&#x440;&#x434;&#x44A;<lb/> &#x43E;&#x441;&#x435;&#x440;&#x434;&#x438;&#x43B;&#x441;&#x44F; &#x43D;&#x430; &#x445;&#x438;&#x442;&#x440;&#x43E;&#x441;&#x442;&#x44C; &#x421;&#x457;&#x43B;&#x432;&#xEF;&#x435;&#x432;&#x443;; &#x442;&#x430;&#x43A;&#x44A; &#x436;&#x435; &#x438;
+                        &#x410;&#x443;&#x440;&#x435;&#x43B;&#x457;&#x44F;.<lb/> &#x41D;&#x43E; &#x443;&#x436;&#x435; &#x443;&#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x43B;&#x438; &#x438;&#x445;&#x44A;. &#x41A;&#x43E;&#x432;&#xEF;&#x435;&#x43B;&#x43B;&#x430; &#x441;&#x43F;&#x440;&#x430;&#x448;&#x438;&#x432;&#x430;&#x43B;&#x438;, &#x447;&#x442;&#x43E;<lb/> &#x445;&#x43E;&#x447;&#x435;&#x442;&#x44A; &#x43B;&#x438;
+                        &#x43E;&#x43D;&#x44A; &#x432;&#x437;&#x44F;&#x442;&#x44C; &#x437;&#x430; &#x441;&#x435;&#x431;&#x44F; &#x441;&#x432;&#x43E;&#x44E; &#x434;&#x430;&#x43C;&#x443;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438;<lb/> &#x43E;&#x442;&#x447;&#x430;&#x44F;&#x441;&#x44F; &#x432;&#x43E;&#x437;&#x44A;&#x438;&#x43C;&#x463;&#x442;&#x44C; &#x410;&#x443;&#x440;&#x435;&#x43B;&#x457;&#x44E;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x443;&#x44E;
+                        &#x43E;&#x43D;&#x44A; &#x432;&#x438;&#x434;&#x463;&#x43B;&#x44A;<lb/> &#x431;&#x44B;&#x442;&#x44C; &#x432;&#x44A; &#x440;&#x443;&#x43A;&#x430;&#x445;&#x44A; &#x41E;&#x434;&#x43E;&#x430;&#x440;&#x434;&#x43E;&#x432;&#x44B;&#x445;&#x44A;, &#x441;&#x43A;&#x430;&#x437;&#x430;&#x43B;&#x44A;, &#x447;&#x442;&#x43E; &#x445;&#x43E;&#x447;&#x435;&#x442;&#x44A;.<lb/>
+                        &#x421;&#x43C;&#x435;&#x440;&#x430;&#x43B;&#x434;&#x457;&#x43D;&#x430; &#x441;&#x435;&#x431;&#x44F; &#x43E;&#x431;&#x44A;&#x44F;&#x432;&#x438;&#x43B;&#x430;; &#x447;&#x442;&#x43E; &#x432;&#x44A; &#x43E;&#x442;&#x447;&#x430;&#x44F;&#x43D;&#x457;&#x435; &#x43F;&#x440;&#x438;&#x432;&#x43E;-<lb/> &#x434;&#x438;&#x442;&#x44A; &#x411;&#x440;&#x457;&#x433;&#x435;&#x43B;&#x43B;&#x430;,
+                        &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x430;&#x433;&#x43E; &#x441;&#x442;&#x430;&#x440;&#x438;&#x43A;&#x44A; &#x43F;&#x440;&#x43E;&#x441;&#x438;&#x442;&#x44A;, &#x447;&#x442;&#x43E;&#x431;&#x44A;<lb/> &#x43E;&#x43D;&#x44A; &#x43F;&#x43E;&#x43A;&#x430;&#x437;&#x430;&#x43B;&#x44A; &#x438; &#x441;&#x432;&#x43E;&#x44E; &#x43C;&#x435;&#x442;&#x440;&#x435;&#x441;&#x443;, &#x434;&#x430; &#x438;
+                        &#x441;&#x43F;&#x440;&#x430;&#x448;&#x438;&#x432;&#x430;&#x435;&#x442;&#x44A;,<lb/> &#x447;&#x442;&#x43E; &#x445;&#x43E;&#x447;&#x435;&#x442;&#x44A; &#x43B;&#x438; &#x43E;&#x43D;&#x44A; &#x436;&#x435;&#x43D;&#x438;&#x442;&#x44C;&#x441;&#x44F; &#x43D;&#x430; &#x43D;&#x435;&#x438;; &#x411;&#x440;&#x457;&#x433;&#x435;&#x43B;&#x43B;&#x44A; &#x433;&#x43E;&#x432;&#x43E;-<lb/>
+                        &#x440;&#x438;&#x442;&#x44A;, &#x447;&#x442;&#x43E; &#x445;&#x43E;&#x447;&#x435;&#x442;&#x44A;. &#x41F;&#x43E; &#x442;&#x43E;&#x43C;&#x44A; &#x43D;&#x430;&#x43C;&#x463;&#x440;&#x44F;&#x435;&#x442;&#x441;&#x44F; &#x438; &#x440;&#x430;&#x437;&#x43A;&#x440;&#x44B;&#x442;&#x44C;.<lb/> &#x410;&#x440;&#x43B;&#x435;&#x43A;&#x457;&#x43D;&#x44A; &#x43D;&#x435; &#x434;&#x43E;&#x43F;&#x443;&#x441;&#x43A;&#x430;&#x435;&#x442;&#x44A;
+                        &#x441;&#x435;&#x431;&#x44F; &#x440;&#x430;&#x437;&#x43A;&#x440;&#x44B;&#x442;&#x44C;; &#x43D;&#x43E; &#x43F;&#x43E;&#x441;&#x43B;&#x463;<lb/> &#x43D;&#x463;&#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x44B;&#x445;&#x44A; &#x438;&#x433;&#x440;&#x443;&#x448;&#x435;&#x43A;&#x44A;, &#x447;&#x440;&#x435;&#x437;&#x44A; &#x441;&#x43E;&#x447;&#x435;&#x442;&#x430;&#x43D;&#x457;&#x435;
+                        &#x431;&#x440;&#x430;&#x447;&#x43D;&#x43E;&#x435;<lb/> &#x421;&#xEF;&#x43B;&#x432;&#x457;&#x44F; &#x441;&#x44A; &#x414;&#x457;&#x430;&#x43D;&#x43E;&#x44E;, &#x41E;&#x434;&#x43E;&#x430;&#x440;&#x434;&#x430; &#x441;&#x44A; &#x410;&#x443;&#x440;&#x435;&#x43B;&#x457;&#x435;&#x44E;, &#x438; &#x410;&#x440;&#x43B;&#x435;&#x43A;&#x438;&#x43D;&#x430;,<lb/> &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x438;
+                        &#x432;&#x441;&#x435; &#x43A;&#x43E;&#x43D;&#x435;&#x447;&#x43D;&#x43E; &#x445;&#x43E;&#x442;&#x463;&#x43B;&#x44A; &#x421;&#x43C;&#x435;&#x440;&#x430;&#x43B;&#x434;&#x457;&#x43D;&#x44B;, &#x441;&#x44A; &#x421;&#x43C;&#x435;-<lb/> &#x440;&#x430;&#x43B;&#x434;&#x457;&#x43D;&#x43E;&#x44E;, &#x43A;&#x43E;&#x43D;&#x447;&#x438;&#x442;&#x441;&#x44F;</p>
+          <p rend="indent">&#x41A;&#x41E;&#x41C;&#x415;&#x414;I&#x42F;.</p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Der glu&#x364;ckliche Betrug</title>
+          <respStmt>
+            <resp>Transcription and encoding by</resp>
+            <name>Tatiana Korneeva</name>
+          </respStmt>
+          <respStmt>
+            <resp>Digital images</resp>
+            <name>The G&#xF6;ttingen State and University Library</name>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Universit&#xE0; Ca' Foscari di Venezia - VeDPH</publisher>
+          <date>May 2022</date>
+          <availability>
+            <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0
                             Unported License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <msDesc>
-                        <msIdentifier>
-                            <settlement>Göttingen</settlement>
-                            <repository>The Göttingen State and University Library</repository>
-                            <idno type="shelfmark">8 POET DRAM IV 8250 (27a) RARA</idno>
-                            <idno type="URI">http://resolver.sub.uni-goettingen.de/purl?PPN689927703</idno>
-                        </msIdentifier>
-                        <physDesc>
-                            <objectDesc>
-                                <supportDesc>
-                                    <extent>
-                                        <measure unit="pages" quantity="8">8 pages of source
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc>
+            <msIdentifier>
+              <settlement>G&#xF6;ttingen</settlement>
+              <repository>The G&#xF6;ttingen State and University Library</repository>
+              <idno type="shelfmark">8 POET DRAM IV 8250 (27a) RARA</idno>
+              <idno type="URI">http://resolver.sub.uni-goettingen.de/purl?PPN689927703</idno>
+            </msIdentifier>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <extent>
+                    <measure unit="pages" quantity="8">8 pages of source
                                             material</measure>
-                                        <height unit="cm">18,9</height>
-                                        <width unit="cm">14,6</width>
-                                        <depth unit="cm">0,1</depth>
-                                    </extent>
-                                </supportDesc>
-                            </objectDesc>
-                        </physDesc>
-                    </msDesc>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <langUsage>
-                    <language ident="ge">German</language>
-                </langUsage>
-            </profileDesc>
-        </teiHeader>
-        <facsimile>
-            <surface type="ge">
-                <graphic xml:id="ingafort_ge_001" url="/img/ingafort_ge_001.jpg"/>
-                <graphic xml:id="ingafort_ge_002" url="/img/ingafort_ge_002.jpg"/>
-                <graphic xml:id="ingafort_ge_003" url="/img/ingafort_ge_003.jpg"/>
-                <graphic xml:id="ingafort_ge_004" url="/img/ingafort_ge_004.jpg"/>
-                <graphic xml:id="ingafort_ge_005" url="/img/ingafort_ge_005.jpg"/>
-                <graphic xml:id="ingafort_ge_006" url="/img/ingafort_ge_006.jpg"/>
-                <graphic xml:id="ingafort_ge_007" url="/img/ingafort_ge_007.jpg"/>
-                <graphic xml:id="ingafort_ge_008" url="/img/ingafort_ge_008.jpg"/>
-            </surface>
-        </facsimile>
-        <text>
-            <front>
-                <pb facs="#ingande-1" n="1"/>
-                <head type="main">Der gluͤckliche Betrug</head>
-                <head type="sub">welcher<lb/><date when="1734">Ao. 1734.</date><lb/> in einem<lb/>
-                    Jtaliaͤniſchen Schau-Spiele<lb/> an dem<lb/> Kayſerlichen Hofe<lb/> zu St.
-                    Petersburg<lb/> vorgeſtellet worden.</head>
-                <pb facs="#ingande-2" n="2"/>
-                <div type="preface">
-                    <head>Jnhalt.</head>
-                    <p rend="indent">Silvio ſiehet das Portrait der Diana, Geliebten des Odo-<lb/>
-                        ardo ſeines Freundes, und wird in ſie verliebt; Jndeſſen da ſo<lb/> wohl der
+                    <height unit="cm">18,9</height>
+                    <width unit="cm">14,6</width>
+                    <depth unit="cm">0,1</depth>
+                  </extent>
+                </supportDesc>
+              </objectDesc>
+            </physDesc>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="ge">German</language>
+        </langUsage>
+      </profileDesc>
+    </teiHeader>
+    <facsimile>
+      <surface type="ge">
+        <graphic xml:id="ingafort_ge_001" url="/img/ingafort_ge_001.jpg"/>
+        <graphic xml:id="ingafort_ge_002" url="/img/ingafort_ge_002.jpg"/>
+        <graphic xml:id="ingafort_ge_003" url="/img/ingafort_ge_003.jpg"/>
+        <graphic xml:id="ingafort_ge_004" url="/img/ingafort_ge_004.jpg"/>
+        <graphic xml:id="ingafort_ge_005" url="/img/ingafort_ge_005.jpg"/>
+        <graphic xml:id="ingafort_ge_006" url="/img/ingafort_ge_006.jpg"/>
+        <graphic xml:id="ingafort_ge_007" url="/img/ingafort_ge_007.jpg"/>
+        <graphic xml:id="ingafort_ge_008" url="/img/ingafort_ge_008.jpg"/>
+      </surface>
+    </facsimile>
+    <text>
+      <front>
+        <pb facs="#ingande-1" n="1"/>
+        <head type="main">Der glu&#x364;ckliche Betrug</head>
+        <head type="sub">welcher<lb/><date when="1734">Ao. 1734.</date><lb/> in einem<lb/>
+                    Jtalia&#x364;ni&#x17F;chen Schau-Spiele<lb/> an dem<lb/> Kay&#x17F;erlichen Hofe<lb/> zu St.
+                    Petersburg<lb/> vorge&#x17F;tellet worden.</head>
+        <pb facs="#ingande-2" n="2"/>
+        <div type="preface">
+          <head>Jnhalt.</head>
+          <p rend="indent">Silvio &#x17F;iehet das Portrait der Diana, Geliebten des Odo-<lb/>
+                        ardo &#x17F;eines Freundes, und wird in &#x17F;ie verliebt; Jnde&#x17F;&#x17F;en da &#x17F;o<lb/> wohl der
                         eine, als der andere, der Diana in ihrem Zimmer die<lb/> Aufwartung zu
-                        machen ſuchet, werden beyde von dem Pantalon<lb/> abgewieſen, welches
-                        verurſachet, daß ſie bedacht ſind, ihre Gelieb-<lb/> te zu entfuͤhren. Die
+                        machen &#x17F;uchet, werden beyde von dem Pantalon<lb/> abgewie&#x17F;en, welches
+                        verur&#x17F;achet, da&#xDF; &#x17F;ie bedacht &#x17F;ind, ihre Gelieb-<lb/> te zu entfu&#x364;hren. Die
                         Liebe des Covicello zu der Aurelia, und des<lb/> Arlequins und Brighella
-                        gegen die Smeraldina, ſind Neben-Sachen,<lb/> welche zur Verwirrung des
-                        gantzen Stuͤckes, dienen, ſo<lb/> ſich mit der Heyrath des Silvio, Odoardo
-                        und Arlequins<lb/> mit der Diana, Aurelia und Smeraldina beſchlieſſet.</p>
-                </div>
-                <castList>
-                    <head>Perſonen.</head>
-                    <castItem>
-                        <role xml:id="pantalone_ge">Pantalon</role>
-                        <roleDesc>Vater der</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="diana_ge">Diana und<lb/></role>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="aurelia_ge">Aurelia.</role>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="smeraldina_ge">Smeraldina</role>
-                        <roleDesc>ihre Bediente.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="silvio_ge">Silvio</role>
-                        <roleDesc>ein Mahler.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="arlecchino_ge">Arlequin</role>
-                        <roleDesc>deſſen Bediente.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="dottore_ge">Der Doctor</role>
-                        <roleDesc>Vater des Odoardo.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="brighella_ge">Brighella</role>
-                        <roleDesc>deſſen Diener.</roleDesc>
-                    </castItem>
-                </castList>
-                <set>
-                    <p>Der Schau-Platz iſt in Bologna.</p>
-                </set>
-            </front>
-            <body>
-                <pb facs="#ingande-3" n="3"/>
-                <div type="act" n="1">
-                    <head>Erſte Handung.</head>
-                    <stage>Der Schau-Platz ſtellet eine Mahler-Werck-Statt vor.</stage>
-                    <p rend="indent">Silvio wird von dem Odoardo gebethen, ihm das Portrait der<lb/>
-                        Diana, ſeiner Geliebten, zuverfertigen. Silvio antwortet,<lb/> daß er ſie
-                        ſehen muͤſſe. Odoardo ſagt, er wolle ſie bitten, zu ihm<lb/> zu kommen:
-                        Silvio rufft den Arlequin, welcher gantz zornig her-<lb/> ein koͤmmt. Er
+                        gegen die Smeraldina, &#x17F;ind Neben-Sachen,<lb/> welche zur Verwirrung des
+                        gantzen Stu&#x364;ckes, dienen, &#x17F;o<lb/> &#x17F;ich mit der Heyrath des Silvio, Odoardo
+                        und Arlequins<lb/> mit der Diana, Aurelia und Smeraldina be&#x17F;chlie&#x17F;&#x17F;et.</p>
+        </div>
+        <castList>
+          <head>Per&#x17F;onen.</head>
+          <castItem>
+            <role xml:id="pantalone_ge">Pantalon</role>
+            <roleDesc>Vater der</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="diana_ge">Diana und<lb/></role>
+          </castItem>
+          <castItem>
+            <role xml:id="aurelia_ge">Aurelia.</role>
+          </castItem>
+          <castItem>
+            <role xml:id="smeraldina_ge">Smeraldina</role>
+            <roleDesc>ihre Bediente.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="silvio_ge">Silvio</role>
+            <roleDesc>ein Mahler.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="arlecchino_ge">Arlequin</role>
+            <roleDesc>de&#x17F;&#x17F;en Bediente.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="dottore_ge">Der Doctor</role>
+            <roleDesc>Vater des Odoardo.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="brighella_ge">Brighella</role>
+            <roleDesc>de&#x17F;&#x17F;en Diener.</roleDesc>
+          </castItem>
+        </castList>
+        <set>
+          <p>Der Schau-Platz i&#x17F;t in Bologna.</p>
+        </set>
+      </front>
+      <body>
+        <pb facs="#ingande-3" n="3"/>
+        <div type="act" n="1">
+          <head>Er&#x17F;te Handung.</head>
+          <stage>Der Schau-Platz &#x17F;tellet eine Mahler-Werck-Statt vor.</stage>
+          <p rend="indent">Silvio wird von dem Odoardo gebethen, ihm das Portrait der<lb/>
+                        Diana, &#x17F;einer Geliebten, zuverfertigen. Silvio antwortet,<lb/> da&#xDF; er &#x17F;ie
+                        &#x17F;ehen mu&#x364;&#x17F;&#x17F;e. Odoardo &#x17F;agt, er wolle &#x17F;ie bitten, zu ihm<lb/> zu kommen:
+                        Silvio rufft den Arlequin, welcher gantz zornig her-<lb/> ein ko&#x364;mmt. Er
                         drohet einem unbekannten den Todt, woferne er<lb/> ihm nicht die Wahrheit
-                        ſagen wuͤrde. Silvio fragt ihn, uͤber wen<lb/> er boͤſe ſey? Arlequin
-                        antwortet ſein Cammer-Diener habe ihm ei-<lb/> nen gebratenen
-                        Fleiſch-Knochen gefreſſen; Er muͤſſe ſeinen Dieb-<lb/> stahl bekennen, oder
-                        er wuͤrde ihn hengen. Silvio wird uͤber dieſe<lb/> abgeſchmackte Antwort
-                        zornig und befiehlet ihm, ſich deutlicher zu<lb/> erklaͤren. Arlequin ſaget
-                        hierauf, der Cammer-Diener ſey ſeine<lb/> Katze, die ihm ſein Fleiſch von
-                        dem Roſt weggefreſſen. Silvio<lb/> befielet ihm hierauf, die Farben zu
-                        rechte zu machen. Arlequin<lb/> kann ſeinen Fleiſch-Knochen nicht vergeſſen,
-                        und ſagt wieder zu der<lb/> Katze, ſie ſollte ihre Entſchuldigung
-                        vorbringen. Silvio verſpricht<lb/> dem Odoardo die Diana zu hohlen, um ſie
-                        abzuſchildern. Er gehet<lb/> ab. Arlequin bleibt und macht die Farben zu
-                        rechte. Hierauf<lb/> koͤmmt die Smeraldina und ſagt, ſie ſey in den Arlequin
-                        verliebt,<lb/> und unter dem Vorwande, als ob ſie ſich mahlen laſſen wolle,
-                        ge-<lb/> daͤchte ſie ihm ihre Liebe zu offenbaren. Wie Arlequin ihr
-                        Por-<lb/> trait mahlet koͤmmt ein Vedienter, der nach den Pantalon
+                        &#x17F;agen wu&#x364;rde. Silvio fragt ihn, u&#x364;ber wen<lb/> er bo&#x364;&#x17F;e &#x17F;ey? Arlequin
+                        antwortet &#x17F;ein Cammer-Diener habe ihm ei-<lb/> nen gebratenen
+                        Flei&#x17F;ch-Knochen gefre&#x17F;&#x17F;en; Er mu&#x364;&#x17F;&#x17F;e &#x17F;einen Dieb-<lb/> stahl bekennen, oder
+                        er wu&#x364;rde ihn hengen. Silvio wird u&#x364;ber die&#x17F;e<lb/> abge&#x17F;chmackte Antwort
+                        zornig und befiehlet ihm, &#x17F;ich deutlicher zu<lb/> erkla&#x364;ren. Arlequin &#x17F;aget
+                        hierauf, der Cammer-Diener &#x17F;ey &#x17F;eine<lb/> Katze, die ihm &#x17F;ein Flei&#x17F;ch von
+                        dem Ro&#x17F;t weggefre&#x17F;&#x17F;en. Silvio<lb/> befielet ihm hierauf, die Farben zu
+                        rechte zu machen. Arlequin<lb/> kann &#x17F;einen Flei&#x17F;ch-Knochen nicht verge&#x17F;&#x17F;en,
+                        und &#x17F;agt wieder zu der<lb/> Katze, &#x17F;ie &#x17F;ollte ihre Ent&#x17F;chuldigung
+                        vorbringen. Silvio ver&#x17F;pricht<lb/> dem Odoardo die Diana zu hohlen, um &#x17F;ie
+                        abzu&#x17F;childern. Er gehet<lb/> ab. Arlequin bleibt und macht die Farben zu
+                        rechte. Hierauf<lb/> ko&#x364;mmt die Smeraldina und &#x17F;agt, &#x17F;ie &#x17F;ey in den Arlequin
+                        verliebt,<lb/> und unter dem Vorwande, als ob &#x17F;ie &#x17F;ich mahlen la&#x17F;&#x17F;en wolle,
+                        ge-<lb/> da&#x364;chte &#x17F;ie ihm ihre Liebe zu offenbaren. Wie Arlequin ihr
+                        Por-<lb/> trait mahlet ko&#x364;mmt ein Vedienter, der nach den Pantalon
                         fraget.<lb/> Arlequin jagt ihn fort. Brighella trit ein, und wie er die
-                        Smeraldina<lb/> bey dem Arlequin ſiehet, wird er eiferſuͤchtig. Sie zancken
-                        ſich<lb/> mit einander. Arlequin heiſſet den Brighella fort gehen, und
-                        wie<lb/> er nicht will jaget er ihn gleichfals weg. Arlequin faͤhret fort,
-                        die<lb/> Smeraldina abzumahlen. Silvio koͤmmt und fragt, ob er die Farben
-                        zu<lb/> rechte gemacht: Arlequin macht allerley Poſſen und gehet
-                        endlich<lb/> zu Wercke. Smeraldina gehet ab. Silvio ſaget, er erwarte
-                        die<lb/> Diana, in die er verliebt ſey, und wolle ſich dieſe Gelegenheit zu
-                        nutze<lb/> machen und ihr ſeine Liebe zu entdecken. Diana trit auf.
-                        Sil-<lb/> vio heiſſet ſie, nach einigen Complimenten, nieder ſitzen, und befieh-<lb/>
+                        Smeraldina<lb/> bey dem Arlequin &#x17F;iehet, wird er eifer&#x17F;u&#x364;chtig. Sie zancken
+                        &#x17F;ich<lb/> mit einander. Arlequin hei&#x17F;&#x17F;et den Brighella fort gehen, und
+                        wie<lb/> er nicht will jaget er ihn gleichfals weg. Arlequin fa&#x364;hret fort,
+                        die<lb/> Smeraldina abzumahlen. Silvio ko&#x364;mmt und fragt, ob er die Farben
+                        zu<lb/> rechte gemacht: Arlequin macht allerley Po&#x17F;&#x17F;en und gehet
+                        endlich<lb/> zu Wercke. Smeraldina gehet ab. Silvio &#x17F;aget, er erwarte
+                        die<lb/> Diana, in die er verliebt &#x17F;ey, und wolle &#x17F;ich die&#x17F;e Gelegenheit zu
+                        nutze<lb/> machen und ihr &#x17F;eine Liebe zu entdecken. Diana trit auf.
+                        Sil-<lb/> vio hei&#x17F;&#x17F;et &#x17F;ie, nach einigen Complimenten, nieder &#x17F;itzen, und befieh-<lb/>
                         <fw type="sig" place="bottom">(*)</fw>
                         <fw type="catch" place="bottom">let</fw>
                         <pb facs="#indande-4" n="4"/>
-                        <fw type="pageNum">4</fw> let dem Arlequin, ſeine Geraͤthſchafft
-                        herzubringen. Dieſes thut<lb/> Arlequin und macht allerley Poſſen dabey mit
-                        Unterreichung an-<lb/> derer Sachen, als Silvio verlanget. Silvio erklaͤret
-                        ſeine Liebe ge-<lb/> gen die Diana und befiehlet ihm, er ſolle gegen 4 Uhr
-                        bey ihrem Hau-<lb/> ſe ſeyn, da ſie ihm denn Anleitung geben wollte, durch
-                        welches<lb/> Fenſter er hinein kommen ſollte. Sie gehet ab. Silvio
-                        befiehlet<lb/> dem Arlequin, er ſolle ihm eine Leiter herbey ſchaffen.
-                        Arlequin<lb/> antwortet, er wolle ſolche von einem ſeiner vertrauteſten
-                        Freunde<lb/> hohlen. Silvio fragt ihn, wer der ſey? Arlequin antwortet, es
-                        ſey<lb/> der aͤrgſte Spitz-Bube, der zu finden waͤre. Silvio macht ihn
-                        aus<lb/> und gehet ab. Arlequin bleibet und ſaget, er wolle nunmehro das
-                        Por-<lb/> trait eines Kauffmanns zu mahlen anfangen. Hierauf koͤmmt
-                        Pantalon<lb/> und fragt den Arlequin, ob ſein Portrait fertig ſey?
+                        <fw type="pageNum">4</fw> let dem Arlequin, &#x17F;eine Gera&#x364;th&#x17F;chafft
+                        herzubringen. Die&#x17F;es thut<lb/> Arlequin und macht allerley Po&#x17F;&#x17F;en dabey mit
+                        Unterreichung an-<lb/> derer Sachen, als Silvio verlanget. Silvio erkla&#x364;ret
+                        &#x17F;eine Liebe ge-<lb/> gen die Diana und befiehlet ihm, er &#x17F;olle gegen 4 Uhr
+                        bey ihrem Hau-<lb/> &#x17F;e &#x17F;eyn, da &#x17F;ie ihm denn Anleitung geben wollte, durch
+                        welches<lb/> Fen&#x17F;ter er hinein kommen &#x17F;ollte. Sie gehet ab. Silvio
+                        befiehlet<lb/> dem Arlequin, er &#x17F;olle ihm eine Leiter herbey &#x17F;chaffen.
+                        Arlequin<lb/> antwortet, er wolle &#x17F;olche von einem &#x17F;einer vertraute&#x17F;ten
+                        Freunde<lb/> hohlen. Silvio fragt ihn, wer der &#x17F;ey? Arlequin antwortet, es
+                        &#x17F;ey<lb/> der a&#x364;rg&#x17F;te Spitz-Bube, der zu finden wa&#x364;re. Silvio macht ihn
+                        aus<lb/> und gehet ab. Arlequin bleibet und &#x17F;aget, er wolle nunmehro das
+                        Por-<lb/> trait eines Kauffmanns zu mahlen anfangen. Hierauf ko&#x364;mmt
+                        Pantalon<lb/> und fragt den Arlequin, ob &#x17F;ein Portrait fertig &#x17F;ey?
                         Arlequin<lb/> antwortet, er habe es noch zu retouchiren. Wie er eine
-                        Zeitlang<lb/> daran gearbeitet, ſagt er zu den Pantalon, er habe ihn ſehr
-                        wohl ge-<lb/> troffen und zeiget es ihm. Pantalon ſiehet einen Eſels-Kopf
+                        Zeitlang<lb/> daran gearbeitet, &#x17F;agt er zu den Pantalon, er habe ihn &#x17F;ehr
+                        wohl ge-<lb/> troffen und zeiget es ihm. Pantalon &#x17F;iehet einen E&#x17F;els-Kopf
                         auf der<lb/> Leinewand und zancket deswegen mit dem Arlequin; welches
-                        das<lb/> Ende der erſten Handlung iſt.</p>
-                </div>
-                <div type="act" n="2">
-                    <head>Andere Handlung.</head>
-                    <stage>Auf dem Schau-Platz iſt Nacht.</stage>
-                    <p rend="indent">Silvio trit auf und beſchwehret ſich, daß er den Arlequin,<lb/>
-                        ſeinen Diener, nicht zu ſehen bekaͤme. Er habe ihn nach der Lei-<lb/> ter
-                        geſchickt, die er zu ſeinem Vorhaben brauchen wollen. Er fin-<lb/> det das
-                        Hauß offen und ſaget, er muͤſſe ſich dieſer Gelegenheit be-<lb/> dienen und
+                        das<lb/> Ende der er&#x17F;ten Handlung i&#x17F;t.</p>
+        </div>
+        <div type="act" n="2">
+          <head>Andere Handlung.</head>
+          <stage>Auf dem Schau-Platz i&#x17F;t Nacht.</stage>
+          <p rend="indent">Silvio trit auf und be&#x17F;chwehret &#x17F;ich, da&#xDF; er den Arlequin,<lb/>
+                        &#x17F;einen Diener, nicht zu &#x17F;ehen beka&#x364;me. Er habe ihn nach der Lei-<lb/> ter
+                        ge&#x17F;chickt, die er zu &#x17F;einem Vorhaben brauchen wollen. Er fin-<lb/> det das
+                        Hau&#xDF; offen und &#x17F;aget, er mu&#x364;&#x17F;&#x17F;e &#x17F;ich die&#x17F;er Gelegenheit be-<lb/> dienen und
                         gehet hinein.</p>
-                    <p rend="indent">Odoardo trit auf und ſagt, er habe einen Brief von der
-                        Dia-<lb/> na erhalten, in welchen ſie befohlen, daß er in dieſer Nacht an
-                        ihr<lb/> Hauß kommen ſollte, wo er ſie finden wuͤrde. Er ſiehet das
-                        Hauß<lb/> offen und gehet hinein.</p>
-                    <p rend="indent">Arlequin koͤmmt mit der Leiter, ſuchet ſeinen Herrn und<lb/> da
-                        er ihn nicht findet, leget er die Leiter an Pantalons Fenſter<lb/> an und
-                        ſagt, er wolle mit der Smeraldina ſprechen und ruffet ſie.<lb/> Allein, es
-                        kommen die Gerichts-Diener, welche meynen, er ſey ein<lb/>
+          <p rend="indent">Odoardo trit auf und &#x17F;agt, er habe einen Brief von der
+                        Dia-<lb/> na erhalten, in welchen &#x17F;ie befohlen, da&#xDF; er in die&#x17F;er Nacht an
+                        ihr<lb/> Hau&#xDF; kommen &#x17F;ollte, wo er &#x17F;ie finden wu&#x364;rde. Er &#x17F;iehet das
+                        Hau&#xDF;<lb/> offen und gehet hinein.</p>
+          <p rend="indent">Arlequin ko&#x364;mmt mit der Leiter, &#x17F;uchet &#x17F;einen Herrn und<lb/> da
+                        er ihn nicht findet, leget er die Leiter an Pantalons Fen&#x17F;ter<lb/> an und
+                        &#x17F;agt, er wolle mit der Smeraldina &#x17F;prechen und ruffet &#x17F;ie.<lb/> Allein, es
+                        kommen die Gerichts-Diener, welche meynen, er &#x17F;ey ein<lb/>
                         <fw type="catch" place="bottom">Dieb,</fw>
                         <pb facs="#indande-5" n="5"/>
-                        <fw type="pageNum">5</fw> Dieb, und nehmen ihn in Arreſt. Er vortheidiget
-                        ſich und lauͤfft<lb/> davon, ſie aber folgen ihm nach, welches ihn
-                        noͤthiget, daß er<lb/> auf der Leiter, durch das Fenſter, in Pantalons Hauß
-                        ſteiget.<lb/> Covicello trit auf und vertrauet dem Brighella ſeine
-                        Liebe<lb/> gegen die Aurelia, Pantalons Tochter. Dieſer ſpricht
-                        gleichfals<lb/> von ſeiner Neigung gegen die Smeraldina. Beyde ſagen, ſie
-                        muͤſten <lb/> ſachte reden, weil ſie vor Pantalons Hauſe ſtuͤnden, und wie
-                        ſie die<lb/> Thuͤre offen ſehen, gehen ſie hinein.</p>
-                    <stage>Der Schau-Platz zeiget ein Zimmer mit einem Bette.</stage>
-                    <p rend="indent">Diana koͤmmt an das Fenſter und ſpricht, ſie warte mit
-                        Unge-<lb/> dult auf den Silvio. Silvio erſcheinet und indem er mit ihr
-                        von<lb/> ſeiner Liebe redet, laͤſſet ſich der Pantalon hoͤren. Diana
-                        erſchrickt,<lb/> ſteckt den Silvio unter das Bette und retiriret ſich.</p>
-                    <p rend="indent">Aurelia trit auf und ſagt, ſie erwarte den Silvio ihren
-                        Lieb-<lb/> haber. Hierauf erſcheinet Odoardo, welcher im dunckeln
-                        meynet,<lb/> ſie ſey die Diana. Er giebt ihr die Hand, und wie ſich
-                        Pantalon<lb/> wieder hoͤren laͤſſet, ſteckt ſie ihn gleichfals unter das
-                        Bette. Pantalon<lb/> koͤmmt und fraget ſie, was ſie ſo spaͤt hier mache? Sie
-                        bringt ei-<lb/> ne Beſchwehrlichkeit der Diana, ihrer Schweſter, zum
-                        Vorwand.<lb/> Pantalon heiſſet ſie fort gehen und folget ihr nach.</p>
-                    <p rend="indent">Covicello trit ebenfals im dunckeln herein und iſt gantz
-                        ver-<lb/> wirt, weil er nicht weiß, wo er die Aurelia antreffen ſoll,
-                        und<lb/> weil er Leute hoͤret, verſtecket er ſich. Diana koͤmmt zuruͤck, um
-                        den<lb/> Silvio aus ſeiner Gefangenſchafft zuerloͤſen; Sie rufft ihn.
-                        Beyde<lb/> ſo wohl Silvio, als Odoardo, kommen hervor, und nehmen die<lb/>
-                        Diana bey der Hand. Diana iſt gantz verwirrt, zwiſchen zwey<lb/> Perſonen zu
-                        ſeyn. Jndeſſen koͤmmt die Aurelia mit einem Ring,<lb/> und wie ſie ihre
-                        Schweſter bey ihrem Liebhaber und dem Odoardo<lb/> ſiehet, ſaget ſie zu ihr!
-                        Das iſt schoͤn, meine Schweſter, zweye<lb/> auf einmahl? Hierauf nimmt ſie
-                        den Silvio, den ſie liebet, und<lb/> gehet, zu ſeinem eigenem Verdruſſe, mit
-                        ihm fort. Odoardo ſtel-<lb/> let die verwirte Diana zu frieden, und indem er
-                        von ſeiner Liebe<lb/> mit ihr redet, laͤſſet ſich der Pantalon hoͤren. Diana
-                        verſtecket den<lb/>
+                        <fw type="pageNum">5</fw> Dieb, und nehmen ihn in Arre&#x17F;t. Er vortheidiget
+                        &#x17F;ich und lau&#x364;fft<lb/> davon, &#x17F;ie aber folgen ihm nach, welches ihn
+                        no&#x364;thiget, da&#xDF; er<lb/> auf der Leiter, durch das Fen&#x17F;ter, in Pantalons Hau&#xDF;
+                        &#x17F;teiget.<lb/> Covicello trit auf und vertrauet dem Brighella &#x17F;eine
+                        Liebe<lb/> gegen die Aurelia, Pantalons Tochter. Die&#x17F;er &#x17F;pricht
+                        gleichfals<lb/> von &#x17F;einer Neigung gegen die Smeraldina. Beyde &#x17F;agen, &#x17F;ie
+                        mu&#x364;&#x17F;ten <lb/> &#x17F;achte reden, weil &#x17F;ie vor Pantalons Hau&#x17F;e &#x17F;tu&#x364;nden, und wie
+                        &#x17F;ie die<lb/> Thu&#x364;re offen &#x17F;ehen, gehen &#x17F;ie hinein.</p>
+          <stage>Der Schau-Platz zeiget ein Zimmer mit einem Bette.</stage>
+          <p rend="indent">Diana ko&#x364;mmt an das Fen&#x17F;ter und &#x17F;pricht, &#x17F;ie warte mit
+                        Unge-<lb/> dult auf den Silvio. Silvio er&#x17F;cheinet und indem er mit ihr
+                        von<lb/> &#x17F;einer Liebe redet, la&#x364;&#x17F;&#x17F;et &#x17F;ich der Pantalon ho&#x364;ren. Diana
+                        er&#x17F;chrickt,<lb/> &#x17F;teckt den Silvio unter das Bette und retiriret &#x17F;ich.</p>
+          <p rend="indent">Aurelia trit auf und &#x17F;agt, &#x17F;ie erwarte den Silvio ihren
+                        Lieb-<lb/> haber. Hierauf er&#x17F;cheinet Odoardo, welcher im dunckeln
+                        meynet,<lb/> &#x17F;ie &#x17F;ey die Diana. Er giebt ihr die Hand, und wie &#x17F;ich
+                        Pantalon<lb/> wieder ho&#x364;ren la&#x364;&#x17F;&#x17F;et, &#x17F;teckt &#x17F;ie ihn gleichfals unter das
+                        Bette. Pantalon<lb/> ko&#x364;mmt und fraget &#x17F;ie, was &#x17F;ie &#x17F;o spa&#x364;t hier mache? Sie
+                        bringt ei-<lb/> ne Be&#x17F;chwehrlichkeit der Diana, ihrer Schwe&#x17F;ter, zum
+                        Vorwand.<lb/> Pantalon hei&#x17F;&#x17F;et &#x17F;ie fort gehen und folget ihr nach.</p>
+          <p rend="indent">Covicello trit ebenfals im dunckeln herein und i&#x17F;t gantz
+                        ver-<lb/> wirt, weil er nicht wei&#xDF;, wo er die Aurelia antreffen &#x17F;oll,
+                        und<lb/> weil er Leute ho&#x364;ret, ver&#x17F;tecket er &#x17F;ich. Diana ko&#x364;mmt zuru&#x364;ck, um
+                        den<lb/> Silvio aus &#x17F;einer Gefangen&#x17F;chafft zuerlo&#x364;&#x17F;en; Sie rufft ihn.
+                        Beyde<lb/> &#x17F;o wohl Silvio, als Odoardo, kommen hervor, und nehmen die<lb/>
+                        Diana bey der Hand. Diana i&#x17F;t gantz verwirrt, zwi&#x17F;chen zwey<lb/> Per&#x17F;onen zu
+                        &#x17F;eyn. Jnde&#x17F;&#x17F;en ko&#x364;mmt die Aurelia mit einem Ring,<lb/> und wie &#x17F;ie ihre
+                        Schwe&#x17F;ter bey ihrem Liebhaber und dem Odoardo<lb/> &#x17F;iehet, &#x17F;aget &#x17F;ie zu ihr!
+                        Das i&#x17F;t scho&#x364;n, meine Schwe&#x17F;ter, zweye<lb/> auf einmahl? Hierauf nimmt &#x17F;ie
+                        den Silvio, den &#x17F;ie liebet, und<lb/> gehet, zu &#x17F;einem eigenem Verdru&#x17F;&#x17F;e, mit
+                        ihm fort. Odoardo &#x17F;tel-<lb/> let die verwirte Diana zu frieden, und indem er
+                        von &#x17F;einer Liebe<lb/> mit ihr redet, la&#x364;&#x17F;&#x17F;et &#x17F;ich der Pantalon ho&#x364;ren. Diana
+                        ver&#x17F;tecket den<lb/>
                         <fw type="sig" place="bottom">(*) 3</fw>
                         <fw type="catch" place="bottom">Odoardo</fw>
                         <pb facs="#indande-6" n="6"/>
-                        <fw type="pageNum">6</fw> Odoardo in das Bette, Der Alte koͤmmt und fragt
-                        die Diana,<lb/> was ſie in dieſem Zimmer mache und warum ſie ſo beſtuͤrtzt
-                        ſey?<lb/> Sie wendet vor, als ob Geſpenſter in dem Zimmer waͤren; da<lb/>
-                        mit er wieder fort gehen ſoll. Der Alte antwortet, er muͤſſe noch<lb/>
-                        einige Briefe ſchreiben und heiſſet ſie fort gehen. Wie er ſich nie-<lb/>
-                        der ſetzet zum ſchreiben, ſpielet ihm der Arlequin, als ein Geſpen-<lb/>
-                        ſte, allerley Poſſen. Pantalon iſt voller Furcht und will ſich zu<lb/> Bette
-                        legen; wie er aber den Odoardo mit dem bloſen Degen in<lb/> der Hand
-                        daſelbſt antrifft, laͤufft er fort. Odoardo ſiehet ſich ent-<lb/> decket,
-                        ſaget, er muͤſſe ſich aus dem Staube machen und gehet<lb/> weg. Pantalon
-                        koͤmmt mit Leuten wieder zuruͤck und ſuchet die<lb/> Perſon, ſo er auf dem
-                        Bette angetroffen; wie er aber nichts fin-<lb/> det, heiſſet er ſie fort
-                        gehen, loͤſchet das Licht aus und legt ſich auf<lb/> das Bette. Diana koͤmmt
-                        wieder zuruͤck, in der Meynung, den<lb/> Silvio weg zu ſchaffen und rufft
-                        ihn. Pantalon will ihr die Hand<lb/> geben und ſie erſchrecken; Sie aber
-                        mercket, daß ſie ſich betrogen<lb/> und lauͤfft weg. Jndeſſen koͤmmt die
+                        <fw type="pageNum">6</fw> Odoardo in das Bette, Der Alte ko&#x364;mmt und fragt
+                        die Diana,<lb/> was &#x17F;ie in die&#x17F;em Zimmer mache und warum &#x17F;ie &#x17F;o be&#x17F;tu&#x364;rtzt
+                        &#x17F;ey?<lb/> Sie wendet vor, als ob Ge&#x17F;pen&#x17F;ter in dem Zimmer wa&#x364;ren; da<lb/>
+                        mit er wieder fort gehen &#x17F;oll. Der Alte antwortet, er mu&#x364;&#x17F;&#x17F;e noch<lb/>
+                        einige Briefe &#x17F;chreiben und hei&#x17F;&#x17F;et &#x17F;ie fort gehen. Wie er &#x17F;ich nie-<lb/>
+                        der &#x17F;etzet zum &#x17F;chreiben, &#x17F;pielet ihm der Arlequin, als ein Ge&#x17F;pen-<lb/>
+                        &#x17F;te, allerley Po&#x17F;&#x17F;en. Pantalon i&#x17F;t voller Furcht und will &#x17F;ich zu<lb/> Bette
+                        legen; wie er aber den Odoardo mit dem blo&#x17F;en Degen in<lb/> der Hand
+                        da&#x17F;elb&#x17F;t antrifft, la&#x364;ufft er fort. Odoardo &#x17F;iehet &#x17F;ich ent-<lb/> decket,
+                        &#x17F;aget, er mu&#x364;&#x17F;&#x17F;e &#x17F;ich aus dem Staube machen und gehet<lb/> weg. Pantalon
+                        ko&#x364;mmt mit Leuten wieder zuru&#x364;ck und &#x17F;uchet die<lb/> Per&#x17F;on, &#x17F;o er auf dem
+                        Bette angetroffen; wie er aber nichts fin-<lb/> det, hei&#x17F;&#x17F;et er &#x17F;ie fort
+                        gehen, lo&#x364;&#x17F;chet das Licht aus und legt &#x17F;ich auf<lb/> das Bette. Diana ko&#x364;mmt
+                        wieder zuru&#x364;ck, in der Meynung, den<lb/> Silvio weg zu &#x17F;chaffen und rufft
+                        ihn. Pantalon will ihr die Hand<lb/> geben und &#x17F;ie er&#x17F;chrecken; Sie aber
+                        mercket, da&#xDF; &#x17F;ie &#x17F;ich betrogen<lb/> und lau&#x364;fft weg. Jnde&#x17F;&#x17F;en ko&#x364;mmt die
                         Aurelia gleichfals, in dem Vor-<lb/> haben den Silvio zu entfernen. Pantalon
-                        glaubt, es ſey ihre Schwe-<lb/> ſter, nimmt ſie bey der Hand und wie er ſie
-                        ſchlagen will, koͤmmt<lb/> Covicello, der die Aurelia weg fuͤhret. Pantalon
-                        will im Zorn<lb/> nachfolgen, Arlequin aber haͤlt ihn auf, und mit dieſem
-                        Lerm be-<lb/> ſchlieſſet ſich die andere Handlung.</p>
-                </div>
-                <div type="act" n="3">
-                    <head>Dritte Handlung.</head>
-                    <p rend="indent">Pantalon trit auf und erzehlet dem Doctor, was er fuͤr<lb/>
-                        Verdruß mit ſeinen Toͤchtern habe, die ſich verheyrathen wolten.<lb/> Der
-                        Doctor haͤlt um die Diana, als die aͤlteſte, fuͤr ſich ſelbst, um<lb/> die
-                        juͤngſte aber, nehmlich die Aurelia, fuͤr ſeinen Sohn, Odoardo,<lb/> an.
-                        Pantalon verſpricht ſie ihm und beyde gehen weg, um den Hey-<lb/>
-                        raths-Contract bey einem Notario machen zu laſſen.</p>
-                    <p rend="indent"> Silvio koͤmmt und ſaget, er habe mit der Diana ihre
-                        Entfuͤh-<lb/> rung verabredet, und er wolle ſie, noch ehe es Tag wuͤrde,
-                        zu<lb/> einem ſeiner guten Freunde, nehmlich den Doctor, fuͤhren. Er<lb/>
-                        klopfet an: Diana, die bereits auf ihn gewartet, koͤmmt heraus,<lb/> giebt
-                        ihm die Hand und er fuͤhret ſie zu dem Doctor.</p>
-                    <fw type="catch" place="bottom">Odoardo</fw>
-                    <pb facs="#indande-7" n="7"/>
-                    <fw type="pageNum">7</fw>
-                    <p rend="indent">Odoardo koͤmmt in gleichem Vorhaben, die Diana zu ent-<lb/>
-                        fuͤhren. Er klopfet an. Aurelia koͤmmt heraus, und weil ſie glau-<lb/> bet,
-                        daß es der Silvio ſey, nimmt ſie ihn bey der Hand und laͤſſet<lb/> ſich zu
-                        den Doctor fuͤhren.</p>
-                    <p rend="indent">Covicello trit auf und ſaget ebenfals, er ſey hergekommen,<lb/>
-                        ſeine Geliebte zu entfuͤhren. Er klopfet an. Smeraldina glaubt,<lb/> es ſey
-                        der Arlequin, giebt ihn die Hand und er begleitet ſie in des<lb/> Doctors
-                        Hauß.</p>
-                    <p rend="indent">Brighella koͤmmt und ſagt, er wolle die Smeraldina betruͤ-<lb/>
-                        gen und ſich ſtellen, als ob er ihr Liebhaber ſey und klopfet an.<lb/>
-                        Arlequin koͤmmt, als ein Frauenzimmer gekleidet, heraus und laͤſſet<lb/>
-                        ſich von ihm zu dem Doctor fuͤhren.</p>
-                    <p rend="indent">Die Alten kommen zuruͤck und ſagen, ſie haͤtten ihren Con-<lb/>
+                        glaubt, es &#x17F;ey ihre Schwe-<lb/> &#x17F;ter, nimmt &#x17F;ie bey der Hand und wie er &#x17F;ie
+                        &#x17F;chlagen will, ko&#x364;mmt<lb/> Covicello, der die Aurelia weg fu&#x364;hret. Pantalon
+                        will im Zorn<lb/> nachfolgen, Arlequin aber ha&#x364;lt ihn auf, und mit die&#x17F;em
+                        Lerm be-<lb/> &#x17F;chlie&#x17F;&#x17F;et &#x17F;ich die andere Handlung.</p>
+        </div>
+        <div type="act" n="3">
+          <head>Dritte Handlung.</head>
+          <p rend="indent">Pantalon trit auf und erzehlet dem Doctor, was er fu&#x364;r<lb/>
+                        Verdru&#xDF; mit &#x17F;einen To&#x364;chtern habe, die &#x17F;ich verheyrathen wolten.<lb/> Der
+                        Doctor ha&#x364;lt um die Diana, als die a&#x364;lte&#x17F;te, fu&#x364;r &#x17F;ich &#x17F;elbst, um<lb/> die
+                        ju&#x364;ng&#x17F;te aber, nehmlich die Aurelia, fu&#x364;r &#x17F;einen Sohn, Odoardo,<lb/> an.
+                        Pantalon ver&#x17F;pricht &#x17F;ie ihm und beyde gehen weg, um den Hey-<lb/>
+                        raths-Contract bey einem Notario machen zu la&#x17F;&#x17F;en.</p>
+          <p rend="indent"> Silvio ko&#x364;mmt und &#x17F;aget, er habe mit der Diana ihre
+                        Entfu&#x364;h-<lb/> rung verabredet, und er wolle &#x17F;ie, noch ehe es Tag wu&#x364;rde,
+                        zu<lb/> einem &#x17F;einer guten Freunde, nehmlich den Doctor, fu&#x364;hren. Er<lb/>
+                        klopfet an: Diana, die bereits auf ihn gewartet, ko&#x364;mmt heraus,<lb/> giebt
+                        ihm die Hand und er fu&#x364;hret &#x17F;ie zu dem Doctor.</p>
+          <fw type="catch" place="bottom">Odoardo</fw>
+          <pb facs="#indande-7" n="7"/>
+          <fw type="pageNum">7</fw>
+          <p rend="indent">Odoardo ko&#x364;mmt in gleichem Vorhaben, die Diana zu ent-<lb/>
+                        fu&#x364;hren. Er klopfet an. Aurelia ko&#x364;mmt heraus, und weil &#x17F;ie glau-<lb/> bet,
+                        da&#xDF; es der Silvio &#x17F;ey, nimmt &#x17F;ie ihn bey der Hand und la&#x364;&#x17F;&#x17F;et<lb/> &#x17F;ich zu
+                        den Doctor fu&#x364;hren.</p>
+          <p rend="indent">Covicello trit auf und &#x17F;aget ebenfals, er &#x17F;ey hergekommen,<lb/>
+                        &#x17F;eine Geliebte zu entfu&#x364;hren. Er klopfet an. Smeraldina glaubt,<lb/> es &#x17F;ey
+                        der Arlequin, giebt ihn die Hand und er begleitet &#x17F;ie in des<lb/> Doctors
+                        Hau&#xDF;.</p>
+          <p rend="indent">Brighella ko&#x364;mmt und &#x17F;agt, er wolle die Smeraldina betru&#x364;-<lb/>
+                        gen und &#x17F;ich &#x17F;tellen, als ob er ihr Liebhaber &#x17F;ey und klopfet an.<lb/>
+                        Arlequin ko&#x364;mmt, als ein Frauenzimmer gekleidet, heraus und la&#x364;&#x17F;&#x17F;et<lb/>
+                        &#x17F;ich von ihm zu dem Doctor fu&#x364;hren.</p>
+          <p rend="indent">Die Alten kommen zuru&#x364;ck und &#x17F;agen, &#x17F;ie ha&#x364;tten ihren Con-<lb/>
                         tract richtig gemacht. Silvio und Odoardo kommen, einer nach dem<lb/>
-                        andern, und bitten den Pantalon um Verzeihung, daß ſie ſeine<lb/> Tochter,
-                        die Diana, entfuͤhret und ſie geheyrathet. Pantalon erſchrickt,<lb/> da er
-                        hoͤret, daß ſich ſeine Tochter vermehret haben ſolte und befieh-<lb/> let
-                        beyden, ſie her zu ruffen. Couicello koͤmmt und bittet gleichfals<lb/> um
-                        Verzeihung, daß er die Aurelia entfuͤhret. Pantalon befiehlet<lb/> ihm auch,
-                        ſie herzuruffen. Brighella trit ein und bittet, wie die<lb/> vorigen, um
-                        Verzeihung, daß er die Smeraldina entfuͤhret, und<lb/> wie er alles
-                        erzehlet, daß ſie das ſaͤmtliche Frauenzimmer zu den<lb/> Doctor gebracht,
-                        wird Pantalon beſtuͤrtzt und befiehlet dem Brig-<lb/> hella die Smeraldina
-                        herzubringen. Covicello und die uͤbrigen alle<lb/> kommen hinein. Die Alten
-                        erſchrecken, da ſie vier Frauenzimmer<lb/> ſehen, da doch der Pantalon nicht
-                        mehr, als zwey Toͤchter und ei-<lb/> ne Vediente, habe. Dieſer fragt die
-                        Liebhaber, welche von dem<lb/> Frauenzimmer ſie heyrathen wolten? Odoardo
-                        und Silvio glauben<lb/> beyde fuͤr ſich, daß die Diana die ihrige ſey und
-                        antworten mit ja.<lb/> Pantalon laͤſſet die Kappen wegthun und Odoardo und
-                        Aurelia<lb/> bezeigen ſich ſehr beſtuͤrtzt, daß ſie ſich in denen Perſonen
-                        betro-<lb/> gen ſehen, laſſen ſich aber beſaͤufftigen. Covicello wird
-                        gleich-<lb/> fals gefragt, ob er die ſeinige heyrathen wolle? und
-                        ohnerachtet<lb/> er ſeine Aurelia in den Haͤnden des Odoardo, ſiehet, ſaget
-                        er den-<lb/> noch ja. Smeraldina giebt ſich zu erkennen, woruͤber Brighella gantz<lb/>
+                        andern, und bitten den Pantalon um Verzeihung, da&#xDF; &#x17F;ie &#x17F;eine<lb/> Tochter,
+                        die Diana, entfu&#x364;hret und &#x17F;ie geheyrathet. Pantalon er&#x17F;chrickt,<lb/> da er
+                        ho&#x364;ret, da&#xDF; &#x17F;ich &#x17F;eine Tochter vermehret haben &#x17F;olte und befieh-<lb/> let
+                        beyden, &#x17F;ie her zu ruffen. Couicello ko&#x364;mmt und bittet gleichfals<lb/> um
+                        Verzeihung, da&#xDF; er die Aurelia entfu&#x364;hret. Pantalon befiehlet<lb/> ihm auch,
+                        &#x17F;ie herzuruffen. Brighella trit ein und bittet, wie die<lb/> vorigen, um
+                        Verzeihung, da&#xDF; er die Smeraldina entfu&#x364;hret, und<lb/> wie er alles
+                        erzehlet, da&#xDF; &#x17F;ie das &#x17F;a&#x364;mtliche Frauenzimmer zu den<lb/> Doctor gebracht,
+                        wird Pantalon be&#x17F;tu&#x364;rtzt und befiehlet dem Brig-<lb/> hella die Smeraldina
+                        herzubringen. Covicello und die u&#x364;brigen alle<lb/> kommen hinein. Die Alten
+                        er&#x17F;chrecken, da &#x17F;ie vier Frauenzimmer<lb/> &#x17F;ehen, da doch der Pantalon nicht
+                        mehr, als zwey To&#x364;chter und ei-<lb/> ne Vediente, habe. Die&#x17F;er fragt die
+                        Liebhaber, welche von dem<lb/> Frauenzimmer &#x17F;ie heyrathen wolten? Odoardo
+                        und Silvio glauben<lb/> beyde fu&#x364;r &#x17F;ich, da&#xDF; die Diana die ihrige &#x17F;ey und
+                        antworten mit ja.<lb/> Pantalon la&#x364;&#x17F;&#x17F;et die Kappen wegthun und Odoardo und
+                        Aurelia<lb/> bezeigen &#x17F;ich &#x17F;ehr be&#x17F;tu&#x364;rtzt, da&#xDF; &#x17F;ie &#x17F;ich in denen Per&#x17F;onen
+                        betro-<lb/> gen &#x17F;ehen, la&#x17F;&#x17F;en &#x17F;ich aber be&#x17F;a&#x364;ufftigen. Covicello wird
+                        gleich-<lb/> fals gefragt, ob er die &#x17F;einige heyrathen wolle? und
+                        ohnerachtet<lb/> er &#x17F;eine Aurelia in den Ha&#x364;nden des Odoardo, &#x17F;iehet, &#x17F;aget
+                        er den-<lb/> noch ja. Smeraldina giebt &#x17F;ich zu erkennen, woru&#x364;ber Brighella gantz<lb/>
                         <fw type="catch" place="bottom">de-</fw>
                         <pb facs="#indande-8" n="8"/>
                         <fw type="pageNum">8</fw> desperat wird. Der Alte fragt ihn, ob er nicht
-                        ſeine Liebſte auch<lb/> heyrathen wolle? Brighella ſagt ja, Arlequin aber
-                        will ſich die<lb/> Kappe nicht wegnehmen laſſen. Nach einigen Schertz werden
+                        &#x17F;eine Lieb&#x17F;te auch<lb/> heyrathen wolle? Brighella &#x17F;agt ja, Arlequin aber
+                        will &#x17F;ich die<lb/> Kappe nicht wegnehmen la&#x17F;&#x17F;en. Nach einigen Schertz werden
                         die<lb/> Heyrathen des Silvio und Odoardo mit der Diana und Aurelia
-                        vollzo-<lb/> gen, und weil der Arlequin die Smeraldina nicht laſſen will,
-                        wird ſie<lb/> ihm gleichfals gegeben; Welches der Beſchluß des gantzen
-                        Spie-<lb/> les iſt.</p>
-                </div>
-            </body>
-        </text>
-    </TEI>
-    <TEI>
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>L'inganno fortunato.</title>
-                </titleStmt>
-                <publicationStmt>
-                    <p/>
-                </publicationStmt>
-                <sourceDesc>
-                    <p>La traduzione ha preso in considerazione la versione in lingua russa.</p>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <langUsage>
-                    <language ident="it">Italian</language>
-                </langUsage>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <front>
-                <pb facs="#obman-1" n="1"/>
-                <head type="main">L’INGANNO FORTUNATO</head>
-                <head type="sub">COMMEDIA ITALIANA<lb/> RAPPRESENTATA A SAN PIETROBURGO<lb/>
+                        vollzo-<lb/> gen, und weil der Arlequin die Smeraldina nicht la&#x17F;&#x17F;en will,
+                        wird &#x17F;ie<lb/> ihm gleichfals gegeben; Welches der Be&#x17F;chlu&#xDF; des gantzen
+                        Spie-<lb/> les i&#x17F;t.</p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>L'inganno fortunato.</title>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc>
+          <p>La traduzione ha preso in considerazione la versione in lingua russa.</p>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="it">Italian</language>
+        </langUsage>
+      </profileDesc>
+    </teiHeader>
+    <text>
+      <front>
+        <pb facs="#obman-1" n="1"/>
+        <head type="main">L&#x2019;INGANNO FORTUNATO</head>
+        <head type="sub">COMMEDIA ITALIANA<lb/> RAPPRESENTATA A SAN PIETROBURGO<lb/>
                     <date when="1734">nel 1734.</date></head>
-                <pb facs="#obman-2" n="2"/>
-                <div type="preface">
-                    <head>ARGOMENTO.</head>
-                    <p rend="indent">SILVIO, per mezzo del ritratto che doveva dipingere, si
+        <pb facs="#obman-2" n="2"/>
+        <div type="preface">
+          <head>ARGOMENTO.</head>
+          <p rend="indent">SILVIO, per mezzo del ritratto che doveva dipingere, si
                         innamora di Diana, amante del suo amico Odoardo. Quando i due di nascosto
-                        l’uno dall’altro vogliono parlare alla fanciulla nella sua camera, vengono
-                        sorpresi da Pantalone. Ciò li costringe a cercare di rapirla. L’amore di
+                        l&#x2019;uno dall&#x2019;altro vogliono parlare alla fanciulla nella sua camera, vengono
+                        sorpresi da Pantalone. Ci&#xF2; li costringe a cercare di rapirla. L&#x2019;amore di
                         Coviello per Aurelia, di Arlecchino e Brighella per Smeraldina non sono
-                        nient’altro che un’aggiunta che serve a dare il via all’intera commedia che
-                        si concluderà con le nozze di Silvio con Diana, Odoardo con Aurelia,
+                        nient&#x2019;altro che un&#x2019;aggiunta che serve a dare il via all&#x2019;intera commedia che
+                        si concluder&#xE0; con le nozze di Silvio con Diana, Odoardo con Aurelia,
                         Arlecchino con Smeraldina.</p>
-                </div>
-                <castList>
-                    <head>PERSONAGGI.</head>
-                    <castItem>
-                        <role xml:id="pantalone_it">PANTALONE,</role>
-                        <roleDesc>padre di Diana e Aurelia.</roleDesc>
-                    </castItem>
-                    <castGroup>
-                        <castItem>
-                            <role xml:id="diana_it">DIANA e<lb/></role>
-                        </castItem>
-                        <castItem>
-                            <role xml:id="aurelia_it">AURELIA,</role>
-                        </castItem>
-                        <roleDesc>sorelle.</roleDesc>
-                    </castGroup>
-                    <castItem>
-                        <role xml:id="smeraldina_it">SMERALDINA,</role>
-                        <roleDesc>serva.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="silvio_it">SILVIO,</role>
-                        <roleDesc>pittore.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="arlecchino_it">ARLECCHINO,</role>
-                        <roleDesc>suo servo.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="dottore_it">DOTTORE,</role>
-                        <roleDesc>padre di Odoardo.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="odoardo_it">ODOARDO,</role>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="brighella_it">BRIGHELLA,</role>
-                        <roleDesc>servo.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="coviello_it">COVIELLO.</role>
-                    </castItem>
-                </castList>
-                <set>
-                    <p>L’azione si svolge a Bologna.</p>
-                </set>
-            </front>
-            <body>
-                <pb facs="#obman-3" n="3"/>
-                <div type="act" n="1">
-                    <head>ATTO PRIMO.</head>
-                    <stage>LA SCENA MOSTRA LA BOTTEGA DI UN PITTORE.</stage>
-                    <p rend="indent">ODOARDO chiede a Silvio di fare il ritratto della sua amante
+        </div>
+        <castList>
+          <head>PERSONAGGI.</head>
+          <castItem>
+            <role xml:id="pantalone_it">PANTALONE,</role>
+            <roleDesc>padre di Diana e Aurelia.</roleDesc>
+          </castItem>
+          <castGroup>
+            <castItem>
+              <role xml:id="diana_it">DIANA e<lb/></role>
+            </castItem>
+            <castItem>
+              <role xml:id="aurelia_it">AURELIA,</role>
+            </castItem>
+            <roleDesc>sorelle.</roleDesc>
+          </castGroup>
+          <castItem>
+            <role xml:id="smeraldina_it">SMERALDINA,</role>
+            <roleDesc>serva.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="silvio_it">SILVIO,</role>
+            <roleDesc>pittore.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="arlecchino_it">ARLECCHINO,</role>
+            <roleDesc>suo servo.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="dottore_it">DOTTORE,</role>
+            <roleDesc>padre di Odoardo.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="odoardo_it">ODOARDO,</role>
+          </castItem>
+          <castItem>
+            <role xml:id="brighella_it">BRIGHELLA,</role>
+            <roleDesc>servo.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="coviello_it">COVIELLO.</role>
+          </castItem>
+        </castList>
+        <set>
+          <p>L&#x2019;azione si svolge a Bologna.</p>
+        </set>
+      </front>
+      <body>
+        <pb facs="#obman-3" n="3"/>
+        <div type="act" n="1">
+          <head>ATTO PRIMO.</head>
+          <stage>LA SCENA MOSTRA LA BOTTEGA DI UN PITTORE.</stage>
+          <p rend="indent">ODOARDO chiede a Silvio di fare il ritratto della sua amante
                         Diana. Silvio dice che prima ha bisogno di vederla. Odoardo risponde di
-                        averlo già chiesto alla fanciulla e sarà lei a venire da lui. Silvio chiama
+                        averlo gi&#xE0; chiesto alla fanciulla e sar&#xE0; lei a venire da lui. Silvio chiama
                         Arlecchino, che esce molto arrabbiato minacciando qualcuno di morte se quel
-                        qualcuno non gli dirà la verità. Silvio gli chiede con chi se la prende.
+                        qualcuno non gli dir&#xE0; la verit&#xE0;. Silvio gli chiede con chi se la prende.
                         Arlecchino risponde che il suo cameriere gli ha mangiato una costoletta
-                        fritta e per quel motivo Arlecchino l’ha picchiato con una fune per fargli
-                        confessare la verità sul furto, e se non dirà niente lo impiccherà. Silvio
-                        si meraviglia di ciò che dice Arlecchino, gli chiede di spiegarsi più
-                        chiaramente. Arlecchino dice che in effetti il cameriere è il suo gatto e
+                        fritta e per quel motivo Arlecchino l&#x2019;ha picchiato con una fune per fargli
+                        confessare la verit&#xE0; sul furto, e se non dir&#xE0; niente lo impiccher&#xE0;. Silvio
+                        si meraviglia di ci&#xF2; che dice Arlecchino, gli chiede di spiegarsi pi&#xF9;
+                        chiaramente. Arlecchino dice che in effetti il cameriere &#xE8; il suo gatto e
                         gli ha portato via la carne dalla padella e poi ha confessato dicendo:
-                        MIAOMIA [cioè ha mangiato]. Dopo alcuni lazzi Silvio ordina ad Arlecchino di
+                        MIAOMIA [cio&#xE8; ha mangiato]. Dopo alcuni lazzi Silvio ordina ad Arlecchino di
                         tritare le tinte. Arlecchino, pensando alla sua costoletta, si ricorda che
-                        l’aveva mangiata lui stesso la sera prima. Considera il gatto un buon gatto
-                        e dice che inizierà a chiedergli perdono. Silvio promette a Odoardo che
-                        andrà da Diana per fare uno schizzo, così quando la ragazza verrà nella sua
-                        bottega troverà già qualcosa di pronto, e i due escono insieme. Arlecchino
+                        l&#x2019;aveva mangiata lui stesso la sera prima. Considera il gatto un buon gatto
+                        e dice che inizier&#xE0; a chiedergli perdono. Silvio promette a Odoardo che
+                        andr&#xE0; da Diana per fare uno schizzo, cos&#xEC; quando la ragazza verr&#xE0; nella sua
+                        bottega trover&#xE0; gi&#xE0; qualcosa di pronto, e i due escono insieme. Arlecchino
                         rimane per tritare le tinte. Arriva Smeraldina, dice di essersi innamorata
                         di Arlecchino e di essere arrivata con il pretesto di farsi fare il
                         ritratto, <pb facs="#obman-4" n="4"/> per dichiarargli il suo amore. Da
@@ -804,136 +805,136 @@
                         giochi di parole, Arlecchino vuole che Brighella vada via, ma vedendo che
                         non lo fa lo caccia via. Arlecchino continua a dipingere il ritratto di
                         Smeraldina. Arriva Silvio domandandogli se ha preparato le tinte. Arlecchino
-                        dopo alcuni lazzi va a prenderli. Smeraldina esce da là. Silvio dice che sta
+                        dopo alcuni lazzi va a prenderli. Smeraldina esce da l&#xE0;. Silvio dice che sta
                         aspettando Diana e dice di essersi innamorato di lei e di voler approfittare
-                        di quell’occasione per dichiararle il suo amore. Intanto sopraggiunge Diana.
+                        di quell&#x2019;occasione per dichiararle il suo amore. Intanto sopraggiunge Diana.
                         Silvio con molti complimenti la fa accomodare, dice ad Arlecchino di portare
                         i suoi strumenti. Arlecchino esegue, ma non nel modo giusto, chiede perdono
-                        con delle scuse a doppio senso, questo provoca diversi lazzi. Dopodiché,
+                        con delle scuse a doppio senso, questo provoca diversi lazzi. Dopodich&#xE9;,
                         Diana, a cui Silvio ha dichiarato il suo amore, gli ordina di andare da lei
                         quella sera alle quattro. La ragazza gli spiega attraverso quale finestra
                         deve entrare in camera sua e va via. Silvio ordina ad Arlecchino di
-                        trovargli una scala. Arlecchino dice che la chiederà ad un suo amico fidato.
-                        Silvio gli chiede chi è quell’amico fidato. Arlecchino gli risponde <pb facs="#obman-5" n="5"/> che è il boia. Silvio inizia a rimproverarlo e
+                        trovargli una scala. Arlecchino dice che la chieder&#xE0; ad un suo amico fidato.
+                        Silvio gli chiede chi &#xE8; quell&#x2019;amico fidato. Arlecchino gli risponde <pb facs="#obman-5" n="5"/> che &#xE8; il boia. Silvio inizia a rimproverarlo e
                         va via. Arlecchino dice di dover completare un altro ritratto di un
                         mercante. In quel momento arriva Pantalone e chiede ad Arlecchino se ha
-                        terminato il suo ritratto. Arlecchino risponde che ha già iniziato a
+                        terminato il suo ritratto. Arlecchino risponde che ha gi&#xE0; iniziato a
                         dipingere. Tra Pantalone e Arlecchino accade un lazzo. Arlecchino, finito il
-                        ritratto, dice che si è ingegnato per compiacere Pantalone, dipingendolo più
-                        bello di quanto non è in realtà e gli mostra l'opera. Pantalone, vedendo
+                        ritratto, dice che si &#xE8; ingegnato per compiacere Pantalone, dipingendolo pi&#xF9;
+                        bello di quanto non &#xE8; in realt&#xE0; e gli mostra l'opera. Pantalone, vedendo
                         dipinta la testa di un asino, si arrabbia, anche Arlecchino. Con rumore e
                         grida si conclude il primo atto.</p>
-                </div>
-                <div type="act" n="2">
-                    <head>ATTO SECONDO.</head>
-                    <stage>LA SCENA MOSTRA LA NOTTE.</stage>
-                    <p rend="indent">SILVIO entra molto arrabbiato perché il suo servitore
+        </div>
+        <div type="act" n="2">
+          <head>ATTO SECONDO.</head>
+          <stage>LA SCENA MOSTRA LA NOTTE.</stage>
+          <p rend="indent">SILVIO entra molto arrabbiato perch&#xE9; il suo servitore
                         Arlecchino a cui ha ordinato di trovare la scala tarda ad arrivare. Trova il
-                        cancello di Diana aperto. Decide di voler approfittare di quell’opportunità
+                        cancello di Diana aperto. Decide di voler approfittare di quell&#x2019;opportunit&#xE0;
                         per vedere Diana ed entra da lei.</p>
-                    <p rend="indent">Sopraggiunge ODOARDO, dice di aver ricevuto un biglietto,
+          <p rend="indent">Sopraggiunge ODOARDO, dice di aver ricevuto un biglietto,
                         attraverso il quale Diana gli chiedeva di andare da lei di notte. Vedendo il
                         cancello aperto entra da lei.</p>
-                    <p rend="indent">Entra ARLECCHINO con una scala, fa molti lazzi, cerca il suo
+          <p rend="indent">Entra ARLECCHINO con una scala, fa molti lazzi, cerca il suo
                         padrone, ma non trovandolo mette la scala sotto la finestra di Pantalone,
                         dice di voler vedere Smeraldina. Quando la chiama arrivano molti soldati
                         che, credendo sia <pb facs="#obman-6" n="6"/> un ladro, vogliono arrestarlo.
-                        Arlecchino si difende e scappa. I soldati lo seguono. Arlecchino è costretto
+                        Arlecchino si difende e scappa. I soldati lo seguono. Arlecchino &#xE8; costretto
                         a nascondersi in casa di Pantalone e attraverso un lazzo salta dentro la
                         finestra.</p>
-                    <p rend="indent">Entra COVIELLO con Brighella, gli racconta del suo amore per la
+          <p rend="indent">Entra COVIELLO con Brighella, gli racconta del suo amore per la
                         figlia di Pantalone, Aurelia. Brighella gli racconta del suo per Smeraldina.
                         Dicono di conoscere molto bene la casa di Pantalone, per quello vogliono
                         parlare con le loro amate, vedono il cancello aperto ed entrano da
                         Pantalone.</p>
-                    <stage> LA SCENA MOSTRA UNA CAMERA CON UN LETTO.</stage>
-                    <p rend="indent">DIANA entra e dice nel buio che sta aspettando con impazienza
+          <stage> LA SCENA MOSTRA UNA CAMERA CON UN LETTO.</stage>
+          <p rend="indent">DIANA entra e dice nel buio che sta aspettando con impazienza
                         Silvio. Nel frattempo arriva Silvio e le confessa il suo amore, in quel
                         momento si sente Pantalone. Diana spaventata nasconde Silvio sotto il letto
                         ed esce.</p>
-                    <p rend="indent">AURELIA entra dicendo che aspetta il suo amante Silvio. In quel
+          <p rend="indent">AURELIA entra dicendo che aspetta il suo amante Silvio. In quel
                         momento arriva Odoardo e al buio scambia Aurelia per Diana, sua amante, e le
                         porge la mano. Poi di nuovo si sente Pantalone e Aurelia mette Silvio sul
                         letto. Nel frattempo, entra Pantalone e chiede ad Aurelia cosa sta facendo
-                        lì. Aurelia risponde che sua sorella Diana non si sente bene e per quello
-                        lei è uscita. Il vecchio la manda nella sua camera e va via.</p>
-                    <p rend="indent">Entra COVIELLO anche lui nel buio, si sente smarrito perché non
+                        l&#xEC;. Aurelia risponde che sua sorella Diana non si sente bene e per quello
+                        lei &#xE8; uscita. Il vecchio la manda nella sua camera e va via.</p>
+          <p rend="indent">Entra COVIELLO anche lui nel buio, si sente smarrito perch&#xE9; non
                         sa dove <pb facs="#obman-7" n="7"/> trovare Aurelia, sente arrivare qualcuno
                         e si nasconde. Torna Diana per far uscire Silvio. Comincia a chiamarlo.
-                        Escono all’improvviso Silvio e Odoardo, entrambi la prendono per mano. Diana
-                        è molto imbarazzata di trovarsi in mezzo a due persone. Sopraggiunge Aurelia
+                        Escono all&#x2019;improvviso Silvio e Odoardo, entrambi la prendono per mano. Diana
+                        &#xE8; molto imbarazzata di trovarsi in mezzo a due persone. Sopraggiunge Aurelia
                         con una candela e, vedendo sua sorella con il suo amante e Odoardo, le dice:
                         STAI IN SALUTE SORELLINA, DUE IMPROVVISAMENTE! VA BENE! Poi prende il suo
                         amato Silvio e lo porta via. Silvio la segue non senza rimpianti. Odoardo fa
-                        uscire Diana dall’imbarazzo. Mentre Odoardo le sta parlando del suo amore,
+                        uscire Diana dall&#x2019;imbarazzo. Mentre Odoardo le sta parlando del suo amore,
                         si sente arrivare Pantalone. Diana costringe di nuovo Odoardo a nascondersi
                         dentro al letto. In quel momento entra il vecchio e chiede a Diana cosa sta
-                        facendo in quella camera e perché è così confusa. Diana, mentendo, risponde
+                        facendo in quella camera e perch&#xE9; &#xE8; cos&#xEC; confusa. Diana, mentendo, risponde
                         che in quella camera ci sono gli spiriti [per mandare via il padre il prima
                         possibile]. Pantalone, dopo molti lazzi con la figlia, la manda via dicendo
                         di dover scrivere molte lettere. Pantalone ordina che gli venga portato
                         tutto il necessario e comincia a scrivere. Quindi Arlecchino lo spaventa
                         grandemente con molti scherzi. Pantalone crede ceh siano gli spiriti. Ne
-                        deriva un lazzo divertente. Pantalone si spaventa ancora di più, si sdraia
+                        deriva un lazzo divertente. Pantalone si spaventa ancora di pi&#xF9;, si sdraia
                         sul letto ma vede Odoardo con la spada sguainata e scappa. Odoardo, vedendo
                         che sta per essere catturato, dice che deve nascondersi e va via. Pantalone
                         torna con i suoi uomini e ordina di cercare in tutta la camera quella
                         persona che <pb facs="#obman-8" n="8"/> era sul letto. Non trovandolo manda
                         via tutti, si sdraia sul letto e spenge la candela. Torna Diana per liberare
-                        Silvio, e, credendo che fosse lì, inizia a chiamarlo. Pantalone vuole
+                        Silvio, e, credendo che fosse l&#xEC;, inizia a chiamarlo. Pantalone vuole
                         afferrarla per la mano. Diana vedendo il suo errore va via. Mentre il
-                        vecchio la sta cercando, sopraggiunge Aurelia con l’intenzione di liberare
+                        vecchio la sta cercando, sopraggiunge Aurelia con l&#x2019;intenzione di liberare
                         Silvio. Pantalone pensando che stia quella che sta cercando, la afferra per
                         la mano. E quando vuole picchiarla arriva Coviello che, attraverso un lazzo,
-                        porta Aurelia con sé. Pantalone arrabbiato vuole seguirli ma Arlecchino lo
+                        porta Aurelia con s&#xE9;. Pantalone arrabbiato vuole seguirli ma Arlecchino lo
                         trattiene e, dopo un lazzo, si conclude il secondo atto.</p>
-                </div>
-                <div type="act" n="3">
-                    <head>ATTO TERZO.</head>
-                    <stage>LA SCENA MOSTRA LA NOTTE.</stage>
-                    <p rend="indent">PANTALONE entra raccontando al Dottore le difficoltà che sta
+        </div>
+        <div type="act" n="3">
+          <head>ATTO TERZO.</head>
+          <stage>LA SCENA MOSTRA LA NOTTE.</stage>
+          <p rend="indent">PANTALONE entra raccontando al Dottore le difficolt&#xE0; che sta
                         attraversando a causa delle sue figlie e che vuole farle sposare. Il Dottore
-                        gli chiede Diana per sé e, per suo figlio Odoardo chiede Aurelia. Pantalone
-                        è d’accordo con lui. Per concludere il contratto vanno via.</p>
-                    <p rend="indent">SILVIO dice di essersi messo d’accordo con Diana per rapirla
-                        prima dell’alba, vuole portarla a casa del suo amico Dottore. Inizia a
+                        gli chiede Diana per s&#xE9; e, per suo figlio Odoardo chiede Aurelia. Pantalone
+                        &#xE8; d&#x2019;accordo con lui. Per concludere il contratto vanno via.</p>
+          <p rend="indent">SILVIO dice di essersi messo d&#x2019;accordo con Diana per rapirla
+                        prima dell&#x2019;alba, vuole portarla a casa del suo amico Dottore. Inizia a
                         bussare <pb facs="#obman-9" n="9"/> da Diana che lo sta aspettando. Diana
                         esce, Silvio le porge la mano e la conduce dal Dottore.</p>
-                    <p rend="indent">Arriva ODOARDO con la stessa intenzione, cioè di rapire Diana,
+          <p rend="indent">Arriva ODOARDO con la stessa intenzione, cio&#xE8; di rapire Diana,
                         e comincia a bussare. Esce Aurelia, pensando che fosse Silvio, gli porge la
                         mano e va con lui dal Dottore.</p>
-                    <p rend="indent">Entra COVIELLO e dice che anche lui si è accordato con la sua
+          <p rend="indent">Entra COVIELLO e dice che anche lui si &#xE8; accordato con la sua
                         amante per rapirla e comincia a bussare. Esce Smeraldina, pensando che fosse
-                        Arlecchino, gli dà la mano e vanno dal Dottore.</p>
-                    <p rend="indent">Entra BRIGHELLA dicendo di voler rapire Smeraldina, si finge il
+                        Arlecchino, gli d&#xE0; la mano e vanno dal Dottore.</p>
+          <p rend="indent">Entra BRIGHELLA dicendo di voler rapire Smeraldina, si finge il
                         suo amante, comincia a bussare. Entra Arlecchino vestito da donna e va con
                         Brighella dal Dottore.</p>
-                    <p rend="indent">Entrano i vecchi dicendo di aver firmato i contratti
-                        matrimoniali. Entrano Silvio e Odoardo, uno dopo l’altro, chiedono perdono a
+          <p rend="indent">Entrano i vecchi dicendo di aver firmato i contratti
+                        matrimoniali. Entrano Silvio e Odoardo, uno dopo l&#x2019;altro, chiedono perdono a
                         Pantalone per averlo fatto arrabbiare e confessano di aver rapito sua figlia
-                        Diana e di averla sposata. Pantalone è molto sorpreso dello sdoppiamento di
-                        sua figlia, dopo qualche lazzo, dice di portarla lì. Gli innamorati vanno
+                        Diana e di averla sposata. Pantalone &#xE8; molto sorpreso dello sdoppiamento di
+                        sua figlia, dopo qualche lazzo, dice di portarla l&#xEC;. Gli innamorati vanno
                         via e arriva Coviello che nello stesso modo chiede perdono a Pantalone per
                         aver rapito sua figlia Aurelia. Pantalone ordina anche a lui di portarla.
                         Coviello va via. Arriva Brighella chiedendo perdono a Pantalone per aver
                         rapito Smeraldina e dice che tutti hanno portato le loro amanti dal Dottore
-                        che è molto arrabbiato. Pantalone ordina a Brighella di portare Smeraldina,
+                        che &#xE8; molto arrabbiato. Pantalone ordina a Brighella di portare Smeraldina,
                         Brighella va via. Tutti tornano, <pb facs="#obman-10" n="10"/> i vecchi sono
                         stupiti di vedere quattro donne. Pantalone dice di aver avuto solo due
                         figlie e una serva, chiede agli amanti se vogliono sposare quelle dame.
-                        Silvio e Odoardo, pensando entrambi di aver portato Diana, rispondono che è
-                        quello che vogliono. Pantalone ordina di scoprirle. Odoardo è arrabbiato per
-                        l’inganno di Silvio e anche Aurelia. Ma ormai sono persuasi. Viene chiesto a
+                        Silvio e Odoardo, pensando entrambi di aver portato Diana, rispondono che &#xE8;
+                        quello che vogliono. Pantalone ordina di scoprirle. Odoardo &#xE8; arrabbiato per
+                        l&#x2019;inganno di Silvio e anche Aurelia. Ma ormai sono persuasi. Viene chiesto a
                         Coviello se vuole sposare la sua dama. Coviello, disperando ormai di
-                        ottenere Aurelia che vede già nelle mani di Odoardo, conferma di volerlo.
-                        Smeraldina si rivela, Brighella è disperato, il vecchio gli chiede di
+                        ottenere Aurelia che vede gi&#xE0; nelle mani di Odoardo, conferma di volerlo.
+                        Smeraldina si rivela, Brighella &#xE8; disperato, il vecchio gli chiede di
                         scoprire la sua amante e gli chiede se vuole sposarla. Brighella risponde di
-                        sì, ma Arlecchino non si lascia scoprire. Dopo alcuni lazzi si celebra il
+                        s&#xEC;, ma Arlecchino non si lascia scoprire. Dopo alcuni lazzi si celebra il
                         matrimonio di Silvio con Diana, Odoardo con Aurelia e Arlecchino con
-                        Smeraldina. Così finisce la</p>
-                    <p rend="indent">COMMEDIA.</p>
-                </div>
-            </body>
-        </text>
-    </TEI>
+                        Smeraldina. Cos&#xEC; finisce la</p>
+          <p rend="indent">COMMEDIA.</p>
+        </div>
+      </body>
+    </text>
+  </TEI>
 </teiCorpus>

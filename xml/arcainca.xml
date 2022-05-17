@@ -1,585 +1,586 @@
+<?xml version="1.0"?>
 <teiCorpus xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>L'Arcadia incantata</title>
-                <respStmt>
-                    <resp>Transcription and encoding by</resp>
-                    <name>Tatiana Korneeva</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Technical coordination, metadata curation, programming by</resp>
-                    <name>Tiziana Mancinelli</name>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Università Ca' Foscari di Venezia - VeDPH</publisher>
-                <date>December 2021</date>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L'Arcadia incantata</title>
+        <respStmt>
+          <resp>Transcription and encoding by</resp>
+          <name>Tatiana Korneeva</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technical coordination, metadata curation, programming by</resp>
+          <name>Tiziana Mancinelli</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universit&#xE0; Ca' Foscari di Venezia - VeDPH</publisher>
+        <date>May 2022</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported
                         License</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Lo scenario venne allestito a San Pietroburgo nel 1734. A portarlo in scena furono gli attori della seconda compagnia di comici italiani. Una commedia intitolata <em>L’Arcadie enchantée</em> andò in scena il 13 febbraio 1717 a Parigi (De Luca 2011, 99-100). Il rendiconto amministrativo di Avolio registra il 28 giugno 1734 le spese per la commedia dell’Arcadia, quasi certamente riferite a <em>L’Arcadia incantata</em>. Nell’elenco di spese, a nome di Biron, identificato come Charles Ernest, figlio della zarina Anna Ioannovna e del favorito Ernst Johann von Biron (Ferrazzi 2000, 63-65), vengono realizzate delle maschere e tre spade da Arlecchino. Non è dato sapere se Charles Ernest prendesse parte alla commedia o si limitasse a imitare gli attori italiani (Pieroni 2017, 71). La trama della commedia si incentra sulla magia e sull’iniziale naufragio di Pantalone, Brighella e Arlecchino. Il mutamento dei nomi dei personaggi: Lucindo al posto di Odoardo, Cloris ed Ermilla al posto di Diana e Aurelia, potrebbero indicare l’avvicendamento avvenuto tra la seconda e la terza compagnia di attori alle dipendenze della Zarina. Anche la trasformazione del ruolo del Dottore, di solito un vecchio amico di Pantalone, in un mago rivale proprio del mercante, potrebbe indicare la necessità di riassestare i ruoli prima dell’arrivo di nuovi attori. Interessante e insolita è la dettagliata descrizione del salvataggio che fa Arlecchino. Anche il gioco degli indovinelli merita una menzione.</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <TEI>
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>Das bezauberte Arcadien</title>
-                    <respStmt>
-                        <resp>Transcription and encoding by</resp>
-                        <name>Tatiana Korneeva</name>
-                    </respStmt>
-                    <respStmt>
-                        <resp>Digital images</resp>
-                        <name>The Göttingen State and University Library</name>
-                    </respStmt>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Università Ca' Foscari di Venezia - VeDPH</publisher>
-                    <date>December 2021</date>
-                    <availability>
-                        <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Lo scenario venne allestito a San Pietroburgo nel 1734. A portarlo in scena furono gli attori della seconda compagnia di comici italiani. Una commedia intitolata <em>L&#x2019;Arcadie enchant&#xE9;e</em> and&#xF2; in scena il 13 febbraio 1717 a Parigi (De Luca 2011, 99-100). Il rendiconto amministrativo di Avolio registra il 28 giugno 1734 le spese per la commedia dell&#x2019;Arcadia, quasi certamente riferite a <em>L&#x2019;Arcadia incantata</em>. Nell&#x2019;elenco di spese, a nome di Biron, identificato come Charles Ernest, figlio della zarina Anna Ioannovna e del favorito Ernst Johann von Biron (Ferrazzi 2000, 63-65), vengono realizzate delle maschere e tre spade da Arlecchino. Non &#xE8; dato sapere se Charles Ernest prendesse parte alla commedia o si limitasse a imitare gli attori italiani (Pieroni 2017, 71). La trama della commedia si incentra sulla magia e sull&#x2019;iniziale naufragio di Pantalone, Brighella e Arlecchino. Il mutamento dei nomi dei personaggi: Lucindo al posto di Odoardo, Cloris ed Ermilla al posto di Diana e Aurelia, potrebbero indicare l&#x2019;avvicendamento avvenuto tra la seconda e la terza compagnia di attori alle dipendenze della Zarina. Anche la trasformazione del ruolo del Dottore, di solito un vecchio amico di Pantalone, in un mago rivale proprio del mercante, potrebbe indicare la necessit&#xE0; di riassestare i ruoli prima dell&#x2019;arrivo di nuovi attori. Interessante e insolita &#xE8; la dettagliata descrizione del salvataggio che fa Arlecchino. Anche il gioco degli indovinelli merita una menzione.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Das bezauberte Arcadien</title>
+          <respStmt>
+            <resp>Transcription and encoding by</resp>
+            <name>Tatiana Korneeva</name>
+          </respStmt>
+          <respStmt>
+            <resp>Digital images</resp>
+            <name>The G&#xF6;ttingen State and University Library</name>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Universit&#xE0; Ca' Foscari di Venezia - VeDPH</publisher>
+          <date>May 2022</date>
+          <availability>
+            <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0
                             Unported License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <msDesc>
-                        <msIdentifier>
-                            <settlement>Göttingen</settlement>
-                            <repository>The Göttingen State and University Library</repository>
-                            <idno type="shelfmark">SUB Göttingen, 8 P DRAM IV, 8250 (32) RARA</idno>
-                            <idno type="URI">http://resolver.sub.uni-goettingen.de/purl?PPN690059876</idno>
-                        </msIdentifier>
-                        <physDesc>
-                            <objectDesc>
-                                <supportDesc>
-                                    <extent>
-                                        <measure unit="pages" quantity="8">8 pages of source
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc>
+            <msIdentifier>
+              <settlement>G&#xF6;ttingen</settlement>
+              <repository>The G&#xF6;ttingen State and University Library</repository>
+              <idno type="shelfmark">SUB G&#xF6;ttingen, 8 P DRAM IV, 8250 (32) RARA</idno>
+              <idno type="URI">http://resolver.sub.uni-goettingen.de/purl?PPN690059876</idno>
+            </msIdentifier>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <extent>
+                    <measure unit="pages" quantity="8">8 pages of source
                                             material</measure>
-                                        <height unit="cm">18,9</height>
-                                        <width unit="cm">14,6</width>
-                                        <depth unit="cm">0,1</depth>
-                                    </extent>
-                                </supportDesc>
-                            </objectDesc>
-                        </physDesc>
-                    </msDesc>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <langUsage>
-                    <language ident="ge">German</language>
-                </langUsage>
-            </profileDesc>
-        </teiHeader>
-        <facsimile>
-            <surface type="ge">
-                <graphic xml:id="arcainca_ge_001" url="/img/arcainca_ge_001.jpg"/>
-                <graphic xml:id="arcainca_ge_002" url="/img/arcainca_ge_002.jpg"/>
-                <graphic xml:id="arcainca_ge_003" url="/img/arcainca_ge_003.jpg"/>
-                <graphic xml:id="arcainca_ge_004" url="/img/arcainca_ge_004.jpg"/>
-                <graphic xml:id="arcainca_ge_005" url="/img/arcainca_ge_005.jpg"/>
-                <graphic xml:id="arcainca_ge_006" url="/img/arcainca_ge_006.jpg"/>
-                <graphic xml:id="arcainca_ge_007" url="/img/arcainca_ge_007.jpg"/>
-                <graphic xml:id="arcainca_ge_008" url="/img/arcainca_ge_008.jpg"/>
-            </surface>
-        </facsimile>
-        <text>
-            <front>
-                <pb facs="#arcainca_ge_001" n="1"/>
-                <head type="main">Das bezauberte Arcadien</head>
-                <head type="sub">welches<lb/>
-                    <date when="1734">1734.</date><lb/> in einem<lb/> Jtaliaͤniſchen
-                    Schau-Spiele<lb/> an dem<lb/> Kayſerlichen Hofe<lb/> zu St.
-                    Petersburg<lb/>vorgeſtellet worden.</head>
-                <pb facs="#arcainca_ge_002" n="2"/>
-                <div type="preface">
-                    <head>Jnhalt.</head>
-                    <p rend="indent">Der Doctor, ein Zauberer, welcher vormahls, aus
-                        Feindſchafft<lb/> gegen den Pantalon, deſſen Soͤhne rauben und auf eine
-                        Jnſul brin-<lb/> gen laſſen, hat ſie daſelbſt in der Unwiſſenheit ihrer
-                        Geburth erzogen;<lb/> aus der Abſicht, damit ſie ſich, wenn fie aͤlter
-                        wuͤrden, in ſeine beyden<lb/> Muhnen verlieben ſolten. Allein wie ſolches
-                        geſchicht, ſerzt er ſich mit<lb/> allen Braͤfften dawieder. Pantalon, der
-                        ſeine Soͤhne viele Jahre vergebens<lb/> geſucht und zu Schiffe wieder nach
-                        Hauſe reiſen will, wird durch Schiff-<lb/> bruch auf gedachte Jnſul
-                        verſchlagten. Seine Ankunfft macht den Doctor<lb/> ſehr beſtuͤrtzt und
-                        noͤthiget ihn ſein moͤglichſtes anzuwenden, um den<lb/> Pantalon von der
-                        Jnſul wegzubrigen. Allein zuletzt legt ſich ſein Zorn;<lb/> und will er
-                        Mitleiden mit dem Arlequin hat, der ſich daſelbſt verſuͤndiget,<lb/>
-                        verſoͤhnet er ſich mit dem Pantalon, liefert ihm ſeine Soͤhne aus und
-                        verhey-<lb/> rathet ſie mit ſeinen beyden Muhmen.</p>
-                </div>
-                <castList>
-                    <head>Perſonen.</head>
-                    <castItem>
-                        <role xml:id="pantalone_ge">Pantalon</role>
-                        <roleDesc>Vater des</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="lucindo_ge">Lucindo und</role>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="silvio_ge">Silvio.</role>
-                    </castItem>
-                    <castGroup>
-                        <castItem>
-                            <role xml:id="arlecchino_ge">Arlecchino und</role>
-                        </castItem>
-                        <castItem>
-                            <role xml:id="brighella_ge">Brighella</role>
-                        </castItem>
-                        <roleDesc>deſſen Diener.</roleDesc>
-                    </castGroup>
-                    <castItem>
-                        <role xml:id="dottore_ge">Der Doctor</role>
-                    </castItem>
-                    <castGroup>
-                        <castItem>
-                            <role xml:id="cloris_ge">Cloris und</role>
-                        </castItem>
-                        <castItem>
-                            <role xml:id="ermilla_ge">Ermilla,</role>
-                        </castItem>
-                        <roleDesc>deſſen Anverwandte.</roleDesc>
-                    </castGroup>
-                    <castItem>
-                        <role xml:id="sacerdote_ge">Ein Opſer-Prieſter.</role>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="pastori_ge">Eine Bande Schaͤfer.</role>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="spiriti_ge">Eine Parthie Geiſter.</role>
-                    </castItem>
-                </castList>
-                <set>
-                    <p>Der Schau-Platz iſt auf einer See-<lb/> Jnſul.</p>
-                </set>
-            </front>
-            <body>
-                <pb facs="#arcainca_ge_003" n="3"/>
-                <fw type="pageNum">3</fw>
-                <div type="act" n="1">
-                    <head>Die erſte Handlung.</head>
-                    <stage>Der Schau-Platz ſtellet einen Wald vor.</stage>
-                    <p rend="indent">Der Doctor koͤmmt von zweyen Geiſtern getragen aus der
-                        Lufft<lb/> herab und erzehlet den Schiffbruch und die Ankunfft ſeines<lb/>
-                        Feindes, des Pantalons und deſſen Bedienten Arlequins und<lb/> Brighella. Er
-                        wiederhohlet, wie er deſſen Soͤhne rauben<lb/> und daß ſich ſelbige in ſeine
-                        Muhmen verliebt, welches er durchaus<lb/> nicht zugeben wuͤrde. Damit
-                        Pantalon ſeine Soͤhne nicht kennen<lb/> moͤge, bezauhert er die gantze Jnſul
-                        und faͤhret mit ſeinen Geiſtern<lb/> durch die Lufft wieder davon.</p>
-                    <p rend="indent">Arlequin trit auf und iſt gantz betruͤht, daß er nicht weiß,
-                        wo<lb/> er iſt. Er erzehlet, er habe mit dem Pantalon ſeinem Herren und<lb/>
-                        dem Brighella, ſeinem Cameraden, Schiffbruch erlitten; Er glau-<lb/> bet,
-                        daß ſie erſauffen wuͤrden und da er niemand ſiehet, den er um<lb/> Huͤlffe
-                        anſprechen kann, rufft er nach Leuten. Hierauf koͤmmt ein<lb/> Geſpenſt,
-                        welches mit dem Arlequin allerley Poſſen treibet; und<lb/> weil er ſich
-                        fuͤrchtet ſo verſtecket er ſich, ſo gut er kann.</p>
-                    <p rend="indent">Pantalon koͤmmt gantz verwirret uͤber den Schiffbruch, ſo
-                        er<lb/> erlitten, und beklaget ſeine Bedienten; weil er ſich einbildet, daß
-                        ſie<lb/> ertruncken waͤren. Er gedeneket zu verſchiedenen mahlen ſeiner
-                        ver-<lb/> lohrenen Soͤhne, und indem er ſich beklaget, daß er nicht wiſſe,
-                        wo<lb/> er ſey, ſiehet er den Brighella kommen. Brighella glaubt
-                        anfangs,<lb/> Pantalon ſey nur der Geiſt ſeines ertrunckenen Herrn; zuletzt
-                        kennen<lb/> ſie einander, freuen ſich, daß ſie noch leben, beklagen aber das
-                        Un-<lb/> gluͤck des Arlequins, den ſie ertruncken zu ſeyn glauben.
-                        Arlequin<lb/> trit hervor und ſetzet beyde durch ſeine Gegenwart in
-                        Schrecken.<lb/> Alle beyde bezeigen ſich hierauf vergnuͤgt, uͤber die
-                        Erhaltung ihres<lb/> Lebens und erzehlen einander die Art, wie ſie ſich
-                        geborgen. Pantalon<lb/> ſagt, er habe mit Huͤlfſe eines leeren Faſſes ſein
-                        Leben gerettet. Brig-<lb/> ella gedencket, daß er vermittelſt einer Blaſe
-                        das ſeine davon<lb/> gebracht. Arlequin aber erzehlet die laͤcherliche Art,
-                        wie er auf<lb/> das Land gekommen, welche darinnen beſtehet; So bald er
-                        den<lb/> Schiffs-Capitain ſchreyen hoͤren; Es rette ſich, wer ſich retten kann!<lb/>
+                    <height unit="cm">18,9</height>
+                    <width unit="cm">14,6</width>
+                    <depth unit="cm">0,1</depth>
+                  </extent>
+                </supportDesc>
+              </objectDesc>
+            </physDesc>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="ge">German</language>
+        </langUsage>
+      </profileDesc>
+    </teiHeader>
+    <facsimile>
+      <surface type="ge">
+        <graphic xml:id="arcainca_ge_001" url="/img/arcainca_ge_001.jpg"/>
+        <graphic xml:id="arcainca_ge_002" url="/img/arcainca_ge_002.jpg"/>
+        <graphic xml:id="arcainca_ge_003" url="/img/arcainca_ge_003.jpg"/>
+        <graphic xml:id="arcainca_ge_004" url="/img/arcainca_ge_004.jpg"/>
+        <graphic xml:id="arcainca_ge_005" url="/img/arcainca_ge_005.jpg"/>
+        <graphic xml:id="arcainca_ge_006" url="/img/arcainca_ge_006.jpg"/>
+        <graphic xml:id="arcainca_ge_007" url="/img/arcainca_ge_007.jpg"/>
+        <graphic xml:id="arcainca_ge_008" url="/img/arcainca_ge_008.jpg"/>
+      </surface>
+    </facsimile>
+    <text>
+      <front>
+        <pb facs="#arcainca_ge_001" n="1"/>
+        <head type="main">Das bezauberte Arcadien</head>
+        <head type="sub">welches<lb/>
+                    <date when="1734">1734.</date><lb/> in einem<lb/> Jtalia&#x364;ni&#x17F;chen
+                    Schau-Spiele<lb/> an dem<lb/> Kay&#x17F;erlichen Hofe<lb/> zu St.
+                    Petersburg<lb/>vorge&#x17F;tellet worden.</head>
+        <pb facs="#arcainca_ge_002" n="2"/>
+        <div type="preface">
+          <head>Jnhalt.</head>
+          <p rend="indent">Der Doctor, ein Zauberer, welcher vormahls, aus
+                        Feind&#x17F;chafft<lb/> gegen den Pantalon, de&#x17F;&#x17F;en So&#x364;hne rauben und auf eine
+                        Jn&#x17F;ul brin-<lb/> gen la&#x17F;&#x17F;en, hat &#x17F;ie da&#x17F;elb&#x17F;t in der Unwi&#x17F;&#x17F;enheit ihrer
+                        Geburth erzogen;<lb/> aus der Ab&#x17F;icht, damit &#x17F;ie &#x17F;ich, wenn fie a&#x364;lter
+                        wu&#x364;rden, in &#x17F;eine beyden<lb/> Muhnen verlieben &#x17F;olten. Allein wie &#x17F;olches
+                        ge&#x17F;chicht, &#x17F;erzt er &#x17F;ich mit<lb/> allen Bra&#x364;fften dawieder. Pantalon, der
+                        &#x17F;eine So&#x364;hne viele Jahre vergebens<lb/> ge&#x17F;ucht und zu Schiffe wieder nach
+                        Hau&#x17F;e rei&#x17F;en will, wird durch Schiff-<lb/> bruch auf gedachte Jn&#x17F;ul
+                        ver&#x17F;chlagten. Seine Ankunfft macht den Doctor<lb/> &#x17F;ehr be&#x17F;tu&#x364;rtzt und
+                        no&#x364;thiget ihn &#x17F;ein mo&#x364;glich&#x17F;tes anzuwenden, um den<lb/> Pantalon von der
+                        Jn&#x17F;ul wegzubrigen. Allein zuletzt legt &#x17F;ich &#x17F;ein Zorn;<lb/> und will er
+                        Mitleiden mit dem Arlequin hat, der &#x17F;ich da&#x17F;elb&#x17F;t ver&#x17F;u&#x364;ndiget,<lb/>
+                        ver&#x17F;o&#x364;hnet er &#x17F;ich mit dem Pantalon, liefert ihm &#x17F;eine So&#x364;hne aus und
+                        verhey-<lb/> rathet &#x17F;ie mit &#x17F;einen beyden Muhmen.</p>
+        </div>
+        <castList>
+          <head>Per&#x17F;onen.</head>
+          <castItem>
+            <role xml:id="pantalone_ge">Pantalon</role>
+            <roleDesc>Vater des</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="lucindo_ge">Lucindo und</role>
+          </castItem>
+          <castItem>
+            <role xml:id="silvio_ge">Silvio.</role>
+          </castItem>
+          <castGroup>
+            <castItem>
+              <role xml:id="arlecchino_ge">Arlecchino und</role>
+            </castItem>
+            <castItem>
+              <role xml:id="brighella_ge">Brighella</role>
+            </castItem>
+            <roleDesc>de&#x17F;&#x17F;en Diener.</roleDesc>
+          </castGroup>
+          <castItem>
+            <role xml:id="dottore_ge">Der Doctor</role>
+          </castItem>
+          <castGroup>
+            <castItem>
+              <role xml:id="cloris_ge">Cloris und</role>
+            </castItem>
+            <castItem>
+              <role xml:id="ermilla_ge">Ermilla,</role>
+            </castItem>
+            <roleDesc>de&#x17F;&#x17F;en Anverwandte.</roleDesc>
+          </castGroup>
+          <castItem>
+            <role xml:id="sacerdote_ge">Ein Op&#x17F;er-Prie&#x17F;ter.</role>
+          </castItem>
+          <castItem>
+            <role xml:id="pastori_ge">Eine Bande Scha&#x364;fer.</role>
+          </castItem>
+          <castItem>
+            <role xml:id="spiriti_ge">Eine Parthie Gei&#x17F;ter.</role>
+          </castItem>
+        </castList>
+        <set>
+          <p>Der Schau-Platz i&#x17F;t auf einer See-<lb/> Jn&#x17F;ul.</p>
+        </set>
+      </front>
+      <body>
+        <pb facs="#arcainca_ge_003" n="3"/>
+        <fw type="pageNum">3</fw>
+        <div type="act" n="1">
+          <head>Die er&#x17F;te Handlung.</head>
+          <stage>Der Schau-Platz &#x17F;tellet einen Wald vor.</stage>
+          <p rend="indent">Der Doctor ko&#x364;mmt von zweyen Gei&#x17F;tern getragen aus der
+                        Lufft<lb/> herab und erzehlet den Schiffbruch und die Ankunfft &#x17F;eines<lb/>
+                        Feindes, des Pantalons und de&#x17F;&#x17F;en Bedienten Arlequins und<lb/> Brighella. Er
+                        wiederhohlet, wie er de&#x17F;&#x17F;en So&#x364;hne rauben<lb/> und da&#xDF; &#x17F;ich &#x17F;elbige in &#x17F;eine
+                        Muhmen verliebt, welches er durchaus<lb/> nicht zugeben wu&#x364;rde. Damit
+                        Pantalon &#x17F;eine So&#x364;hne nicht kennen<lb/> mo&#x364;ge, bezauhert er die gantze Jn&#x17F;ul
+                        und fa&#x364;hret mit &#x17F;einen Gei&#x17F;tern<lb/> durch die Lufft wieder davon.</p>
+          <p rend="indent">Arlequin trit auf und i&#x17F;t gantz betru&#x364;ht, da&#xDF; er nicht wei&#xDF;,
+                        wo<lb/> er i&#x17F;t. Er erzehlet, er habe mit dem Pantalon &#x17F;einem Herren und<lb/>
+                        dem Brighella, &#x17F;einem Cameraden, Schiffbruch erlitten; Er glau-<lb/> bet,
+                        da&#xDF; &#x17F;ie er&#x17F;auffen wu&#x364;rden und da er niemand &#x17F;iehet, den er um<lb/> Hu&#x364;lffe
+                        an&#x17F;prechen kann, rufft er nach Leuten. Hierauf ko&#x364;mmt ein<lb/> Ge&#x17F;pen&#x17F;t,
+                        welches mit dem Arlequin allerley Po&#x17F;&#x17F;en treibet; und<lb/> weil er &#x17F;ich
+                        fu&#x364;rchtet &#x17F;o ver&#x17F;tecket er &#x17F;ich, &#x17F;o gut er kann.</p>
+          <p rend="indent">Pantalon ko&#x364;mmt gantz verwirret u&#x364;ber den Schiffbruch, &#x17F;o
+                        er<lb/> erlitten, und beklaget &#x17F;eine Bedienten; weil er &#x17F;ich einbildet, da&#xDF;
+                        &#x17F;ie<lb/> ertruncken wa&#x364;ren. Er gedeneket zu ver&#x17F;chiedenen mahlen &#x17F;einer
+                        ver-<lb/> lohrenen So&#x364;hne, und indem er &#x17F;ich beklaget, da&#xDF; er nicht wi&#x17F;&#x17F;e,
+                        wo<lb/> er &#x17F;ey, &#x17F;iehet er den Brighella kommen. Brighella glaubt
+                        anfangs,<lb/> Pantalon &#x17F;ey nur der Gei&#x17F;t &#x17F;eines ertrunckenen Herrn; zuletzt
+                        kennen<lb/> &#x17F;ie einander, freuen &#x17F;ich, da&#xDF; &#x17F;ie noch leben, beklagen aber das
+                        Un-<lb/> glu&#x364;ck des Arlequins, den &#x17F;ie ertruncken zu &#x17F;eyn glauben.
+                        Arlequin<lb/> trit hervor und &#x17F;etzet beyde durch &#x17F;eine Gegenwart in
+                        Schrecken.<lb/> Alle beyde bezeigen &#x17F;ich hierauf vergnu&#x364;gt, u&#x364;ber die
+                        Erhaltung ihres<lb/> Lebens und erzehlen einander die Art, wie &#x17F;ie &#x17F;ich
+                        geborgen. Pantalon<lb/> &#x17F;agt, er habe mit Hu&#x364;lf&#x17F;e eines leeren Fa&#x17F;&#x17F;es &#x17F;ein
+                        Leben gerettet. Brig-<lb/> ella gedencket, da&#xDF; er vermittel&#x17F;t einer Bla&#x17F;e
+                        das &#x17F;eine davon<lb/> gebracht. Arlequin aber erzehlet die la&#x364;cherliche Art,
+                        wie er auf<lb/> das Land gekommen, welche darinnen be&#x17F;tehet; So bald er
+                        den<lb/> Schiffs-Capitain &#x17F;chreyen ho&#x364;ren; Es rette &#x17F;ich, wer &#x17F;ich retten kann!<lb/>
                         <fw type="sig" place="bottom">* 2</fw>
                         <fw type="catch" place="bottom">habe</fw>
                         <pb facs="#arcainca_ge_004" n="4"/>
-                        <fw type="pageNum">4</fw> habe er eine Citrone und etwas Caſſia in den Mund
-                        genommen, eine<lb/> Canone loßgezuͤndet, ſich auf die Kugel geſetzet und
-                        waͤre in der hoͤch-<lb/> ſten Eil davon geritten; wie die Kugel aber matt
-                        geworden, habe<lb/> er ſeine Huͤlffe zu dem Meere nehmen muͤſſen, welches
-                        ihn Anfangs<lb/> ſehr liebreich empfangen, jedoch da es ihn zu verſchiedenen
-                        mah-<lb/> len zum Trunck forciren wollen, waͤre zwiſchen ihm und der
+                        <fw type="pageNum">4</fw> habe er eine Citrone und etwas Ca&#x17F;&#x17F;ia in den Mund
+                        genommen, eine<lb/> Canone lo&#xDF;gezu&#x364;ndet, &#x17F;ich auf die Kugel ge&#x17F;etzet und
+                        wa&#x364;re in der ho&#x364;ch-<lb/> &#x17F;ten Eil davon geritten; wie die Kugel aber matt
+                        geworden, habe<lb/> er &#x17F;eine Hu&#x364;lffe zu dem Meere nehmen mu&#x364;&#x17F;&#x17F;en, welches
+                        ihn Anfangs<lb/> &#x17F;ehr liebreich empfangen, jedoch da es ihn zu ver&#x17F;chiedenen
+                        mah-<lb/> len zum Trunck forciren wollen, wa&#x364;re zwi&#x17F;chen ihm und der
                         See<lb/> ein blutiger Kampf vorgefallen, in welcher der Vortheil bald
-                        auf<lb/> dieſer bald auf jener Seite geweſen. Jndeſſen waͤre ein
-                        abſcheu-<lb/> lich großer Fiſch daher geſchwummen, welcher erſchreckliche
-                        Zaͤhne<lb/> gehabt: Zwiſchen dieſelbe habe er die Citrone geſtecket, damit
-                        er<lb/> durch die Oeffnung in den Bauch des Fiſches marſchiren koͤnnen.<lb/>
-                        Wie er hinein gekommen, habe er eine greuͤliche Proviſion von Her-<lb/>
-                        tzen, von Blut, von Daͤrmen, von Senff und dergleichen gefun-<lb/> den; Da
-                        er aber uͤberdruͤſſig geworden laͤnger daſelbſt zuverblei-<lb/> ben, habe er
-                        von der Caſſta die er in dem Munde gehalten etwas in<lb/> dem Leibe des
-                        Fiſches umher geſtreuet, welches durch ſeine Larativi-<lb/> ſche Krafft es
-                        dahin gebracht, daß ihn der Fiſch an das Ufer dieſer<lb/> Jnſul geworffen
-                        und er ſchaͤtze hierbey fuͤr das groͤſte Gluͤck, daß er<lb/> ſeinen Herrn
-                        und Cameraden hier wieder angetroffen. Hierauf ſagen<lb/> alle dreye, daß
-                        ſie hungrig waͤren und nicht wuͤſten, wo ſie etwa<lb/> zu eſſen hernehmen
-                        ſollten. Arlequin ſiehet Baͤume, die volker Fruͤchte<lb/> ſind, und eine
-                        Leiter dabey; wie er aber hinauf ſteigen will, kom[men]<lb/> einige Geiſter,
-                        die ihn davon fuͤhren; Dieſes ſetzet die andern bey-<lb/> den dermaſſen in
-                        Schrecken, daß ſie die Flucht ergreiffen.</p>
-                    <p rend="indent">Lucindo und Silvio treten auf und ſprechen von dem wunder-<lb/>
-                        lichen Eigeſinn des Gluͤckes, welches ſie, wieder ihren Willen, zu<lb/>
-                        Nebenbuhlern mache. Jndeſſen kommen die Cloris und Ermilla.<lb/> Cloris
-                        bittet den Lucindo, ſie zu lieben und er ſuchet ſie hingegen zu<lb/>
-                        uͤberreden, daß ſie ſich der Neigung des Silvio gefaͤllig erzeigen<lb/>
-                        moͤchte. Silvio, der eben auf dieſe Art von der Ermilla gebeten<lb/> wird,
+                        auf<lb/> die&#x17F;er bald auf jener Seite gewe&#x17F;en. Jnde&#x17F;&#x17F;en wa&#x364;re ein
+                        ab&#x17F;cheu-<lb/> lich gro&#xDF;er Fi&#x17F;ch daher ge&#x17F;chwummen, welcher er&#x17F;chreckliche
+                        Za&#x364;hne<lb/> gehabt: Zwi&#x17F;chen die&#x17F;elbe habe er die Citrone ge&#x17F;tecket, damit
+                        er<lb/> durch die Oeffnung in den Bauch des Fi&#x17F;ches mar&#x17F;chiren ko&#x364;nnen.<lb/>
+                        Wie er hinein gekommen, habe er eine greu&#x364;liche Provi&#x17F;ion von Her-<lb/>
+                        tzen, von Blut, von Da&#x364;rmen, von Senff und dergleichen gefun-<lb/> den; Da
+                        er aber u&#x364;berdru&#x364;&#x17F;&#x17F;ig geworden la&#x364;nger da&#x17F;elb&#x17F;t zuverblei-<lb/> ben, habe er
+                        von der Ca&#x17F;&#x17F;ta die er in dem Munde gehalten etwas in<lb/> dem Leibe des
+                        Fi&#x17F;ches umher ge&#x17F;treuet, welches durch &#x17F;eine Larativi-<lb/> &#x17F;che Krafft es
+                        dahin gebracht, da&#xDF; ihn der Fi&#x17F;ch an das Ufer die&#x17F;er<lb/> Jn&#x17F;ul geworffen
+                        und er &#x17F;cha&#x364;tze hierbey fu&#x364;r das gro&#x364;&#x17F;te Glu&#x364;ck, da&#xDF; er<lb/> &#x17F;einen Herrn
+                        und Cameraden hier wieder angetroffen. Hierauf &#x17F;agen<lb/> alle dreye, da&#xDF;
+                        &#x17F;ie hungrig wa&#x364;ren und nicht wu&#x364;&#x17F;ten, wo &#x17F;ie etwa<lb/> zu e&#x17F;&#x17F;en hernehmen
+                        &#x17F;ollten. Arlequin &#x17F;iehet Ba&#x364;ume, die volker Fru&#x364;chte<lb/> &#x17F;ind, und eine
+                        Leiter dabey; wie er aber hinauf &#x17F;teigen will, kom[men]<lb/> einige Gei&#x17F;ter,
+                        die ihn davon fu&#x364;hren; Die&#x17F;es &#x17F;etzet die andern bey-<lb/> den derma&#x17F;&#x17F;en in
+                        Schrecken, da&#xDF; &#x17F;ie die Flucht ergreiffen.</p>
+          <p rend="indent">Lucindo und Silvio treten auf und &#x17F;prechen von dem wunder-<lb/>
+                        lichen Eige&#x17F;inn des Glu&#x364;ckes, welches &#x17F;ie, wieder ihren Willen, zu<lb/>
+                        Nebenbuhlern mache. Jnde&#x17F;&#x17F;en kommen die Cloris und Ermilla.<lb/> Cloris
+                        bittet den Lucindo, &#x17F;ie zu lieben und er &#x17F;uchet &#x17F;ie hingegen zu<lb/>
+                        u&#x364;berreden, da&#xDF; &#x17F;ie &#x17F;ich der Neigung des Silvio gefa&#x364;llig erzeigen<lb/>
+                        mo&#x364;chte. Silvio, der eben auf die&#x17F;e Art von der Ermilla gebeten<lb/> wird,
                         giebt ihr den Rath, den Lucindo zu lieben und nachdem alle<lb/> viere
-                        einander vorgebens auf ihre Meynung zu bringen geſuchet, ge-<lb/> hen ſie
+                        einander vorgebens auf ihre Meynung zu bringen ge&#x17F;uchet, ge-<lb/> hen &#x17F;ie
                         ab.</p>
-                    <p rend="indent">Pantalon, Arlequin und Brighella treten herein und
-                        erzeigen<lb/> ſich noch gantz beſtuͤrtzt uͤber die letztere Begebenbeit. Sie
-                        bekla-<lb/> gen ſich auf das aͤuſſerſte, daß ſie Niemand finden koͤnnen, der ihnen<lb/>
+          <p rend="indent">Pantalon, Arlequin und Brighella treten herein und
+                        erzeigen<lb/> &#x17F;ich noch gantz be&#x17F;tu&#x364;rtzt u&#x364;ber die letztere Begebenbeit. Sie
+                        bekla-<lb/> gen &#x17F;ich auf das a&#x364;u&#x17F;&#x17F;er&#x17F;te, da&#xDF; &#x17F;ie Niemand finden ko&#x364;nnen, der ihnen<lb/>
                         <fw type="catch" place="bottom">bey-</fw>
                         <pb facs="#arcainca_ge_005" n="5"/>
-                        <fw type="pageNum">5</fw> beyſtehe. Jmmittelſt erſchienen einige Schaͤfer
-                        und Schaͤferinnen<lb/> welche uͤber die Gegenwart der Fremden erſchrecken.
-                        Smeraldina<lb/> ſiehet den Arlequin fuͤr einen Affen an, welches zu alleylen
-                        Schertz<lb/> Gelegenheit giebt, nach welchen ſich die Schaͤfer niederſetzen
-                        und<lb/> ohnerachtet des groſſen Hungers des Arlequins einander Raͤtzel
-                        auf-<lb/> zuloͤſen geben. Cloris macht den Anfang mit der Aufgabe ihres
-                        Raͤ-<lb/> tzels und ſagt: Es waͤren ihrer viele, die von ihren Feinden in
-                        ihren<lb/> Hauſe angegriffen wuͤrden; das Haus gieng zum Fenſter hinaus
-                        und<lb/> ſie blieben dennoch in ſelbigem Hauſe geſangen. Nachdem die
-                        uͤbri-<lb/> gen ſie um die Auslegung gebeten, ſagt ſie, es waͤren die
-                        Fiſche<lb/> ſo mit einem Netze in Meere gefangen wuͤrden. Sie blieben in
-                        dem<lb/> Waſſer, als ihren Hauſe, gefangen, waͤhrender Zeit das Waſſer<lb/>
-                        durch die Fenſter, nehmlich die Oeffnungen des Netzes lief. Ermilla
-                        fragt,<lb/> was dieſes ſey? Es waͤre eine Perſon, welche aus zweyen
-                        Todten<lb/> zwey lebendige mache und darauf ſich mit den Todten in ein
-                        Geſpraͤch<lb/> einließ. Sie erklaͤret es auf dieſe Art; Die gedachte Perſon
-                        ſey ein<lb/> Studirender der mit Schwamm und Stein, als zweyen todten<lb/>
-                        Dingen, Holtz und Licht in Feuer braͤchte, welche hierdurch leben-<lb/> dig
-                        wuͤrden; worauf er ein Geſpraͤche mit dem Todten, nehmlich den<lb/> Buͤchern
-                        anfienge. Smeraldina fragt, wie dieſe Worte zu erklaͤren?<lb/> Jch habe es;
-                        Du haſt es nicht: Willſt du es haben, ſo muſt du das<lb/> deinige zu den
-                        meinigen fuͤgen und als denn werden wir es alle beyde<lb/> haben. Sie legt
-                        es aus von zweyen Perſonen, von welchen die eine<lb/> ein angezuͤndetes die
-                        andere aber ein unangeſtecktes Licht haͤtte; indem<lb/> eine zu der andern
-                        kommen muͤße, wenn ſie allebeynde brennende Lich-<lb/> ter haben wollten.
-                        Pantalon ſagt, er wolle ſeine Liebſte beſchencken<lb/> mit einem halben
+                        <fw type="pageNum">5</fw> bey&#x17F;tehe. Jmmittel&#x17F;t er&#x17F;chienen einige Scha&#x364;fer
+                        und Scha&#x364;ferinnen<lb/> welche u&#x364;ber die Gegenwart der Fremden er&#x17F;chrecken.
+                        Smeraldina<lb/> &#x17F;iehet den Arlequin fu&#x364;r einen Affen an, welches zu alleylen
+                        Schertz<lb/> Gelegenheit giebt, nach welchen &#x17F;ich die Scha&#x364;fer nieder&#x17F;etzen
+                        und<lb/> ohnerachtet des gro&#x17F;&#x17F;en Hungers des Arlequins einander Ra&#x364;tzel
+                        auf-<lb/> zulo&#x364;&#x17F;en geben. Cloris macht den Anfang mit der Aufgabe ihres
+                        Ra&#x364;-<lb/> tzels und &#x17F;agt: Es wa&#x364;ren ihrer viele, die von ihren Feinden in
+                        ihren<lb/> Hau&#x17F;e angegriffen wu&#x364;rden; das Haus gieng zum Fen&#x17F;ter hinaus
+                        und<lb/> &#x17F;ie blieben dennoch in &#x17F;elbigem Hau&#x17F;e ge&#x17F;angen. Nachdem die
+                        u&#x364;bri-<lb/> gen &#x17F;ie um die Auslegung gebeten, &#x17F;agt &#x17F;ie, es wa&#x364;ren die
+                        Fi&#x17F;che<lb/> &#x17F;o mit einem Netze in Meere gefangen wu&#x364;rden. Sie blieben in
+                        dem<lb/> Wa&#x17F;&#x17F;er, als ihren Hau&#x17F;e, gefangen, wa&#x364;hrender Zeit das Wa&#x17F;&#x17F;er<lb/>
+                        durch die Fen&#x17F;ter, nehmlich die Oeffnungen des Netzes lief. Ermilla
+                        fragt,<lb/> was die&#x17F;es &#x17F;ey? Es wa&#x364;re eine Per&#x17F;on, welche aus zweyen
+                        Todten<lb/> zwey lebendige mache und darauf &#x17F;ich mit den Todten in ein
+                        Ge&#x17F;pra&#x364;ch<lb/> einlie&#xDF;. Sie erkla&#x364;ret es auf die&#x17F;e Art; Die gedachte Per&#x17F;on
+                        &#x17F;ey ein<lb/> Studirender der mit Schwamm und Stein, als zweyen todten<lb/>
+                        Dingen, Holtz und Licht in Feuer bra&#x364;chte, welche hierdurch leben-<lb/> dig
+                        wu&#x364;rden; worauf er ein Ge&#x17F;pra&#x364;che mit dem Todten, nehmlich den<lb/> Bu&#x364;chern
+                        anfienge. Smeraldina fragt, wie die&#x17F;e Worte zu erkla&#x364;ren?<lb/> Jch habe es;
+                        Du ha&#x17F;t es nicht: Will&#x17F;t du es haben, &#x17F;o mu&#x17F;t du das<lb/> deinige zu den
+                        meinigen fu&#x364;gen und als denn werden wir es alle beyde<lb/> haben. Sie legt
+                        es aus von zweyen Per&#x17F;onen, von welchen die eine<lb/> ein angezu&#x364;ndetes die
+                        andere aber ein unange&#x17F;tecktes Licht ha&#x364;tte; indem<lb/> eine zu der andern
+                        kommen mu&#x364;&#xDF;e, wenn &#x17F;ie allebeynde brennende Lich-<lb/> ter haben wollten.
+                        Pantalon &#x17F;agt, er wolle &#x17F;eine Lieb&#x17F;te be&#x17F;chencken<lb/> mit einem halben
                         Nichts und einem gantzen Nichts, mit dem Anfang<lb/> der Stadt Rom und mit
                         dem Ende der Liebe, nehmlich mit einem<lb/> Hertze. Brighella fragt, wie
-                        dieſe acht Perſonen hieſen, von welchen<lb/> die erſten zwey beſtaͤndig
-                        herum liefen, die andern zwey immer fort<lb/> ſtille ſtuͤnden, die dritten
-                        zwey ſich niemahls vertruͤgen und die vier-<lb/> ten zwey ohne
-                        Beſcheidenheit waͤren? Er ſagt, die erſten waͤren die<lb/> Sonne und der
+                        die&#x17F;e acht Per&#x17F;onen hie&#x17F;en, von welchen<lb/> die er&#x17F;ten zwey be&#x17F;ta&#x364;ndig
+                        herum liefen, die andern zwey immer fort<lb/> &#x17F;tille &#x17F;tu&#x364;nden, die dritten
+                        zwey &#x17F;ich niemahls vertru&#x364;gen und die vier-<lb/> ten zwey ohne
+                        Be&#x17F;cheidenheit wa&#x364;ren? Er &#x17F;agt, die er&#x17F;ten wa&#x364;ren die<lb/> Sonne und der
                         Mond; die anderen der Himmel und die Erde; Die<lb/> dritten der Tag und die
-                        Nacht und die vierten das Feuer und das<lb/> Waſſer. Wie die Reyhe an den
-                        Arlequin koͤmmt, fragt er was<lb/> das ſey, ſo ſich von vorne verkuͤrtze,
-                        wenn es hinten lang wuͤrde?<lb/>
+                        Nacht und die vierten das Feuer und das<lb/> Wa&#x17F;&#x17F;er. Wie die Reyhe an den
+                        Arlequin ko&#x364;mmt, fragt er was<lb/> das &#x17F;ey, &#x17F;o &#x17F;ich von vorne verku&#x364;rtze,
+                        wenn es hinten lang wu&#x364;rde?<lb/>
                         <fw type="sig" place="bottom">* 3</fw>
                         <fw type="catch" place="bottom">wel-</fw>
                         <pb facs="#arcainca_ge_006" n="6"/>
-                        <fw type="pageNum">6</fw> welches er mit dem Rock einer ſchwangeren Frau
-                        erklaͤret. Der<lb/> Doctor, Brighella und Arlequin ſagen hierauf ſie waͤren
-                        ſchlaͤffrig<lb/> und legen ſich nieder. Jndem ſie ſchlaſen koͤmmt der
-                        Doctor, wel-<lb/> cher ſeine Muhmen und die Smeraldina wegſchickt und an
-                        ihre Stel-<lb/> le Geſpenſter ſetzet, welche die Fremden in ihrer Ruhe
-                        unaufhoͤrlich<lb/> ſtoͤren und hiermit die erſte Handlung endigen.</p>
-                </div>
-                <div type="act" n="2">
-                    <head>Andere Handlung.</head>
-                    <p rend="indent">Der Doctor trit auf und ſaget, er wolle ſich auf die
-                        Koſten<lb/> ſeiner Feinde eine Luſt machen; Er habe ſeinen Muhmen
+                        <fw type="pageNum">6</fw> welches er mit dem Rock einer &#x17F;chwangeren Frau
+                        erkla&#x364;ret. Der<lb/> Doctor, Brighella und Arlequin &#x17F;agen hierauf &#x17F;ie wa&#x364;ren
+                        &#x17F;chla&#x364;ffrig<lb/> und legen &#x17F;ich nieder. Jndem &#x17F;ie &#x17F;chla&#x17F;en ko&#x364;mmt der
+                        Doctor, wel-<lb/> cher &#x17F;eine Muhmen und die Smeraldina weg&#x17F;chickt und an
+                        ihre Stel-<lb/> le Ge&#x17F;pen&#x17F;ter &#x17F;etzet, welche die Fremden in ihrer Ruhe
+                        unaufho&#x364;rlich<lb/> &#x17F;to&#x364;ren und hiermit die er&#x17F;te Handlung endigen.</p>
+        </div>
+        <div type="act" n="2">
+          <head>Andere Handlung.</head>
+          <p rend="indent">Der Doctor trit auf und &#x17F;aget, er wolle &#x17F;ich auf die
+                        Ko&#x17F;ten<lb/> &#x17F;einer Feinde eine Lu&#x17F;t machen; Er habe &#x17F;einen Muhmen
                         verbothen,<lb/> zu ihnen zu gehen. Er wirfft einen Krantz auf die Erde und
-                        gehet fort.<lb/> Arlequin koͤmmt voller Furcht und ſetzet ſich und indem er
-                        ſich uͤber ſeinen<lb/> Hunger beſchwehret, koͤmmt eine von den
-                        Schaͤfferinnen, welche ihn,<lb/> weil er den Zauber-Krantz auf hat, fuͤr
-                        ihren Geliebten anſiehet und ihn<lb/> bittet, ſie zu lieben. Arlequin
-                        verwundert ſich hieruͤber und nimmt<lb/> den Krantz ab. Die Schaͤferin
-                        erſchrickt, wie ſie eine andere Per-<lb/> ſon ſiehet, und laͤufft weg.
-                        Arlequin bleibt und alle Schaͤfer und<lb/> Schaͤferinnen kommen und ſehen
-                        ihn fuͤr Geliebtes an, und ent-<lb/> weichen, wie ſie nach Abnehmung des
-                        Krantzes ſich betrogen finden.<lb/> Hierauf erſchienen Pantalon und
-                        Brighella, welche beyde den Arlequin<lb/> fuͤr eine Schaferin, die ſie
-                        geſehen, halten. Arlequin treibet ſeinen<lb/> Schertz mit ihnen, und wie er
-                        den Krantz abnimmt, erkennen ſie ihn<lb/> und als er ihnen die Krafft des
-                        Krantzes erklaͤret, ſetzet Pantalon den-<lb/> ſelben auf. Arlequin ſiehet
-                        ihn fuͤr die Smeraldina an. Nach einigen<lb/> Poſſen werffen ſie den Krantz
-                        weg und ſprechen von ihrem Hunger.<lb/> Jnzwiſchen ſetzet der Doctor eine
-                        Statue mitten auf den Platz und<lb/> gehet weg. Hieruͤber erſchrecken ſie,
-                        aber noch vielmehr, da ſich die<lb/> Statue in einen Tiſch verwandelt. Sie
-                        faſſen ſich einen Muth und<lb/> nahen hierzu, um ihren Hunger zu ſtillen.
-                        Allein es geſchicht eine<lb/> abermahlige Verwandlung; worauf ſie gantz
-                        beſtuͤrtzt die Flucht<lb/> nehmen.</p>
-                    <p rend="indent">Smeraldina trit auf und vergnuͤget ſich mit dem Andencken
-                        des<lb/> Arlequins, den ſie ihren kleinen braunen nennet. Arlequin
-                        koͤmmt<lb/> gantz verwirrt. Smeraldina ſpricht ihm einen Muth ein und
-                        redet<lb/> von ihrer Liebe. Arlequin freuet ſich uͤber ſein Gluͤck. Smeraldina<lb/>
-                        <fw type="catch" place="bottom">koͤmmt</fw>
+                        gehet fort.<lb/> Arlequin ko&#x364;mmt voller Furcht und &#x17F;etzet &#x17F;ich und indem er
+                        &#x17F;ich u&#x364;ber &#x17F;einen<lb/> Hunger be&#x17F;chwehret, ko&#x364;mmt eine von den
+                        Scha&#x364;fferinnen, welche ihn,<lb/> weil er den Zauber-Krantz auf hat, fu&#x364;r
+                        ihren Geliebten an&#x17F;iehet und ihn<lb/> bittet, &#x17F;ie zu lieben. Arlequin
+                        verwundert &#x17F;ich hieru&#x364;ber und nimmt<lb/> den Krantz ab. Die Scha&#x364;ferin
+                        er&#x17F;chrickt, wie &#x17F;ie eine andere Per-<lb/> &#x17F;on &#x17F;iehet, und la&#x364;ufft weg.
+                        Arlequin bleibt und alle Scha&#x364;fer und<lb/> Scha&#x364;ferinnen kommen und &#x17F;ehen
+                        ihn fu&#x364;r Geliebtes an, und ent-<lb/> weichen, wie &#x17F;ie nach Abnehmung des
+                        Krantzes &#x17F;ich betrogen finden.<lb/> Hierauf er&#x17F;chienen Pantalon und
+                        Brighella, welche beyde den Arlequin<lb/> fu&#x364;r eine Schaferin, die &#x17F;ie
+                        ge&#x17F;ehen, halten. Arlequin treibet &#x17F;einen<lb/> Schertz mit ihnen, und wie er
+                        den Krantz abnimmt, erkennen &#x17F;ie ihn<lb/> und als er ihnen die Krafft des
+                        Krantzes erkla&#x364;ret, &#x17F;etzet Pantalon den-<lb/> &#x17F;elben auf. Arlequin &#x17F;iehet
+                        ihn fu&#x364;r die Smeraldina an. Nach einigen<lb/> Po&#x17F;&#x17F;en werffen &#x17F;ie den Krantz
+                        weg und &#x17F;prechen von ihrem Hunger.<lb/> Jnzwi&#x17F;chen &#x17F;etzet der Doctor eine
+                        Statue mitten auf den Platz und<lb/> gehet weg. Hieru&#x364;ber er&#x17F;chrecken &#x17F;ie,
+                        aber noch vielmehr, da &#x17F;ich die<lb/> Statue in einen Ti&#x17F;ch verwandelt. Sie
+                        fa&#x17F;&#x17F;en &#x17F;ich einen Muth und<lb/> nahen hierzu, um ihren Hunger zu &#x17F;tillen.
+                        Allein es ge&#x17F;chicht eine<lb/> abermahlige Verwandlung; worauf &#x17F;ie gantz
+                        be&#x17F;tu&#x364;rtzt die Flucht<lb/> nehmen.</p>
+          <p rend="indent">Smeraldina trit auf und vergnu&#x364;get &#x17F;ich mit dem Andencken
+                        des<lb/> Arlequins, den &#x17F;ie ihren kleinen braunen nennet. Arlequin
+                        ko&#x364;mmt<lb/> gantz verwirrt. Smeraldina &#x17F;pricht ihm einen Muth ein und
+                        redet<lb/> von ihrer Liebe. Arlequin freuet &#x17F;ich u&#x364;ber &#x17F;ein Glu&#x364;ck. Smeraldina<lb/>
+                        <fw type="catch" place="bottom">ko&#x364;mmt</fw>
                         <pb facs="#arcainca_ge_007" n="7"/>
-                        <fw type="pageNum">7</fw> koͤmmt mit Maccaronen zuruͤck und giebt ihm zu
-                        eſſen; gehet aber<lb/> wieder fort und ſaget, ſie wolle ihn in ihrer Huͤtte
-                        erwarten. Arle-<lb/> quin ſetzet ſich meder, zu eſſen; Es laͤſſet ſich aber
-                        ein Geiſt in der<lb/> Lufft ſehen, der die Maccaronen hohlen will. Allein
-                        Arlequin ſucht<lb/> ſie in Sicherheit zu bringen und beſchlieſſet hiermit
+                        <fw type="pageNum">7</fw> ko&#x364;mmt mit Maccaronen zuru&#x364;ck und giebt ihm zu
+                        e&#x17F;&#x17F;en; gehet aber<lb/> wieder fort und &#x17F;aget, &#x17F;ie wolle ihn in ihrer Hu&#x364;tte
+                        erwarten. Arle-<lb/> quin &#x17F;etzet &#x17F;ich meder, zu e&#x17F;&#x17F;en; Es la&#x364;&#x17F;&#x17F;et &#x17F;ich aber
+                        ein Gei&#x17F;t in der<lb/> Lufft &#x17F;ehen, der die Maccaronen hohlen will. Allein
+                        Arlequin &#x17F;ucht<lb/> &#x17F;ie in Sicherheit zu bringen und be&#x17F;chlie&#x17F;&#x17F;et hiermit
                         die andere Hand-<lb/> lung.</p>
-                </div>
-                <div type="act" n="3">
-                    <head>Dritte Handlung.</head>
-                    <p rend="indent">Der Doctor verfolget die Smeraldina, die ihn bittet, er<lb/>
-                        moͤchte ſie in Ruhe laſſen, weil ſie in ſeine Liebe nicht willigen
-                        koͤnn-<lb/> te. Der Doctor ſuchet ſie zu uͤberreden, ſie aber nimmt die
-                        Flucht.<lb/> Wie er ihr nachſetzet, laͤſſet er ein Buch fallen, ſo er unter
-                        dem Arm<lb/> getragen. Arlequin koͤmmt, hebt das Buch auf und als er es
-                        von<lb/> einander ſchlaͤget, erſcheinen ſo gleich zwey Geiſter, welche ihn
-                        fragen,<lb/> was er zu befehlen habe? Er befiehlet, ſie ſollten ihn als
-                        einen Koͤ-<lb/> nig ankleiden. Sie thun ſolches und er heiſſet ſie weggehen.
-                        Hier-<lb/> auf kommen die Schaͤfer und Schaͤferinnen und fragen ihn,
-                        was<lb/> er haben wolle? Arlequin antwortet Reſpect verlange er; Sie<lb/>
-                        aber antworten, ſie erkenneten ſeinen Herrn auf dieſer Jnſul<lb/> und wollen
-                        ihn ſchlagen. Arlequin ſchlaͤget das Buch auf, wor-<lb/> auf die Geiſter
-                        kommen und die Schaͤfer fort jagen. Pantalon und<lb/> Brighella ſuchen und
-                        ſagen zu dem Arlequin, wie ſie ihn finden, er<lb/> ſolle mit ihnen in den
-                        Tempel gehen und die Opfer-Speiſen ver-<lb/> zehren helffen, welche die
-                        Schaͤfer den Goͤttern vorgeſetzet. Arle-<lb/> quin antwortet, er habe dieſes
-                        nicht noͤthig; weil er nunmehro Koͤ-<lb/> nig waͤre. Sie lachen ihn aus; er
-                        aber laͤſſet die Geiſter kom-<lb/> men und beyde wegjagen. Wie ſolches
-                        geſchehen, koͤmmt der<lb/> Doctor, und als er ſein Buch in Arlequins Haͤnden
-                        ſiehet, fodert<lb/> er es von ihm. Arlequin will es nicht aushaͤndigen und
-                        drohet<lb/> dem Doctor, dieſer ruffet ſeine Geiſter, welche den
-                        Arlequin<lb/> auspruͤgeln und wegbringen. Der Doctor gehet lachend fort.</p>
-                    <p rend="indent">Die Schaͤfer und Schaͤferinnen treten mit Opfer-Speiſen<lb/>
-                        nach einander herein und ſagen, ſie wollten ſie den Goͤttern in den<lb/>
-                        Tempel ſetzen und ſie bitten, daß ſie die Hertzen ihrer Geliebten<lb/>
-                        aͤndern moͤchten</p>
-                    <fw type="catch" place="bottom">Der</fw>
-                    <pb facs="#arcainca_ge_008" n="8"/>
-                    <fw type="pageNum">8</fw>
-                    <stage>Der Schau-Platz ſtellet einen Tempel vor.</stage>
-                    <p rend="indent">Pantalon als die Venus, Brighella als Iupiter und Arlequin<lb/>
-                        als Cupido gekleidet, ſtehen auf dem Altar und ſagen,<lb/> von dem Opfer der
-                        verliebten Schaͤfer und Schaͤferinnen profie-<lb/> tiren. Hierauf erſcheinen
-                        dieſelben, verrichten ihr Gebeth, und ſe-<lb/> tzen die Speiſen nieder. Die
-                        verſtelleten Goͤtter thun den Ausſpruch,<lb/> ſie ſollten noch alle
-                        vergnuͤget werden. Die Verliebten gehen weg,<lb/> wie aber Pantalon,
-                        Brighella und Arlequin von dem Opfer eſſen<lb/> wollen, kommen ſie zu
-                        verſchiedenen Mahlen zuruͤck, mercken endl.<lb/> den Betrug und ruffen
-                        Bauern, dieſelben gefangen zunehmen.<lb/> Pantalon und Brighella nehmen die
-                        Flucht, Arlequin aber wird von<lb/> den Bauern in Arreſt genommen. Sie gehen
+        </div>
+        <div type="act" n="3">
+          <head>Dritte Handlung.</head>
+          <p rend="indent">Der Doctor verfolget die Smeraldina, die ihn bittet, er<lb/>
+                        mo&#x364;chte &#x17F;ie in Ruhe la&#x17F;&#x17F;en, weil &#x17F;ie in &#x17F;eine Liebe nicht willigen
+                        ko&#x364;nn-<lb/> te. Der Doctor &#x17F;uchet &#x17F;ie zu u&#x364;berreden, &#x17F;ie aber nimmt die
+                        Flucht.<lb/> Wie er ihr nach&#x17F;etzet, la&#x364;&#x17F;&#x17F;et er ein Buch fallen, &#x17F;o er unter
+                        dem Arm<lb/> getragen. Arlequin ko&#x364;mmt, hebt das Buch auf und als er es
+                        von<lb/> einander &#x17F;chla&#x364;get, er&#x17F;cheinen &#x17F;o gleich zwey Gei&#x17F;ter, welche ihn
+                        fragen,<lb/> was er zu befehlen habe? Er befiehlet, &#x17F;ie &#x17F;ollten ihn als
+                        einen Ko&#x364;-<lb/> nig ankleiden. Sie thun &#x17F;olches und er hei&#x17F;&#x17F;et &#x17F;ie weggehen.
+                        Hier-<lb/> auf kommen die Scha&#x364;fer und Scha&#x364;ferinnen und fragen ihn,
+                        was<lb/> er haben wolle? Arlequin antwortet Re&#x17F;pect verlange er; Sie<lb/>
+                        aber antworten, &#x17F;ie erkenneten &#x17F;einen Herrn auf die&#x17F;er Jn&#x17F;ul<lb/> und wollen
+                        ihn &#x17F;chlagen. Arlequin &#x17F;chla&#x364;get das Buch auf, wor-<lb/> auf die Gei&#x17F;ter
+                        kommen und die Scha&#x364;fer fort jagen. Pantalon und<lb/> Brighella &#x17F;uchen und
+                        &#x17F;agen zu dem Arlequin, wie &#x17F;ie ihn finden, er<lb/> &#x17F;olle mit ihnen in den
+                        Tempel gehen und die Opfer-Spei&#x17F;en ver-<lb/> zehren helffen, welche die
+                        Scha&#x364;fer den Go&#x364;ttern vorge&#x17F;etzet. Arle-<lb/> quin antwortet, er habe die&#x17F;es
+                        nicht no&#x364;thig; weil er nunmehro Ko&#x364;-<lb/> nig wa&#x364;re. Sie lachen ihn aus; er
+                        aber la&#x364;&#x17F;&#x17F;et die Gei&#x17F;ter kom-<lb/> men und beyde wegjagen. Wie &#x17F;olches
+                        ge&#x17F;chehen, ko&#x364;mmt der<lb/> Doctor, und als er &#x17F;ein Buch in Arlequins Ha&#x364;nden
+                        &#x17F;iehet, fodert<lb/> er es von ihm. Arlequin will es nicht ausha&#x364;ndigen und
+                        drohet<lb/> dem Doctor, die&#x17F;er ruffet &#x17F;eine Gei&#x17F;ter, welche den
+                        Arlequin<lb/> auspru&#x364;geln und wegbringen. Der Doctor gehet lachend fort.</p>
+          <p rend="indent">Die Scha&#x364;fer und Scha&#x364;ferinnen treten mit Opfer-Spei&#x17F;en<lb/>
+                        nach einander herein und &#x17F;agen, &#x17F;ie wollten &#x17F;ie den Go&#x364;ttern in den<lb/>
+                        Tempel &#x17F;etzen und &#x17F;ie bitten, da&#xDF; &#x17F;ie die Hertzen ihrer Geliebten<lb/>
+                        a&#x364;ndern mo&#x364;chten</p>
+          <fw type="catch" place="bottom">Der</fw>
+          <pb facs="#arcainca_ge_008" n="8"/>
+          <fw type="pageNum">8</fw>
+          <stage>Der Schau-Platz &#x17F;tellet einen Tempel vor.</stage>
+          <p rend="indent">Pantalon als die Venus, Brighella als Iupiter und Arlequin<lb/>
+                        als Cupido gekleidet, &#x17F;tehen auf dem Altar und &#x17F;agen,<lb/> von dem Opfer der
+                        verliebten Scha&#x364;fer und Scha&#x364;ferinnen profie-<lb/> tiren. Hierauf er&#x17F;cheinen
+                        die&#x17F;elben, verrichten ihr Gebeth, und &#x17F;e-<lb/> tzen die Spei&#x17F;en nieder. Die
+                        ver&#x17F;telleten Go&#x364;tter thun den Aus&#x17F;pruch,<lb/> &#x17F;ie &#x17F;ollten noch alle
+                        vergnu&#x364;get werden. Die Verliebten gehen weg,<lb/> wie aber Pantalon,
+                        Brighella und Arlequin von dem Opfer e&#x17F;&#x17F;en<lb/> wollen, kommen &#x17F;ie zu
+                        ver&#x17F;chiedenen Mahlen zuru&#x364;ck, mercken endl.<lb/> den Betrug und ruffen
+                        Bauern, die&#x17F;elben gefangen zunehmen.<lb/> Pantalon und Brighella nehmen die
+                        Flucht, Arlequin aber wird von<lb/> den Bauern in Arre&#x17F;t genommen. Sie gehen
                         alle ab.</p>
-                    <p rend="indent">Pantalon trit auf und bittet den Doctor, er moͤchte fuͤr
-                        dem<lb/> Arlequin, ſeinem Diener, ein gut Wort einlegen und ſaget wer
-                        er<lb/> ſey. Der Doctor thut desgleichen, und nachdem ſie ſich
-                        verſoͤhnet<lb/> verſpricht der Doctor, den Arlequin loß zu helffen und dem
-                        Pantalon<lb/> ſeine Kinder zuruͤckzugeben. Sie umarmen einander und gehen
+          <p rend="indent">Pantalon trit auf und bittet den Doctor, er mo&#x364;chte fu&#x364;r
+                        dem<lb/> Arlequin, &#x17F;einem Diener, ein gut Wort einlegen und &#x17F;aget wer
+                        er<lb/> &#x17F;ey. Der Doctor thut desgleichen, und nachdem &#x17F;ie &#x17F;ich
+                        ver&#x17F;o&#x364;hnet<lb/> ver&#x17F;pricht der Doctor, den Arlequin lo&#xDF; zu helffen und dem
+                        Pantalon<lb/> &#x17F;eine Kinder zuru&#x364;ckzugeben. Sie umarmen einander und gehen
                         weg.</p>
-                    <p rend="indent">Arlequin wird von den Schaͤfern und einem Prieſter mit<lb/>
-                        vielen Ceremonien einhergefuͤhret und ſoll denen Goͤttern, deren<lb/> Dienſt
-                        er verunehret, geopfert werden; Der Doctor aber, welcher<lb/> nebſt dem
-                        Pantalon von ferne ſtehet, laͤſſet einen Geiſt kommen,<lb/> der dem Prieſter
-                        das Beil aus der Hand reiſſet. Alle uͤbrigen<lb/> werden hieruͤber
-                        beſtuͤrtzt. Allein der Doctor trit hervor und ent-<lb/> decket das gantze
-                        Geheimniß. Arlequin glaubt, er ſey ſchon todt<lb/> und ſuchet ſeinen Kopf.
-                        Der Doctor uͤbergiebt dem Pantalon ſeine<lb/> Soͤhne und verheyrathet ſie
-                        mit ſeinen Muhmen. So bald man<lb/> den Arlequin uͤberredet, daß er noch
-                        lebe, verlobet er ſich gleich-<lb/> fals mit der Smeraldina und hiermit
-                        endiget ſich das gantze Schau-<lb/> Spiel.</p>
-                </div>
-            </body>
-        </text>
-    </TEI>
-    <TEI>
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>L'Arcadia incantata</title>
-                </titleStmt>
-                <publicationStmt>
-                    <p/>
-                </publicationStmt>
-                <sourceDesc>
-                    <p>La traduzione ha preso in considerazione la versione in lingua tedesca.</p>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <langUsage>
-                    <language ident="it">Italian</language>
-                </langUsage>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <front>
-                <pb facs="#arcainca_ge_001" n="1"/>
-                <head type="main">L’ARCADIA INCANTATA.</head>
-                <head type="sub">RAPPRESENTATA<lb/>NEL<date when="1734">1734</date><lb/>IN UNO
+          <p rend="indent">Arlequin wird von den Scha&#x364;fern und einem Prie&#x17F;ter mit<lb/>
+                        vielen Ceremonien einhergefu&#x364;hret und &#x17F;oll denen Go&#x364;ttern, deren<lb/> Dien&#x17F;t
+                        er verunehret, geopfert werden; Der Doctor aber, welcher<lb/> neb&#x17F;t dem
+                        Pantalon von ferne &#x17F;tehet, la&#x364;&#x17F;&#x17F;et einen Gei&#x17F;t kommen,<lb/> der dem Prie&#x17F;ter
+                        das Beil aus der Hand rei&#x17F;&#x17F;et. Alle u&#x364;brigen<lb/> werden hieru&#x364;ber
+                        be&#x17F;tu&#x364;rtzt. Allein der Doctor trit hervor und ent-<lb/> decket das gantze
+                        Geheimni&#xDF;. Arlequin glaubt, er &#x17F;ey &#x17F;chon todt<lb/> und &#x17F;uchet &#x17F;einen Kopf.
+                        Der Doctor u&#x364;bergiebt dem Pantalon &#x17F;eine<lb/> So&#x364;hne und verheyrathet &#x17F;ie
+                        mit &#x17F;einen Muhmen. So bald man<lb/> den Arlequin u&#x364;berredet, da&#xDF; er noch
+                        lebe, verlobet er &#x17F;ich gleich-<lb/> fals mit der Smeraldina und hiermit
+                        endiget &#x17F;ich das gantze Schau-<lb/> Spiel.</p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>L'Arcadia incantata</title>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc>
+          <p>La traduzione ha preso in considerazione la versione in lingua tedesca.</p>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="it">Italian</language>
+        </langUsage>
+      </profileDesc>
+    </teiHeader>
+    <text>
+      <front>
+        <pb facs="#arcainca_ge_001" n="1"/>
+        <head type="main">L&#x2019;ARCADIA INCANTATA.</head>
+        <head type="sub">RAPPRESENTATA<lb/>NEL<date when="1734">1734</date><lb/>IN UNO
                     SPETTACOLO ITALIANO<lb/>ALLA CORTE IMPERIALE<lb/> DI SAN PIETROBURGO.</head>
-                <pb facs="#arcainca_ge_002" n="2"/>
-                <div type="preface">
-                    <head>ARGOMENTO.</head>
-                    <p rend="indent">Il Dottore, che è mago, in passato per l’avversione nei
+        <pb facs="#arcainca_ge_002" n="2"/>
+        <div type="preface">
+          <head>ARGOMENTO.</head>
+          <p rend="indent">Il Dottore, che &#xE8; mago, in passato per l&#x2019;avversione nei
                         confronti di Pantalone ha fatto rapire i suoi figli e li ha portati su
-                        un’isola. Là li ha cresciuti nell’ignoranza circa la loro nascita, con
-                        l’intenzione che essi, una volta diventati più grandi, si innamorassero
-                        delle sue due nipoti. Quando però ciò accade, si oppone con tutte le sue
+                        un&#x2019;isola. L&#xE0; li ha cresciuti nell&#x2019;ignoranza circa la loro nascita, con
+                        l&#x2019;intenzione che essi, una volta diventati pi&#xF9; grandi, si innamorassero
+                        delle sue due nipoti. Quando per&#xF2; ci&#xF2; accade, si oppone con tutte le sue
                         forze. Pantalone, che ha inutilmente cercato i suoi figli per tanti anni,
                         mentre sta ritornando a casa, viene sbattuto sulla suddetta isola a causa di
                         un naufragio. Il suo arrivo provoca nel Dottore una grande agitazione che
                         gli fa fare il possibile per allontanare Pantalone. Alla fine la sua ira si
                         placa e, perdonate le birbanterie di Arlecchino, egli si riconcilia con
                         Pantalone e gli riconsegna i figli che fa sposare con le sue due nipoti.</p>
-                </div>
-                <castList>
-                    <head>PERSONAGGI.</head>
-                    <castItem>
-                        <role xml:id="pantalone_it">Pantalone</role>
-                        <roleDesc>padre di</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="lucindo_it">Lucindo e</role>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="silvio_it">Silvio.</role>
-                    </castItem>
-                    <castGroup>
-                        <castItem>
-                            <role xml:id="arlecchino_it">Arlecchino e</role>
-                        </castItem>
-                        <castItem>
-                            <role xml:id="brighella_it">Brighella,</role>
-                        </castItem>
-                        <roleDesc>suoi servitori.</roleDesc>
-                    </castGroup>
-                    <castItem>
-                        <role xml:id="dottore_it">Il Dottore</role>
-                    </castItem>
-                    <castGroup>
-                        <castItem>
-                            <role xml:id="cloris_it">Cloris e</role>
-                        </castItem>
-                        <castItem>
-                            <role xml:id="ermilla_it">Ermilla,</role>
-                        </castItem>
-                        <roleDesc>sue nipoti.</roleDesc>
-                    </castGroup>
-                    <castItem>
-                        <role xml:id="sacerdote_it">Un sacerdote.</role>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="pastori_it">Un gruppo di pastori.</role>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="spiriti_it">Spiriti.</role>
-                    </castItem>
-                </castList>
-                <set>
-                    <p>L’azione si svolge in un’isola.</p>
-                </set>
-            </front>
-            <body>
-                <pb facs="#arcainca_ge_003" n="3"/>
-                <div type="act" n="1">
-                    <head>ATTO PRIMO.</head>
-                    <stage>LA SCENA MOSTRA UNA FORESTA.</stage>
-                    <p rend="indent">Il Dottore compare portato atraverso l’aria da due spiriti e
-                        racconta del naufragio e dell’arrivo del suo nemico Pantalone e dei suoi
+        </div>
+        <castList>
+          <head>PERSONAGGI.</head>
+          <castItem>
+            <role xml:id="pantalone_it">Pantalone</role>
+            <roleDesc>padre di</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="lucindo_it">Lucindo e</role>
+          </castItem>
+          <castItem>
+            <role xml:id="silvio_it">Silvio.</role>
+          </castItem>
+          <castGroup>
+            <castItem>
+              <role xml:id="arlecchino_it">Arlecchino e</role>
+            </castItem>
+            <castItem>
+              <role xml:id="brighella_it">Brighella,</role>
+            </castItem>
+            <roleDesc>suoi servitori.</roleDesc>
+          </castGroup>
+          <castItem>
+            <role xml:id="dottore_it">Il Dottore</role>
+          </castItem>
+          <castGroup>
+            <castItem>
+              <role xml:id="cloris_it">Cloris e</role>
+            </castItem>
+            <castItem>
+              <role xml:id="ermilla_it">Ermilla,</role>
+            </castItem>
+            <roleDesc>sue nipoti.</roleDesc>
+          </castGroup>
+          <castItem>
+            <role xml:id="sacerdote_it">Un sacerdote.</role>
+          </castItem>
+          <castItem>
+            <role xml:id="pastori_it">Un gruppo di pastori.</role>
+          </castItem>
+          <castItem>
+            <role xml:id="spiriti_it">Spiriti.</role>
+          </castItem>
+        </castList>
+        <set>
+          <p>L&#x2019;azione si svolge in un&#x2019;isola.</p>
+        </set>
+      </front>
+      <body>
+        <pb facs="#arcainca_ge_003" n="3"/>
+        <div type="act" n="1">
+          <head>ATTO PRIMO.</head>
+          <stage>LA SCENA MOSTRA UNA FORESTA.</stage>
+          <p rend="indent">Il Dottore compare portato atraverso l&#x2019;aria da due spiriti e
+                        racconta del naufragio e dell&#x2019;arrivo del suo nemico Pantalone e dei suoi
                         servitori, Arlecchino e Brighella. Egli narra come abbia fatto rapire i
                         figli di Pantalone e come questi si siano innamorati delle sue nipoti, cosa
-                        che Pantalone non voleva assolutamente. Affinché Pantalone non possa
-                        riconoscere i figli, fa un incantesimo a tutta l’isola e se ne va attraverso
-                        l’aria con i suoi spiriti.</p>
-                    <p rend="indent">Entra Arlecchino molto afflitto perché non sa dove si trova e
+                        che Pantalone non voleva assolutamente. Affinch&#xE9; Pantalone non possa
+                        riconoscere i figli, fa un incantesimo a tutta l&#x2019;isola e se ne va attraverso
+                        l&#x2019;aria con i suoi spiriti.</p>
+          <p rend="indent">Entra Arlecchino molto afflitto perch&#xE9; non sa dove si trova e
                         racconta di aver subito un naufragio con Pantalone, suo padrone, e
-                        Brighella, suo compagno. Crede che essi siano annegati e, poiché non vede
+                        Brighella, suo compagno. Crede che essi siano annegati e, poich&#xE9; non vede
                         nessuno a cui chiedere aiuto, si mette a chiamare. Arriva allora uno spirito
                         che fa lazzi di ogni genere con Arlecchino, il quale avendo paura di lui, si
-                        nasconde come meglio può.</p>
-                    <p rend="indent">Arriva Pantalone in stato di grande confusione a causa del
-                        naufragio e compiange i suoi servitori perché li crede annegati. Ricorda a
-                        più riprese i figli perduti e, mentre si lamenta perché non sa dove si
-                        trova, vede arrivare Brighella. Brighella all’inizio crede che Pantalone sia
+                        nasconde come meglio pu&#xF2;.</p>
+          <p rend="indent">Arriva Pantalone in stato di grande confusione a causa del
+                        naufragio e compiange i suoi servitori perch&#xE9; li crede annegati. Ricorda a
+                        pi&#xF9; riprese i figli perduti e, mentre si lamenta perch&#xE9; non sa dove si
+                        trova, vede arrivare Brighella. Brighella all&#x2019;inizio crede che Pantalone sia
                         soltanto il fantasma del padrone annegato, alla fine si riconoscono, si
                         rallegrano di essere vivi e piangono la sfortuna di Arlecchino che credono
                         morto. Arlecchino compare e li spaventa entrambi con la sua presenza. Tutti
                         sono contenti di essere ancora in vita e si raccontano a vicenda come sono
-                        sopravvissuti. Pantalone dice che lui si è salvato la vita grazie ad una
-                        botte vuota. Brighella racconta che lui si è salvato tramite una vescica.
-                        Arlecchino racconta a sua volta il modo ridicolo in cui è arrivato a terra.
-                        Non appena aveva sentito il capitano della nave urlare: “Si salvi chi può!”,
-                            <pb facs="#arcainca_ge_004" n="5"/> aveva messo in bocca un limone e un po’ di
+                        sopravvissuti. Pantalone dice che lui si &#xE8; salvato la vita grazie ad una
+                        botte vuota. Brighella racconta che lui si &#xE8; salvato tramite una vescica.
+                        Arlecchino racconta a sua volta il modo ridicolo in cui &#xE8; arrivato a terra.
+                        Non appena aveva sentito il capitano della nave urlare: &#x201C;Si salvi chi pu&#xF2;!&#x201D;,
+                            <pb facs="#arcainca_ge_004" n="5"/> aveva messo in bocca un limone e un po&#x2019; di
                         cassia, aveva acceso un cannone, si era seduto su una palla ed era scappato
-                        il più in fretta possibile. Quando la palla aveva rallentato, aveva dovuto
+                        il pi&#xF9; in fretta possibile. Quando la palla aveva rallentato, aveva dovuto
                         affidarsi al mare, il quale dapprima lo aveva accolto molto amorevolmente ma
-                        poi lo aveva spinto sempre più verso il fondo. Così tra lui e il mare era
-                        sorta una battaglia sanguinosa, con vantaggio ora dell’uno, ora dell’altro.
-                        In quel momento era passato di là un pesce immensamente grosso con denti
-                        spaventosi: Arlecchino aveva ficcato il limone fra di essi, cosicché
-                        attraverso l’apertura gli fosse possibile infilarsi nella pancia del pesce.
+                        poi lo aveva spinto sempre pi&#xF9; verso il fondo. Cos&#xEC; tra lui e il mare era
+                        sorta una battaglia sanguinosa, con vantaggio ora dell&#x2019;uno, ora dell&#x2019;altro.
+                        In quel momento era passato di l&#xE0; un pesce immensamente grosso con denti
+                        spaventosi: Arlecchino aveva ficcato il limone fra di essi, cosicch&#xE9;
+                        attraverso l&#x2019;apertura gli fosse possibile infilarsi nella pancia del pesce.
                         Una volta entrato, aveva trovato un terribile ammasso fatto di cuori,
-                        sangue, intestini, senape e simili, e poiché, disgustato, non voleva
-                        rimanere là più a lungo, aveva sparpagliato nel corpo del pesce un po’ della
+                        sangue, intestini, senape e simili, e poich&#xE9;, disgustato, non voleva
+                        rimanere l&#xE0; pi&#xF9; a lungo, aveva sparpagliato nel corpo del pesce un po&#x2019; della
                         cassia che aveva tenuto in bocca. Essa, grazie alla sua forza lassativa,
-                        aveva fatto sì che il pesce lo proiettasse sulla riva dell’isola ed egli
-                        riteneva la più grande fortuna l’aver qui ritrovato il suo padrone e il suo
+                        aveva fatto s&#xEC; che il pesce lo proiettasse sulla riva dell&#x2019;isola ed egli
+                        riteneva la pi&#xF9; grande fortuna l&#x2019;aver qui ritrovato il suo padrone e il suo
                         compagno. A questo punto tutti e tre dicono di essere affamati e di non
                         sapere dove poter trovare qualcosa da mangiare. Arlecchino vede degli alberi
-                        pieni di frutti con una scala. Quando, però, prova a salirci, arrivano degli
-                        spiriti che lo portano via; ciò spaventa gli altri due a tal punto che
+                        pieni di frutti con una scala. Quando, per&#xF2;, prova a salirci, arrivano degli
+                        spiriti che lo portano via; ci&#xF2; spaventa gli altri due a tal punto che
                         scappano lontano.</p>
-                    <p rend="indent">Entrano Lucindo e Silvio che parlano dello strano caso che li
-                        ha resi rivali contro la loro volontà. Intanto arrivano Cloris ed Ermilla.
+          <p rend="indent">Entrano Lucindo e Silvio che parlano dello strano caso che li
+                        ha resi rivali contro la loro volont&#xE0;. Intanto arrivano Cloris ed Ermilla.
                         Cloris prega Lucindo di amarla, mentre egli, al contrario, cerca di
                         convincerla a rispondere al sentimento di Silvio. Silvio, che riceve la
                         stessa preghiera da Ermilla, la invita ad amare Lucindo. Dopo che tutti e
-                        quattro hanno cercato inutilmente di convincersi l’un l’altro, se ne
+                        quattro hanno cercato inutilmente di convincersi l&#x2019;un l&#x2019;altro, se ne
                         vanno.</p>
-                    <p rend="indent">Entrano Pantalone, Arlecchino e Brighella, ancora molto
-                        frastornati per l’ultimo avvenimento. Si lamentano per il fatto di non poter
+          <p rend="indent">Entrano Pantalone, Arlecchino e Brighella, ancora molto
+                        frastornati per l&#x2019;ultimo avvenimento. Si lamentano per il fatto di non poter
                         trovare nessuno che li <pb facs="#arcainca_ge_005" n="5"/> soccorra. Intanto compaiono
                         alcuni pastori e delle pastorelle che si spaventano per la presenza degli
-                        stranieri. Smeraldina prende Arlecchino per una scimmia, cosa che dà
+                        stranieri. Smeraldina prende Arlecchino per una scimmia, cosa che d&#xE0;
                         occasione a vari lazzi, dopo i quali i pastori si mettono a sedere e, senza
                         tener conto della grande fame di Arlecchino, si pongono a vicenda degli
                         indovinelli da risolvere. Cloris inizia con il suo indovinello e dice: Molti
                         vengono catturati dai loro nemici nelle loro case; la casa scappa via dalle
-                        finestre e, nonostante ciò, essi rimangono prigionieri nella stessa casa.
+                        finestre e, nonostante ci&#xF2;, essi rimangono prigionieri nella stessa casa.
                         Dopo che gli altri la pregano di dare la soluzione, dice che sono i pesci
-                        pescati in mare con la rete. Essi rimangono prigionieri nell’acqua che è la
-                        loro casa, mentre l’acqua scorre via attraverso le finestre, cioè le
-                        aperture della rete. Ermilla chiede: Cosa è questo? È una persona che di due
+                        pescati in mare con la rete. Essi rimangono prigionieri nell&#x2019;acqua che &#xE8; la
+                        loro casa, mentre l&#x2019;acqua scorre via attraverso le finestre, cio&#xE8; le
+                        aperture della rete. Ermilla chiede: Cosa &#xE8; questo? &#xC8; una persona che di due
                         morti fa due vivi e poi si mette a dialogare con i morti. Essa chiarisce
-                        l’indovinello in questo modo: la persona è uno studioso che con spugna e
-                        pietra, due cose morte, trasforma in fuoco legno e luce, che così diventano
-                        vivi; dopodiché egli comincia a dialogare con un morto, cioè i libri.
-                        Smeraldina chiede: Come chiarire queste parole? Io ce l’ho; tu non ce l’hai:
-                        se lo vuoi avere, devi portare il tuo al mio e allora l’avremo entrambe.
+                        l&#x2019;indovinello in questo modo: la persona &#xE8; uno studioso che con spugna e
+                        pietra, due cose morte, trasforma in fuoco legno e luce, che cos&#xEC; diventano
+                        vivi; dopodich&#xE9; egli comincia a dialogare con un morto, cio&#xE8; i libri.
+                        Smeraldina chiede: Come chiarire queste parole? Io ce l&#x2019;ho; tu non ce l&#x2019;hai:
+                        se lo vuoi avere, devi portare il tuo al mio e allora l&#x2019;avremo entrambe.
                         Ella spiega che si tratta di due persone, delle quali una ha un lume acceso
-                        e l’altra un lume spento. Una deve andare dall’altra, se tutte e due
+                        e l&#x2019;altra un lume spento. Una deve andare dall&#x2019;altra, se tutte e due
                         vogliono avere i lumi accesi. Pantalone dice che vuole regalare alla sua
-                        amata un mezzo nulla e un intero nulla, l’inizio della città di Roma e la
-                        fine dell’amore, cioè un cuore. Brighella chiede come si chiamano le otto
+                        amata un mezzo nulla e un intero nulla, l&#x2019;inizio della citt&#xE0; di Roma e la
+                        fine dell&#x2019;amore, cio&#xE8; un cuore. Brighella chiede come si chiamano le otto
                         persone, di cui le prime due corrono continuamente in cerchio, la terza e la
-                        quarta sono sempre ferme, la quinta e la sesta non vanno mai d’accordo e la
-                        settima e l’ottava sono senza moderazione. Dice che la prima coppia è
+                        quarta sono sempre ferme, la quinta e la sesta non vanno mai d&#x2019;accordo e la
+                        settima e l&#x2019;ottava sono senza moderazione. Dice che la prima coppia &#xE8;
                         costituita dal sole e dalla luna, la seconda dal cielo e dalla terra, la
-                        terza dal giorno e dalla notte, la quarta dal fuoco e dall’acqua. Quando è
-                        il turno di Arlecchino, egli chiede che cos’è che davanti diventa più corto,
-                        quando di dietro si allunga. <pb facs="#arcainca_ge_006" n="6"/> Spiega che è la gonna
+                        terza dal giorno e dalla notte, la quarta dal fuoco e dall&#x2019;acqua. Quando &#xE8;
+                        il turno di Arlecchino, egli chiede che cos&#x2019;&#xE8; che davanti diventa pi&#xF9; corto,
+                        quando di dietro si allunga. <pb facs="#arcainca_ge_006" n="6"/> Spiega che &#xE8; la gonna
                         di una donna gravida. Pantalone, Brighella e Arlecchino dicono a questo
                         punto di aver sonno e si coricano. Mentre stanno dormendo, arriva il Dottore
                         che scaccia via le nipoti e Smeraldina e al loro posto mette degli spiriti,
-                        che disturbano continuamente la tranquillità dei forestieri. Con ciò finisce
+                        che disturbano continuamente la tranquillit&#xE0; dei forestieri. Con ci&#xF2; finisce
                         il primo atto.</p>
-                </div>
-                <div type="act" n="2">
-                    <head>ATTO SECONDO.</head>
-                    <p rend="indent">Il Dottore entra e dice che vuole sfogarsi a spese dei suoi
+        </div>
+        <div type="act" n="2">
+          <head>ATTO SECONDO.</head>
+          <p rend="indent">Il Dottore entra e dice che vuole sfogarsi a spese dei suoi
                         nemici e che ha proibito alle sue nipoti di andare da loro. Getta per terra
                         una corona ed esce. Arlecchino arriva pieno di paura, si siede e, mentre si
-                        lamenta di aver fame, arriva una delle pastorelle che, poiché egli si è
+                        lamenta di aver fame, arriva una delle pastorelle che, poich&#xE9; egli si &#xE8;
                         messo in testa la corona magica, lo prende per il suo innamorato e lo prega
-                        di amarla. Arlecchino si sorprende di ciò e si toglie la corona. La
-                        pastorella si spaventa quando vede un’altra persona e fugge via. Arlecchino
+                        di amarla. Arlecchino si sorprende di ci&#xF2; e si toglie la corona. La
+                        pastorella si spaventa quando vede un&#x2019;altra persona e fugge via. Arlecchino
                         rimane, arrivano tutti i pastori e le pastorelle e lo prendono per il suo
-                        innamoralo; quando, dopo che Arlecchino si è tolto la corona, si vedono
+                        innamoralo; quando, dopo che Arlecchino si &#xE8; tolto la corona, si vedono
                         ingannati, fuggono via. A questo punto compaiono Pantalone e Brighella, che
                         prendono entrambi Arlecchino per una delle pastorelle. Arlecchino fa un
                         lazzo con loro e, non appena si toglie la corona, essi lo riconoscono.
@@ -587,68 +588,68 @@
                         testa. Arlecchino lo vede come Smeraldina. Dopo alcuni scerzi scenici,
                         gettano via la corona e parlano della loro fame. Intanto il Dottore mette
                         una statua in mezzo alla scena e va via. Di fronte ad essa essi si
-                        spaventano, ma ancor più si spaventano quando la statua si trasforma in un
+                        spaventano, ma ancor pi&#xF9; si spaventano quando la statua si trasforma in un
                         tavolo. Prendono coraggio e si avvicinano per calmare la fame. Ma avviene
                         una nuova trasformazione, dopo la quale essi fuggono via impauriti.</p>
-                    <p rend="indent">Smeraldina entra e si diletta a ricordare Arlecchino, che
+          <p rend="indent">Smeraldina entra e si diletta a ricordare Arlecchino, che
                         chiama il suo piccolo moro. Arlecchino arriva tutto confuso. Smeraldina gli
                         fa coraggio e gli parla del suo amore. Arlecchino si rallegra della sua
                         fortuna. Smeraldina torna <pb facs="#arcainca_ge_006" n="6"/> con dei maccheroni, gli
-                        dà da mangiare e se ne va di nuovo, dicendo che lo aspetta nella sua
-                        capanna. Arlecchino si siede di nuovo per mangiare. Ma nell’aria compare uno
+                        d&#xE0; da mangiare e se ne va di nuovo, dicendo che lo aspetta nella sua
+                        capanna. Arlecchino si siede di nuovo per mangiare. Ma nell&#x2019;aria compare uno
                         spirito che vuole prendere i maccheroni. Arlecchino cerca di metterli al
-                        sicuro e così si conclude il secondo atto.</p>
-                </div>
-                <div type="act" n="3">
-                    <head>ATTO TERZO.</head>
-                    <p rend="indent">Il Dottore perseguita Smeraldina, che lo prega di lasciarla in
-                        pace, perché non può ricambiare il suo amore. Il Dottore cerca di
+                        sicuro e cos&#xEC; si conclude il secondo atto.</p>
+        </div>
+        <div type="act" n="3">
+          <head>ATTO TERZO.</head>
+          <p rend="indent">Il Dottore perseguita Smeraldina, che lo prega di lasciarla in
+                        pace, perch&#xE9; non pu&#xF2; ricambiare il suo amore. Il Dottore cerca di
                         convincerla, ma lei fugge via. Mentre la insegue, lascia cadere un libro che
                         teneva sottobraccio. Arlecchino arriva, raccoglie il libro e, mentre lo
                         apre, compaiono due spiriti che gli chiedono che cosa comanda. Egli ordina
                         di essere vestito come un re. Essi obbediscono ed egli ordina loro di
-                        andarsene. Dopo di ciò arrivano i pastori e le pastorelle e gli chiedono che
+                        andarsene. Dopo di ci&#xF2; arrivano i pastori e le pastorelle e gli chiedono che
                         cosa vuole. Arlecchino risponde di voler essere rispettato. Essi rispondono
-                        che non riconoscono nessun signore sull’isola e lo vogliono picchiare.
+                        che non riconoscono nessun signore sull&#x2019;isola e lo vogliono picchiare.
                         Arlecchino apre il libro, subito arrivano gli spiriti e scacciano via i
                         pastori. Pantalone e Brighella cercano Arlecchino e quando lo trovano, gli
                         dicono che deve andare con loro al tempio per aiutarli a mangiare il cibo
-                        sacrificale che i pastori hanno offerto agli dèi. Arlecchino risponde che
-                        lui non ne ha bisogno perché ormai è re. Essi lo deridono, ma egli evoca gli
+                        sacrificale che i pastori hanno offerto agli d&#xE8;i. Arlecchino risponde che
+                        lui non ne ha bisogno perch&#xE9; ormai &#xE8; re. Essi lo deridono, ma egli evoca gli
                         spiriti e li fa cacciar via entrambi. Mentre succede questo, arriva il
                         Dottore. Quando egli vede il suo libro nelle mani di Arlecchino glielo
                         chiede indietro. Arlecchino non glielo vuole consegnare e minaccia il
-                        Dottore, che però chiama i suoi spiriti che bastonano Arlecchino e lo
+                        Dottore, che per&#xF2; chiama i suoi spiriti che bastonano Arlecchino e lo
                         portano via. Il Dottore se ne va ridendo.</p>
-                    <p rend="indent">I pastori e le pastorelle arrivano uno dopo l’altro con il cibo
-                        sacrificale, dicono che vogliono offrirlo agli dèi nel tempio, pregandoli di
+          <p rend="indent">I pastori e le pastorelle arrivano uno dopo l&#x2019;altro con il cibo
+                        sacrificale, dicono che vogliono offrirlo agli d&#xE8;i nel tempio, pregandoli di
                         mutare il cuore dei loro amati.</p>
-                    <pb facs="#arcainca_ge_008" n="8"/>
-                    <stage>LA SCENA RAPPRESENTA UN TEMPIO.</stage>
-                    <p rend="indent">Pantalone vestito da Venere, Brighella da Giove e Arlecchino da
-                        Cupido stanno sull’altare e dicono di voler approfittare dei sacrifici dei
+          <pb facs="#arcainca_ge_008" n="8"/>
+          <stage>LA SCENA RAPPRESENTA UN TEMPIO.</stage>
+          <p rend="indent">Pantalone vestito da Venere, Brighella da Giove e Arlecchino da
+                        Cupido stanno sull&#x2019;altare e dicono di voler approfittare dei sacrifici dei
                         pastori e delle pastorelle innamorati. A questo punto gli stessi compaiono,
-                        recitano la loro preghiera e depongono le pietanze. I finti dèi dicono che
-                        saranno tutti soddisfatti. Gli innamorati se ne vanno. Quando però
+                        recitano la loro preghiera e depongono le pietanze. I finti d&#xE8;i dicono che
+                        saranno tutti soddisfatti. Gli innamorati se ne vanno. Quando per&#xF2;
                         Pantalone, Brighella e Arlecchino vogliono mangiare le offerte sacrificali,
-                        essi ritornano indietro più volte e così si accorgono dell’inganno e
+                        essi ritornano indietro pi&#xF9; volte e cos&#xEC; si accorgono dell&#x2019;inganno e
                         chiamano i contadini per farli imprigionare. Pantalone e Brighella fuggono,
                         ma Arlecchino viene catturato. Se ne vanno tutti.</p>
-                    <p rend="indent">Pantalone entra, prega il Dottore di intercedere per il suo
-                        servitore Arlecchino e rivela la sua identità. Il Dottore fa altrettanto e,
+          <p rend="indent">Pantalone entra, prega il Dottore di intercedere per il suo
+                        servitore Arlecchino e rivela la sua identit&#xE0;. Il Dottore fa altrettanto e,
                         dopo che si sono riconciliati, promette di far liberare Arlecchino e di
                         restituire a Pantalone i suoi figli. Si abbracciano e se ne vanno.</p>
-                    <p rend="indent">Arlecchino arriva trasportato dai pastori e dal sacerdote con
-                        molte cerimonie per essere sacrificato agli dèi, di cui ha profanato la
-                        celebrazione. II Dottore però, che assieme a Pantalone assiste da lontano,
+          <p rend="indent">Arlecchino arriva trasportato dai pastori e dal sacerdote con
+                        molte cerimonie per essere sacrificato agli d&#xE8;i, di cui ha profanato la
+                        celebrazione. II Dottore per&#xF2;, che assieme a Pantalone assiste da lontano,
                         evoca uno spirito, che salva Arlecchino, strappando la scure dalle mani del
                         sacerdote. Tutti sono impauriti. Il Dottore si fa avanti e svela tutto
-                        l’intrigo. Arlecchino crede di essere già morto e cerca la propria testa. Il
+                        l&#x2019;intrigo. Arlecchino crede di essere gi&#xE0; morto e cerca la propria testa. Il
                         Dottore restituisce i figli a Pantalone e li fa sposare con le sue nipoti.
                         Non appena Arlecchino viene convinto di essere ancora in vita, si fidanza
-                        anche lui con Smeraldina e con così finisce la commedia.</p>
-                </div>
-            </body>
-        </text>
-    </TEI>
+                        anche lui con Smeraldina e con cos&#xEC; finisce la commedia.</p>
+        </div>
+      </body>
+    </text>
+  </TEI>
 </teiCorpus>

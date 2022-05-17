@@ -1,1039 +1,1040 @@
+<?xml version="1.0"?>
 <teiCorpus xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Il litigio per gli inganni tra Brighella e Arlecchino</title>
-                <respStmt>
-                    <resp>Transcription and encoding by</resp>
-                    <name>Tatiana Korneeva</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Translation by</resp>
-                    <name>Tatiana Korneeva</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Technical coordination, metadata curation, programming by</resp>
-                    <name>Tiziana Mancinelli</name>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Università Ca' Foscari di Venezia - VeDPH</publisher>
-                <date>December 2021</date>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Il litigio per gli inganni tra Brighella e Arlecchino</title>
+        <respStmt>
+          <resp>Transcription and encoding by</resp>
+          <name>Tatiana Korneeva</name>
+        </respStmt>
+        <respStmt>
+          <resp>Translation by</resp>
+          <name>Tatiana Korneeva</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technical coordination, metadata curation, programming by</resp>
+          <name>Tiziana Mancinelli</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universit&#xE0; Ca' Foscari di Venezia - VeDPH</publisher>
+        <date>May 2022</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported
                         License</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <p>In base alla data indicata sul frontespizio dello scenario a stampa è possibile stabilire che la pièce fosse stata allestita nel 1733. La scoperta dello scenario, preservato solo nella traduzione in tedesco, nei fondi della Biblioteca dell’Accademia delle Scienze di San Pietroburgo si deve a Marialuisa Ferrazzi, sulla base della menzione del soggetto nel <em>Svodnyj katalog knig na inostrannych jazykach, izdannych v Rossii v XVIII veke. 1701-1800</em>, Leningrad, Nauka, 1986, t. 3, n. 2796. Per quanto ci è dato a sapere, questa commedia non trova corrispondenze nelle altre raccolte conosciute di scenari del teatro all’improvviso e quindi potrebbe essere stata composta per far brillare gli attori che interpretavano i ruoli di Arlecchino e Brighella a San Pietroburgo. Tra gli elementi degni di nota presenti nello scenario, si può osservare come la rivalità che si instaura tra i due zanni, Arlecchino e Brighella, e che dà il titolo alla commedia, stravolga il rapporto tradizionale tra servo furbo e servo sciocco. Anche i ruoli di Silvio e Odoardo non sono quelli canonici dei due innamorati che si alleano tra loro per opporre resistenza ai vecchi, bensì quelli dei rivali. Un altro aspetto di grande interesse è costituito dalla scena di carattere metateatrale, in cui Arlecchino e Silvio, per distrare Pantalone, mettono in scena uno spettacolo del nuovo mondo, strumento ottico la cui maggiore diffusione si registra tra Sei e Settecento, ad opera soprattutto di comici ambulanti che giravano per le feste di paese, chiedendo un compenso per la visione delle immagini.</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <TEI>
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>Der Streit der Betruͤgereyen zwischen Brighella und Arlequin</title>
-                    <respStmt>
-                        <resp>Transcription and encoding by</resp>
-                        <name>Tatiana Korneeva</name>
-                    </respStmt>
-                    <respStmt>
-                        <resp>Digital images</resp>
-                        <name>The Library of St Petersburg Academy of Sciences</name>
-                    </respStmt>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Università Ca' Foscari di Venezia – VeDPH</publisher>
-                    <date>December 2021</date>
-                    <availability>
-                        <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>In base alla data indicata sul frontespizio dello scenario a stampa &#xE8; possibile stabilire che la pi&#xE8;ce fosse stata allestita nel 1733. La scoperta dello scenario, preservato solo nella traduzione in tedesco, nei fondi della Biblioteca dell&#x2019;Accademia delle Scienze di San Pietroburgo si deve a Marialuisa Ferrazzi, sulla base della menzione del soggetto nel <em>Svodnyj katalog knig na inostrannych jazykach, izdannych v Rossii v XVIII veke. 1701-1800</em>, Leningrad, Nauka, 1986, t. 3, n. 2796. Per quanto ci e&#x300; dato a sapere, questa commedia non trova corrispondenze nelle altre raccolte conosciute di scenari del teatro all&#x2019;improvviso e quindi potrebbe essere stata composta per far brillare gli attori che interpretavano i ruoli di Arlecchino e Brighella a San Pietroburgo. Tra gli elementi degni di nota presenti nello scenario, si pu&#xF2; osservare come la rivalit&#xE0; che si instaura tra i due zanni, Arlecchino e Brighella, e che d&#xE0; il titolo alla commedia, stravolga il rapporto tradizionale tra servo furbo e servo sciocco. Anche i ruoli di Silvio e Odoardo non sono quelli canonici dei due innamorati che si alleano tra loro per opporre resistenza ai vecchi, bens&#xEC; quelli dei rivali. Un altro aspetto di grande interesse &#xE8; costituito dalla scena di carattere metateatrale, in cui Arlecchino e Silvio, per distrare Pantalone, mettono in scena uno spettacolo del nuovo mondo, strumento ottico la cui maggiore diffusione si registra tra Sei e Settecento, ad opera soprattutto di comici ambulanti che giravano per le feste di paese, chiedendo un compenso per la visione delle immagini.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Der Streit der Betru&#x364;gereyen zwischen Brighella und Arlequin</title>
+          <respStmt>
+            <resp>Transcription and encoding by</resp>
+            <name>Tatiana Korneeva</name>
+          </respStmt>
+          <respStmt>
+            <resp>Digital images</resp>
+            <name>The Library of St Petersburg Academy of Sciences</name>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Universit&#xE0; Ca' Foscari di Venezia &#x2013; VeDPH</publisher>
+          <date>May 2022</date>
+          <availability>
+            <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0
                             Unported License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <msDesc>
-                        <msIdentifier>
-                            <settlement>St Petersburg</settlement>
-                            <repository>The Library of St Petersburg Academy of
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc>
+            <msIdentifier>
+              <settlement>St Petersburg</settlement>
+              <repository>The Library of St Petersburg Academy of
                                 Sciences</repository>
-                            <idno type="shelfmark">BAN, NIORK 7735.q/4935.R 3</idno>
-                        </msIdentifier>
-                        <physDesc>
-                            <objectDesc>
-                                <supportDesc>
-                                    <extent>
-                                        <measure unit="pages" quantity="12">12 pages of source
+              <idno type="shelfmark">BAN, NIORK 7735.q/4935.R 3</idno>
+            </msIdentifier>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <extent>
+                    <measure unit="pages" quantity="12">12 pages of source
                                             material</measure>
-                                        <height unit="cm">18,9</height>
-                                        <width unit="cm">14,6</width>
-                                        <depth unit="cm">0,1</depth>
-                                    </extent>
-                                </supportDesc>
-                            </objectDesc>
-                        </physDesc>
-                    </msDesc>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <langUsage>
-                    <language ident="ge">German</language>
-                </langUsage>
-            </profileDesc>
-        </teiHeader>
-        <facsimile>
-            <surface type="ge">
-                <graphic xml:id="litiinga_ge_001" url="/img/litiinga_ge_001.jpg"/>
-                <graphic xml:id="litiinga_ge_002" url="/img/litiinga_ge_002.jpg"/>
-                <graphic xml:id="litiinga_ge_003" url="/img/litiinga_ge_003.jpg"/>
-                <graphic xml:id="litiinga_ge_004" url="/img/litiinga_ge_004.jpg"/>
-                <graphic xml:id="litiinga_ge_005" url="/img/litiinga_ge_005.jpg"/>
-                <graphic xml:id="litiinga_ge_006" url="/img/litiinga_ge_006.jpg"/>
-                <graphic xml:id="litiinga_ge_007" url="/img/litiinga_ge_007.jpg"/>
-                <graphic xml:id="litiinga_ge_008" url="/img/litiinga_ge_008.jpg"/>
-                <graphic xml:id="litiinga_ge_009" url="/img/litiinga_ge_009.jpg"/>
-                <graphic xml:id="litiinga_ge_010" url="/img/litiinga_ge_010.jpg"/>
-                <graphic xml:id="litiinga_ge_011" url="/img/litiinga_ge_011.jpg"/>
-                <graphic xml:id="litiinga_ge_012" url="/img/litiinga_ge_012.jpg"/>
-            </surface>
-        </facsimile>
-        <text>
-            <front>
-                <pb facs="#litiinga_ge_001" n="1"/>
-                <head type="main">Der Streit der Betruͤgereyen<lb/> zwiſchen<lb/> Brighella und
+                    <height unit="cm">18,9</height>
+                    <width unit="cm">14,6</width>
+                    <depth unit="cm">0,1</depth>
+                  </extent>
+                </supportDesc>
+              </objectDesc>
+            </physDesc>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="ge">German</language>
+        </langUsage>
+      </profileDesc>
+    </teiHeader>
+    <facsimile>
+      <surface type="ge">
+        <graphic xml:id="litiinga_ge_001" url="/img/litiinga_ge_001.jpg"/>
+        <graphic xml:id="litiinga_ge_002" url="/img/litiinga_ge_002.jpg"/>
+        <graphic xml:id="litiinga_ge_003" url="/img/litiinga_ge_003.jpg"/>
+        <graphic xml:id="litiinga_ge_004" url="/img/litiinga_ge_004.jpg"/>
+        <graphic xml:id="litiinga_ge_005" url="/img/litiinga_ge_005.jpg"/>
+        <graphic xml:id="litiinga_ge_006" url="/img/litiinga_ge_006.jpg"/>
+        <graphic xml:id="litiinga_ge_007" url="/img/litiinga_ge_007.jpg"/>
+        <graphic xml:id="litiinga_ge_008" url="/img/litiinga_ge_008.jpg"/>
+        <graphic xml:id="litiinga_ge_009" url="/img/litiinga_ge_009.jpg"/>
+        <graphic xml:id="litiinga_ge_010" url="/img/litiinga_ge_010.jpg"/>
+        <graphic xml:id="litiinga_ge_011" url="/img/litiinga_ge_011.jpg"/>
+        <graphic xml:id="litiinga_ge_012" url="/img/litiinga_ge_012.jpg"/>
+      </surface>
+    </facsimile>
+    <text>
+      <front>
+        <pb facs="#litiinga_ge_001" n="1"/>
+        <head type="main">Der Streit der Betru&#x364;gereyen<lb/> zwi&#x17F;chen<lb/> Brighella und
                     Arlequin</head>
-                <head type="sub">ſo<lb/>in einem<lb/> Jtaliaͤniſchen Schauſpiele<lb/> an dem
-                    Kaͤyſerlichen Hofe<lb/> zu St. Petersburg<lb/><date when="1733">1733.</date><lb/>aufgefuͤhret worden.</head>
-                <pb facs="#litiinga_ge_002" n="2"/>
-                <pb facs="#litiinga_ge_003" n="3"/>
-                <head>Jnhalt des Schau-Spiels.</head>
-                <p rend="indent">Der in die Diana verliebte Silvio jagt den Brighella aus ſeinen
-                    Dien-<lb/> ſten, welcher von Odoardo, deſſen Neben-Buher, angenommen wird.
-                    Aus<lb/> Rache, wegen des von Silvio angethanen Schumpfes, ſuchet Brighella
-                    dem-<lb/> ſelben in ſeiner Liebe auf alle Weiſe verhinderlich, ſeinem neuen
-                    Herrn<lb/> aber befoͤrderlich, zu ſeyn. Arlequin wird hieruͤber eyferſuͤchtig,
-                    und be-<lb/> werckſtelliget, durch andere Streiche, daß Silvio in ſeiner Liebe
-                    zum<lb/> Zweck koͤmmt. Brighella ſtifftet dergleichen dagegen an, die von
+        <head type="sub">&#x17F;o<lb/>in einem<lb/> Jtalia&#x364;ni&#x17F;chen Schau&#x17F;piele<lb/> an dem
+                    Ka&#x364;y&#x17F;erlichen Hofe<lb/> zu St. Petersburg<lb/><date when="1733">1733.</date><lb/>aufgefu&#x364;hret worden.</head>
+        <pb facs="#litiinga_ge_002" n="2"/>
+        <pb facs="#litiinga_ge_003" n="3"/>
+        <head>Jnhalt des Schau-Spiels.</head>
+        <p rend="indent">Der in die Diana verliebte Silvio jagt den Brighella aus &#x17F;einen
+                    Dien-<lb/> &#x17F;ten, welcher von Odoardo, de&#x17F;&#x17F;en Neben-Buher, angenommen wird.
+                    Aus<lb/> Rache, wegen des von Silvio angethanen Schumpfes, &#x17F;uchet Brighella
+                    dem-<lb/> &#x17F;elben in &#x17F;einer Liebe auf alle Wei&#x17F;e verhinderlich, &#x17F;einem neuen
+                    Herrn<lb/> aber befo&#x364;rderlich, zu &#x17F;eyn. Arlequin wird hieru&#x364;ber eyfer&#x17F;u&#x364;chtig,
+                    und be-<lb/> werck&#x17F;telliget, durch andere Streiche, da&#xDF; Silvio in &#x17F;einer Liebe
+                    zum<lb/> Zweck ko&#x364;mmt. Brighella &#x17F;tifftet dergleichen dagegen an, die von
                     dem<lb/> Arlequin entdecket und hintertrieben werden, welches die Verwirrung
                     des<lb/> gantzen Spieles machet.</p>
-                <castList>
-                    <head>Die Perſonen.</head>
-                    <castItem>
-                        <role xml:id="pantalone_ge">Pantalon,</role>
-                        <roleDesc>Vater der</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="diana_ge">Diana.</role>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="smeraldina_ge">Smeraldina</role>
-                        <roleDesc>ihr Kammer-Maͤdgen.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="dottore_ge">Der Doctor</role>
-                        <roleDesc>Vater der</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="vittoria_ge">Vittoria.</role>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="silvio_ge">Silvio</role>
-                        <roleDesc>Liebhaber der Diana.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="arlecchino_ge">Arlequin,</role>
-                        <roleDesc>deſſen Diener.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="odoardo_ge">Odoardo</role>
-                        <roleDesc>ein anderer Liebhaber der Diana.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="brighella_ge">Brighella</role>
-                        <roleDesc>deſſen Bedienter.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="mago_ge">Ein Zauberer.</role>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="servitore_ge">Ein Bedienter.</role>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="spiriti_ge">Die Polter-Geiſter.</role>
-                    </castItem>
-                </castList>
-                <set>
-                    <p>Der Schauplatz iſt in Venedig.</p>
-                </set>
-            </front>
-            <body>
-                <fw type="sig" place="bottom">A2</fw>
-                <fw type="catch" place="bottom">Erſte</fw>
-                <pb facs="#litiinga_ge_004" n="4"/>
-                <fw type="pageNum">4</fw>
-                <div type="act" n="1">
-                    <head>Erſte Handlung.</head>
-                    <p rend="indent">Silvio wirfft dem</p>
-                    <p rend="indent">Brighella vor, daß er alles anwende, ſeine geliebte Diana von
-                        ihm abſpaͤnſtig<lb/> zu machen.</p>
-                    <p rend="indent">Arlequin aber, daß er ihm die Smeraldina vor dem Maule
-                        wegfiſchen wolle.<lb/> Brighella antwortet darauf daß er verbunden ſey,
-                        ſeinem neuen Herrn in deſſen<lb/> Liebe allen moͤglichen Beyſtand zu
-                        leiſten, und wirfft dem Silvio vor, daß er ihn<lb/> ohne Urſache aus dem
-                        Dienſte geſtoßen, ſagt ihm auch unter die Augen, daß er <lb/> alles anwenden
-                        wolle, den Odoardo in ſeiner Neigung gegen die Diana gluͤcklich zu<lb/>
-                        machen. Den Arlequin verdruͤſt ſolches, und er nimmt des Silvio Parthey.
-                        Nach<lb/> einigen Wortwechſel, wetten ſie miteinander, wer am erſten durch
-                        ſeine Streiche <lb/> zu ſeinen Zweck kommen werde. Brighella, nachdem er den
-                        Arlequin hoͤniſch durch-<lb/> gezogen, gehet ab. Silvio fragt den Arlequin,
-                        ob er wircklich im Stande ſey, <lb/> das, was er vorgebe, ins Werck zu
-                        ſetzen?</p>
-                    <p rend="indent">Arlequin antwortet mit Ja und, nach einigen Poſſen-Spielen,
+        <castList>
+          <head>Die Per&#x17F;onen.</head>
+          <castItem>
+            <role xml:id="pantalone_ge">Pantalon,</role>
+            <roleDesc>Vater der</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="diana_ge">Diana.</role>
+          </castItem>
+          <castItem>
+            <role xml:id="smeraldina_ge">Smeraldina</role>
+            <roleDesc>ihr Kammer-Ma&#x364;dgen.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="dottore_ge">Der Doctor</role>
+            <roleDesc>Vater der</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="vittoria_ge">Vittoria.</role>
+          </castItem>
+          <castItem>
+            <role xml:id="silvio_ge">Silvio</role>
+            <roleDesc>Liebhaber der Diana.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="arlecchino_ge">Arlequin,</role>
+            <roleDesc>de&#x17F;&#x17F;en Diener.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="odoardo_ge">Odoardo</role>
+            <roleDesc>ein anderer Liebhaber der Diana.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="brighella_ge">Brighella</role>
+            <roleDesc>de&#x17F;&#x17F;en Bedienter.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="mago_ge">Ein Zauberer.</role>
+          </castItem>
+          <castItem>
+            <role xml:id="servitore_ge">Ein Bedienter.</role>
+          </castItem>
+          <castItem>
+            <role xml:id="spiriti_ge">Die Polter-Gei&#x17F;ter.</role>
+          </castItem>
+        </castList>
+        <set>
+          <p>Der Schauplatz i&#x17F;t in Venedig.</p>
+        </set>
+      </front>
+      <body>
+        <fw type="sig" place="bottom">A2</fw>
+        <fw type="catch" place="bottom">Er&#x17F;te</fw>
+        <pb facs="#litiinga_ge_004" n="4"/>
+        <fw type="pageNum">4</fw>
+        <div type="act" n="1">
+          <head>Er&#x17F;te Handlung.</head>
+          <p rend="indent">Silvio wirfft dem</p>
+          <p rend="indent">Brighella vor, da&#xDF; er alles anwende, &#x17F;eine geliebte Diana von
+                        ihm ab&#x17F;pa&#x364;n&#x17F;tig<lb/> zu machen.</p>
+          <p rend="indent">Arlequin aber, da&#xDF; er ihm die Smeraldina vor dem Maule
+                        wegfi&#x17F;chen wolle.<lb/> Brighella antwortet darauf da&#xDF; er verbunden &#x17F;ey,
+                        &#x17F;einem neuen Herrn in de&#x17F;&#x17F;en<lb/> Liebe allen mo&#x364;glichen Bey&#x17F;tand zu
+                        lei&#x17F;ten, und wirfft dem Silvio vor, da&#xDF; er ihn<lb/> ohne Ur&#x17F;ache aus dem
+                        Dien&#x17F;te ge&#x17F;to&#xDF;en, &#x17F;agt ihm auch unter die Augen, da&#xDF; er <lb/> alles anwenden
+                        wolle, den Odoardo in &#x17F;einer Neigung gegen die Diana glu&#x364;cklich zu<lb/>
+                        machen. Den Arlequin verdru&#x364;&#x17F;t &#x17F;olches, und er nimmt des Silvio Parthey.
+                        Nach<lb/> einigen Wortwech&#x17F;el, wetten &#x17F;ie miteinander, wer am er&#x17F;ten durch
+                        &#x17F;eine Streiche <lb/> zu &#x17F;einen Zweck kommen werde. Brighella, nachdem er den
+                        Arlequin ho&#x364;ni&#x17F;ch durch-<lb/> gezogen, gehet ab. Silvio fragt den Arlequin,
+                        ob er wircklich im Stande &#x17F;ey, <lb/> das, was er vorgebe, ins Werck zu
+                        &#x17F;etzen?</p>
+          <p rend="indent">Arlequin antwortet mit Ja und, nach einigen Po&#x17F;&#x17F;en-Spielen,
                         befiehlet ihm<lb/> Silvio, die Diana zu ruffen.</p>
-                    <p rend="indent"/>
-                    <p rend="indent">Arlequin klopfet an.</p>
-                    <p rend="indent">Smeraldina koͤmmt heraus und als ſie ſiehet, daß es ihr lieber
-                        Arlequin<lb/> iſt, thut ſie uͤberaus ſreundlich mit ihm, welches eine
-                        laͤcherliche Liebe zugleich vorſtellt.<lb/> Zulezt bittet Silvio
-                        Smeraldinen, die Diana heraus zu ruſſen. Sie aber entſchuldiget<lb/> ſich,
-                        daß der alte Pantalon zu Hauſe ſey und Diana ſelbſt ſehr nothwendig<lb/> mit
-                        demſelben zu ſprechen habe. Waͤhrender Zeit hoͤret man nach der Smeraldina
-                        ruſſen.<lb/> Smeraldina wird hieruͤber beſtuͤrtzt, und ſaget, daß Silvio und
-                        Arlequin zu einer <lb/> gelegenern Zeit wieder kommen ſollten. Beide gehen
+          <p rend="indent"/>
+          <p rend="indent">Arlequin klopfet an.</p>
+          <p rend="indent">Smeraldina ko&#x364;mmt heraus und als &#x17F;ie &#x17F;iehet, da&#xDF; es ihr lieber
+                        Arlequin<lb/> i&#x17F;t, thut &#x17F;ie u&#x364;beraus &#x17F;reundlich mit ihm, welches eine
+                        la&#x364;cherliche Liebe zugleich vor&#x17F;tellt.<lb/> Zulezt bittet Silvio
+                        Smeraldinen, die Diana heraus zu ru&#x17F;&#x17F;en. Sie aber ent&#x17F;chuldiget<lb/> &#x17F;ich,
+                        da&#xDF; der alte Pantalon zu Hau&#x17F;e &#x17F;ey und Diana &#x17F;elb&#x17F;t &#x17F;ehr nothwendig<lb/> mit
+                        dem&#x17F;elben zu &#x17F;prechen habe. Wa&#x364;hrender Zeit ho&#x364;ret man nach der Smeraldina
+                        ru&#x17F;&#x17F;en.<lb/> Smeraldina wird hieru&#x364;ber be&#x17F;tu&#x364;rtzt, und &#x17F;aget, da&#xDF; Silvio und
+                        Arlequin zu einer <lb/> gelegenern Zeit wieder kommen &#x17F;ollten. Beide gehen
                         ab.</p>
-                    <p rend="indent">Brighella und</p>
-                    <p rend="indent">Odoardo treten auf, und der erſtere erzehlet an dieſen, was er
-                        mit dem Ar-<lb/> lequin fuͤr eine Wette getroffen. Odoardo verſpricht
-                        danckbar zu ſeyn, und empfielet<lb/> ihm ſeine Liebe auf das beſte.
-                        Brighella antwortet, daß er es nur ſolle auf ihn an-<lb/> kommen laſſen.
-                        Odoardo wiederholet ſein Verſprechen, und gehet ab. Brig-<lb/> hella bleibet
-                        da und ſaget, er wolle ſich bemuͤhen die Diana und den Silvio gegen<lb/>
-                        einander eyferſuͤchtig zu machen. Mittlerweile ſiehet er die</p>
-                    <p rend="indent">Vittoria kommen, ſo in Odoardo verliebt iſt. Wie ſie ihn gewahr
-                        wird, fragt<lb/> ſie, wie ſich ihr Liebhaber befinde, und haͤndiget ihm
-                        einen Brief an denſelben ein,<lb/> ſaget auch zugleich, daß ſie den Brief
-                        durch niemand anders beſtellen wollen; Weil<lb/> ſie ſich befuͤrchete, ihr
-                        Vater, der Doctor, moͤchte ihn auffangen und hinter ihre<lb/> Liebe kommen.
-                        Brighella verſpricht ihn richtig zu beſtellen, ſie aber gehet ab. Hier-<lb/>
-                        auf eroͤffnet Brighella, daß Odoardo, ſein Herr, ſeine Neigung gegen
-                        die<lb/> Vittoria ganzt und gar geaͤndert habe und nunmehro in die Diana
-                        verliebt ſey;<lb/> Er wolle ſich dieſes Briefs zu einer gantz andern Abſicht
-                        bedienen, ſich in Frauen-<lb/> Kleider verſtecken und ſelbigen, an ſtatt dem
-                        Odoardo, dem Silvio einhaͤndigen,<lb/> wenn er ſich bey der Diana befinden
-                        wuͤrde; Um beyde eyferſuͤchtig dadurch zu machen.<lb/> Er gehet ab.</p>
-                    <fw type="catch" place="bottom">Silvio</fw>
-                    <pb facs="#litiinga_ge_005" n="5"/>
-                    <fw type="pageNum">5</fw>
-                    <p rend="indent">Silvio tritt auf, redet von ſeiner Liebe, der Wette, ſo
-                        Arlequin mit Brighella<lb/> gemacht, und daß er zu der von der Smiraldine
-                        beſtimmten Stunde hieher komme;<lb/> mit der Diana zu ſprechen. Er klopffet
+          <p rend="indent">Brighella und</p>
+          <p rend="indent">Odoardo treten auf, und der er&#x17F;tere erzehlet an die&#x17F;en, was er
+                        mit dem Ar-<lb/> lequin fu&#x364;r eine Wette getroffen. Odoardo ver&#x17F;pricht
+                        danckbar zu &#x17F;eyn, und empfielet<lb/> ihm &#x17F;eine Liebe auf das be&#x17F;te.
+                        Brighella antwortet, da&#xDF; er es nur &#x17F;olle auf ihn an-<lb/> kommen la&#x17F;&#x17F;en.
+                        Odoardo wiederholet &#x17F;ein Ver&#x17F;prechen, und gehet ab. Brig-<lb/> hella bleibet
+                        da und &#x17F;aget, er wolle &#x17F;ich bemu&#x364;hen die Diana und den Silvio gegen<lb/>
+                        einander eyfer&#x17F;u&#x364;chtig zu machen. Mittlerweile &#x17F;iehet er die</p>
+          <p rend="indent">Vittoria kommen, &#x17F;o in Odoardo verliebt i&#x17F;t. Wie &#x17F;ie ihn gewahr
+                        wird, fragt<lb/> &#x17F;ie, wie &#x17F;ich ihr Liebhaber befinde, und ha&#x364;ndiget ihm
+                        einen Brief an den&#x17F;elben ein,<lb/> &#x17F;aget auch zugleich, da&#xDF; &#x17F;ie den Brief
+                        durch niemand anders be&#x17F;tellen wollen; Weil<lb/> &#x17F;ie &#x17F;ich befu&#x364;rchete, ihr
+                        Vater, der Doctor, mo&#x364;chte ihn auffangen und hinter ihre<lb/> Liebe kommen.
+                        Brighella ver&#x17F;pricht ihn richtig zu be&#x17F;tellen, &#x17F;ie aber gehet ab. Hier-<lb/>
+                        auf ero&#x364;ffnet Brighella, da&#xDF; Odoardo, &#x17F;ein Herr, &#x17F;eine Neigung gegen
+                        die<lb/> Vittoria ganzt und gar gea&#x364;ndert habe und nunmehro in die Diana
+                        verliebt &#x17F;ey;<lb/> Er wolle &#x17F;ich die&#x17F;es Briefs zu einer gantz andern Ab&#x17F;icht
+                        bedienen, &#x17F;ich in Frauen-<lb/> Kleider ver&#x17F;tecken und &#x17F;elbigen, an &#x17F;tatt dem
+                        Odoardo, dem Silvio einha&#x364;ndigen,<lb/> wenn er &#x17F;ich bey der Diana befinden
+                        wu&#x364;rde; Um beyde eyfer&#x17F;u&#x364;chtig dadurch zu machen.<lb/> Er gehet ab.</p>
+          <fw type="catch" place="bottom">Silvio</fw>
+          <pb facs="#litiinga_ge_005" n="5"/>
+          <fw type="pageNum">5</fw>
+          <p rend="indent">Silvio tritt auf, redet von &#x17F;einer Liebe, der Wette, &#x17F;o
+                        Arlequin mit Brighella<lb/> gemacht, und da&#xDF; er zu der von der Smiraldine
+                        be&#x17F;timmten Stunde hieher komme;<lb/> mit der Diana zu &#x17F;prechen. Er klopffet
                         an.</p>
-                    <p rend="indent">Diana kommt heraus, und nachdem ſie einander allerley
-                        Liebes-Erklaͤrungen<lb/> gemacht und beyderſeitige Verſicherungen einer
-                        ewigen Treue gegeben, erſcheinet</p>
-                    <p rend="indent">Brighella, als eine alte Frau, und uͤberreichet ſeinen Brief an
-                        den Silvio.<lb/> Diana wird eyfersuͤchtig, reißt ihm denſelben aus den
-                        Haͤnden und nachdem ſie ihn<lb/> geleſen, macht ſie dem Silvio viele
-                        beiſſende Vorwuͤrffe, ohne ihn ein Wort da zu<lb/> reden zu laſſen. Eben ſo
-                        bezeuget ſie ſich gegen den Brighella und laͤſſet beyde ver-<lb/> ſtummet
-                        ſtehen. Smeraldina folgt ihrer Jungfer nach und Brighella gehet la-<lb/>
-                        chend ab. Silvio bleibet gantz erſtarret, verwirret und in voller
-                        Verzweiffelung<lb/> ſtehen. Jndeſſen koͤmmt</p>
-                    <p rend="indent">Arlequin macht einige Poſſen und ſagt endlich zu ſeinem Herrn,
-                        daß er die<lb/> Smiraldina mit ihrer Jungfer und dem Pantalon habe masquiert
-                        auf den Marckte<lb/> angetroffen und daß ſie ihm angerathen, auf eine
-                        Erfindung bedacht zu ſeyn, wie<lb/> ſie mit ihnen Geſellſchafft machen und
-                        den Silvio wieder mit der Diana ausſoͤnen<lb/> koͤnnten. Silvio bedancket
-                        ſich fuͤr dieſe gute Zeitung und denckt auf ein Mittel ſol-<lb/> ches zu
-                        bewerckſtelligen. Zuletzt koͤmmt Arlequin auf den Einfall die Machine
-                        von<lb/> der neuen Welt vorzuſtellen. Silvio iſt damit vergnuͤgt und beyde
-                        gehen weg; ihr<lb/> Vorhaben auszufuͤhren.</p>
-                    <p rend="indent">Odoardo, ſo von ferne zugehoͤret, und dieſen Anſchlag gantz
-                        wohl verſtan-<lb/> den, bezeiget ſich hieruͤber gantz verzweiffelnd und
+          <p rend="indent">Diana kommt heraus, und nachdem &#x17F;ie einander allerley
+                        Liebes-Erkla&#x364;rungen<lb/> gemacht und beyder&#x17F;eitige Ver&#x17F;icherungen einer
+                        ewigen Treue gegeben, er&#x17F;cheinet</p>
+          <p rend="indent">Brighella, als eine alte Frau, und u&#x364;berreichet &#x17F;einen Brief an
+                        den Silvio.<lb/> Diana wird eyfersu&#x364;chtig, rei&#xDF;t ihm den&#x17F;elben aus den
+                        Ha&#x364;nden und nachdem &#x17F;ie ihn<lb/> gele&#x17F;en, macht &#x17F;ie dem Silvio viele
+                        bei&#x17F;&#x17F;ende Vorwu&#x364;rffe, ohne ihn ein Wort da zu<lb/> reden zu la&#x17F;&#x17F;en. Eben &#x17F;o
+                        bezeuget &#x17F;ie &#x17F;ich gegen den Brighella und la&#x364;&#x17F;&#x17F;et beyde ver-<lb/> &#x17F;tummet
+                        &#x17F;tehen. Smeraldina folgt ihrer Jungfer nach und Brighella gehet la-<lb/>
+                        chend ab. Silvio bleibet gantz er&#x17F;tarret, verwirret und in voller
+                        Verzweiffelung<lb/> &#x17F;tehen. Jnde&#x17F;&#x17F;en ko&#x364;mmt</p>
+          <p rend="indent">Arlequin macht einige Po&#x17F;&#x17F;en und &#x17F;agt endlich zu &#x17F;einem Herrn,
+                        da&#xDF; er die<lb/> Smiraldina mit ihrer Jungfer und dem Pantalon habe masquiert
+                        auf den Marckte<lb/> angetroffen und da&#xDF; &#x17F;ie ihm angerathen, auf eine
+                        Erfindung bedacht zu &#x17F;eyn, wie<lb/> &#x17F;ie mit ihnen Ge&#x17F;ell&#x17F;chafft machen und
+                        den Silvio wieder mit der Diana aus&#x17F;o&#x364;nen<lb/> ko&#x364;nnten. Silvio bedancket
+                        &#x17F;ich fu&#x364;r die&#x17F;e gute Zeitung und denckt auf ein Mittel &#x17F;ol-<lb/> ches zu
+                        bewerck&#x17F;telligen. Zuletzt ko&#x364;mmt Arlequin auf den Einfall die Machine
+                        von<lb/> der neuen Welt vorzu&#x17F;tellen. Silvio i&#x17F;t damit vergnu&#x364;gt und beyde
+                        gehen weg; ihr<lb/> Vorhaben auszufu&#x364;hren.</p>
+          <p rend="indent">Odoardo, &#x17F;o von ferne zugeho&#x364;ret, und die&#x17F;en An&#x17F;chlag gantz
+                        wohl ver&#x17F;tan-<lb/> den, bezeiget &#x17F;ich hieru&#x364;ber gantz verzweiffelnd und
                         wirfft dem</p>
-                    <p rend="indent">Brighella ſeine Nachlaͤßigkeit in den Dienſten vor. Brighella
-                        entſchul-<lb/> diget ſich mit der Erzehlung alles deſſen, was er
-                        vorgenommen, den Silvio und die<lb/> Diana eyferſuͤchtig zu machen, und daß
-                        es ihm wohl von ſtatten gegangen ſey. Odo-<lb/> ardo ſaget ihm hierauf, was
-                        Silvio und Arlequin fuͤr einen Anſchlag gemacht.<lb/> Brighella antwortet
-                        darauf, daß er ihnen den Handel ſchon verderben wolle,<lb/> und beyde geben
+          <p rend="indent">Brighella &#x17F;eine Nachla&#x364;&#xDF;igkeit in den Dien&#x17F;ten vor. Brighella
+                        ent&#x17F;chul-<lb/> diget &#x17F;ich mit der Erzehlung alles de&#x17F;&#x17F;en, was er
+                        vorgenommen, den Silvio und die<lb/> Diana eyfer&#x17F;u&#x364;chtig zu machen, und da&#xDF;
+                        es ihm wohl von &#x17F;tatten gegangen &#x17F;ey. Odo-<lb/> ardo &#x17F;aget ihm hierauf, was
+                        Silvio und Arlequin fu&#x364;r einen An&#x17F;chlag gemacht.<lb/> Brighella antwortet
+                        darauf, da&#xDF; er ihnen den Handel &#x17F;chon verderben wolle,<lb/> und beyde geben
                         ab.</p>
-                    <p rend="indent">Pantalon wirfft mit Murren der</p>
-                    <p rend="indent">Diana ihr melancoliſches Gemuͤthe vor, ſie aber antwortet ihm,
-                        daß ſolches<lb/> natuͤrlicher Weiſe nichts anders ſeyn koͤnne.</p>
-                    <p rend="indent">Smeraldina macht durch ihre unverſchaͤmte Antworten den
-                        Pantalon gantz<lb/> boͤſe, und ſagt ihm unter die Augen, daß er die eintzige
-                        Urſache des Verdruſſes<lb/> ſey, ſo Diana empfinden muͤſſe; weil er ſie
-                        unaufhoͤrlich in einem Zimmer einge-<lb/> ſperret hielte. Pantalon heiſet
-                        ſie ſchweigen. Jndeſſen koͤmmt</p>
-                    <p rend="indent">Arlequin die Machine der neuen Welt auf den ruͤcken tragend,
-                        und indem <lb/> Pantalon hienein ſiehet ſuchet ſich Silvio mit der Diana zu
+          <p rend="indent">Pantalon wirfft mit Murren der</p>
+          <p rend="indent">Diana ihr melancoli&#x17F;ches Gemu&#x364;the vor, &#x17F;ie aber antwortet ihm,
+                        da&#xDF; &#x17F;olches<lb/> natu&#x364;rlicher Wei&#x17F;e nichts anders &#x17F;eyn ko&#x364;nne.</p>
+          <p rend="indent">Smeraldina macht durch ihre unver&#x17F;cha&#x364;mte Antworten den
+                        Pantalon gantz<lb/> bo&#x364;&#x17F;e, und &#x17F;agt ihm unter die Augen, da&#xDF; er die eintzige
+                        Ur&#x17F;ache des Verdru&#x17F;&#x17F;es<lb/> &#x17F;ey, &#x17F;o Diana empfinden mu&#x364;&#x17F;&#x17F;e; weil er &#x17F;ie
+                        unaufho&#x364;rlich in einem Zimmer einge-<lb/> &#x17F;perret hielte. Pantalon hei&#x17F;et
+                        &#x17F;ie &#x17F;chweigen. Jnde&#x17F;&#x17F;en ko&#x364;mmt</p>
+          <p rend="indent">Arlequin die Machine der neuen Welt auf den ru&#x364;cken tragend,
+                        und indem <lb/> Pantalon hienein &#x17F;iehet &#x17F;uchet &#x17F;ich Silvio mit der Diana zu
                         unterhalten.</p>
-                    <p rend="indent">Brighella koͤmmt mit einer gleichen Machine anmarſchiret, und
-                        weil er <lb/> den Arlequin wegdraͤngen will, gerathen ſie, nach allerley
-                        andern Poſſen, zum Hand-<lb/> gemenge und alle gehen mit Zancken
-                        auſeinander.</p>
-                    <fw type="sig" place="bottom">A3</fw>
-                    <fw type="catch" place="bottom">Der</fw>
-                    <pb facs="#litiinga_ge_006" n="6"/>
-                    <fw type="pageNum">6</fw>
-                    <stage>Der Schauplatz verwandelt ſich in eine Stadt.</stage>
-                    <p rend="indent">Odoardo tritt auf und bezeuget ſich gantz ungedultig zu
-                        vernehmen, wie des<lb/> Brighella luͤſtiger Streich ausgeſchlagen. Hierauf
-                        koͤmmt die</p>
-                    <p rend="indent">Vittoria und redet gegen ihn von ihrer Liebe. Odoardo giebt ihr
-                        gantz<lb/> deutlich zu verſtehen, daß er ſeine Neigung geaͤndert habe.
-                        Vittoria aber wirfft<lb/> ihm ſeine Undanckbarkeit und Leichtſinnigkeit vor
-                        und gehet ab. Jnmitelſt koͤmmt</p>
-                    <p rend="indent">Brighella und erzehlet ihm, was mit dem Arlequin und Pantalon,
+          <p rend="indent">Brighella ko&#x364;mmt mit einer gleichen Machine anmar&#x17F;chiret, und
+                        weil er <lb/> den Arlequin wegdra&#x364;ngen will, gerathen &#x17F;ie, nach allerley
+                        andern Po&#x17F;&#x17F;en, zum Hand-<lb/> gemenge und alle gehen mit Zancken
+                        au&#x17F;einander.</p>
+          <fw type="sig" place="bottom">A3</fw>
+          <fw type="catch" place="bottom">Der</fw>
+          <pb facs="#litiinga_ge_006" n="6"/>
+          <fw type="pageNum">6</fw>
+          <stage>Der Schauplatz verwandelt &#x17F;ich in eine Stadt.</stage>
+          <p rend="indent">Odoardo tritt auf und bezeuget &#x17F;ich gantz ungedultig zu
+                        vernehmen, wie des<lb/> Brighella lu&#x364;&#x17F;tiger Streich ausge&#x17F;chlagen. Hierauf
+                        ko&#x364;mmt die</p>
+          <p rend="indent">Vittoria und redet gegen ihn von ihrer Liebe. Odoardo giebt ihr
+                        gantz<lb/> deutlich zu ver&#x17F;tehen, da&#xDF; er &#x17F;eine Neigung gea&#x364;ndert habe.
+                        Vittoria aber wirfft<lb/> ihm &#x17F;eine Undanckbarkeit und Leicht&#x17F;innigkeit vor
+                        und gehet ab. Jnmitel&#x17F;t ko&#x364;mmt</p>
+          <p rend="indent">Brighella und erzehlet ihm, was mit dem Arlequin und Pantalon,
                         vorge-<lb/> fallen und redet mit ihm ab, dem alten aufs neue einen Betrug zu
-                        ſpielen, welcher darinnen<lb/> beſtehet; Odoardo will vorgeben, daß
-                        ohnlaͤngſt zu Rom die Statue des Jupiters ſey ent-<lb/> wendet und er von
-                        dem Rath daſelbſt beordret worden, ſolche wieder herbeyzuſchaffen; wel-<lb/>
-                        ches bewerckſtelliget und da er nunmehro im Begriffe ſey die Zeitung nach
-                        Rom zu<lb/> bringen, wollte er gerne die Statue indeſſen an einen ſicheren
-                        Ort in Verwahrung<lb/> geben, und ſchmeichele ſich, daß Herr Pantalon, als
-                        ein ſo großer Liebhaber<lb/> der Raritaͤten, ihm hierinne werde zu ſtatten
-                        kommen. Brighella will die Statue<lb/> ſelbſt vorſtellen; in der Hoffnung,
-                        daß ſie beyde mit Huͤlffe der Nacht, die Diana<lb/> wuͤrden aufheben und
-                        entfuͤhren koͤnnen. Odoardo erkennt den Anſchlag fuͤr gut und<lb/> beyde
-                        geben ab, ihn auszufuͤhren.</p>
-                    <p rend="indent">Arlequin, der von ferne zugehoͤrt und den Handel wohl
-                        verſtanden, erzehlet<lb/> ſolchen an den</p>
-                    <p rend="indent">Silvio, der da zukoͤmmt und mit ihm eins wird, ſich beyde fuͤr
-                        Roͤ-<lb/> miſche Rathsherren, die zu Aufſuchung der Statue des Jupiters
-                        abgeſchickt worden,<lb/> auszugeben, und dem Pantalon die Betruͤgeren des
+                        &#x17F;pielen, welcher darinnen<lb/> be&#x17F;tehet; Odoardo will vorgeben, da&#xDF;
+                        ohnla&#x364;ng&#x17F;t zu Rom die Statue des Jupiters &#x17F;ey ent-<lb/> wendet und er von
+                        dem Rath da&#x17F;elb&#x17F;t beordret worden, &#x17F;olche wieder herbeyzu&#x17F;chaffen; wel-<lb/>
+                        ches bewerck&#x17F;telliget und da er nunmehro im Begriffe &#x17F;ey die Zeitung nach
+                        Rom zu<lb/> bringen, wollte er gerne die Statue inde&#x17F;&#x17F;en an einen &#x17F;icheren
+                        Ort in Verwahrung<lb/> geben, und &#x17F;chmeichele &#x17F;ich, da&#xDF; Herr Pantalon, als
+                        ein &#x17F;o gro&#xDF;er Liebhaber<lb/> der Rarita&#x364;ten, ihm hierinne werde zu &#x17F;tatten
+                        kommen. Brighella will die Statue<lb/> &#x17F;elb&#x17F;t vor&#x17F;tellen; in der Hoffnung,
+                        da&#xDF; &#x17F;ie beyde mit Hu&#x364;lffe der Nacht, die Diana<lb/> wu&#x364;rden aufheben und
+                        entfu&#x364;hren ko&#x364;nnen. Odoardo erkennt den An&#x17F;chlag fu&#x364;r gut und<lb/> beyde
+                        geben ab, ihn auszufu&#x364;hren.</p>
+          <p rend="indent">Arlequin, der von ferne zugeho&#x364;rt und den Handel wohl
+                        ver&#x17F;tanden, erzehlet<lb/> &#x17F;olchen an den</p>
+          <p rend="indent">Silvio, der da zuko&#x364;mmt und mit ihm eins wird, &#x17F;ich beyde fu&#x364;r
+                        Ro&#x364;-<lb/> mi&#x17F;che Rathsherren, die zu Auf&#x17F;uchung der Statue des Jupiters
+                        abge&#x17F;chickt worden,<lb/> auszugeben, und dem Pantalon die Betru&#x364;geren des
                         Brighella zu entdecken; Wel-<lb/> ches ihrer Meynung nach, der andern
-                        Unternehmen gantz fruchtloß machen ſolle<lb/> Beyde gehen ab.</p>
-                    <p rend="indent">Pantalon kommt und ſagt zu der</p>
-                    <p rend="indent">Diana und</p>
-                    <p rend="indent">Smeraldina, wie er ſtarcke Vermuthung habe, daß ſie den Handel
-                        mit den<lb/> beyden letzten Betruͤgern verabredet. Diana ſtellet ſich, als
-                        ob ſie hierdurch auf das<lb/> aͤuſſerſte beleidiget ſey. Smeraldina thut
-                        deſgleichen und beyde gehen ab. Pantalon<lb/> der zuruͤckbleibet, macht
-                        allerley Betrachtungen uͤber ſeinen Zuſtand woruͤber</p>
-                    <p rend="indent">Odoardo der, vermoͤge er mit Brighella genommenen Abrede, dem
-                        Pan-<lb/> lon weiß macht, daß er die Statue, ſo zu Rom entwendet worden, in
-                        Haͤnden<lb/> habe, und ihn bittet, daß er ſolche indeſſen, biß zu ſeiner
-                        Zuruͤckkunfft von Rom,<lb/> in Verwahrung nehmen moͤgte. Er ſagt, er hoffe
-                        die Belohnung zu heben, ſo den-<lb/> jenigen verſprechen werden, der
-                        obgedachte Statue wieder faͤnde, und bey ſeiner<lb/> Ankunfft wolle er das
-                        Geld mit ihm theilen. Pantalon bezeiget ſich hieruͤber aus<lb/>
+                        Unternehmen gantz fruchtlo&#xDF; machen &#x17F;olle<lb/> Beyde gehen ab.</p>
+          <p rend="indent">Pantalon kommt und &#x17F;agt zu der</p>
+          <p rend="indent">Diana und</p>
+          <p rend="indent">Smeraldina, wie er &#x17F;tarcke Vermuthung habe, da&#xDF; &#x17F;ie den Handel
+                        mit den<lb/> beyden letzten Betru&#x364;gern verabredet. Diana &#x17F;tellet &#x17F;ich, als
+                        ob &#x17F;ie hierdurch auf das<lb/> a&#x364;u&#x17F;&#x17F;er&#x17F;te beleidiget &#x17F;ey. Smeraldina thut
+                        de&#x17F;gleichen und beyde gehen ab. Pantalon<lb/> der zuru&#x364;ckbleibet, macht
+                        allerley Betrachtungen u&#x364;ber &#x17F;einen Zu&#x17F;tand woru&#x364;ber</p>
+          <p rend="indent">Odoardo der, vermo&#x364;ge er mit Brighella genommenen Abrede, dem
+                        Pan-<lb/> lon wei&#xDF; macht, da&#xDF; er die Statue, &#x17F;o zu Rom entwendet worden, in
+                        Ha&#x364;nden<lb/> habe, und ihn bittet, da&#xDF; er &#x17F;olche inde&#x17F;&#x17F;en, bi&#xDF; zu &#x17F;einer
+                        Zuru&#x364;ckkunfft von Rom,<lb/> in Verwahrung nehmen mo&#x364;gte. Er &#x17F;agt, er hoffe
+                        die Belohnung zu heben, &#x17F;o den-<lb/> jenigen ver&#x17F;prechen werden, der
+                        obgedachte Statue wieder fa&#x364;nde, und bey &#x17F;einer<lb/> Ankunfft wolle er das
+                        Geld mit ihm theilen. Pantalon bezeiget &#x17F;ich hieru&#x364;ber aus<lb/>
                         <fw type="catch" place="bottom">der</fw>
                         <pb facs="#litiinga_ge_007" n="7"/>
-                        <fw type="pageNum">7</fw> dermaaßen vergnuͤgt, und erſuchet ihn, die Statue
-                        herbringen zu laſſen. Odoardo<lb/> gehet ab; Pantalon aber beluſtiget bey
-                        ſich ſelbſt mit dem neuen Vortheil, ſo er zu<lb/> erhalten vermeynet.</p>
-                    <lb/>
-                    <stage>Der Schauplatz ſtellet eine Zimmer vor.</stage>
-                    <p rend="indent">Diana ſtreichet gegen die</p>
-                    <p rend="indent">Smeraldina die Liebe heraus, ſo ſie bißhero gegen den Silvio
-                        bezeiget. Bey-<lb/> de beklagen ſich uͤber das verdruͤßliche Alter des
+                        <fw type="pageNum">7</fw> dermaa&#xDF;en vergnu&#x364;gt, und er&#x17F;uchet ihn, die Statue
+                        herbringen zu la&#x17F;&#x17F;en. Odoardo<lb/> gehet ab; Pantalon aber belu&#x17F;tiget bey
+                        &#x17F;ich &#x17F;elb&#x17F;t mit dem neuen Vortheil, &#x17F;o er zu<lb/> erhalten vermeynet.</p>
+          <lb/>
+          <stage>Der Schauplatz &#x17F;tellet eine Zimmer vor.</stage>
+          <p rend="indent">Diana &#x17F;treichet gegen die</p>
+          <p rend="indent">Smeraldina die Liebe heraus, &#x17F;o &#x17F;ie bi&#xDF;hero gegen den Silvio
+                        bezeiget. Bey-<lb/> de beklagen &#x17F;ich u&#x364;ber das verdru&#x364;&#xDF;liche Alter des
                         Pantalons.</p>
-                    <p rend="indent">Pantalon koͤmmt daruͤber dazu, und erzehlet den Handel mit der
+          <p rend="indent">Pantalon ko&#x364;mmt daru&#x364;ber dazu, und erzehlet den Handel mit der
                         Statue<lb/> des Jupiters. Smeraldina aber macht ihn wieder, durch ihre
-                        Plauderey, verdruͤßlich.<lb/> Jndeſſen wird geklopfet, und Pantalon heißet
+                        Plauderey, verdru&#x364;&#xDF;lich.<lb/> Jnde&#x17F;&#x17F;en wird geklopfet, und Pantalon hei&#xDF;et
                         die Diana und Smeraldina hineinge-<lb/> hen, welche mit Unwillen
-                        gehorſammen. Jnzwiſchen koͤmmt</p>
-                    <p rend="indent">Odoardo und laͤſt den</p>
-                    <p rend="indent">Brighella, als die Statue des Jupiters, hinein bringen. Odoardo
-                        nimmt<lb/> von dem Pantalon Abſchied. Pantalon aber bezeiget ſeine
-                        Verwunderung uͤber die<lb/> Schoͤnheit der Statue. Hierauf treten</p>
-                    <p rend="indent">Silvio und</p>
-                    <p rend="indent">Arlequin herein, die als Raths-Herren angekleidet ſind, und
-                        ſagen zu den<lb/> Pantalon, ſie haͤtten gehoͤret, daß er die Statue des
-                        Jupiters, ſo zu Rom entwendet<lb/> worden, in ſein Hauß bringen laſſen und
-                        daß ſie, als 2 Deputierte des Roͤmi-<lb/> ſchen Raths, gekommen waͤren,
-                        dieſelbe zu beſehen. Sie finden aber, daß ſie nicht<lb/> nach dem
-                        mitgegebenem Modelle iſt. Zuletzt entdeckt Arlequin die Betruͤgerey des<lb/>
-                        Brighella und alle jagen ihn aus dem Hauſe.</p>
-                    <p rend="indent">Ende der erſten Handlung.</p>
-                </div>
-                <div type="act" n="2">
-                    <head>Andere Handlung.</head>
-                    <stage>Der Schauplatz ſtellet eine Stad vor.</stage>
-                    <p rend="indent">Pantalon ſagt zu den</p>
-                    <p rend="indent">Doctor, ſeinem guten Freunde, was man in ſeinem Hauſe, ſeiner
-                        Tochter<lb/> wegen, fuͤr Streiche mache; Er koͤnne unmoͤglich einen Tag
-                        laͤnger Gedult haben,<lb/> und ſaͤhe ſich genoͤthiget, ſein Haab und Guth in
-                        Gefahr zu ſetzen und ſein Vater-<lb/> land zu verlaſſen. Der Doctor giebt
-                        ihm den Rath, ſeine Tochter als die eintzige<lb/> Urſache ſeines Verdruſſes,
-                        von der Stadt zu entfernen, biethet ihm auch ſein Landguth<lb/> an, wohin
-                        ſie mit der Vittoria, ſeiner eigenen Tochter, abgeben koͤnnte, und
-                        wofer-<lb/> ne ihre Liebhaber die Sache ausſpuͤreten und von Venedig hinaus
-                        kaͤmen, wolle er<lb/>
+                        gehor&#x17F;ammen. Jnzwi&#x17F;chen ko&#x364;mmt</p>
+          <p rend="indent">Odoardo und la&#x364;&#x17F;t den</p>
+          <p rend="indent">Brighella, als die Statue des Jupiters, hinein bringen. Odoardo
+                        nimmt<lb/> von dem Pantalon Ab&#x17F;chied. Pantalon aber bezeiget &#x17F;eine
+                        Verwunderung u&#x364;ber die<lb/> Scho&#x364;nheit der Statue. Hierauf treten</p>
+          <p rend="indent">Silvio und</p>
+          <p rend="indent">Arlequin herein, die als Raths-Herren angekleidet &#x17F;ind, und
+                        &#x17F;agen zu den<lb/> Pantalon, &#x17F;ie ha&#x364;tten geho&#x364;ret, da&#xDF; er die Statue des
+                        Jupiters, &#x17F;o zu Rom entwendet<lb/> worden, in &#x17F;ein Hau&#xDF; bringen la&#x17F;&#x17F;en und
+                        da&#xDF; &#x17F;ie, als 2 Deputierte des Ro&#x364;mi-<lb/> &#x17F;chen Raths, gekommen wa&#x364;ren,
+                        die&#x17F;elbe zu be&#x17F;ehen. Sie finden aber, da&#xDF; &#x17F;ie nicht<lb/> nach dem
+                        mitgegebenem Modelle i&#x17F;t. Zuletzt entdeckt Arlequin die Betru&#x364;gerey des<lb/>
+                        Brighella und alle jagen ihn aus dem Hau&#x17F;e.</p>
+          <p rend="indent">Ende der er&#x17F;ten Handlung.</p>
+        </div>
+        <div type="act" n="2">
+          <head>Andere Handlung.</head>
+          <stage>Der Schauplatz &#x17F;tellet eine Stad vor.</stage>
+          <p rend="indent">Pantalon &#x17F;agt zu den</p>
+          <p rend="indent">Doctor, &#x17F;einem guten Freunde, was man in &#x17F;einem Hau&#x17F;e, &#x17F;einer
+                        Tochter<lb/> wegen, fu&#x364;r Streiche mache; Er ko&#x364;nne unmo&#x364;glich einen Tag
+                        la&#x364;nger Gedult haben,<lb/> und &#x17F;a&#x364;he &#x17F;ich geno&#x364;thiget, &#x17F;ein Haab und Guth in
+                        Gefahr zu &#x17F;etzen und &#x17F;ein Vater-<lb/> land zu verla&#x17F;&#x17F;en. Der Doctor giebt
+                        ihm den Rath, &#x17F;eine Tochter als die eintzige<lb/> Ur&#x17F;ache &#x17F;eines Verdru&#x17F;&#x17F;es,
+                        von der Stadt zu entfernen, biethet ihm auch &#x17F;ein Landguth<lb/> an, wohin
+                        &#x17F;ie mit der Vittoria, &#x17F;einer eigenen Tochter, abgeben ko&#x364;nnte, und
+                        wofer-<lb/> ne ihre Liebhaber die Sache aus&#x17F;pu&#x364;reten und von Venedig hinaus
+                        ka&#x364;men, wolle er<lb/>
                         <fw type="catch" place="bottom">sie</fw>
                         <pb facs="#litiinga_ge_008" n="8"/>
-                        <fw type="pageNum">8</fw> ſie durch ſeine Bauern, wegpruͤgeln laſſen.
-                        Pantalon laͤſſet ſich, mit allem Danck,<lb/> ſeinen Vorſchlag gefallen, und
-                        beyde gehen weg, ein Schiff zu beſtellen.</p>
-                    <p rend="indent">Odoardo der nebſt dem</p>
-                    <p rend="indent">Brighella dieſes Vorhaben der Alten mit angehoͤret, ſetzet ſich
-                        vor, ihnen,<lb/> mit gewaffneter Hand auf dem Wege aufzupaſſen, und
-                        Pantalons Tochter, nebſt ih-<lb/> rem Kammer-Maͤdgen zu entfuͤhren. Allein
-                        Brighella meynet es ſey viel beſſer, wenn<lb/> er ſelbſt ſich in einen
-                        Gondolier verkleidete, und ſich mit einer Gondol vor des Pan-<lb/> talons
-                        Hauß legete. Der Alte, der ſich nichts verſehen wuͤrde, wuͤrde
-                        einſteigen,<lb/> Odoardo aber koͤnnte ihm mit einer andern Barque zur
-                        Bedeckung, hinterher rudern<lb/> und ſich indeſſen auf alle Zufaͤlle
-                        geſchickt machen. Odoardo haͤlt den Vorſchlag fuͤr<lb/> gut und beyde gehen
-                        fort, um die Anſtalt hierzu zu machen.</p>
-                    <p rend="indent">Vittoria die ſolches von ferne mit angehoͤret, geraͤth, uͤber
-                        das Vorhaben<lb/> ihres Geliebten in die aͤußerſte Verzweiffelung, und indem
-                        ſie ſich alſo uͤber ihr wie-<lb/> derwaͤrtiges Schickſaal beſchwehret,
-                        koͤmmt</p>
-                    <p rend="indent">Silvio dazu, und wie er ſie weinen ſiehet, biethet er ihr
-                        ſeinen Beyſtand an.<lb/> Vittoria erzehlet ihm alles, was ſie gehoͤret,
-                        Silvio aber koͤmmt unverſehens<lb/> von ihr weg und wie ſie ſich, ſolcher
-                        Geſtalt von aller Welt verlaſſen ſiehet, gehet<lb/> ſie gleichfals nach
-                        Hauſe.</p>
-                    <p rend="indent">Pantalon tritt auf und ſagt zu dem Doctor, daß er einen
-                        Gondolier beſtellt habe und<lb/> beyde gehen hierauf nach Hauſe; ihre
-                        noͤthige Reiſe-Geraͤthſchafft zu recht zu machen.</p>
-                    <p rend="indent">Brighella faͤhret in einem Canal, als ein Gondolier, einher,
-                        ſteiget aus, klopfet<lb/> bey dem</p>
-                    <p rend="indent">Pantalon an und ſagt zu ihm, daß alles fertig ſey ihn
-                        hinzufuͤhren,<lb/> wohin er wolle. Pantalon will wiſſen, was er bezahlen
-                        ſoll? Brighella aber ſtellet<lb/> ſich, als ob er nicht eigennuͤtzig ſey,
-                        dringet aber ſtarck auf die Abfarth; Weil er be-<lb/> fuͤrchtet, es moͤchte
-                        etwas dazwiſchen kommen. Waͤhrender Zeit kommt</p>
-                    <p rend="indent">Arlequin gleichfals, als ein Gondolier, und ſagt zu dem
-                        Pantalon, daß er<lb/> von demjenigen, dem er es aufgetragen, abgeſchickt
-                        ſey. Brighella wiederſetzet<lb/> ſich, ſagt daß er zu erſt gekommen, und
+                        <fw type="pageNum">8</fw> &#x17F;ie durch &#x17F;eine Bauern, wegpru&#x364;geln la&#x17F;&#x17F;en.
+                        Pantalon la&#x364;&#x17F;&#x17F;et &#x17F;ich, mit allem Danck,<lb/> &#x17F;einen Vor&#x17F;chlag gefallen, und
+                        beyde gehen weg, ein Schiff zu be&#x17F;tellen.</p>
+          <p rend="indent">Odoardo der neb&#x17F;t dem</p>
+          <p rend="indent">Brighella die&#x17F;es Vorhaben der Alten mit angeho&#x364;ret, &#x17F;etzet &#x17F;ich
+                        vor, ihnen,<lb/> mit gewaffneter Hand auf dem Wege aufzupa&#x17F;&#x17F;en, und
+                        Pantalons Tochter, neb&#x17F;t ih-<lb/> rem Kammer-Ma&#x364;dgen zu entfu&#x364;hren. Allein
+                        Brighella meynet es &#x17F;ey viel be&#x17F;&#x17F;er, wenn<lb/> er &#x17F;elb&#x17F;t &#x17F;ich in einen
+                        Gondolier verkleidete, und &#x17F;ich mit einer Gondol vor des Pan-<lb/> talons
+                        Hau&#xDF; legete. Der Alte, der &#x17F;ich nichts ver&#x17F;ehen wu&#x364;rde, wu&#x364;rde
+                        ein&#x17F;teigen,<lb/> Odoardo aber ko&#x364;nnte ihm mit einer andern Barque zur
+                        Bedeckung, hinterher rudern<lb/> und &#x17F;ich inde&#x17F;&#x17F;en auf alle Zufa&#x364;lle
+                        ge&#x17F;chickt machen. Odoardo ha&#x364;lt den Vor&#x17F;chlag fu&#x364;r<lb/> gut und beyde gehen
+                        fort, um die An&#x17F;talt hierzu zu machen.</p>
+          <p rend="indent">Vittoria die &#x17F;olches von ferne mit angeho&#x364;ret, gera&#x364;th, u&#x364;ber
+                        das Vorhaben<lb/> ihres Geliebten in die a&#x364;u&#xDF;er&#x17F;te Verzweiffelung, und indem
+                        &#x17F;ie &#x17F;ich al&#x17F;o u&#x364;ber ihr wie-<lb/> derwa&#x364;rtiges Schick&#x17F;aal be&#x17F;chwehret,
+                        ko&#x364;mmt</p>
+          <p rend="indent">Silvio dazu, und wie er &#x17F;ie weinen &#x17F;iehet, biethet er ihr
+                        &#x17F;einen Bey&#x17F;tand an.<lb/> Vittoria erzehlet ihm alles, was &#x17F;ie geho&#x364;ret,
+                        Silvio aber ko&#x364;mmt unver&#x17F;ehens<lb/> von ihr weg und wie &#x17F;ie &#x17F;ich, &#x17F;olcher
+                        Ge&#x17F;talt von aller Welt verla&#x17F;&#x17F;en &#x17F;iehet, gehet<lb/> &#x17F;ie gleichfals nach
+                        Hau&#x17F;e.</p>
+          <p rend="indent">Pantalon tritt auf und &#x17F;agt zu dem Doctor, da&#xDF; er einen
+                        Gondolier be&#x17F;tellt habe und<lb/> beyde gehen hierauf nach Hau&#x17F;e; ihre
+                        no&#x364;thige Rei&#x17F;e-Gera&#x364;th&#x17F;chafft zu recht zu machen.</p>
+          <p rend="indent">Brighella fa&#x364;hret in einem Canal, als ein Gondolier, einher,
+                        &#x17F;teiget aus, klopfet<lb/> bey dem</p>
+          <p rend="indent">Pantalon an und &#x17F;agt zu ihm, da&#xDF; alles fertig &#x17F;ey ihn
+                        hinzufu&#x364;hren,<lb/> wohin er wolle. Pantalon will wi&#x17F;&#x17F;en, was er bezahlen
+                        &#x17F;oll? Brighella aber &#x17F;tellet<lb/> &#x17F;ich, als ob er nicht eigennu&#x364;tzig &#x17F;ey,
+                        dringet aber &#x17F;tarck auf die Abfarth; Weil er be-<lb/> fu&#x364;rchtet, es mo&#x364;chte
+                        etwas dazwi&#x17F;chen kommen. Wa&#x364;hrender Zeit kommt</p>
+          <p rend="indent">Arlequin gleichfals, als ein Gondolier, und &#x17F;agt zu dem
+                        Pantalon, da&#xDF; er<lb/> von demjenigen, dem er es aufgetragen, abge&#x17F;chickt
+                        &#x17F;ey. Brighella wieder&#x17F;etzet<lb/> &#x17F;ich, &#x17F;agt da&#xDF; er zu er&#x17F;t gekommen, und
                         wird mit dem Pantalon eins. Sie machen<lb/> beyde viel Lerm, und nach
-                        einigen Poſſen, entdecket Arlequin die Betruͤgerey an den<lb/> Pantalon.
-                        Hierauf ſchlagen ſich beyde mitander, nach Art der Venetianiſchen<lb/>
-                        Matroſen, und unter dieſer Schlaͤgerey kommen ſie von dem Schauplatze
+                        einigen Po&#x17F;&#x17F;en, entdecket Arlequin die Betru&#x364;gerey an den<lb/> Pantalon.
+                        Hierauf &#x17F;chlagen &#x17F;ich beyde mitander, nach Art der Venetiani&#x17F;chen<lb/>
+                        Matro&#x17F;en, und unter die&#x17F;er Schla&#x364;gerey kommen &#x17F;ie von dem Schauplatze
                         weg.</p>
-                    <stage>Der Schauplatz ſtellet wieder eine Stad vor.</stage>
-                    <p rend="indent">Der Doctor koͤmmt aus ſeinem Hauße nebſt ſeiner Tochter</p>
-                    <p rend="indent">Vittoria und ſagt zu ihr, daß ſie zu dem Pantalon gehen und mit
-                        ihm auf ſein<lb/> Landguth fahren wollten. Wie ſie anpochen, kommt der</p>
-                    <p rend="indent">Pantalon heraus und erzehlet ihnen, was ſich mit den 2.
-                        falſchen Gondoliers be-<lb/> geben. Vittoria ſaget, daß alles mit Vorbewuſt
-                        der Diana, ſeiner Tochter, muͤſſe ge-<lb/> ſchehen ſeyn. Jnzwiſchen
-                        koͤmmt</p>
-                    <p rend="indent">Diana mit der <fw type="catcht" place="bottom">Sme-</fw>
+          <stage>Der Schauplatz &#x17F;tellet wieder eine Stad vor.</stage>
+          <p rend="indent">Der Doctor ko&#x364;mmt aus &#x17F;einem Hau&#xDF;e neb&#x17F;t &#x17F;einer Tochter</p>
+          <p rend="indent">Vittoria und &#x17F;agt zu ihr, da&#xDF; &#x17F;ie zu dem Pantalon gehen und mit
+                        ihm auf &#x17F;ein<lb/> Landguth fahren wollten. Wie &#x17F;ie anpochen, kommt der</p>
+          <p rend="indent">Pantalon heraus und erzehlet ihnen, was &#x17F;ich mit den 2.
+                        fal&#x17F;chen Gondoliers be-<lb/> geben. Vittoria &#x17F;aget, da&#xDF; alles mit Vorbewu&#x17F;t
+                        der Diana, &#x17F;einer Tochter, mu&#x364;&#x17F;&#x17F;e ge-<lb/> &#x17F;chehen &#x17F;eyn. Jnzwi&#x17F;chen
+                        ko&#x364;mmt</p>
+          <p rend="indent">Diana mit der <fw type="catcht" place="bottom">Sme-</fw>
                         <pb facs="#litiinga_ge_009" n="9"/>
-                        <fw type="pageNum">9</fw> Smeraldina, um von der Vittoria Abſchied zunehmen.
-                        Beyde begegnen ein<lb/> ander ſehr ſchlecht; die Alten aber gehen von
-                        einander und nimmt einjeder ſeine Toch-<lb/> ter mit Gewalt zu ſich nach
-                        Hauſe.</p>
-                    <p rend="indent">Odoardo und</p>
-                    <p rend="indent">Brighella treten auf und bezeigen ihren Verdruß, daß ihnen der
-                        Streich miß-<lb/> lungen. Sie rathen hin und her und koͤnnen nicht
-                        begreiffen, was Silvio und Arle-<lb/> quin fuͤr einen Entſchluß muͤßen
-                        genommen haben, in ihrem Unternehmen zum Zweck<lb/> zu gelangen. Wie ſie
-                        beyde kommen ſehen, verſtecken ſie ſich.</p>
-                    <p rend="indent">Silvio ermahnet den</p>
-                    <p rend="indent">Arlequin, den Muth nicht ſincken zu laſſen, ſondern vielmehr
-                        alles zu wagen, um<lb/> ihr Vorhaben gluͤcklich auszufuͤhren. Arlequin iſt
-                        eben der Meynung, erklaͤret ſich<lb/> aber, daß er nicht mehr wiſſe, was er
-                        machen ſolle. Silvio ſagt, er habe gehoͤret,<lb/> daß Pantalon eine
-                        Satyr-Statue erwartete und ſchlaͤgt vor, daß ſich Arlequin in eine<lb/>
-                        ſolche Figur verkleiden ſollte, und wenn er auf die Art zu den Alten in das
-                        Hauß ge-<lb/> kommen, koͤnnte er mit der Diana Abrede nehmen, was bey der
-                        Sache zu thun<lb/> ſey. Nach einigen Einwuͤrffen, entſchlieſet ſich Arlequin
-                        und beyde gehen weg, die<lb/> noͤthige Anſtalt zu machen.</p>
-                    <p rend="indent">Brighella der alles mit angehoͤret, ſagt, er wolle ſie auf den
-                        Tod zu fuͤrchten<lb/> machen, und gehet ab.</p>
-                    <stage>Der Schauplatz ſtellet ein Zimmer vor.</stage>
-                    <p rend="indent">Pantalon ermahnet die</p>
-                    <p rend="indent">Smeraldina, ihm frey heraus zu bekennen, was ſeine Tochter fuͤr
-                        Liebhaber<lb/> habe. Sie aber fuͤhret ihn mit allerley freyen Antworten ab,
-                        woruͤber</p>
-                    <p rend="indent">Ein Diener eintritt, und dem Pantalon ſaget, daß der Satyr den
-                        er erwar-<lb/> tet haͤtte, angekommen ſey. Pantalon iſt ſehr erfreut
-                        daruͤber und befiehlt, ihn herzu-<lb/> bringen. Der Diener geht fort und
+                        <fw type="pageNum">9</fw> Smeraldina, um von der Vittoria Ab&#x17F;chied zunehmen.
+                        Beyde begegnen ein<lb/> ander &#x17F;ehr &#x17F;chlecht; die Alten aber gehen von
+                        einander und nimmt einjeder &#x17F;eine Toch-<lb/> ter mit Gewalt zu &#x17F;ich nach
+                        Hau&#x17F;e.</p>
+          <p rend="indent">Odoardo und</p>
+          <p rend="indent">Brighella treten auf und bezeigen ihren Verdru&#xDF;, da&#xDF; ihnen der
+                        Streich mi&#xDF;-<lb/> lungen. Sie rathen hin und her und ko&#x364;nnen nicht
+                        begreiffen, was Silvio und Arle-<lb/> quin fu&#x364;r einen Ent&#x17F;chlu&#xDF; mu&#x364;&#xDF;en
+                        genommen haben, in ihrem Unternehmen zum Zweck<lb/> zu gelangen. Wie &#x17F;ie
+                        beyde kommen &#x17F;ehen, ver&#x17F;tecken &#x17F;ie &#x17F;ich.</p>
+          <p rend="indent">Silvio ermahnet den</p>
+          <p rend="indent">Arlequin, den Muth nicht &#x17F;incken zu la&#x17F;&#x17F;en, &#x17F;ondern vielmehr
+                        alles zu wagen, um<lb/> ihr Vorhaben glu&#x364;cklich auszufu&#x364;hren. Arlequin i&#x17F;t
+                        eben der Meynung, erkla&#x364;ret &#x17F;ich<lb/> aber, da&#xDF; er nicht mehr wi&#x17F;&#x17F;e, was er
+                        machen &#x17F;olle. Silvio &#x17F;agt, er habe geho&#x364;ret,<lb/> da&#xDF; Pantalon eine
+                        Satyr-Statue erwartete und &#x17F;chla&#x364;gt vor, da&#xDF; &#x17F;ich Arlequin in eine<lb/>
+                        &#x17F;olche Figur verkleiden &#x17F;ollte, und wenn er auf die Art zu den Alten in das
+                        Hau&#xDF; ge-<lb/> kommen, ko&#x364;nnte er mit der Diana Abrede nehmen, was bey der
+                        Sache zu thun<lb/> &#x17F;ey. Nach einigen Einwu&#x364;rffen, ent&#x17F;chlie&#x17F;et &#x17F;ich Arlequin
+                        und beyde gehen weg, die<lb/> no&#x364;thige An&#x17F;talt zu machen.</p>
+          <p rend="indent">Brighella der alles mit angeho&#x364;ret, &#x17F;agt, er wolle &#x17F;ie auf den
+                        Tod zu fu&#x364;rchten<lb/> machen, und gehet ab.</p>
+          <stage>Der Schauplatz &#x17F;tellet ein Zimmer vor.</stage>
+          <p rend="indent">Pantalon ermahnet die</p>
+          <p rend="indent">Smeraldina, ihm frey heraus zu bekennen, was &#x17F;eine Tochter fu&#x364;r
+                        Liebhaber<lb/> habe. Sie aber fu&#x364;hret ihn mit allerley freyen Antworten ab,
+                        woru&#x364;ber</p>
+          <p rend="indent">Ein Diener eintritt, und dem Pantalon &#x17F;aget, da&#xDF; der Satyr den
+                        er erwar-<lb/> tet ha&#x364;tte, angekommen &#x17F;ey. Pantalon i&#x17F;t &#x17F;ehr erfreut
+                        daru&#x364;ber und befiehlt, ihn herzu-<lb/> bringen. Der Diener geht fort und
                         bringt den</p>
-                    <p rend="indent">Arlequin, Der ſich in einen Satyr verkleidet. Pantalon ſiehet
+          <p rend="indent">Arlequin, Der &#x17F;ich in einen Satyr verkleidet. Pantalon &#x17F;iehet
                         die Smeraldina<lb/> weggehen, und nach einigen Schertz tritt der Diener auch
-                        ab. Pantalon bleibt zu-<lb/> ruͤcke, woruͤber unter allerley
-                        Poſſen-Spiel,</p>
-                    <p rend="indent">Brighella, als ein Polter-Geist, erſcheinet, und den Arlequin
-                        zu fuͤrchten<lb/> worauf alles von Schauplatz laufft und solcher Gestalt
-                        die<lb/> machet, worauf alles von Schauplatz laͤufft und ſocher Geſtalt die </p>
-                    <p rend="indent">Andere Handlung beſchloſſen wird.</p>
-                </div>
-                <div type="act" n="3">
-                    <head>Dritte Handlung.</head>
-                    <stage>Der Schauplatz ſtellet ein freyes Feld vor.</stage>
-                    <p rend="indent">Brighella, mit einer Leiter auf den Ruͤcken, fuͤhrt den</p>
-                    <p rend="indent">Arlequin an einem Strick gebunden einher, und ſagt, daß er ihn
-                        aus<lb/> Racht, weil er ſich ihm in ſeinem Streichen wiederſetzet, aufhengen
+                        ab. Pantalon bleibt zu-<lb/> ru&#x364;cke, woru&#x364;ber unter allerley
+                        Po&#x17F;&#x17F;en-Spiel,</p>
+          <p rend="indent">Brighella, als ein Polter-Geist, er&#x17F;cheinet, und den Arlequin
+                        zu fu&#x364;rchten<lb/> worauf alles von Schauplatz laufft und solcher Gestalt
+                        die<lb/> machet, worauf alles von Schauplatz la&#x364;ufft und &#x17F;ocher Ge&#x17F;talt die </p>
+          <p rend="indent">Andere Handlung be&#x17F;chlo&#x17F;&#x17F;en wird.</p>
+        </div>
+        <div type="act" n="3">
+          <head>Dritte Handlung.</head>
+          <stage>Der Schauplatz &#x17F;tellet ein freyes Feld vor.</stage>
+          <p rend="indent">Brighella, mit einer Leiter auf den Ru&#x364;cken, fu&#x364;hrt den</p>
+          <p rend="indent">Arlequin an einem Strick gebunden einher, und &#x17F;agt, da&#xDF; er ihn
+                        aus<lb/> Racht, weil er &#x17F;ich ihm in &#x17F;einem Streichen wieder&#x17F;etzet, aufhengen
                         wolle. Arlequin<lb/>
                         <fw type="sig" place="bottom">B</fw><lb/>
                         <fw type="catch" place="bottom">bit-</fw>
                         <pb facs="#litiinga_ge_010" n="10"/>
-                        <fw type="pageNum">10</fw> bittet um Gnade, Brighella aber iſt unerbittlich
-                        und fuͤhret ihn zu einem Baum hin,<lb/> knuͤpfet ihn den Strick um den Halß,
-                        und indem er ihn hencken will, koͤmmt</p>
-                    <p rend="indent">Ein Zauberer dazu, der ihm befiehlt ſein Vorhaben unterwegens
-                        zu laßen.<lb/> Brighella treibet ſein Geſpoͤtte mit ihm und, nach einigen
-                        Poſſen-Spielen, laͤßet der<lb/> Zauberer zwey Polter-Geiſter erſcheinen,
-                        davon der eine die Leiter in der Lufft weg-<lb/> fuͤhret. Brighella iſt
-                        gantz beſtuͤrtzt hieruͤber und laufft fort. Arlequin zittert und<lb/> boͤbet
-                        fuͤr Furcht, der Zauberer aber ſpricht ihn einen Muth ein und laͤßet ihn,
-                        durch<lb/> den andern Polter-Geiſt, auf einem Pferde in der Lufft wegbringen
+                        <fw type="pageNum">10</fw> bittet um Gnade, Brighella aber i&#x17F;t unerbittlich
+                        und fu&#x364;hret ihn zu einem Baum hin,<lb/> knu&#x364;pfet ihn den Strick um den Hal&#xDF;,
+                        und indem er ihn hencken will, ko&#x364;mmt</p>
+          <p rend="indent">Ein Zauberer dazu, der ihm befiehlt &#x17F;ein Vorhaben unterwegens
+                        zu la&#xDF;en.<lb/> Brighella treibet &#x17F;ein Ge&#x17F;po&#x364;tte mit ihm und, nach einigen
+                        Po&#x17F;&#x17F;en-Spielen, la&#x364;&#xDF;et der<lb/> Zauberer zwey Polter-Gei&#x17F;ter er&#x17F;cheinen,
+                        davon der eine die Leiter in der Lufft weg-<lb/> fu&#x364;hret. Brighella i&#x17F;t
+                        gantz be&#x17F;tu&#x364;rtzt hieru&#x364;ber und laufft fort. Arlequin zittert und<lb/> bo&#x364;bet
+                        fu&#x364;r Furcht, der Zauberer aber &#x17F;pricht ihn einen Muth ein und la&#x364;&#xDF;et ihn,
+                        durch<lb/> den andern Polter-Gei&#x17F;t, auf einem Pferde in der Lufft wegbringen
                         und gehet ab.</p>
-                    <p rend="indent">Pantalon bittet den</p>
-                    <p rend="indent">Doctor wegen der Unhoͤfflichkeit ſeiner Tochter um Verzeyhung,
-                        erſuchet ihn, alles zu<lb/> vergeſſen und mit ihm nebſt der Vittoria bey dem
-                        Abends-Eſſen zu bleiben. Der Doctor<lb/> macht zwar einige Schwuͤrigkeiten,
-                        laͤßt ſich aber endlich doch willig finden und rufft die</p>
-                    <p rend="indent">Vittoria, zu welcher er ſaget, daß er ſich mit dem Pantalon
-                        ausgeſoͤnet und<lb/> mit ihr bey ihm ſpeiſen wolle. Vittoria, die noch gantz
-                        von der Beleidigung, ſo<lb/> ihr die Diana angethan, eingenommen iſt,
-                        ſchlaͤgt es ab. Der Doctor aber beſieh-<lb/> let ihr mit Ernſt, ſolches zu
-                        thun und Pantalon bittet ſie, ihm dieſe Freundſchafft zu<lb/> erweiſen und
-                        verbindet ſich, es da hin zu bringen, daß ſie ſeine Tochter um Uber-<lb/>
-                        zeihung bietet. Victoria beſaͤnfftiget ſich und Pantalon rufft die</p>
-                    <p rend="indent">Diana und</p>
-                    <p rend="indent">Smeraldina. Beyde bitten, auf Befehl des Pantalons, die
+          <p rend="indent">Pantalon bittet den</p>
+          <p rend="indent">Doctor wegen der Unho&#x364;fflichkeit &#x17F;einer Tochter um Verzeyhung,
+                        er&#x17F;uchet ihn, alles zu<lb/> verge&#x17F;&#x17F;en und mit ihm neb&#x17F;t der Vittoria bey dem
+                        Abends-E&#x17F;&#x17F;en zu bleiben. Der Doctor<lb/> macht zwar einige Schwu&#x364;rigkeiten,
+                        la&#x364;&#xDF;t &#x17F;ich aber endlich doch willig finden und rufft die</p>
+          <p rend="indent">Vittoria, zu welcher er &#x17F;aget, da&#xDF; er &#x17F;ich mit dem Pantalon
+                        ausge&#x17F;o&#x364;net und<lb/> mit ihr bey ihm &#x17F;pei&#x17F;en wolle. Vittoria, die noch gantz
+                        von der Beleidigung, &#x17F;o<lb/> ihr die Diana angethan, eingenommen i&#x17F;t,
+                        &#x17F;chla&#x364;gt es ab. Der Doctor aber be&#x17F;ieh-<lb/> let ihr mit Ern&#x17F;t, &#x17F;olches zu
+                        thun und Pantalon bittet &#x17F;ie, ihm die&#x17F;e Freund&#x17F;chafft zu<lb/> erwei&#x17F;en und
+                        verbindet &#x17F;ich, es da hin zu bringen, da&#xDF; &#x17F;ie &#x17F;eine Tochter um Uber-<lb/>
+                        zeihung bietet. Victoria be&#x17F;a&#x364;nfftiget &#x17F;ich und Pantalon rufft die</p>
+          <p rend="indent">Diana und</p>
+          <p rend="indent">Smeraldina. Beyde bitten, auf Befehl des Pantalons, die
                         Vittoria um Verzeibung<lb/> der angethanen Beleidigung. Auf das Zureden des
-                        Doctors und Pantalons werden ſie<lb/> wieder gute Freunde und gehen mit
-                        einander in des Pantalons Hauß; die Alten aber<lb/> ſind hertzlich erfreuet,
-                        daß ſie Frieden geſtifftet und bleiben zuruͤck.</p>
-                    <p rend="indent">Brighella der ſich in einen Maul-Eſel-Treiber verkleidet,
-                        tritt<lb/> auf und fragt die Alten, ob ſie nicht einen mit nahmen Silvio
-                        kenneten? Er<lb/> habe zwey Kutſchen ge- miethet, ein Paar Frauenzimmer zu
-                        entfuͤhren.<lb/> Pantalon vermuthet gleich einen neuen Streich und fragt
-                        ihn, ob er nicht die<lb/> Nahmen des Frauzimmers wiſſe? Nachdem Brighella
-                        einige Schwuͤrigkeiten<lb/> gemacht, ſaget er ihnen die Nahmen. Pantalon
-                        mercket ſo gleich, daß es<lb/> ſeiner Tochter und ihrem Kammer-Maͤdgen
-                        gelten ſoll, thut, als ob er ihm<lb/> etwas geheimes zu ſagen habe und heißt
+                        Doctors und Pantalons werden &#x17F;ie<lb/> wieder gute Freunde und gehen mit
+                        einander in des Pantalons Hau&#xDF;; die Alten aber<lb/> &#x17F;ind hertzlich erfreuet,
+                        da&#xDF; &#x17F;ie Frieden ge&#x17F;tifftet und bleiben zuru&#x364;ck.</p>
+          <p rend="indent">Brighella der &#x17F;ich in einen Maul-E&#x17F;el-Treiber verkleidet,
+                        tritt<lb/> auf und fragt die Alten, ob &#x17F;ie nicht einen mit nahmen Silvio
+                        kenneten? Er<lb/> habe zwey Kut&#x17F;chen ge- miethet, ein Paar Frauenzimmer zu
+                        entfu&#x364;hren.<lb/> Pantalon vermuthet gleich einen neuen Streich und fragt
+                        ihn, ob er nicht die<lb/> Nahmen des Frauzimmers wi&#x17F;&#x17F;e? Nachdem Brighella
+                        einige Schwu&#x364;rigkeiten<lb/> gemacht, &#x17F;aget er ihnen die Nahmen. Pantalon
+                        mercket &#x17F;o gleich, da&#xDF; es<lb/> &#x17F;einer Tochter und ihrem Kammer-Ma&#x364;dgen
+                        gelten &#x17F;oll, thut, als ob er ihm<lb/> etwas geheimes zu &#x17F;agen habe und hei&#xDF;t
                         den Brighella in zwey Stunden wieder<lb/> kommen, da er alles bereit finden
-                        werde. Brighella freuet ſich uͤber den<lb/> guten Fortgang ſeiner Liſt und
-                        gehet ab. Pantalon ſagt zu dem Doctor, er<lb/> wolle ſich ſtellen, als ob er
-                        gar nichts wiſſe; damit er die Diana und<lb/> Smeraldina auf friſcher That
-                        antreffen koͤnnte. Der Doctor erinnert, daß die<lb/> Nacht herbeykomme und
-                        beyde gehen zuſammen in Pantalons Hauß.</p>
-                    <stage>Es wird auf den Schau-Platze Nacht.</stage>
-                    <p rend="indent">Arlequin erzehlet an</p>
-                    <p rend="indent">Silvio, was ihm mit Brighella auf dem Ruͤckweg von Mestri
-                        begegnet, allwo<lb/> er auf ſeinem Befehl zwey Kutſchen gemiethet, die ſie
-                        nach Tritene bringen<lb/> ſollten. Silvio lobet ſeine Treue und verſpricht
-                        ihm eine Belohnung, meynet<lb/> auch daß ihm dieſesmahl Brighella nicht
-                        ſtoͤren ſondern er vielmehr den Odo-<lb/>
+                        werde. Brighella freuet &#x17F;ich u&#x364;ber den<lb/> guten Fortgang &#x17F;einer Li&#x17F;t und
+                        gehet ab. Pantalon &#x17F;agt zu dem Doctor, er<lb/> wolle &#x17F;ich &#x17F;tellen, als ob er
+                        gar nichts wi&#x17F;&#x17F;e; damit er die Diana und<lb/> Smeraldina auf fri&#x17F;cher That
+                        antreffen ko&#x364;nnte. Der Doctor erinnert, da&#xDF; die<lb/> Nacht herbeykomme und
+                        beyde gehen zu&#x17F;ammen in Pantalons Hau&#xDF;.</p>
+          <stage>Es wird auf den Schau-Platze Nacht.</stage>
+          <p rend="indent">Arlequin erzehlet an</p>
+          <p rend="indent">Silvio, was ihm mit Brighella auf dem Ru&#x364;ckweg von Mestri
+                        begegnet, allwo<lb/> er auf &#x17F;einem Befehl zwey Kut&#x17F;chen gemiethet, die &#x17F;ie
+                        nach Tritene bringen<lb/> &#x17F;ollten. Silvio lobet &#x17F;eine Treue und ver&#x17F;pricht
+                        ihm eine Belohnung, meynet<lb/> auch da&#xDF; ihm die&#x17F;esmahl Brighella nicht
+                        &#x17F;to&#x364;ren &#x17F;ondern er vielmehr den Odo-<lb/>
                         <fw type="catch" place="bottom">ar--</fw>
                         <pb facs="#litiinga_ge_011" n="11"/>
-                        <fw type="pageNum">11</fw> ardo betruͤgen werde. Er giebt hierauf das
-                        Zeichen, ſo er mit der Diana verabredet.</p>
-                    <p rend="indent">Diana kommt mit der</p>
-                    <p rend="indent">Smeraldina, die ein Schmuck-Kaͤſigen unter dem Arme traͤget.
-                        Nach eini-<lb/> gen Complimenten, wollen ſie fort gehen;</p>
-                    <p rend="indent">Brighella aber, der ſich in einen Maul-Eſel-Treiber verkleidet,
-                        ſtellet ſich gantz boͤſe<lb/> an, daß ſie ſo lange ausgeblieben und ſagt, er
-                        ſey ausdruͤcklich deswegen von Mestri<lb/> mit einer Gondol gekommen, um ſie
-                        dahin zufuͤhren und beyde Kutſchen ſtuͤnden ſchon<lb/> fertig. Silvio
-                        beſaͤnfftiget ihn, mit Verſprechung einer anſehnlichen Belohnung, be-<lb/>
-                        dancket ſich fuͤr ſeine Sorgfallt, und indem ſie fort gehen wollen,
+                        <fw type="pageNum">11</fw> ardo betru&#x364;gen werde. Er giebt hierauf das
+                        Zeichen, &#x17F;o er mit der Diana verabredet.</p>
+          <p rend="indent">Diana kommt mit der</p>
+          <p rend="indent">Smeraldina, die ein Schmuck-Ka&#x364;&#x17F;igen unter dem Arme tra&#x364;get.
+                        Nach eini-<lb/> gen Complimenten, wollen &#x17F;ie fort gehen;</p>
+          <p rend="indent">Brighella aber, der &#x17F;ich in einen Maul-E&#x17F;el-Treiber verkleidet,
+                        &#x17F;tellet &#x17F;ich gantz bo&#x364;&#x17F;e<lb/> an, da&#xDF; &#x17F;ie &#x17F;o lange ausgeblieben und &#x17F;agt, er
+                        &#x17F;ey ausdru&#x364;cklich deswegen von Mestri<lb/> mit einer Gondol gekommen, um &#x17F;ie
+                        dahin zufu&#x364;hren und beyde Kut&#x17F;chen &#x17F;tu&#x364;nden &#x17F;chon<lb/> fertig. Silvio
+                        be&#x17F;a&#x364;nfftiget ihn, mit Ver&#x17F;prechung einer an&#x17F;ehnlichen Belohnung, be-<lb/>
+                        dancket &#x17F;ich fu&#x364;r &#x17F;eine Sorgfallt, und indem &#x17F;ie fort gehen wollen,
                         kommen</p>
-                    <p rend="indent">Die Alten dazu mit Wachs-Fackeln in den Haͤnden. Arlequin wird
-                        ſie zu erſt<lb/> gewahr und will mit Silvio fort lauffen. Brighella aber
-                        haͤlt ihm auf, und ſagt<lb/> daß er es waͤre, der den Anſchlag entdecket
-                        haͤtte, und woferne er in ſeinem Vorſatz<lb/> nicht nachlaſſen wuͤrde, wolle
+          <p rend="indent">Die Alten dazu mit Wachs-Fackeln in den Ha&#x364;nden. Arlequin wird
+                        &#x17F;ie zu er&#x17F;t<lb/> gewahr und will mit Silvio fort lauffen. Brighella aber
+                        ha&#x364;lt ihm auf, und &#x17F;agt<lb/> da&#xDF; er es wa&#x364;re, der den An&#x17F;chlag entdecket
+                        ha&#x364;tte, und woferne er in &#x17F;einem Vor&#x17F;atz<lb/> nicht nachla&#x17F;&#x17F;en wu&#x364;rde, wolle
                         er . . . . . </p>
-                    <p rend="indent">Silvio will im Zorn den Brighella niederſtoßen, er laͤufft aber
+          <p rend="indent">Silvio will im Zorn den Brighella nieder&#x17F;to&#xDF;en, er la&#x364;ufft aber
                         mit lachen da-<lb/> von. Silvio und Arlequin folgen ihm nach. Pantalon
-                        wirfft ſeiner Tochter und<lb/> der Smeraldine ihre unordentliche Auffuͤhrung
-                        vor und will ſie ſchlagen; der Doctor<lb/> aber verhindert ſolches und
-                        bittet ihn, den Schmertz in vergeſſen und ihnen die Mahl-<lb/> zeit nicht zu
-                        verderben. Nach einigen luſtigen Einfaͤllen, die Smeraldina unter ihrer<lb/>
-                        freyen Plauderey hervorbringet, gehen ſie alle zu den Pantalon in das
-                        Hauß.</p>
-                    <p rend="indent">Silvio tritt auf, stoͤßt ſeinen Zorn wieder den Brighella aus,
-                        und beweget<lb/> den Arleqhin zur Rache. Als ſie mercken daß Odoardo und
-                        Brighella ankommen,<lb/> verſtecken ſie ſich und hoͤren zu, was ſie
+                        wirfft &#x17F;einer Tochter und<lb/> der Smeraldine ihre unordentliche Auffu&#x364;hrung
+                        vor und will &#x17F;ie &#x17F;chlagen; der Doctor<lb/> aber verhindert &#x17F;olches und
+                        bittet ihn, den Schmertz in verge&#x17F;&#x17F;en und ihnen die Mahl-<lb/> zeit nicht zu
+                        verderben. Nach einigen lu&#x17F;tigen Einfa&#x364;llen, die Smeraldina unter ihrer<lb/>
+                        freyen Plauderey hervorbringet, gehen &#x17F;ie alle zu den Pantalon in das
+                        Hau&#xDF;.</p>
+          <p rend="indent">Silvio tritt auf, sto&#x364;&#xDF;t &#x17F;einen Zorn wieder den Brighella aus,
+                        und beweget<lb/> den Arleqhin zur Rache. Als &#x17F;ie mercken da&#xDF; Odoardo und
+                        Brighella ankommen,<lb/> ver&#x17F;tecken &#x17F;ie &#x17F;ich und ho&#x364;ren zu, was &#x17F;ie
                         reden.</p>
-                    <p rend="indent">Brighella traͤgt dem</p>
-                    <p rend="indent">Odoardo eine andere Enfindung an und meynet, daß ſie gut
-                        ausfallen werde.<lb/> Er ſaget, er wolle ſich ſtellen, als ob er auf der
-                        Gaſſe von einigen umbekannten an-<lb/> gefallen und verwundet worden, und
-                        wenn ihm Pantalon zu Huͤlffe kommen und ihn<lb/> zu ſich in das Hauß bringen
-                        wuͤrde, koͤnnte Odoardo die Thuͤre oͤffnen und die Ent-<lb/> fuͤhrung der
-                        Diana und Smeraldina befoͤrdern. Odoardo findet den Einfall fuͤr gut.
-                        Silvio<lb/> und Arlequin, welche von ferne zugehoͤret, ſagen, daß ſie ſich
-                        dieſe Gelegenheit zu<lb/> Nutze machen und Pantalons Hauß-Thuͤre zu halten
+          <p rend="indent">Brighella tra&#x364;gt dem</p>
+          <p rend="indent">Odoardo eine andere Enfindung an und meynet, da&#xDF; &#x17F;ie gut
+                        ausfallen werde.<lb/> Er &#x17F;aget, er wolle &#x17F;ich &#x17F;tellen, als ob er auf der
+                        Ga&#x17F;&#x17F;e von einigen umbekannten an-<lb/> gefallen und verwundet worden, und
+                        wenn ihm Pantalon zu Hu&#x364;lffe kommen und ihn<lb/> zu &#x17F;ich in das Hau&#xDF; bringen
+                        wu&#x364;rde, ko&#x364;nnte Odoardo die Thu&#x364;re o&#x364;ffnen und die Ent-<lb/> fu&#x364;hrung der
+                        Diana und Smeraldina befo&#x364;rdern. Odoardo findet den Einfall fu&#x364;r gut.
+                        Silvio<lb/> und Arlequin, welche von ferne zugeho&#x364;ret, &#x17F;agen, da&#xDF; &#x17F;ie &#x17F;ich
+                        die&#x17F;e Gelegenheit zu<lb/> Nutze machen und Pantalons Hau&#xDF;-Thu&#x364;re zu halten
                         wollten. Brighella und Odoardo<lb/> machen Lerm mit ihren Degen und
-                        Brighella ſchreyet aus vollem Halße: Jch bin todt!<lb/> Uber dieſen Lerm
-                        koͤmmt</p>
-                    <p rend="indent">Pantalon an das Fenſter und ſchreyet denen vermeynten
-                        Meuͤchelmoͤr-<lb/> dern zu. Brighella ſtellet ſich, als ob er alſobald
-                        ſterben wollte. Pantalon muntert<lb/> ihn auf, verſpricht ihm alle Huͤlffe
-                        und eilet vom Fenſter weg. Brighella freuet<lb/> ſich, daß ihm ſein Streich
-                        ſo wohl gelungen, und uͤberleget mit Odoardo, was weiter<lb/> zu thun ſey.
-                        Unterdeſſen wollen</p>
-                    <p rend="indent">Die Alten mit Fackeln in den Haͤnden dem Brighella zu Huͤlffe
-                        eilen. Um den<lb/> Poſſen vollend auszuſpielen, treten Arlequin und Silvio
-                        in das Hauß des Pantalons und<lb/> machen die Thuͤre zu. Hierauf fallen
-                        einige laͤcherliche Handlungen, zwiſchen denen<lb/> Alten und dem vermeynten
-                        verwundeten, vor. Zuletzt noͤthiget Pantalon denſelben in<lb/> ſein Hauß,
-                        wohin er ihn begleitet, findet aber die Thuͤre verſchloſſen. Er klopfet<lb/>
+                        Brighella &#x17F;chreyet aus vollem Hal&#xDF;e: Jch bin todt!<lb/> Uber die&#x17F;en Lerm
+                        ko&#x364;mmt</p>
+          <p rend="indent">Pantalon an das Fen&#x17F;ter und &#x17F;chreyet denen vermeynten
+                        Meu&#x364;chelmo&#x364;r-<lb/> dern zu. Brighella &#x17F;tellet &#x17F;ich, als ob er al&#x17F;obald
+                        &#x17F;terben wollte. Pantalon muntert<lb/> ihn auf, ver&#x17F;pricht ihm alle Hu&#x364;lffe
+                        und eilet vom Fen&#x17F;ter weg. Brighella freuet<lb/> &#x17F;ich, da&#xDF; ihm &#x17F;ein Streich
+                        &#x17F;o wohl gelungen, und u&#x364;berleget mit Odoardo, was weiter<lb/> zu thun &#x17F;ey.
+                        Unterde&#x17F;&#x17F;en wollen</p>
+          <p rend="indent">Die Alten mit Fackeln in den Ha&#x364;nden dem Brighella zu Hu&#x364;lffe
+                        eilen. Um den<lb/> Po&#x17F;&#x17F;en vollend auszu&#x17F;pielen, treten Arlequin und Silvio
+                        in das Hau&#xDF; des Pantalons und<lb/> machen die Thu&#x364;re zu. Hierauf fallen
+                        einige la&#x364;cherliche Handlungen, zwi&#x17F;chen denen<lb/> Alten und dem vermeynten
+                        verwundeten, vor. Zuletzt no&#x364;thiget Pantalon den&#x17F;elben in<lb/> &#x17F;ein Hau&#xDF;,
+                        wohin er ihn begleitet, findet aber die Thu&#x364;re ver&#x17F;chlo&#x17F;&#x17F;en. Er klopfet<lb/>
                         an und </p>
-                    <fw type="catch" place="bottom">Ar-</fw>
-                    <pb facs="#litiinga_ge_012" n="12"/>
-                    <fw type="pageNum">12</fw>
-                    <p rend="indent">Arlequin fragt aus dem Fenſter, wer er ſey? Die Alten ſind
-                        gantz beſtuͤrzt dar-,<lb/> uͤber und Brighella und Odoardo gerathen in
-                        Verzweiffelung uͤber dieſen Zufall. Pan-<lb/> talon fragt den Arlequin, was
-                        er in ſeinem Hauſe mache? Arlequin antwortet,<lb/> daß er mit ſeinem Herrn
-                        bey deſſen Liebſte und ſeiner Frau ſey. Pantalon antwortet<lb/> er ſolle
-                        ſich naͤher erklaͤren, und Arlequin eroͤffnet ihm, daß Silvio mit der
-                        Diana<lb/> und er mit der Smeraldina, im Angeſichte des Brighella, Hochzeit
-                        gemacht, und entde-<lb/> cket ihm, daß dieſe Wunden nur verſtellet geweſen
-                        waͤren. Brighella und Odoardo, welche<lb/> beyde uͤber Arlequins Streich
-                        betreten ſind, wiſſen nicht was ſie ſagen ſollen.<lb/> Pantalon fraget von
-                        Arlequin, wer dieſe Heyrathen gemacht habe? und dieſer ant-<lb/> wortet:
-                        Brighella hat es gethan. Dem Brighella verdruͤßt, daß er noch ſein<lb/>
-                        Geſpoͤtte mit ihm treibet. Hierauf folgen noch einige laͤcherliche
-                        Unterredungen von<lb/> der Wette und deren Verluſt.</p>
-                    <p rend="indent">Zuletzt bittet Pantalon den Arlequin, ihn wenigſtens in ſein
-                        Hauß zu laßen,<lb/> dieſer antwortet ihm aber, daß er erſt muͤße die
-                        Erlaubniß von ſeinem Herrn haben.<lb/> Sie werden gantz bestuͤrtzt,
-                        woruͤber</p>
-                    <p rend="indent">Silvio herauskoͤmmt und die</p>
-                    <p rend="indent">Diana ſeine neue Eheliebſte an der Hand fuͤhret.</p>
-                    <p rend="indent">Arlequin thut desgleichen mit der</p>
-                    <p rend="indent">Smeraldina und der Vittoria. Pantalon beklaget ſich gegen den
-                        Silvio, wegen<lb/> ſeines Unternehmens. Silvio ſagt ihm, daß er ſolches
-                        alles dem Brighella zuzuſchreiben<lb/> habe, der durch ſeine Wette mit dem
-                        Arlequin und deren Verluſt alles was vorge-<lb/> gangen, verurſachet.
-                        Hierauf wird Silvio mit der Diana zuſammen gegeben. Odo-<lb/> ardo
-                        entſchuldiget ſich bey der Vittoria, wegen ſeiner Unbestaͤndigkeit, und
-                        giebt ihr die<lb/> Hand. Arlequin verlobet ſich gleichfals mit der
-                        Smeraldina, und mit dieſer dreyſa-<lb/> chen Heyrath wird</p>
-                    <p rend="indent">der Beſchluß des gantzen Schau-Spieles gemacht.</p>
-                </div>
-            </body>
-        </text>
-    </TEI>
-    <TEI>
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>Il litiggio per gli inganni tra Brighella e Arlecchino</title>
-                </titleStmt>
-                <publicationStmt>
-                    <p/>
-                </publicationStmt>
-                <sourceDesc>
-                    <p>La traduzione ha preso in considerazione la versione in lingua russa.</p>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <langUsage>
-                    <language ident="it">Italian</language>
-                </langUsage>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <front>
-                <pb facs="#litiinga_ge_001" n="1"/>
-                <head type="main">IL LITIGIO PER GLI INGANNI TRA BRIGHELLA E ARLECCHINO.</head>
-                <head type="sub">COMMEDIA ITALIANA<lb/> RAPPRESENTATA A SAN PIETROBURGO<lb/>
+          <fw type="catch" place="bottom">Ar-</fw>
+          <pb facs="#litiinga_ge_012" n="12"/>
+          <fw type="pageNum">12</fw>
+          <p rend="indent">Arlequin fragt aus dem Fen&#x17F;ter, wer er &#x17F;ey? Die Alten &#x17F;ind
+                        gantz be&#x17F;tu&#x364;rzt dar-,<lb/> u&#x364;ber und Brighella und Odoardo gerathen in
+                        Verzweiffelung u&#x364;ber die&#x17F;en Zufall. Pan-<lb/> talon fragt den Arlequin, was
+                        er in &#x17F;einem Hau&#x17F;e mache? Arlequin antwortet,<lb/> da&#xDF; er mit &#x17F;einem Herrn
+                        bey de&#x17F;&#x17F;en Lieb&#x17F;te und &#x17F;einer Frau &#x17F;ey. Pantalon antwortet<lb/> er &#x17F;olle
+                        &#x17F;ich na&#x364;her erkla&#x364;ren, und Arlequin ero&#x364;ffnet ihm, da&#xDF; Silvio mit der
+                        Diana<lb/> und er mit der Smeraldina, im Ange&#x17F;ichte des Brighella, Hochzeit
+                        gemacht, und entde-<lb/> cket ihm, da&#xDF; die&#x17F;e Wunden nur ver&#x17F;tellet gewe&#x17F;en
+                        wa&#x364;ren. Brighella und Odoardo, welche<lb/> beyde u&#x364;ber Arlequins Streich
+                        betreten &#x17F;ind, wi&#x17F;&#x17F;en nicht was &#x17F;ie &#x17F;agen &#x17F;ollen.<lb/> Pantalon fraget von
+                        Arlequin, wer die&#x17F;e Heyrathen gemacht habe? und die&#x17F;er ant-<lb/> wortet:
+                        Brighella hat es gethan. Dem Brighella verdru&#x364;&#xDF;t, da&#xDF; er noch &#x17F;ein<lb/>
+                        Ge&#x17F;po&#x364;tte mit ihm treibet. Hierauf folgen noch einige la&#x364;cherliche
+                        Unterredungen von<lb/> der Wette und deren Verlu&#x17F;t.</p>
+          <p rend="indent">Zuletzt bittet Pantalon den Arlequin, ihn wenig&#x17F;tens in &#x17F;ein
+                        Hau&#xDF; zu la&#xDF;en,<lb/> die&#x17F;er antwortet ihm aber, da&#xDF; er er&#x17F;t mu&#x364;&#xDF;e die
+                        Erlaubni&#xDF; von &#x17F;einem Herrn haben.<lb/> Sie werden gantz bestu&#x364;rtzt,
+                        woru&#x364;ber</p>
+          <p rend="indent">Silvio herausko&#x364;mmt und die</p>
+          <p rend="indent">Diana &#x17F;eine neue Ehelieb&#x17F;te an der Hand fu&#x364;hret.</p>
+          <p rend="indent">Arlequin thut desgleichen mit der</p>
+          <p rend="indent">Smeraldina und der Vittoria. Pantalon beklaget &#x17F;ich gegen den
+                        Silvio, wegen<lb/> &#x17F;eines Unternehmens. Silvio &#x17F;agt ihm, da&#xDF; er &#x17F;olches
+                        alles dem Brighella zuzu&#x17F;chreiben<lb/> habe, der durch &#x17F;eine Wette mit dem
+                        Arlequin und deren Verlu&#x17F;t alles was vorge-<lb/> gangen, verur&#x17F;achet.
+                        Hierauf wird Silvio mit der Diana zu&#x17F;ammen gegeben. Odo-<lb/> ardo
+                        ent&#x17F;chuldiget &#x17F;ich bey der Vittoria, wegen &#x17F;einer Unbesta&#x364;ndigkeit, und
+                        giebt ihr die<lb/> Hand. Arlequin verlobet &#x17F;ich gleichfals mit der
+                        Smeraldina, und mit die&#x17F;er drey&#x17F;a-<lb/> chen Heyrath wird</p>
+          <p rend="indent">der Be&#x17F;chlu&#xDF; des gantzen Schau-Spieles gemacht.</p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Il litiggio per gli inganni tra Brighella e Arlecchino</title>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc>
+          <p>La traduzione ha preso in considerazione la versione in lingua russa.</p>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="it">Italian</language>
+        </langUsage>
+      </profileDesc>
+    </teiHeader>
+    <text>
+      <front>
+        <pb facs="#litiinga_ge_001" n="1"/>
+        <head type="main">IL LITIGIO PER GLI INGANNI TRA BRIGHELLA E ARLECCHINO.</head>
+        <head type="sub">COMMEDIA ITALIANA<lb/> RAPPRESENTATA A SAN PIETROBURGO<lb/>
                     <date when="1733">nel 1733.</date></head>
-                <pb facs="#litiinga_ge_002" n="2"/>
-                <pb facs="#litiinga_ge_003" n="3"/>
-                <div type="preface">
-                    <head>ARGOMENTO.</head>
-                    <p rend="indent">Silvio, innamorato di Diana, caccia dal suo servizio Brighella,
-                        che viene assunto da Odoardo, rivale di Silvio. Per vendicarsi dell’offesa
-                        subita, Brighella cerca di ostacolare in ogni modo l’amore di Silvio e di
+        <pb facs="#litiinga_ge_002" n="2"/>
+        <pb facs="#litiinga_ge_003" n="3"/>
+        <div type="preface">
+          <head>ARGOMENTO.</head>
+          <p rend="indent">Silvio, innamorato di Diana, caccia dal suo servizio Brighella,
+                        che viene assunto da Odoardo, rivale di Silvio. Per vendicarsi dell&#x2019;offesa
+                        subita, Brighella cerca di ostacolare in ogni modo l&#x2019;amore di Silvio e di
                         favorire invece quello del suo nuovo padrone. Arlecchino si indispettisce e
                         ordisce una serie di intrighi, grazie ai quali Silvio riesce ad appagare il
                         suo amore. Brighella risponde con altri intrighi, che vengono scoperti e
-                        sventati da Arlecchino. Ciò dà il via allo scompigliato intreccio di tutta
+                        sventati da Arlecchino. Ci&#xF2; d&#xE0; il via allo scompigliato intreccio di tutta
                         la commedia. </p>
-                </div>
-                <castList>
-                    <head>PERSONAGGI.</head>
-                    <castItem>
-                        <role xml:id="pantalone_it">Pantalone</role>
-                        <roleDesc>padre di</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="diana_it">Diana.</role>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="smeraldina_it">Smeraldina</role>
-                        <roleDesc>sua cameriera.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="dottore_it">Il Dottore</role>
-                        <roleDesc>padre di</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="vittoria_it">Vittoria.</role>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="silvio_it">Silvio</role>
-                        <roleDesc>innamorato di Diana.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="arlecchino_it">Arlecchino,</role>
-                        <roleDesc>suo servitore.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="odoardo_it">Odoardo</role>
-                        <roleDesc>ein altro innamorato di Diana.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="brighella_it">Brighella</role>
-                        <roleDesc>suo servitore.</roleDesc>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="mago_it">Un mago.</role>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="servitore_it">Un servitore.</role>
-                    </castItem>
-                    <castItem>
-                        <role xml:id="spiriti_it">Spiriti.</role>
-                    </castItem>
-                </castList>
-                <set>
-                    <p>L’azione si svolge a Venezia.</p>
-                </set>
-            </front>
-            <body>
-                <pb facs="#litiinga_ge_004" n="4"/>
-                <fw type="pageNum">4</fw>
-                <div type="act" n="1">
-                    <head>ATTO PRIMO.</head>
-                    <p rend="indent">Silvio rimprovera</p>
-                    <p rend="indent">Brighella perché cerca in ogni modo di allontanare da lui la
-                        sua amata Diana, Arlecchino, invece, perché gli vuole portare via
-                        Smeraldina. Brighella risponde che è tenuto a favorire l’amore del suo nuovo
+        </div>
+        <castList>
+          <head>PERSONAGGI.</head>
+          <castItem>
+            <role xml:id="pantalone_it">Pantalone</role>
+            <roleDesc>padre di</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="diana_it">Diana.</role>
+          </castItem>
+          <castItem>
+            <role xml:id="smeraldina_it">Smeraldina</role>
+            <roleDesc>sua cameriera.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="dottore_it">Il Dottore</role>
+            <roleDesc>padre di</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="vittoria_it">Vittoria.</role>
+          </castItem>
+          <castItem>
+            <role xml:id="silvio_it">Silvio</role>
+            <roleDesc>innamorato di Diana.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="arlecchino_it">Arlecchino,</role>
+            <roleDesc>suo servitore.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="odoardo_it">Odoardo</role>
+            <roleDesc>ein altro innamorato di Diana.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="brighella_it">Brighella</role>
+            <roleDesc>suo servitore.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="mago_it">Un mago.</role>
+          </castItem>
+          <castItem>
+            <role xml:id="servitore_it">Un servitore.</role>
+          </castItem>
+          <castItem>
+            <role xml:id="spiriti_it">Spiriti.</role>
+          </castItem>
+        </castList>
+        <set>
+          <p>L&#x2019;azione si svolge a Venezia.</p>
+        </set>
+      </front>
+      <body>
+        <pb facs="#litiinga_ge_004" n="4"/>
+        <fw type="pageNum">4</fw>
+        <div type="act" n="1">
+          <head>ATTO PRIMO.</head>
+          <p rend="indent">Silvio rimprovera</p>
+          <p rend="indent">Brighella perch&#xE9; cerca in ogni modo di allontanare da lui la
+                        sua amata Diana, Arlecchino, invece, perch&#xE9; gli vuole portare via
+                        Smeraldina. Brighella risponde che &#xE8; tenuto a favorire l&#x2019;amore del suo nuovo
                         padrone e rinfaccia a Silvio di averlo cacciato dal suo servizio senza una
-                        buona ragione, e aggiunge che farà di tutto per rendere Odoardo felice nel
-                        suo affetto per Diana. Arlecchino ne è turbato e prende le parti di Silvio.
-                        Dopo qualche scambio di battute, gli Zanni fanno una scommessa su chi sarà
+                        buona ragione, e aggiunge che far&#xE0; di tutto per rendere Odoardo felice nel
+                        suo affetto per Diana. Arlecchino ne &#xE8; turbato e prende le parti di Silvio.
+                        Dopo qualche scambio di battute, gli Zanni fanno una scommessa su chi sar&#xE0;
                         il primo a raggiungere il suo scopo attraverso i diversi imbrogli.
                         Brighella, dopo essersi mostrato sprezzante con Arlecchino, parte. Silvio
-                        chiede ad Arlecchino se è davvero in grado di realizzare ciò che
+                        chiede ad Arlecchino se &#xE8; davvero in grado di realizzare ci&#xF2; che
                         afferma.</p>
-                    <p rend="indent">Arlecchino risponde di sì e, dopo qualche scherzo teatrale,
+          <p rend="indent">Arlecchino risponde di s&#xEC; e, dopo qualche scherzo teatrale,
                         Silvio gli ordina di chiamare Diana.</p>
-                    <p rend="indent">Arlecchino bussa.</p>
-                    <p rend="indent">Smeraldina esce e, quando vede il suo caro Arlecchino, si
-                        mostra molto amichevole con lui, il che dà adito a una scena d’amore buffo.
-                        Alla fine, Silvio le chiede di chiamare Diana. Smeraldina si scusa perché il
-                        vecchio Pantalone è a casa e Diana stessa gli deve parlare con molta
+          <p rend="indent">Arlecchino bussa.</p>
+          <p rend="indent">Smeraldina esce e, quando vede il suo caro Arlecchino, si
+                        mostra molto amichevole con lui, il che d&#xE0; adito a una scena d&#x2019;amore buffo.
+                        Alla fine, Silvio le chiede di chiamare Diana. Smeraldina si scusa perch&#xE9; il
+                        vecchio Pantalone &#xE8; a casa e Diana stessa gli deve parlare con molta
                         urgenza. Nel frattempo, qualcuno chiama Smeraldina, la quale dice a Silvio e
-                        Arlecchino di tornare più tardi. Entrambi se ne vanno.</p>
-                    <p rend="indent">Brighella e</p>
-                    <p rend="indent">Odoardo entrano e il primo racconta al secondo la scommessa
+                        Arlecchino di tornare pi&#xF9; tardi. Entrambi se ne vanno.</p>
+          <p rend="indent">Brighella e</p>
+          <p rend="indent">Odoardo entrano e il primo racconta al secondo la scommessa
                         fatta con Arlecchino. Odoardo promette di essergli riconoscente e gli
                         raccomanda di favorire il suo amore per Diana. Brighella gli assicura di
                         fare tutto il possibile. Odoardo ripete la sua promessa e va via. Brighella
-                        rimane e dice che cercherà di far sì che Silvio e Diana diventino gelosi
-                        l’uno dell’altra. Nel frattempo, vede arrivare</p>
-                    <p rend="indent">Vittoria, l’innamorata di Odoardo. Appena la ragazza si accorge
+                        rimane e dice che cercher&#xE0; di far s&#xEC; che Silvio e Diana diventino gelosi
+                        l&#x2019;uno dell&#x2019;altra. Nel frattempo, vede arrivare</p>
+          <p rend="indent">Vittoria, l&#x2019;innamorata di Odoardo. Appena la ragazza si accorge
                         di Brighella, gli chiede come sta il suo innamorato e gli consegna una
                         lettera, dice anche che la lettera deve essere recapitata a nessun altro se
-                        non Odoardo, perché teme che suo padre, il Dottore, la voglia intercettare e
-                        così ostacolare il suo amore. Brighella promette di consegnarla al suo
+                        non Odoardo, perch&#xE9; teme che suo padre, il Dottore, la voglia intercettare e
+                        cos&#xEC; ostacolare il suo amore. Brighella promette di consegnarla al suo
                         destinatario e Vittoria va via. A quel punto Brighella rivela che il suo
-                        padrone Odoardo ha cambiato l’oggetto del suo desiderio, innamorandosi di
+                        padrone Odoardo ha cambiato l&#x2019;oggetto del suo desiderio, innamorandosi di
                         Diana. Vuole servirsi della lettera per un altro proposito: vuole vestirsi
                         da donna e consegnare la lettera invece che a Odoardo a Silvio, quando
-                        costui sarà da Diana per farli ingelosire l’uno l’altra. Brighella
+                        costui sar&#xE0; da Diana per farli ingelosire l&#x2019;uno l&#x2019;altra. Brighella
                         parte.</p>
-                    <pb facs="#litiinga_ge_005" n="5"/>
-                    <fw type="pageNum">5</fw>
-                    <p rend="indent">Silvio entra, parla del suo amore e della scommessa fatta da
-                        Arlecchino e Brighella, e dice di essere arrivato là all’ora indicatogli da
+          <pb facs="#litiinga_ge_005" n="5"/>
+          <fw type="pageNum">5</fw>
+          <p rend="indent">Silvio entra, parla del suo amore e della scommessa fatta da
+                        Arlecchino e Brighella, e dice di essere arrivato l&#xE0; all&#x2019;ora indicatogli da
                         Smeraldina per parlare con Diana, e bussa.</p>
-                    <p rend="indent">Diana esce fuori e, dopo che i due si sono scambiati delle
+          <p rend="indent">Diana esce fuori e, dopo che i due si sono scambiati delle
                         dichiarazioni del loro amore reciproco e delle rassicurazioni della loro
-                        eterna fedeltà, sopraggiunge</p>
-                    <p rend="indent">Brighella, vestito da donna, e porge la lettera a Silvio. Diana
+                        eterna fedelt&#xE0;, sopraggiunge</p>
+          <p rend="indent">Brighella, vestito da donna, e porge la lettera a Silvio. Diana
                         si ingelosisce, strappa la lettera dalle sue mani e, dopo averla letta,
                         rimprovera severamente Silvio senza lasciargli dire una parola. Si comporta
                         nello stesso modo con Brighella e va via, lasciando entrambi ammutoliti.
                         Smeraldina la segue, Brighella se ne va ridendo. Silvio rimane impietrito,
                         perplesso e pieno di dubbi. In quel momento arriva</p>
-                    <p rend="indent">Arlecchino, fa qualche lazzo e alla fine dice al suo padrone
+          <p rend="indent">Arlecchino, fa qualche lazzo e alla fine dice al suo padrone
                         che ha incontrato Smeraldina, sua padroncina e Pantalone, mascherati al
                         mercato e gli hanno consigliato di pensare a come riappacificare Diana e
                         Silvio. Silvio ringrazia per questa buona notizia, e pensa a un mezzo per
-                        realizzare quel proposito. Alla fine, Arlecchino giunge all’idea di
-                        allestire uno spettacolo del nuovo mondo. Silvio ne è contento, e va via per
+                        realizzare quel proposito. Alla fine, Arlecchino giunge all&#x2019;idea di
+                        allestire uno spettacolo del nuovo mondo. Silvio ne &#xE8; contento, e va via per
                         realizzare il loro piano.</p>
-                    <p rend="indent">Odoardo, che ha ascoltato e capito tutto stando in disparte,
+          <p rend="indent">Odoardo, che ha ascoltato e capito tutto stando in disparte,
                         perde la speranza e rimprovera</p>
-                    <p rend="indent">Brighella per la sua negligenza nel servirlo. Brighella si
+          <p rend="indent">Brighella per la sua negligenza nel servirlo. Brighella si
                         scusa raccontandogli tutto quello che ha fatto per seminare la gelosia tra
                         Diana e Silvio e di essere riuscito nella sua impresa. Odoardo gli racconta
                         cosa si sono inventati Silvio e Arlecchino. Al che Brighella risponde che
-                        smaschererà il loro imbroglio, ed entrambi vanno via.</p>
-                    <p rend="indent">Pantalone, brontolando, rimprovera Diana per l’umore
-                        melancolico. Diana risponde che, considerando come stanno le cose, non può
+                        smascherer&#xE0; il loro imbroglio, ed entrambi vanno via.</p>
+          <p rend="indent">Pantalone, brontolando, rimprovera Diana per l&#x2019;umore
+                        melancolico. Diana risponde che, considerando come stanno le cose, non pu&#xF2;
                         essere altrimenti.</p>
-                    <p rend="indent">Smeraldina, con le sue battute sfacciate, fa arrabbiare
-                        Pantalone e gli dice che l’unica ragione della melancolia di Diana è che la
+          <p rend="indent">Smeraldina, con le sue battute sfacciate, fa arrabbiare
+                        Pantalone e gli dice che l&#x2019;unica ragione della melancolia di Diana &#xE8; che la
                         tiene rinchiusa in una stanza. Pantalone le ordina di tacere, e in quel
                         momento entra</p>
-                    <p rend="indent">Arlecchino portando lo strumento del nuovo mondo sulla schiena.
-                        Mentre Pantalone guardare all’interno del dispositivo, Silvio cerca di
+          <p rend="indent">Arlecchino portando lo strumento del nuovo mondo sulla schiena.
+                        Mentre Pantalone guardare all&#x2019;interno del dispositivo, Silvio cerca di
                         parlare con Diana. Sopraggiunge</p>
-                    <p rend="indent">Brighella con uno strumento identico e, siccome vuole cacciare
+          <p rend="indent">Brighella con uno strumento identico e, siccome vuole cacciare
                         via Arlecchino, dopo vari lazzi, i due cominciano a litigare e a
                         battersi.</p>
-                    <pb facs="#litiinga_ge_006" n="6"/>
-                    <fw type="pageNum">6</fw>
-                    <stage>LA SCENA MOSTRA UNA CITTÀ.</stage>
-                    <p rend="indent">Odoardo entra impaziente di sapere se Brighella è riuscito nel
+          <pb facs="#litiinga_ge_006" n="6"/>
+          <fw type="pageNum">6</fw>
+          <stage>LA SCENA MOSTRA UNA CITT&#xC0;.</stage>
+          <p rend="indent">Odoardo entra impaziente di sapere se Brighella &#xE8; riuscito nel
                         suo inganno. In quel momento arriva</p>
-                    <p rend="indent">Vittoria e gli parla del suo amore. Odoardo le fa capire
-                        chiaramente che non gli piace più. Vittoria rimprovera la sua ingratitudine
+          <p rend="indent">Vittoria e gli parla del suo amore. Odoardo le fa capire
+                        chiaramente che non gli piace pi&#xF9;. Vittoria rimprovera la sua ingratitudine
                         e incostanza, e parte. Nel frattempo, arriva</p>
-                    <p rend="indent">Brighella e racconta cosa è accaduto con Arlecchino e
+          <p rend="indent">Brighella e racconta cosa &#xE8; accaduto con Arlecchino e
                         Pantalone, e si accorda con Odoardo sul nuovo piano per imbrogliare il
-                        vecchio che sarà questo: Odoardo gli racconterà che non tanto tempo fa a
-                        Roma è stata rubata la statua di Giove e i consiglieri della città l’hanno
-                        incaricato di trovarla e riportarla a Roma. Poi dirà al vecchio che è
-                        riuscito in quell’impresa e mentre andrà a portare la buona notizia a Roma,
+                        vecchio che sar&#xE0; questo: Odoardo gli racconter&#xE0; che non tanto tempo fa a
+                        Roma &#xE8; stata rubata la statua di Giove e i consiglieri della citt&#xE0; l&#x2019;hanno
+                        incaricato di trovarla e riportarla a Roma. Poi dir&#xE0; al vecchio che &#xE8;
+                        riuscito in quell&#x2019;impresa e mentre andr&#xE0; a portare la buona notizia a Roma,
                         vuole lasciare la statua in un posto sicuro e si lusinga che il signor
-                        Pantalone, essendo amante delle rarità, gli verrà incontro. Brighella
-                        fingerà di essere la statua, nella speranza che, con l’aiuto della notte,
+                        Pantalone, essendo amante delle rarit&#xE0;, gli verr&#xE0; incontro. Brighella
+                        finger&#xE0; di essere la statua, nella speranza che, con l&#x2019;aiuto della notte,
                         possano rapire Diana. Odoardo pensa che il piano sia buono ed entrambi vanno
                         via per metterlo in pratica.</p>
-                    <p rend="indent">Arlecchino, che ha sentito tutto stando in disparte e ha ben
+          <p rend="indent">Arlecchino, che ha sentito tutto stando in disparte e ha ben
                         capito il piano degli avversari, racconta il tutto a</p>
-                    <p rend="indent">Silvio che intanto è arrivato, si accorda con lui di spacciarsi
+          <p rend="indent">Silvio che intanto &#xE8; arrivato, si accorda con lui di spacciarsi
                         per due consiglieri di Roma, inviati alla ricerca della statua e di rivelare
-                        in quel modo l’inganno a Pantalone. Pensano che questo artificio dovrebbe
-                        sventare l’imbroglio degli avversari. Entrambi vanno via.</p>
-                    <p rend="indent">Pantalone arriva e dice a Diana e Smeraldina che sospetta che
-                        le ragazze siano d’accordo con quei due personaggi che volevano ingannarlo.
-                        Diana si mostra molto offesa, anche Smeraldina lo è, ed entrambe vanno via.
+                        in quel modo l&#x2019;inganno a Pantalone. Pensano che questo artificio dovrebbe
+                        sventare l&#x2019;imbroglio degli avversari. Entrambi vanno via.</p>
+          <p rend="indent">Pantalone arriva e dice a Diana e Smeraldina che sospetta che
+                        le ragazze siano d&#x2019;accordo con quei due personaggi che volevano ingannarlo.
+                        Diana si mostra molto offesa, anche Smeraldina lo &#xE8;, ed entrambe vanno via.
                         Pantalone rimane e fa mille pensieri sulla sua situazione, quando arriva</p>
-                    <p rend="indent">Odoardo, che, agendo secondo gli accordi presi con Brighella,
-                        informa Pantalone di avere con sé la statua che è stata rubata a Roma e
+          <p rend="indent">Odoardo, che, agendo secondo gli accordi presi con Brighella,
+                        informa Pantalone di avere con s&#xE9; la statua che &#xE8; stata rubata a Roma e
                         chiede al vecchio di conservarla fino al suo ritorno da Roma. Gli dice anche
                         che spera di ottenere una ricompensa per la statua e di dividerla, al suo
                         rientro, con Pantalone. Il vecchio si mostra molto <pb facs="#litiinga_ge_007" n="7"/>
                         <fw type="pageNum">7</fw> contento e gli chiede di portare la statua a casa
-                        sua. Odoardo esce; Pantalone si rallegra all’idea dei nuovi benefici che
+                        sua. Odoardo esce; Pantalone si rallegra all&#x2019;idea dei nuovi benefici che
                         pensa di ricavare dalla faccenda della statua.</p>
-                    <stage>LA SCENA MOSTRA UNA CAMERA.</stage>
-                    <p rend="indent">Diana racconta a Smeraldina il grande amore che prova per
+          <stage>LA SCENA MOSTRA UNA CAMERA.</stage>
+          <p rend="indent">Diana racconta a Smeraldina il grande amore che prova per
                         Silvio. Entrambe si lamentano del carattere irascibile del vecchio
                         Pantalone. Sopraggiunge</p>
-                    <p rend="indent">Pantalone, e racconta alle ragazze la faccenda della statua di
-                        Giove. Smeraldina, con le sue chiacchiere, gli dà sui nervi. Nel frattempo,
+          <p rend="indent">Pantalone, e racconta alle ragazze la faccenda della statua di
+                        Giove. Smeraldina, con le sue chiacchiere, gli d&#xE0; sui nervi. Nel frattempo,
                         bussano alla porta e Pantalone ordina alle ragazze di rientrare in casa,
                         cosa che fanno controvoglia.</p>
-                    <p rend="indent">Odoardo entra e fa portare</p>
-                    <p rend="indent">Brighella, che finge di essere la statua di Giove. Odoardo
+          <p rend="indent">Odoardo entra e fa portare</p>
+          <p rend="indent">Brighella, che finge di essere la statua di Giove. Odoardo
                         saluta Pantalone e parte. Pantalone si meraviglia della bellezza della
                         statua. In quel momento entrano</p>
-                    <p rend="indent">Silvio e</p>
-                    <p rend="indent">Arlecchino, vestiti da signori consiglieri, e dicono a
+          <p rend="indent">Silvio e</p>
+          <p rend="indent">Arlecchino, vestiti da signori consiglieri, e dicono a
                         Pantalone di aver sentito che egli tiene a casa sua la statua di Giove
                         rubata da Roma e di essere venuti per esaminarla. Scoprono che la statua non
                         corrisponde al modello che hanno con loro. Alla fine, Arlecchino rivela al
-                        vecchio l’inganno di Brighella e tutti lo cacciano via dalla casa.</p>
-                    <p rend="indent">Fine dell’atto primo.</p>
-                </div>
-                <div type="act" n="2">
-                    <head>ATTO SECONDO.</head>
-                    <stage>LA SCENA MOSTRA UNA CITTÀ.</stage>
-                    <p rend="indent">Pantalone racconta al</p>
-                    <p rend="indent">Dottore di essere diventato oggetto delle birbonate per colpa
-                        di sua figlia. Non ha la pazienza di sopportarle neanche un giorno in più e
+                        vecchio l&#x2019;inganno di Brighella e tutti lo cacciano via dalla casa.</p>
+          <p rend="indent">Fine dell&#x2019;atto primo.</p>
+        </div>
+        <div type="act" n="2">
+          <head>ATTO SECONDO.</head>
+          <stage>LA SCENA MOSTRA UNA CITT&#xC0;.</stage>
+          <p rend="indent">Pantalone racconta al</p>
+          <p rend="indent">Dottore di essere diventato oggetto delle birbonate per colpa
+                        di sua figlia. Non ha la pazienza di sopportarle neanche un giorno in pi&#xF9; e
                         si vede costretto a svendere i suoi averi e lasciare la sua patria. Il
-                        Dottore gli consiglia di allontanare sua figlia dalla città, essendo lei
-                        l’unica fonte dei suoi disagi, e gli offre anche la sua tenuta in campagna,
-                        dove Diana potrà stare con la figlia del Dottore Vittoria. E se i
+                        Dottore gli consiglia di allontanare sua figlia dalla citt&#xE0;, essendo lei
+                        l&#x2019;unica fonte dei suoi disagi, e gli offre anche la sua tenuta in campagna,
+                        dove Diana potr&#xE0; stare con la figlia del Dottore Vittoria. E se i
                         corteggiatori verranno a sapere dove si trovano le ragazze, <pb facs="#litiinga_ge_008" n="8"/>
                         <fw type="pageNum">8</fw> i contadini li cacceranno a bastonate. A Pantalone
-                        piace il consiglio dell’amico, a cui è molto riconoscente, ed entrambi vanno
+                        piace il consiglio dell&#x2019;amico, a cui &#xE8; molto riconoscente, ed entrambi vanno
                         a cercare una barca.</p>
-                    <p rend="indent">Odoardo e</p>
-                    <p rend="indent">Brighella, che hanno sentito tutto, decidono di aggredirli per
-                        strada e di rapire la figlia di Pantalone e la sua cameriera. Brighella però
+          <p rend="indent">Odoardo e</p>
+          <p rend="indent">Brighella, che hanno sentito tutto, decidono di aggredirli per
+                        strada e di rapire la figlia di Pantalone e la sua cameriera. Brighella per&#xF2;
                         pensa che sia meglio che lui si travesta da gondoliere e arrivi con la
-                        gondola sotto casa di Pantalone. Il vecchio, che non sospetterà nulla, si
-                        metterà nella gondola e Odoardo potrà remare in un’altra barca dietro di
+                        gondola sotto casa di Pantalone. Il vecchio, che non sospetter&#xE0; nulla, si
+                        metter&#xE0; nella gondola e Odoardo potr&#xE0; remare in un&#x2019;altra barca dietro di
                         loro e cercare un momento opportuno per il rapimento. Odoardo approva il
                         piano ed entrambi vanno a prepararsi per il raggiro.</p>
-                    <p rend="indent">Vittoria, che ha sentito tutto, è sull’orlo della disperazione
+          <p rend="indent">Vittoria, che ha sentito tutto, &#xE8; sull&#x2019;orlo della disperazione
                         per il tranello che sta preparando il suo amante e si lamenta del destino a
                         lei avverso. In quel momento arriva Silvio che, vedendola piangere, le offre
                         il suo sostegno. Vittoria gli racconta tutto quello che aveva intrasentito.
-                        Silvio, tutto d’un tratto, parte e Diana, vedendosi abbandonata da tutto il
+                        Silvio, tutto d&#x2019;un tratto, parte e Diana, vedendosi abbandonata da tutto il
                         mondo, entra in casa.</p>
-                    <p rend="indent">Pantalone entra e dice al Dottore che ha prenotato una gondola,
+          <p rend="indent">Pantalone entra e dice al Dottore che ha prenotato una gondola,
                         ed entrambi vanno a casa per prepararsi al viaggio.</p>
-                    <p rend="indent">Brighella arriva dal canale vogando, scende dalla gondola e
+          <p rend="indent">Brighella arriva dal canale vogando, scende dalla gondola e
                         bussa da</p>
-                    <p rend="indent">Pantalone e gli dice che è tutto pronto per la partenza per
+          <p rend="indent">Pantalone e gli dice che &#xE8; tutto pronto per la partenza per
                         dove desidera. Pantalone vuole sapere quanto deve pagare. Brighella finge di
-                        non essere interessato al denaro, fa però pressione per partire al più
-                        presto perché teme che possa succedere qualcosa. Nel frattempo,
+                        non essere interessato al denaro, fa per&#xF2; pressione per partire al pi&#xF9;
+                        presto perch&#xE9; teme che possa succedere qualcosa. Nel frattempo,
                         sopraggiunge</p>
-                    <p rend="indent">Arlecchino, vestito anche lui da gondoliere, e dice a Pantalone
+          <p rend="indent">Arlecchino, vestito anche lui da gondoliere, e dice a Pantalone
                         di essere quello che il vecchio ha assunto per il viaggio. Brighella si
-                        oppone, dice di essere arrivato prima e Pantalone è d’accordo. Entrambi
+                        oppone, dice di essere arrivato prima e Pantalone &#xE8; d&#x2019;accordo. Entrambi
                         fanno molto rumore e, dopo qualche lazzo, Arlecchino rivela a Pantalone
-                        l’intrigo di Brighella. A questo punto Brighella e Arlecchino vengono alle
-                        mani nello stile dei barcaioli veneziani e, bastonandosi l’un l’altro,
+                        l&#x2019;intrigo di Brighella. A questo punto Brighella e Arlecchino vengono alle
+                        mani nello stile dei barcaioli veneziani e, bastonandosi l&#x2019;un l&#x2019;altro,
                         lasciano il palcoscenico.</p>
-                    <stage>LA SCENA MOSTRA UNA CITTÀ.</stage>
-                    <p rend="indent">Il Dottore esce dalla casa con sua figlia Vittoria, alla quale
+          <stage>LA SCENA MOSTRA UNA CITT&#xC0;.</stage>
+          <p rend="indent">Il Dottore esce dalla casa con sua figlia Vittoria, alla quale
                         ordina di andare da Pantalone e con lui partire per la campagna. Mentre
                         bussano, esce</p>
-                    <p rend="indent">Pantalone che racconta cosa gli è accaduto con i due finti
-                        gondolieri. Vittoria sostiene che Diana è a conoscenza di ciò che è successo
+          <p rend="indent">Pantalone che racconta cosa gli &#xE8; accaduto con i due finti
+                        gondolieri. Vittoria sostiene che Diana &#xE8; a conoscenza di ci&#xF2; che &#xE8; successo
                         Intanto sopraggiunge </p>
-                    <p rend="indent">Diana con <pb facs="#litiinga_ge_009" n="9"/>
+          <p rend="indent">Diana con <pb facs="#litiinga_ge_009" n="9"/>
                         <fw type="pageNum">9</fw> Smeraldina per congedarsi da Vittoria. Entrambe si
                         salutano malamente e i vecchi portano ognuno la propria figlia a casa.</p>
-                    <p rend="indent">Odoardo e</p>
-                    <p rend="indent">Brighella entrano e si mostrano delusi perché il loro inganno
-                        non è andato in porto. Pensano e ripensano e non riescono a capire quale
+          <p rend="indent">Odoardo e</p>
+          <p rend="indent">Brighella entrano e si mostrano delusi perch&#xE9; il loro inganno
+                        non &#xE8; andato in porto. Pensano e ripensano e non riescono a capire quale
                         risoluzione hanno preso Silvio e Arlecchino per arrivare al loro obiettivo.
                         Appena li vedono arrivare, si nascondono.</p>
-                    <p rend="indent">Silvio incita</p>
-                    <p rend="indent">Arlecchino a non scoraggiarsi, ma a riflettere per bene su come
-                        possano realizzare il loro proposito nel modo migliore. Arlecchino è
-                        d’accordo, ma non sa cosa possono fare ancora. Silvio dice di aver sentito
-                        che Pantalone sta aspettando la statua di un satiro e Arlecchino può
+          <p rend="indent">Silvio incita</p>
+          <p rend="indent">Arlecchino a non scoraggiarsi, ma a riflettere per bene su come
+                        possano realizzare il loro proposito nel modo migliore. Arlecchino &#xE8;
+                        d&#x2019;accordo, ma non sa cosa possono fare ancora. Silvio dice di aver sentito
+                        che Pantalone sta aspettando la statua di un satiro e Arlecchino pu&#xF2;
                         camuffarsi come una tale statua, entrare in casa del vecchio e decidere con
                         Diana cosa fare. Dopo qualche scherzo scenico, Arlecchino si decide, ed
                         entrambi partono per prepararsi al raggiro.</p>
-                    <p rend="indent">Brighella, che ha sentito tutto, dice che li vuole spaventare a
+          <p rend="indent">Brighella, che ha sentito tutto, dice che li vuole spaventare a
                         morte.</p>
-                    <stage>LA SCENA MOSTRA UNA CAMERA.</stage>
-                    <p rend="indent">Pantalone intima a Smeraldina di rivelargli chi è l’amante
+          <stage>LA SCENA MOSTRA UNA CAMERA.</stage>
+          <p rend="indent">Pantalone intima a Smeraldina di rivelargli chi &#xE8; l&#x2019;amante
                         della figlia. Smeraldina evita la risposta ed entra.</p>
-                    <p rend="indent">Un servitore dice a Pantalone che il satiro che sta aspettando
-                        è arrivato. Pantalone ne è molto contento e ordina di portarglielo. Il
+          <p rend="indent">Un servitore dice a Pantalone che il satiro che sta aspettando
+                        &#xE8; arrivato. Pantalone ne &#xE8; molto contento e ordina di portarglielo. Il
                         servitore va via e torna con</p>
-                    <p rend="indent">Arlecchino travestito da satiro. Pantalone vede Smeraldina
+          <p rend="indent">Arlecchino travestito da satiro. Pantalone vede Smeraldina
                         andare via e, dopo qualche scherzo, va via anche il servitore. Pantalone
                         rimane, quando tra vari lazzi, appare</p>
-                    <p rend="indent">Brighella travestito da spirito e incute timore ad Arlecchino.
+          <p rend="indent">Brighella travestito da spirito e incute timore ad Arlecchino.
                         Tutti corrono via dalla scena e con questa immagine si conclude il secondo
                         atto.</p>
-                </div>
-                <div type="act" n="3">
-                    <head>ATTO TERZO.</head>
-                    <stage>LA SCENA MOSTRA UN CAMPO.</stage>
-                    <p rend="indent">Brighella, con una scala sulla schiena e con</p>
-                    <p rend="indent">Arlecchino legato con una fune, dice che per vendicarsi di
+        </div>
+        <div type="act" n="3">
+          <head>ATTO TERZO.</head>
+          <stage>LA SCENA MOSTRA UN CAMPO.</stage>
+          <p rend="indent">Brighella, con una scala sulla schiena e con</p>
+          <p rend="indent">Arlecchino legato con una fune, dice che per vendicarsi di
                         Arlecchino, che ha rivelato il suo inganno, lo vuole impiccare. Arlecchino
                             <pb facs="#litiinga_ge_010" n="10"/>
-                        <fw type="pageNum">10</fw> invoca pietà, ma Brighella è irremovibile, lo
+                        <fw type="pageNum">10</fw> invoca piet&#xE0;, ma Brighella &#xE8; irremovibile, lo
                         porta a un albero, gli mette la fune attorno al collo e quando sta per
                         impiccarlo appare un mago che gli ordina di abbandonare il suo proposito.
                         Brighella lo deride e, dopo qualche lazzo, il mago fa apparire due spiriti,
                         uno dei quali porta in aria la scala. Brighella si spaventa e corre via.
-                        Arlecchino trema dalla paura, il mago però lo placa, lo mette sul cavallo e
-                        lo fa portare dall’altro spirito nell’aria.</p>
-                    <p rend="indent">Pantalone chiede perdono al</p>
-                    <p rend="indent">Dottore per il comportamento scortese della figlia, gli chiede
+                        Arlecchino trema dalla paura, il mago per&#xF2; lo placa, lo mette sul cavallo e
+                        lo fa portare dall&#x2019;altro spirito nell&#x2019;aria.</p>
+          <p rend="indent">Pantalone chiede perdono al</p>
+          <p rend="indent">Dottore per il comportamento scortese della figlia, gli chiede
                         di dimenticare tutto e lo invita a cenare da lui con Vittoria. Il Dottore
                         prima si oppone, adducendo qualche pretesto, poi acconsente e chiama</p>
-                    <p rend="indent">Vittoria a cui racconta di aver fatto pace con Pantalone e di
+          <p rend="indent">Vittoria a cui racconta di aver fatto pace con Pantalone e di
                         essere stato invitato a cena con lei. Vittoria, che si sente ancora offesa
                         per quello che le ha fatto Diana, declina. Il Dottore glielo ordina
                         seriamente, mentre Pantalone le chiede di mostrargli un segno di amicizia e
-                        le promette di far sì che Diana le chieda perdono. Vittoria si calma e
+                        le promette di far s&#xEC; che Diana le chieda perdono. Vittoria si calma e
                         Pantalone chiama</p>
-                    <p rend="indent">Diana e</p>
-                    <p rend="indent">Smeraldina, che su ordine di Pantalone chiedono scusa a
-                        Vittoria per l’offesa inflitta. Dietro esortazione di Pantalone e del
+          <p rend="indent">Diana e</p>
+          <p rend="indent">Smeraldina, che su ordine di Pantalone chiedono scusa a
+                        Vittoria per l&#x2019;offesa inflitta. Dietro esortazione di Pantalone e del
                         Dottore le ragazze fanno di nuovo amicizia ed entrano in casa di Pantalone.
                         I vecchi sono davvero contenti di aver ristabilito la pace e rimangono
                         fuori. </p>
-                    <p rend="indent">Brighella, che si è travestito da asinaio, entra e chiede ai
+          <p rend="indent">Brighella, che si &#xE8; travestito da asinaio, entra e chiede ai
                         vecchi se conoscono uno che si chiama Silvio. Costui ha affittato due
                         carrozze per rapire due ragazze. Pantalone sospetta un tranello e gli chiede
                         come si chiamano le ragazze. Dopo qualche resistenza, Brighella dice i nomi.
                         Pantalone si accorge subito che si tratta di sua figlia e della cameriera,
                         si comporta come se volesse dire un segreto a Brighella e gli ordina di
-                        tornare tra due ore, in modo che troverà tutto pronto. Brighella si rallegra
+                        tornare tra due ore, in modo che trover&#xE0; tutto pronto. Brighella si rallegra
                         per il buon esisto del suo inganno e va via. Pantalone spiega al Dottore che
                         vuole comportarsi come come se non sapesse nulla, per cogliere Diana e
                         Smeraldina in flagrante. Il Dottore gli ricorda che la notte si avvicina, ed
                         entrambi entrano in casa di Pantalone.</p>
-                    <stage>LA SCENA MOSTRA LA NOTTE.</stage>
-                    <p rend="indent">Arlecchino racconta a</p>
-                    <p rend="indent">Silvio cosa gli è successo con Brighella al ritorno da Mestre,
+          <stage>LA SCENA MOSTRA LA NOTTE.</stage>
+          <p rend="indent">Arlecchino racconta a</p>
+          <p rend="indent">Silvio cosa gli &#xE8; successo con Brighella al ritorno da Mestre,
                         dove ha affittato su suo ordine due carrozze che devono portarli a Trieste.
-                        Silvio elogia la sua lealtà e promette una ricompensa; pensa che stavolta
-                        Brighella non dovrebbe intromettersi e sarà invece lui, Silvio, a
+                        Silvio elogia la sua lealt&#xE0; e promette una ricompensa; pensa che stavolta
+                        Brighella non dovrebbe intromettersi e sar&#xE0; invece lui, Silvio, a
                         imbrogliare <pb facs="#litiinga_ge_011" n="11"/>
                         <fw type="pageNum">11</fw> Odoardo, poi fa un segno che ha in precedenza
                         concordato con Diana.</p>
-                    <p rend="indent">Diana entra con</p>
-                    <p rend="indent">Smeraldina che porta una cassetta con le gioie sotto al
+          <p rend="indent">Diana entra con</p>
+          <p rend="indent">Smeraldina che porta una cassetta con le gioie sotto al
                         braccio. Dopo qualche complimento, vogliono partire. </p>
-                    <p rend="indent">Brighella, travestito da asinaio, però finge di essere
-                        arrabbiato che sono in ritardo perché è venuto apposta da Mestre con una
-                        gondola per portarli là, e tutte e due le carrozze sono già pronte. Silvio
+          <p rend="indent">Brighella, travestito da asinaio, per&#xF2; finge di essere
+                        arrabbiato che sono in ritardo perch&#xE9; &#xE8; venuto apposta da Mestre con una
+                        gondola per portarli l&#xE0;, e tutte e due le carrozze sono gi&#xE0; pronte. Silvio
                         lo placca con la promessa di una degna ricompensa, lo ringrazia per la sua
                         premura e quando vogliono partire arrivano </p>
-                    <p rend="indent">i vecchi con le torce in mano. Per primo se ne accorge
+          <p rend="indent">i vecchi con le torce in mano. Per primo se ne accorge
                         Arlecchino e vuole scappare con Silvio. Brighella lo trattiene e dice di
                         aver scoperto il loro piano.</p>
-                    <p rend="indent">Silvio, irato, vuole picchiarlo, ma Brighella scappa.
+          <p rend="indent">Silvio, irato, vuole picchiarlo, ma Brighella scappa.
                         Arlecchino e Silvio lo inseguono. Pantalone rimprovera alla figlia e
-                        Smeraldina la loro indiscreta condotta e vuole picchiarle. Il Dottore però
+                        Smeraldina la loro indiscreta condotta e vuole picchiarle. Il Dottore per&#xF2;
                         interviene e lo trattiene, chiede di non permettere che quanto accaduto gli
                         rovini la cena. Dopo varie chiacchierate di Smeraldina, entrano tutti in
                         casa di Pantalone.</p>
-                    <p rend="indent">Silvio, entra, è arrabbiato con Brighella e incita Arlecchino
+          <p rend="indent">Silvio, entra, &#xE8; arrabbiato con Brighella e incita Arlecchino
                         alla vendetta. Appena si accorgono che stanno arrivando Odoardo e Brighella,
                         si mettono in disparte e ascoltano cosa dicono gli avversari.</p>
-                    <p rend="indent">Brighella racconta a</p>
-                    <p rend="indent">Odoardo un’altra sua trovata che crede potrà riuscirgli. Dice
+          <p rend="indent">Brighella racconta a</p>
+          <p rend="indent">Odoardo un&#x2019;altra sua trovata che crede potr&#xE0; riuscirgli. Dice
                         che vuole fingere di essere aggredito da qualcuno nella calle, e quando
-                        Pantalone verrà in suo aiuto e lo porterà dentro casa, allora potrà aprire
+                        Pantalone verr&#xE0; in suo aiuto e lo porter&#xE0; dentro casa, allora potr&#xE0; aprire
                         le porte a Odoardo e organizzare il rapimento di Diana e Smeraldina. Odoardo
                         trova il piano buono. Silvio e Arlecchino, che hanno intrasentito tutto,
-                        dicono che si approfitteranno di quell’occasione. Brighella e Odoardo
+                        dicono che si approfitteranno di quell&#x2019;occasione. Brighella e Odoardo
                         cominciano a fare rumore con le loro spade e Brighella urla: sono morto.
                         Alle loro urla</p>
-                    <p rend="indent">Pantalone si affaccia alla finestra e Brighella finge di stare
+          <p rend="indent">Pantalone si affaccia alla finestra e Brighella finge di stare
                         per morire. Pantalone lo consola, gli promette il suo aiuto e si precipita a
                         soccorrerlo. Brighella si rallegra che la sua birbonata gli sta riuscendo e
                         ragiona con Odoardo sul da farsi. Intanto arrivano</p>
-                    <p rend="indent">i vecchi con le torce e vogliono aiutare Brighella. Per portare
+          <p rend="indent">i vecchi con le torce e vogliono aiutare Brighella. Per portare
                         a termine lo scherzo, Arlecchino e Silvio entrano in casa di Pantalone e
                         chiudono le porte. Accadono scherzi divertenti tra i vecchi e il finto
                         ferito. Alla fine, Pantalone lo invita e lo accompagna a casa sua, ma trova
                         la porta chiusa. Il vecchio bussa e <pb facs="#litiinga_ge_012" n="12"/>
-                        <fw type="pageNum">12</fw> Arlecchino chiede dalla finestra, chi è. I vecchi
-                        sono sorpresi, mentre Brighella e Odoardo si disperano per l’accaduto.
+                        <fw type="pageNum">12</fw> Arlecchino chiede dalla finestra, chi &#xE8;. I vecchi
+                        sono sorpresi, mentre Brighella e Odoardo si disperano per l&#x2019;accaduto.
                         Pantalone chiede ad Arlecchino, cosa fa in casa sua? Lo zanni risponde che
-                        si trova là con il suo padrone, la fidanzata di lui nonché con la sua.
+                        si trova l&#xE0; con il suo padrone, la fidanzata di lui nonch&#xE9; con la sua.
                         Pantalone chiede ad Arlecchino di spiegarsi meglio e Arlecchino gli rivela
-                        che Silvio si è sposato con Diana e lui, Arlecchino, con Smeraldina, contro
+                        che Silvio si &#xE8; sposato con Diana e lui, Arlecchino, con Smeraldina, contro
                         tutti gli stratagemmi di Brighella, e gli rivela anche che i feriti sono
                         finti. Brighella e Odoardo, che sono spiazzati dallo scherzo giocatoli da
                         Arlecchino, non sanno cosa dire. Pantalone gli chiede chi ha celebrato i
                         matrimoni. Lo zanni risponde che li ha combinati Brighella. Brighella si
-                        dispera perché Arlecchino lo schernisce. Seguono alcuni divertenti
+                        dispera perch&#xE9; Arlecchino lo schernisce. Seguono alcuni divertenti
                         conversazioni sulla scommessa e su chi ha perso. </p>
-                    <p rend="indent">Alla fine, Pantalone chiede ad Arlecchino di lasciarlo almeno
+          <p rend="indent">Alla fine, Pantalone chiede ad Arlecchino di lasciarlo almeno
                         entrare a casa sua. Lo zanni risponde che deve prima chiedere il permesso
                         del suo padrone. Tutti si disperano quando arriva</p>
-                    <p rend="indent">Silvio portando per mano la sua adorata Diana.</p>
-                    <p rend="indent">Arlecchino fa lo stesso con</p>
-                    <p rend="indent">Smeraldina e Vittoria. Pantalone si lamenta con Silvio per le
-                        sue imprese, ma costui gli risponde che il vero colpevole è Brighella,
+          <p rend="indent">Silvio portando per mano la sua adorata Diana.</p>
+          <p rend="indent">Arlecchino fa lo stesso con</p>
+          <p rend="indent">Smeraldina e Vittoria. Pantalone si lamenta con Silvio per le
+                        sue imprese, ma costui gli risponde che il vero colpevole &#xE8; Brighella,
                         attraverso la sua scommessa con Arlecchino e la cui perdita ha causato
-                        quello che è successo. Si conferma il matrimonio di Silvio e Diana. Odoardo
+                        quello che &#xE8; successo. Si conferma il matrimonio di Silvio e Diana. Odoardo
                         si scusa con Vittoria per la sua incostanza e le porge la mano. Arlecchino
                         si fidanza con Smeraldina e con questo triplo matrimonio</p>
-                    <p rend="indent">si conclude la commedia.</p>
-                </div>
-            </body>
-        </text>
-    </TEI>
+          <p rend="indent">si conclude la commedia.</p>
+        </div>
+      </body>
+    </text>
+  </TEI>
 </teiCorpus>
