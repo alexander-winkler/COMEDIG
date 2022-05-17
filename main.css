@@ -45,7 +45,7 @@ body {
 
 .bg-image {
   background-image: url('./collage.jpg');
-  /*height: 160px;*/
+  height: 320px;
 }
 
 .address {
