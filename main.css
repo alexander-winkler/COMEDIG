@@ -1,3 +1,7 @@
+body {
+  font-size: 120%;
+}
+
 .contentTEI {
   height: 500px;
   overflow: scroll;
@@ -8,6 +12,10 @@
   border: 1px solid grey;
   border-radius: 5px;
   padding: 0.3em;
+}
+
+td .bib_name {
+  padding-right: 20px;
 }
 
 .bib_name{
@@ -35,4 +43,13 @@
 
 #toc_container li, #toc_container ul, #toc_container ul li {
   list-style: outside none none !important;
+}
+
+.bg-image {
+  background-image: url('./collage.jpg');
+  /*height: 160px;*/
+}
+
+.address {
+  margin-left: 20px;
 }

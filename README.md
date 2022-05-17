@@ -8,5 +8,6 @@ The online presentation is very basic and still under construction.
 
 # TODO
 
-- add image files
-- optimize presentation of parallel text (currently texts aren't well aligned)
+- the Viewer is still far from perfect. The Ceteicean framework has either to be adapted to the needs of the project or – maybe better – another framework has to be used (vercelli viewer?)
+- add contact form to facitate interaction with research community
+- add downloadable text-pdfs

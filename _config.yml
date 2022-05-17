@@ -1,5 +1,5 @@
 title: COMEDIG
-email: vedph@unive.it
+email: korneeva.t@gmail.com
 baseurl: ""
 
 markdown: kramdown
@@ -9,3 +9,5 @@ languages:
   it: Italiano
   de: Tedesco
   ru: Russo
+
+repository: alexander-winkler/comedig
