@@ -115,7 +115,7 @@ const Comedig = {
       const facsimileResult = this.runXPath(xmlDoc, ".//tei:facsimile//tei:graphic", a);
       const facsimile = { language, images: [] };
       for (let i = facsimileResult.iterateNext(); i; i = facsimileResult.iterateNext()) {
-        facsimile.images.push("/comedig" + i.getAttribute("url"));
+        facsimile.images.push(i.getAttribute("url"));
       }
       work.facsimiles.push(facsimile);
     }
