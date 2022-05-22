@@ -264,7 +264,7 @@ const Comedig = {
 
     const showBody = (value, body, bodyPagination)  => {
       const elmPagination = document.getElementById(bodyPagination);
-      elmPagination.setAttribute("hidden", "true");
+      /*elmPagination.setAttribute("hidden", "true");*/
 
       const elm = document.getElementById(body);
       while (elm.firstChild) elm.firstChild.remove();
@@ -280,6 +280,7 @@ const Comedig = {
       }
 
       if (value.startsWith("facsimile-")) {
+        elmPagination.setAttribute("hidden", "true");
         const div = document.createElement("div");
         div.setAttribute("id", "openseadragon");
         div.setAttribute("style", "height: 600px;");
@@ -527,7 +528,7 @@ SELECT ?name ?seeAlso WHERE {
       elmPagination.getElementsByClassName("paginationNextButton")[0].removeAttribute("disabled");
     }
 
-    elmPagination.getElementsByClassName("pageCount")[0].innerText = `Pagina ${page + 1} su ${pbs.length}`;
+    elmPagination.getElementsByClassName("pageCount")[0].innerText = `Pagina ${page + 1} di ${pbs.length}`;
     pbs[page].scrollIntoView();
   }
 };
