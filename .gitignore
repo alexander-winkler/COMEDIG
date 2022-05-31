@@ -5,3 +5,5 @@ _site
 vendor
 
 setup_ruby.txt
+
+ocr/
